@@ -27,7 +27,7 @@
       "id": "curated/meta-hyperion-la",
       "name": "Meta Hyperion (Richland Parish)",
       "operator": "Meta",
-      "lat": 32.430,
+      "lat": 32.43,
       "lng": -91.668,
       "city": "Holly Ridge",
       "state": "LA",
@@ -124,6 +124,366 @@
       "website": "https://datacenters.atmeta.com/",
       "sources": [
         "https://www.datacenterdynamics.com/en/news/meta-prometheus-hyperion-ai-superclusters/"
+      ]
+    },
+    {
+      "id": "curated/news/rapides-parish-la-1",
+      "name": "Proposed AI campus — Rapides Parish",
+      "operator": null,
+      "lat": 31.17199,
+      "lng": -92.55264,
+      "city": "Rapides Parish",
+      "state": "LA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A ~$3.6B AI data center campus proposed in Rapides Parish, Louisiana — early-stage, reported by local press; developer/tenant not yet confirmed.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/el-paso-tx-2",
+      "name": "Proposed Fort Bliss data center",
+      "operator": null,
+      "lat": 32.24638,
+      "lng": -106.37426,
+      "city": "El Paso",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A large data center proposed near Fort Bliss, El Paso — reportedly could draw more power than the entire city. Early-stage proposal.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFpkbTcxb3FxcFozQUtDV0NJVGZCdnBaUkxQWFdkenhRSmNrZVY1SllqcEZoQklOY3NSU3dTYVZhVTQwZXdjNXozWU1rb3RZZ2NjdzNuc2tHc3AwSzlMWXhCZ0JnSXNXYl9EaUxZaEM1dUZvbXFSN2xDSDZEbUZ5d0JkZzVwdE9lN0U4aGNGNmFKT2V5czRRRFcwNVNCbmFpTGNjeHBDdVFRZ3Eta2VNcHB1RWNReTM2bDF1anpSQQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/casper-wy-3",
+      "name": "Proposed data center — near Casper",
+      "operator": null,
+      "lat": 42.85012,
+      "lng": -106.32514,
+      "city": "Casper",
+      "state": "WY",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A large data center proposed near Casper, Wyoming. Early-stage, surfaced via local reporting.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOak1pSE16Qlc4aFJCZkhrN0o4dUV0czRDTnVpRG5HRUxwWWc3SmF4cEdKZmM5RVppY3J5N3lLakdNUTJIc0tJVnlSRVdvT2ZlLU5mVnRQdFlTTHpZZUVYeG5FbS11VFhtcHowWnpKUVF1dHc5WmMtd2VtQ1JuUWJRQzc4cHIyY3RiSzZFWDlyZUQzVXl3?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/socorro-nm-4",
+      "name": "Proposed data center — Socorro",
+      "operator": null,
+      "lat": 34.05729,
+      "lng": -106.89308,
+      "city": "Socorro",
+      "state": "NM",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center near Socorro, New Mexico, drawing local opposition at town-hall meetings. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxONm9HWThZeGtEcGpDdHZ4ZlRDcDF1RlJCNDRlRnVLeVAxR3djYkpLaWlmOGJJQThrb2J1bDVhN2FrWEcxdGY4MUZrQlpxTE04VV9tS3ZPTl85VG9YdkJVTDZ3bjVnSklabG44UVdZWlF3NHExNWhNTWxneDFpS1VhQlpQT3FER0l5a1dvQUxzMmltZjlGVHluNmlfaDdwLS1sT0gwVQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/broadview-mt-6",
+      "name": "Proposed AI data center — Broadview",
+      "operator": null,
+      "lat": 46.09773,
+      "lng": -108.8771,
+      "city": "Broadview",
+      "state": "MT",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center near Broadview, Montana that would use on-site natural gas for power. Early-stage proposal.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcG5SaFhtWmZ3WjZ1Y0RIeE5GNUk2OFVqc0pXYWp0ZjBYSHFMbXVxbHZwSVF5X01sRF9zQXVvWnA4d292bG9YVUVaMS11d2N6UHFmU1FvYVdsOUNKa1NJOWJhb0hfZmpNbGhPbmxEWjdUZXVDZThsODFYV0FvbWpuSUlZMzF0VmQ1dl91OVVPWEEzZUVwY2ZKLWVGcXFyME10aklxb2J3N2ZGdHd6RU93TlhPekdpQQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/tonawanda-ny-8",
+      "name": "Proposed $2B AI data center — Tonawanda",
+      "operator": null,
+      "lat": 42.98085,
+      "lng": -78.86522,
+      "city": "Tonawanda",
+      "state": "NY",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A ~$2B AI data center proposed on a former industrial site in the Town of Tonawanda, NY. Early-stage; raising local questions.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeFRlNXRIeENYQUk0czFKOWwxcGlkSGZQdTNsSi1XZFVEbllzcURpSjhILWVZazdyUkQ1V0oxQUJSV1FaWF85QlJLLWtMUGxabXJUN0x5ekdOdjI2SWdwdVpaSzRaTGdCVzVFemVZeXBySDBFM3o0UHZzSlY0QVc3cFNVanBIZXc1azVoQXlYSUxwenVSZUNuYlpmWWM3YUtJZ0xZbm1LS1F0RzkxTGtaMmtBVk1QX0pCdWVTZFJ4NU9VNlNS?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/desoto-county-ms-9",
+      "name": "Proposed data center complex — DeSoto County",
+      "operator": null,
+      "lat": 34.87029,
+      "lng": -89.97787,
+      "city": "DeSoto County",
+      "state": "MS",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A massive data center complex pushed by developers in DeSoto County, Mississippi, amid community backlash. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSWZuWk5MaklCSXJ5cFRENGtYN1JWSmtHclRhRTA0TEZnczBUb3lGalFoS3dxSjgzYXlFMUlUTmxTTWFoZmhMUUMzZVJyNEdWcllKdjhycllDWmw2VUUyZkRkdDBLVzhyVzBtT0t6V1RrdHg1X0hWVHQzVFpPZW5feGpjUWlxYjNZTGVWNVJVeVVXbm1fSGVkcmZ5aTBEUEpDYXdhd0F3bzZJY0VDLXJz0gHDAUFVX3lxTE44OHRJTzgtdWJyZlhrdWlnd2xVM1pXSjFidU95aFBRS2JudWVrVXk2UER2LWlhNU5XbHFhTWplNGNIZDhkajU2RERGeXgzUEJpOXd0SXExVTlFM2R2dU1sc3YxZlMtcm9vT0dkWnFubS1HSm81VHJsSXFUVmFZQktHb29sTk5pLU83WFc4aHU2SXB0am8zMUhaa1doTXpUV25NMTdXUTVRRnA1NF9sWmVfaVZKdnJLdUpndng2YjBjRDExaw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/upper-merion-pa-10",
+      "name": "Proposed data center campus — Upper Merion",
+      "operator": null,
+      "lat": 40.08602,
+      "lng": -75.3662,
+      "city": "Upper Merion",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center campus in Upper Merion Township, PA that has drawn packed, divided public meetings. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY21yV2NDWUZtQlozSUhpRWswVHprQUptbGJmRTI0YWFxQlpoYnZuTWJPZ0dHNnREdmd4WUpoV0RkV1RucFQ1dzhzWG9IWmJ0aWp2S1NBN2pxemd4V055QUhXVXFYRi14OWZPQ0RIbWhDQjloaTNsaHhnYjJzU0dfZTFOMDNHX0kwYzhCVzlYcHRoelpvdnhVclhLX1dIcFNsY0RXQ1lzVFVOdGx0TGVxZzBiQWTSAboBQVVfeXFMTUstSEg0V2lYN1pqNHFreHhjaGh3M294dVlJWTF5MFBfNXU1R25Gd3RvNk5jOC0weHRnVGl3UmlZY3F1dDhEcmNEZE5CZncyRlFZTERSOXNXN1cwSjhGX0JqdTREYlI3WVFHdFJhR2xPTXJOR2VmOUNPYTFVT3RLOERfeHN6VWRkcFJpeDQyUGh2VlRwTWNKMFpmczZLRlczM2FEY2Jwem1udk9VeVh5UzhsVk1jNVRQMVhB?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/cleveland-oh-11",
+      "name": "Proposed $1.6B data center — Cleveland",
+      "operator": null,
+      "lat": 41.49966,
+      "lng": -81.69368,
+      "city": "Cleveland",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$1.6B data center planned in Cleveland, Ohio. Early-stage, reported locally; neighbors have raised concerns.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE10b1Z0NEdpOUNHVkVfaDVvNGoyVFNVMnBGc1Fwdko5UGU1ZkZhTUhmTEVfTnVPbzFpSVB6cFNLbFB2LXh5TXc0MDFUWEZTZi02TXZvZ3BkRm9iWXpoaUk2aHR6cy1CSS1Cb1oxSlR1NTZvZDBmTUxWRTNraEM?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/broken-arrow-ok-12",
+      "name": "Proposed data center — Broken Arrow",
+      "operator": null,
+      "lat": 36.0526,
+      "lng": -95.79082,
+      "city": "Broken Arrow",
+      "state": "OK",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center site under early discussion in east Broken Arrow, Oklahoma. Very early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rVUUyckVkSHBLcjUyVzBDdDN6V0ZSLU9uRTZCS1dRY0w4T2IwZ2tlRnVVQ3ZGdnkwaFg4eklRYlAwVlhkdnRlQzg5VHRUTTlkV1FLSUVaT0c3OUdGM0VCM2M1dlRNSkZHTTd1b2tBTEFjMTczb3pV?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/inyokern-ca-14",
+      "name": "Proposed data center — Inyokern",
+      "operator": null,
+      "lat": 35.65205,
+      "lng": -117.81766,
+      "city": "Inyokern",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center near Inyokern, California; reporting centers on its projected water use (12–16M gallons/yr). Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMThmQ3VLS21pWHU0YVpPNnFJdEhHcFlFZVVFOHRjOGZULXZoUnJkNTlGb3U2M05zWDRzYUkzQXYxWTlWYmJOdXBoVGxlaE1uRnRHclRsN3lPSFFWTlVyT0xTQnFTdHhkaGZRMUJCSFRoQjJiLTZabDZXQTZHRGIwMUJwQmRGeHZ1VlBSRTFXYlA0clZuM0FRX09XRS1lZVNIQXQzZV8wdjRZajZxM1FmVU9ia1UtVjBtXzF0ddIBwgFBVV95cUxOanBvUVRZSDJ5RXFuOUFhSlJTUlprRjFrNFpHUFhFTTdMalRUTDZWNHJ4SWFZeDFHZjBUUjMxSnNoQlZ1WTBIRlhPM1RPRDRYR3g4a09ZSGRGQWttTlNSVUZ6dHgzVjdfbmFCWmYwWWlzTmMwaTJVc2hIcG1ENnd4MHNsemhNTW9IWV9QS19OQktjTU12WkpDenBTR19Yb2NHZ1JOdzJNdHhGdjc3cHNNUHc0ZVM1dUk4bEtBT3ZjLVJVQQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/ilion-ny-23",
+      "name": "Planned AI data center — Ilion (Remington site)",
+      "operator": null,
+      "lat": 43.01507,
+      "lng": -75.03543,
+      "city": "Ilion",
+      "state": "NY",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A ~250,000 sq ft AI data center planned for the former Remington Arms site in Ilion, NY. Early-stage redevelopment proposal.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOHhGdXc4OWZ2Q0VlUm1pSGxVQnRnbWpseGRxcTk0ckYwUk90SGJ5bFZuaFJlbGRJODU0NTdNUGJOMGJOOHpkM0lxby02Z3hGRzdseXVOaHRSU0R0dGdmNE44TTlwNXhMSVNYWWdCdGJLRjhGTVR0aE1nWUh5eFRIX2NUSl9hdlFVcmdKM01wY01hbFh1ZzNqcklWbVlCem82dWRIbVBFU19IZGJsWWNHSHVIZkplSllRVUdKcUhxbllrcjVnVUtVVjB0cEZkem5na1hFMVA3c3JoTkpjNHotOVp2VmFqcGdzbnEzTEE3SFdTQQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/colorado-springs-co-29",
+      "name": "Proposed AI data center — Colorado Springs",
+      "operator": null,
+      "lat": 38.83396,
+      "lng": -104.82535,
+      "city": "Colorado Springs",
+      "state": "CO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center in Colorado Springs, Colorado, spurring debate over its merits. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkZ2QWw5eWNrWlRGOGJua1NXN3lodmIwcEZKRUtuQURFbDl0Sk1jTjlLTjdtLUhqVG9oNjBSY1dGQ1dLR2ZJTFNEMndLMXFHb3lMYm9yRUtyZ19pUVBPNDAyWDRXc1lPMG9KNXFYQVdqclk2X3U1bEVnc01FTmNLQ3JkSWlaQVFCeS05bWFQSFVNR3RaV0Y1ZnhVWmd3cWtCdTd3cnE0M195WnNHcVdYVFBaTzQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/allentown-pa-31",
+      "name": "Proposed data center — South Allentown",
+      "operator": null,
+      "lat": 40.60226,
+      "lng": -75.47161,
+      "city": "Allentown",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in south Allentown, Pennsylvania. Early-stage; details still emerging.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclBsMEtWMUxvdmxzZE1hUVVkMGxNdVV5WEFma0RvQmJCbk00Q3JBaHR1bHhhcUd2cjlMSWJSQkZBNmdoOW54amhNNmkyeDlKYUJvQjR6dHVPU1NhZHBxNVNkOElDMDBoVVZBeFp4MXJtdG96ZDZwSGlGZEZRRTBZVGFaQk4?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/chatham-va-35",
+      "name": "Planned data center — Pittsylvania County",
+      "operator": null,
+      "lat": 36.81217,
+      "lng": -79.43641,
+      "city": "Chatham",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A massive data center planned in Pittsylvania County, Virginia, with new details emerging. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1LT0RETDkxSDAtaDItZ3lzNUhPZlhueG92dGpwUVluZ3daSGkzZ0Z5Q3VfQlViX25qZUZRbTgyMGYxV2xnQXVkeURXZThwdFo4V05VcVhuUFV3VjBoU1E2ak1CaTR6SDF2WFMtNGE2MEl3SWEtaVVYd0lrOHAySVhrNjFRUDVsUGgtSHJQRmc5Z0VsU0duNdIBrAFBVV95cUxNX2ZGeXdpYXVNYUJiSTNpanJidDRrOUdIbUZkcDRCZTZuQmM0R2s1SnR0XzhZSXd6dXlhdkt4dnRFUjZLNFEwUFJjM2JCQ3EtWkVOS3Q4TTNsSk5ZWjg3VExKRFNYRVdHQ19ibUxLTUQwbHdEemcxbXZDZ3VOZFB0SnROTTBlb3EtV0FyOTNESW5UcXYtLTlmajNxa3gxcjJETk01MS14SDVHcmds?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/box-elder-county-ut-39",
+      "name": "Proposed data center — Box Elder County",
+      "operator": null,
+      "lat": 41.35861,
+      "lng": -113.21121,
+      "city": "Box Elder County",
+      "state": "UT",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center in Box Elder County, Utah, drawing concern over its scale and impact. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxONk43NWJZM3dYLW12VW1hbmNPdmdiXzlyRHdZdW5pQXZpckhDbEpDeTNmM1pvQVdtZTVjYjUtSWFES1ZQdkFfUGp0dTBqeWdFY1JyUlRhVG1wbFFhNVZxZjNvRzVzNmw5Vmh5aXE1SW1FRVo3NVpNVlJ4OHFzX3VzR0dWUVRta2M4Qno4NHpjdG9scTFwdG5B?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/inver-grove-heights-mn-40",
+      "name": "Planned data center — Inver Grove Heights",
+      "operator": null,
+      "lat": 44.8479,
+      "lng": -93.04281,
+      "city": "Inver Grove Heights",
+      "state": "MN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A planned data center in Inver Grove Heights, MN; the city faces legal pressure over the project. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnhpb2NTcElrY3ZGSEFLVDQ3QXc2X21sa0I5ZEpUUjJ0c3VTQ1FXcDI3VkU4aF9hVUh5NWdoeEdOWHNvOTBqNm9Ta3JwdkQ4ekFWWWhPRTFFWHZvN24zSjVWSmZvakdzc0NhQnhrZWVvN2RIRmRkVHYzWFBWR3JKWlI0aEdJQVJzT0JySWV4ekJUUjczaXY3QVhB0gGfAUFVX3lxTFB0ZjRtLUZfNXNWeEZvQm5WbmhoMzFPTVVzRzUzUWpwa0tVaEpacFVBX1VzRWhxaFdvUnA3R3RlLVItVk9vaHZvMmM5dDVveXRzdkdDMlgwSVk5WjBsem9DN0JlSXpzQXFmRHBUR2FmRlA5WHE1dE16WXRHbENxMEplZVg0cmJfNmVBaGFkSUk5ZllKcERzU1RhZkU2UHlBZw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/north-slope-borough-ak-0",
+      "name": "Proposed AI data center — Alaska North Slope",
+      "operator": null,
+      "lat": 69.53351,
+      "lng": -153.82207,
+      "city": "North Slope Borough",
+      "state": "AK",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A massive AI data center floated for Alaska's North Slope, tapping stranded North Slope energy. Highly preliminary / speculative.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWVZVmJyVHJDRWF0bTZleGktdEhwdlNUQjU5RlNxTUdnaHJrNlVpeWp2V2RXSEUwcVJaM1FWTDQtT1cxX0VCRFBLRzdQbm0wZ0Q5bnBaakNGdDFDSHFseWdtS1JRU2VIbjBVLXlVVEhfcUhHc2h6YlpfV2U1Qm1yMkdGeEZQUmtKeG5vemRPZHR5NFE3cUwtRUd6cGVLQ2NFNkozVnN0dWFYdEYyRVdielBiRk1fTUp0ODlV?oc=5"
       ]
     }
   ]

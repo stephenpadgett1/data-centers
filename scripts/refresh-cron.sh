@@ -23,12 +23,15 @@ git pull --rebase --autostash || echo "WARN: git pull failed; continuing with lo
 
 # 2) Editorial pass via headless Claude (best-effort, time-bounded, scoped tools).
 #    It edits the JSON inputs only; it does NOT push — the wrapper handles git.
-timeout 1500 claude -p "$(cat scripts/refresh.md)
+timeout 1800 claude -p "$(cat scripts/refresh.md)
 
-You are running UNATTENDED. Do steps 3, 4, and 5 of this checklist only: classify
-the top ~30 recognizable facilities in data/unclassified.json into
-data/classifications.json, re-check the curated megacampuses in data/curated.json,
-then run pipeline/build.py and pipeline/validate.py. Do NOT run git or push — the
+You are running UNATTENDED. Do the editorial steps only (steps 3, 4, and 5):
+(3) classify the top ~30 recognizable facilities in data/unclassified.json into
+data/classifications.json; (4) re-check the curated megacampuses in
+data/curated.json; (5) process data/discovery-candidates.json — add genuine new
+US projects to data/curated.json (geocode with pipeline/geocode.py, do not guess
+coordinates) and append every processed candidate key to data/discovery-seen.json.
+Then run pipeline/build.py and pipeline/validate.py. Do NOT run git or push — the
 wrapper does that. Keep it bounded and finish promptly." \
   --permission-mode acceptEdits \
   --allowedTools "Bash(python3:*)" "Read" "Edit" "Write" "WebSearch" "Glob" "Grep" \
@@ -43,6 +46,7 @@ fi
 
 # 4) Commit source-of-truth data + classifications, push to main.
 git add pipeline/operators.json data/classifications.json data/curated.json \
+        data/discovery-seen.json data/geocode-cache.json \
         site/public/data/data-centers.json site/public/data/build-meta.json 2>/dev/null
 if git diff --cached --quiet; then
   echo "No data changes to commit."

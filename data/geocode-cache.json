@@ -1,0 +1,78 @@
+{
+  "allentown, pennsylvania": {
+    "lat": 40.60226,
+    "lng": -75.47161
+  },
+  "box elder county, utah": {
+    "lat": 41.35861,
+    "lng": -113.21121
+  },
+  "broadview, montana": {
+    "lat": 46.09773,
+    "lng": -108.8771
+  },
+  "broken arrow, oklahoma": {
+    "lat": 36.0526,
+    "lng": -95.79082
+  },
+  "casper, wyoming": {
+    "lat": 42.85012,
+    "lng": -106.32514
+  },
+  "cleveland, ohio": {
+    "lat": 41.49966,
+    "lng": -81.69368
+  },
+  "colorado springs, colorado": {
+    "lat": 38.83396,
+    "lng": -104.82535
+  },
+  "desoto county, mississippi": {
+    "lat": 34.87029,
+    "lng": -89.97787
+  },
+  "fort bliss, el paso, texas": {
+    "lat": 32.24638,
+    "lng": -106.37426
+  },
+  "ilion, new york": {
+    "lat": 43.01507,
+    "lng": -75.03543
+  },
+  "inver grove heights, minnesota": {
+    "lat": 44.8479,
+    "lng": -93.04281
+  },
+  "inyokern, california": {
+    "lat": 35.65205,
+    "lng": -117.81766
+  },
+  "north slope borough, alaska": {
+    "lat": 69.53351,
+    "lng": -153.82207
+  },
+  "pittsylvania county, virginia": {
+    "lat": 36.81217,
+    "lng": -79.43641
+  },
+  "rapides parish, la": {
+    "lat": 31.17199,
+    "lng": -92.55264
+  },
+  "rapides parish, louisiana": {
+    "lat": 31.17199,
+    "lng": -92.55264
+  },
+  "socorro, new mexico": {
+    "lat": 34.05729,
+    "lng": -106.89308
+  },
+  "town of tonawanda, new york": {
+    "lat": 42.98085,
+    "lng": -78.86522
+  },
+  "upper merion township, pennsylvania": {
+    "lat": 40.08602,
+    "lng": -75.3662
+  }
+}

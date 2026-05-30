@@ -1,0 +1,37 @@
+{
+  "_comment": "Feeds harvested by discover.py for new US data-center announcements. THESE ARE BRITTLE — if a feed stops yielding items, re-verify the URL (sites change RSS paths). Google News search feeds are the most robust + highest-signal; the named publisher feeds add depth. discover.py builds Google News feed URLs from `google_news_queries`.",
+
+  "google_news_queries": [
+    "\"data center\" (announced OR planned OR proposed OR \"breaks ground\" OR \"break ground\" OR gigawatt) when:45d",
+    "\"data center\" (campus OR billion) (build OR investment OR approved OR rezoning OR permit) when:45d",
+    "(\"AI data center\" OR hyperscale OR \"data center campus\") (planned OR announced OR \"under construction\") when:45d"
+  ],
+
+  "feeds": [
+    { "name": "DataCenterKnowledge", "url": "https://www.datacenterknowledge.com/rss.xml" },
+    { "name": "DataCenterDynamics", "url": "https://www.datacenterdynamics.com/en/rss/" },
+    { "name": "Data Center POST", "url": "https://datacenterpost.com/feed/" },
+    { "name": "Bisnow Data Center", "url": "https://www.bisnow.com/rss/data-center" }
+  ],
+
+  "include_keywords": [
+    "data center", "datacenter", "data centre", "hyperscale", "gigawatt",
+    "megawatt", " mw", " gw", "campus", "ai data", "server farm", "colocation"
+  ],
+  "signal_keywords": [
+    "announce", "planned", "plans", "propose", "break ground", "breaks ground",
+    "groundbreaking", "under construction", "to build", "develop", "investment",
+    "billion", "approved", "rezon", "permit", "interconnection", "gigawatt",
+    "megawatt", " mw", " gw"
+  ],
+  "exclude_keywords": [
+    "sponsored", "webinar", "podcast", "white paper", "how to", "buyer's guide",
+    "market to", "market size", "market share", "market overview", "market report",
+    "forecast", "by 2035", "by 2034", "by 2033", "by 2030", "cagr", "usd ",
+    "executive profile", "conversation with", "leadership team", "summit",
+    "takeaways", "q&a", "opinion", "explained", "heat exchanger", "chillers market",
+    "europe", "finland", "brazil", " japan", "tokyo", "munich", "poland",
+    "lapland", "brussels", " germany", "ireland", "netherlands", "saudi", "dubai"
+  ],
+  "max_candidates": 50
+}

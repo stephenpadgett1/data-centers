@@ -8,11 +8,22 @@ Live data is pulled from OpenStreetMap and a curated layer of headline announced
 
 ```
 OSM Overpass API ──fetch.py──▶ data/facilities.raw.json ─┐
-data/curated.json (curated megacampuses) ────────────────┤
-data/classifications.json (editorial cache) ─────────────┼─build.py─▶ site/public/data/data-centers.json
-pipeline/operators.json (operator lookup) ───────────────┘                + build-meta.json
+news + trade RSS ──discover.py─▶ candidates ─(Claude)─┐  │
+data/curated.json (curated + discovered campuses) ────┼──┤
+data/classifications.json (editorial cache) ──────────┼──┼─build.py─▶ site/public/data/data-centers.json
+pipeline/operators.json (operator lookup) ────────────┘  ┘                + build-meta.json
                                                                           + data/unclassified.json (worklist)
 ```
+
+**Data sources for *planned* facilities** (the hardest part — OSM barely maps them):
+- `pipeline/discover.py` harvests Google News search feeds + trade press
+  (DataCenterDynamics, DataCenterKnowledge, Bisnow, Data Center POST), filters to
+  likely new US announcements, and writes a candidate worklist.
+- During the daily refresh, Claude reads the candidates, keeps the genuine new
+  projects, geocodes them (`pipeline/geocode.py`, OSM Nominatim), and adds them to
+  `data/curated.json` — typically `status: planned`, `purpose: speculative`.
+- Feed URLs live in `pipeline/sources.json` (brittle by nature — re-verify if a
+  feed goes quiet).
 
 - **No backend, no database.** The "data store" is `site/public/data/data-centers.json`, committed to the repo.
 - **Front-end:** Vite + TypeScript + MapLibre GL JS, OpenFreeMap dark basemap (no API key).

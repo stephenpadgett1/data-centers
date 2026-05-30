@@ -19,7 +19,8 @@ facility data and the editorial judgment calls fresh, then publishes by pushing 
    ./scripts/refresh-data.sh
    ```
 
-   This pulls fresh OSM data, rebuilds `site/public/data/data-centers.json`,
+   This pulls fresh OSM data, **harvests announcement feeds** (writing
+   `data/discovery-candidates.json`), rebuilds `site/public/data/data-centers.json`,
    validates it, and writes the new-facility worklist `data/unclassified.json`.
 
 3. **Editorial pass — classify new facilities** (this is the Claude-in-the-loop value)
@@ -45,30 +46,52 @@ facility data and the editorial judgment calls fresh, then publishes by pushing 
    - Add any newly-announced megacampus (≥ ~500 MW, well-sourced) that OSM
      doesn't capture, following the existing entry shape (include `sources`).
 
-5. **Rebuild + validate**
+5. **Editorial pass — process announcement candidates (Track A)**
+
+   - Open `data/discovery-candidates.json` (harvested planned/proposed projects
+     from news + trade feeds).
+   - For each candidate that is a **genuine, new, US data-center project** (not a
+     duplicate of something already in `curated.json`, not a withdrawn/denied/
+     cancelled project, not a market report or opinion piece), add an entry to
+     `data/curated.json` `facilities` with the usual shape. Typical values for a
+     fresh proposal: `"status": "planned"`, `"operator_type": "unknown"` (unless a
+     known operator is named), `"purpose": "speculative"`, `workload` `ai` or
+     `general`, `"confidence": "low"`, `sources: [<candidate link>]`.
+   - **Geocode the location** instead of guessing coordinates:
+
+     ```bash
+     python3 pipeline/geocode.py "City, ST"      # prints "lat,lng"
+     ```
+
+   - After deciding every candidate (kept OR rejected), append each candidate's
+     `key` to `data/discovery-seen.json` so it never resurfaces. Bound the effort
+     to the worklist you were given.
+
+6. **Rebuild + validate**
 
    ```bash
    python3 pipeline/build.py
    python3 pipeline/validate.py   # must exit 0 before committing
    ```
 
-6. **Publish**
+7. **Publish**
 
    ```bash
    git add pipeline/operators.json data/classifications.json data/curated.json \
+           data/discovery-seen.json data/geocode-cache.json \
            site/public/data/data-centers.json site/public/data/build-meta.json
    git commit -m "data refresh $(date +%F)"
-   git push
+   git push origin main
+   ./scripts/deploy.sh            # build + publish to gh-pages
    ```
-
-   The push triggers `.github/workflows/deploy.yml`, which rebuilds and redeploys
-   the site within a couple of minutes.
 
 ## Guardrails
 
 - **Never commit if `validate.py` fails** (it exits non-zero on bad data).
 - If the OSM fetch fails, `fetch.py` keeps the previous data — that's fine; the
   build still runs against the last good pull.
-- Keep the per-run editorial effort bounded (top ~30 + a few curated checks) so
-  daily token cost stays low. The classification cache means each facility is
-  only classified once.
+- Keep per-run editorial effort bounded (top ~30 unclassified + the announcement
+  worklist + a few curated re-checks) so daily token cost stays low. The
+  classification + seen caches mean each item is only handled once.
+- Discovered proposals are often early-stage and contested — keep their
+  `confidence` low and prefer `purpose: speculative` until a project firms up.
