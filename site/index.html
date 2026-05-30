@@ -27,6 +27,7 @@
         <button id="hud-toggle" class="hud-toggle" aria-label="Toggle stats">▾</button>
       </div>
       <div id="stats" class="stats"></div>
+      <button id="insights-btn" class="insights-btn">▦ Insights &amp; rankings</button>
       <div id="refreshed" class="refreshed"></div>
     </header>
 
@@ -72,6 +73,15 @@
       <button id="detail-close" class="detail-close" aria-label="Close">×</button>
       <div id="detail-body"></div>
     </aside>
+
+    <!-- Insights dashboard -->
+    <aside id="insights" class="panel insights-panel" aria-hidden="true">
+      <button id="insights-close" class="detail-close" aria-label="Close">×</button>
+      <h2 class="insights-title">Insights &amp; rankings</h2>
+      <div id="insights-body"></div>
+    </aside>
+
+    <div id="choro-legend" class="choro-legend" hidden></div>
 
     <footer id="attribution" class="attribution"></footer>
 

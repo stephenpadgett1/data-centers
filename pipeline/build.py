@@ -15,6 +15,7 @@ import math
 import os
 
 import classify_rules
+import geo_states
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -234,6 +235,22 @@ def main():
     curated_records = [build_curated_record(c, prev_first_seen) for c in curated]
     osm_records, dropped = dedupe_curated_against_osm(curated_records, osm_records)
     records = curated_records + osm_records
+
+    # Backfill / normalize state to a 2-letter code (OSM addr:state is ~half-populated)
+    # via point-in-polygon, so geographic aggregation covers every facility.
+    locator = geo_states.StateLocator()
+    backfilled = 0
+    for r in records:
+        code = geo_states.normalize_state(r.get("state"))
+        if not code:
+            code = locator.locate(r["lat"], r["lng"])
+            if code:
+                backfilled += 1
+        r["state"] = code
+    n_states = geo_states.emit_frontend_geojson(
+        os.path.join(ROOT, "site", "public", "data", "us-states.geojson")
+    )
+
     records.sort(key=lambda r: (r["state"] or "ZZ", r["name"]))
 
     # ----- write outputs -----
@@ -275,6 +292,7 @@ def main():
           f"({len(osm_records)} OSM + {len(curated_records)} curated, {dropped} OSM deduped).")
     print(f"  status: {by_status}")
     print(f"  types:  {by_type}")
+    print(f"  state backfilled: {backfilled} (point-in-polygon) | states geojson: {n_states} features")
     print(f"  total capacity: {meta['total_capacity_gw']} GW (from {sum(1 for r in records if r['capacity_mw'])} records)")
     print(f"  unclassified worklist: {len(worklist)} -> {os.path.relpath(OUT_WORKLIST, ROOT)}")
     print(f"  wrote -> {os.path.relpath(OUT_DATA, ROOT)} ({os.path.getsize(OUT_DATA)//1024} KB)")

@@ -7,6 +7,8 @@ import { createMap, installLayers, toFeatureCollection, categoryColor, type Colo
 import { installPowerLayers, toPowerFC } from "./power";
 import { setupFilters, setupPowerFilters, type Dim, type FilterApi } from "./filters";
 import { setupPanel } from "./panel";
+import { setupInsights } from "./insights";
+import { setupChoropleth } from "./choropleth";
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -184,6 +186,7 @@ async function main() {
 
   let handles: ReturnType<typeof installLayers> | undefined;
   let powerHandles: ReturnType<typeof installPowerLayers> | undefined;
+  let insights: ReturnType<typeof setupInsights> | undefined;
   let updateStatActive: () => void = () => {};
   const layersOn = { dc: true, power: false };
   let dcShown = 0;
@@ -234,6 +237,7 @@ async function main() {
   }
 
   function select(id: string) {
+    insights?.close();
     if (id.startsWith("eia/")) {
       const p = byPlant.get(id);
       if (!p || !powerHandles) return;
@@ -275,6 +279,14 @@ async function main() {
     powerHandles = installPowerLayers(map, toPowerFC(plants.filter(powerFilters.predicate)), select);
     handles.setVisible(layersOn.dc);
     powerHandles.setVisible(layersOn.power);
+
+    const choro = setupChoropleth(map, records, plants);
+    insights = setupInsights(records, plants, {
+      onMetric: choro.setMetric,
+      onOpen: () => panel.close(),
+    });
+    document.getElementById("insights-btn")!.addEventListener("click", () => insights!.open());
+
     applyFilters();
     applyPowerFilters();
     selectFromHash();

@@ -32,6 +32,13 @@ colored by fuel and sized by megawatts, to show the grid behind the buildout.
 a **separate monthly step** (EIA updates monthly; the workbook is ~14 MB) and is the
 only part that needs a dependency (`openpyxl`) — the daily refresh stays stdlib-only.
 
+**Insights & geographic aggregation:** an "Insights" dashboard ranks states by
+data-center count vs. generation GW (supply vs. demand), with type/fuel/workload
+breakdowns, and an optional **state choropleth** shades the map by either metric.
+`build.py` backfills each facility's state via point-in-polygon against
+`pipeline/us-states.geojson` (OSM only populates ~half) and emits
+`site/public/data/us-states.geojson` for the choropleth.
+
 - **No backend, no database.** The "data store" is `site/public/data/data-centers.json`, committed to the repo.
 - **Front-end:** Vite + TypeScript + MapLibre GL JS, OpenFreeMap dark basemap (no API key).
 - **Hosting:** GitHub Pages, served from the `gh-pages` branch. `scripts/deploy.sh`
