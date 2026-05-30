@@ -20,8 +20,11 @@
     <!-- Top-left: title + live stats -->
     <header id="hud" class="panel">
       <div class="hud-title">
-        <h1>US DATA CENTERS</h1>
-        <p class="hud-sub">operational · under construction · planned</p>
+        <div class="hud-titletext">
+          <h1>US DATA CENTERS</h1>
+          <p class="hud-sub">operational · under construction · planned</p>
+        </div>
+        <button id="hud-toggle" class="hud-toggle" aria-label="Toggle stats">▾</button>
       </div>
       <div id="stats" class="stats"></div>
       <div id="refreshed" class="refreshed"></div>
