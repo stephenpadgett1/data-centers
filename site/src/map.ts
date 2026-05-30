@@ -71,7 +71,11 @@ export interface MapHandles {
   setColorBy: (dim: ColorDim) => void;
   /** Tint the cluster bubbles a single color, or null to reset to default. */
   setClusterColor: (color: string | null) => void;
+  /** Show/hide the whole data-center layer (for the layer switcher). */
+  setVisible: (visible: boolean) => void;
 }
+
+const DC_LAYERS = ["clusters", "cluster-count", "points-glow", "points", "selected"];
 
 export function installLayers(
   map: MLMap,
@@ -225,6 +229,9 @@ export function installLayers(
     setClusterColor: (color) => {
       map.setPaintProperty("clusters", "circle-color", color ?? CLUSTER_DEFAULT.fill);
       map.setPaintProperty("clusters", "circle-stroke-color", color ?? CLUSTER_DEFAULT.stroke);
+    },
+    setVisible: (visible) => {
+      for (const id of DC_LAYERS) map.setLayoutProperty(id, "visibility", visible ? "visible" : "none");
     },
   };
 }

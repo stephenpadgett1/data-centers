@@ -2,9 +2,10 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import "./style.css";
 
 import { NavigationControl } from "maplibre-gl";
-import type { BuildMeta, DataCenter } from "./types";
+import type { BuildMeta, DataCenter, PowerPlant } from "./types";
 import { createMap, installLayers, toFeatureCollection, categoryColor, type ColorDim } from "./map";
-import { setupFilters, type Dim, type FilterApi } from "./filters";
+import { installPowerLayers, toPowerFC } from "./power";
+import { setupFilters, setupPowerFilters, type Dim, type FilterApi } from "./filters";
 import { setupPanel } from "./panel";
 
 const BASE = import.meta.env.BASE_URL;
@@ -152,30 +153,56 @@ async function main() {
   setupCollapsibles();
 
   document.getElementById("attribution")!.innerHTML =
-    `Facilities © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> (ODbL) + curated public announcements · Basemap <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a>`;
+    `Facilities © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> (ODbL) + public announcements · Generation: <a href="https://www.eia.gov/electricity/data/eia860m/" target="_blank" rel="noopener">U.S. EIA Form 860M</a> · Basemap <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a>`;
 
   let records: DataCenter[];
   let meta: BuildMeta;
+  let plants: PowerPlant[];
   try {
-    [records, meta] = await Promise.all([
+    const [dc, m, pp] = await Promise.all([
       load<DataCenter[]>("data/data-centers.json"),
       load<BuildMeta>("data/build-meta.json"),
+      load<PowerPlant[]>("data/power-plants.json").catch(() => [] as PowerPlant[]),
     ]);
+    records = dc;
+    meta = m;
+    plants = pp;
   } catch (err) {
     toast(`Failed to load data: ${(err as Error).message}`);
     return;
   }
 
   const byId = new Map(records.map((d) => [d.id, d]));
+  const byPlant = new Map(plants.map((p) => [p.id, p]));
 
   const map = createMap("map");
   const panel = setupPanel(() => {
     handles?.highlight(null);
+    powerHandles?.highlight(null);
     history.replaceState(null, "", location.pathname + location.search);
   });
 
   let handles: ReturnType<typeof installLayers> | undefined;
+  let powerHandles: ReturnType<typeof installPowerLayers> | undefined;
   let updateStatActive: () => void = () => {};
+  const layersOn = { dc: true, power: false };
+  let dcShown = 0;
+  let powerShown = 0;
+  let powerGw = 0;
+
+  function updateShowing() {
+    const parts: string[] = [];
+    if (layersOn.dc) {
+      const totalShown = records.filter((d) => !d.minor).length;
+      parts.push(`${dcShown.toLocaleString()} / ${totalShown.toLocaleString()} data centers`);
+    }
+    if (layersOn.power) {
+      parts.push(`${powerShown.toLocaleString()} plants · ${powerGw.toFixed(0)} GW`);
+    }
+    document.getElementById("showing")!.textContent = parts.length
+      ? `Showing ${parts.join("  ·  ")}`
+      : "No layers shown";
+  }
 
   function applyFilters() {
     if (!handles) return;
@@ -183,34 +210,73 @@ async function main() {
     handles.setData(toFeatureCollection(filtered));
     handles.setColorBy(activeColorDim(filters));
     handles.setClusterColor(uniformClusterColor(filters));
-    const totalShown = records.filter((d) => !d.minor).length;
-    document.getElementById("showing")!.textContent =
-      `Showing ${filtered.length.toLocaleString()} of ${totalShown.toLocaleString()}`;
+    dcShown = filtered.length;
+    updateShowing();
     updateStatActive();
   }
 
+  function applyPowerFilters() {
+    if (!powerHandles) return;
+    const filtered = plants.filter(powerFilters.predicate);
+    powerHandles.setData(toPowerFC(filtered));
+    powerShown = filtered.length;
+    powerGw = filtered.reduce((s, p) => s + p.mw, 0) / 1000;
+    updateShowing();
+  }
+
+  function setLayer(which: "dc" | "power", on: boolean) {
+    layersOn[which] = on;
+    document.getElementById(which === "dc" ? "layer-dc" : "layer-power")!.classList.toggle("active", on);
+    (document.getElementById(which === "dc" ? "dc-controls" : "power-controls") as HTMLElement).hidden = !on;
+    if (which === "dc") handles?.setVisible(on);
+    else powerHandles?.setVisible(on);
+    updateShowing();
+  }
+
   function select(id: string) {
-    const d = byId.get(id);
-    if (!d || !handles) return;
-    panel.open(d);
-    handles.highlight(id);
-    handles.flyTo(d);
-    history.replaceState(null, "", `#dc=${encodeURIComponent(id)}`);
+    if (id.startsWith("eia/")) {
+      const p = byPlant.get(id);
+      if (!p || !powerHandles) return;
+      if (!layersOn.power) setLayer("power", true);
+      panel.open(p);
+      handles?.highlight(null);
+      powerHandles.highlight(id);
+      powerHandles.flyTo(p);
+      history.replaceState(null, "", `#pp=${encodeURIComponent(id)}`);
+    } else {
+      const d = byId.get(id);
+      if (!d || !handles) return;
+      if (!layersOn.dc) setLayer("dc", true);
+      panel.open(d);
+      powerHandles?.highlight(null);
+      handles.highlight(id);
+      handles.flyTo(d);
+      history.replaceState(null, "", `#dc=${encodeURIComponent(id)}`);
+    }
   }
 
   function selectFromHash() {
-    const m = location.hash.match(/dc=([^&]+)/);
-    if (m) select(decodeURIComponent(m[1]));
+    const pp = location.hash.match(/pp=([^&]+)/);
+    const dc = location.hash.match(/dc=([^&]+)/);
+    if (pp) select(decodeURIComponent(pp[1]));
+    else if (dc) select(decodeURIComponent(dc[1]));
   }
 
   const filters = setupFilters(records, applyFilters);
+  const powerFilters = setupPowerFilters(plants, applyPowerFilters);
   updateStatActive = setupStats(meta, filters);
+  document.getElementById("layer-dc")!.addEventListener("click", () => setLayer("dc", !layersOn.dc));
+  document.getElementById("layer-power")!.addEventListener("click", () => setLayer("power", !layersOn.power));
 
   map.on("load", () => {
     clearToast();
     map.addControl(new NavigationControl({ showCompass: false }), "top-right");
     handles = installLayers(map, toFeatureCollection(records.filter(filters.predicate)), select);
+    powerHandles = installPowerLayers(map, toPowerFC(plants.filter(powerFilters.predicate)), select);
+    handles.setVisible(layersOn.dc);
+    powerHandles.setVisible(layersOn.power);
     applyFilters();
+    applyPowerFilters();
     selectFromHash();
   });
 

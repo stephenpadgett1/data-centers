@@ -1,6 +1,8 @@
 import {
   type DataCenter,
+  type PowerPlant,
   type Status,
+  type Fuel,
   type OperatorType,
   type Workload,
   STATUS_META,
@@ -8,6 +10,8 @@ import {
   TYPE_COLORS,
   WORKLOAD_LABELS,
   WORKLOAD_COLORS,
+  FUEL_META,
+  FUEL_ORDER,
 } from "./types";
 
 const STATUS_ORDER: Status[] = [
@@ -185,4 +189,50 @@ export function setupFilters(records: DataCenter[], onChange: () => void): Filte
   };
 
   return { state, predicate, present, setDimension, setCapacityOnly, resetAll };
+}
+
+// ---------- Power-plant filters (fuel + status) ----------
+
+export interface PowerFilterState {
+  fuels: Set<string>;
+  statuses: Set<string>;
+}
+
+export function setupPowerFilters(
+  plants: PowerPlant[],
+  onChange: () => void,
+): { state: PowerFilterState; predicate: (p: PowerPlant) => boolean } {
+  const presentFuels = FUEL_ORDER.filter((f) => plants.some((p) => p.fuel === f));
+  const presentStatus = (["operational", "under_construction", "planned"] as Status[]).filter(
+    (s) => plants.some((p) => p.status === s),
+  );
+  const state: PowerFilterState = {
+    fuels: new Set(presentFuels),
+    statuses: new Set(presentStatus),
+  };
+
+  function group(containerId: string, label: string, items: { key: string; label: string; color: string }[], set: Set<string>) {
+    const el = document.getElementById(containerId)!;
+    el.innerHTML = `<span class="group-label">${label}</span>`;
+    for (const it of items) {
+      const chip = document.createElement("button");
+      chip.className = "chip active";
+      chip.innerHTML = `<span class="dot" style="background:${it.color};color:${it.color}"></span>${it.label}`;
+      chip.addEventListener("click", () => {
+        if (set.has(it.key)) set.delete(it.key);
+        else set.add(it.key);
+        chip.classList.toggle("active", set.has(it.key));
+        onChange();
+      });
+      el.appendChild(chip);
+    }
+  }
+
+  group("filter-fuel", "Fuel", presentFuels.map((f) => ({ key: f, label: FUEL_META[f as Fuel].label, color: FUEL_META[f as Fuel].color })), state.fuels);
+  group("filter-pstatus", "Status", presentStatus.map((s) => ({ key: s, label: STATUS_META[s].label, color: STATUS_META[s].color })), state.statuses);
+
+  const predicate = (p: PowerPlant): boolean =>
+    state.fuels.has(p.fuel) && state.statuses.has(p.status);
+
+  return { state, predicate };
 }

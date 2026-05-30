@@ -25,6 +25,13 @@ pipeline/operators.json (operator lookup) ────────────�
 - Feed URLs live in `pipeline/sources.json` (brittle by nature — re-verify if a
   feed goes quiet).
 
+**Power-generation layer (EIA Form 860M):** a toggleable second layer of ~6,200 US
+power plants (all planned/under-construction + operating ≥25 MW, ~96% of capacity),
+colored by fuel and sized by megawatts, to show the grid behind the buildout.
+`pipeline/fetch_power.py` ingests it → `site/public/data/power-plants.json`. This is
+a **separate monthly step** (EIA updates monthly; the workbook is ~14 MB) and is the
+only part that needs a dependency (`openpyxl`) — the daily refresh stays stdlib-only.
+
 - **No backend, no database.** The "data store" is `site/public/data/data-centers.json`, committed to the repo.
 - **Front-end:** Vite + TypeScript + MapLibre GL JS, OpenFreeMap dark basemap (no API key).
 - **Hosting:** GitHub Pages, served from the `gh-pages` branch. `scripts/deploy.sh`
@@ -40,7 +47,11 @@ python3 pipeline/fetch.py        # pull OSM Overpass -> data/facilities.raw.json
 python3 pipeline/build.py        # merge -> site/public/data/data-centers.json
 python3 pipeline/validate.py     # sanity-check the output
 
-# 2. Run the site
+# 2. (Optional, monthly) refresh the power-generation layer
+pip install -r pipeline/requirements.txt
+python3 pipeline/fetch_power.py  # EIA-860M -> site/public/data/power-plants.json
+
+# 3. Run the site
 cd site
 npm install
 npm run dev                      # http://localhost:5173

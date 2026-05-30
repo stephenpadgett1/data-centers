@@ -1,9 +1,11 @@
 import {
   type DataCenter,
+  type PowerPlant,
   STATUS_META,
   TYPE_LABELS,
   WORKLOAD_LABELS,
   PURPOSE_LABELS,
+  FUEL_META,
 } from "./types";
 
 const esc = (s: string): string =>
@@ -74,6 +76,35 @@ export function renderDetail(d: DataCenter): string {
   `;
 }
 
+export function renderPowerDetail(p: PowerPlant): string {
+  const sm = STATUS_META[p.status];
+  const fm = FUEL_META[p.fuel];
+  const place = [p.county ? `${p.county} County` : null, p.state].filter(Boolean).join(", ");
+  const cap = fmtCapacity(p.mw);
+
+  const metaRows: string[] = [];
+  if (place) metaRows.push(`<div class="row"><span>Location</span><span>${esc(place)}</span></div>`);
+  if (p.year) metaRows.push(`<div class="row"><span>${p.status === "operational" ? "Online since" : "Planned online"}</span><span>${p.year}</span></div>`);
+  metaRows.push(`<div class="row"><span>Source</span><span>EIA Form 860M</span></div>`);
+
+  return `
+    <div class="d-status" style="color:${sm.color}">
+      <span class="dot" style="background:${sm.color}"></span>${sm.label}
+    </div>
+    <h2 class="d-name">${esc(p.name)}</h2>
+    ${p.operator ? `<div class="d-operator">${esc(p.operator)}</div>` : ""}
+    <div class="d-badges">
+      <span class="badge"><span class="k">Fuel</span><span class="fuel-dot" style="background:${fm.color}"></span>${fm.label}</span>
+      <span class="badge"><span class="k">Type</span>Power plant</span>
+    </div>
+    <div class="d-metrics">
+      <div class="metric"><div class="num">${cap ?? "—"}</div><div class="lbl">Nameplate capacity</div></div>
+    </div>
+    <div class="d-meta">${metaRows.join("")}</div>
+    <div class="d-confidence">US power-generation data from EIA Form 860M (monthly inventory).</div>
+  `;
+}
+
 export function setupPanel(onClose: () => void) {
   const panel = document.getElementById("detail")!;
   const body = document.getElementById("detail-body")!;
@@ -82,8 +113,8 @@ export function setupPanel(onClose: () => void) {
     if (e.key === "Escape") close();
   });
 
-  function open(d: DataCenter) {
-    body.innerHTML = renderDetail(d);
+  function open(record: DataCenter | PowerPlant) {
+    body.innerHTML = "fuel" in record ? renderPowerDetail(record) : renderDetail(record);
     panel.classList.add("open");
     panel.setAttribute("aria-hidden", "false");
   }

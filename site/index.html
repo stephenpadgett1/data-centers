@@ -36,20 +36,33 @@
         Filters
       </button>
       <div id="controls-body" class="controls-body">
-        <input
-          id="search"
-          class="search"
-          type="search"
-          placeholder="Search name or operator…"
-          autocomplete="off"
-        />
-        <div id="filter-status" class="filter-group"></div>
-        <div id="filter-type" class="filter-group"></div>
-        <div id="filter-workload" class="filter-group"></div>
-        <label class="minor-toggle">
-          <input id="show-minor" type="checkbox" />
-          <span>Include minor / internal rooms</span>
-        </label>
+        <div id="layer-switch" class="layer-switch">
+          <button id="layer-dc" class="layer-btn active" data-layer="dc">Data centers</button>
+          <button id="layer-power" class="layer-btn" data-layer="power">Power plants</button>
+        </div>
+
+        <div id="dc-controls">
+          <input
+            id="search"
+            class="search"
+            type="search"
+            placeholder="Search name or operator…"
+            autocomplete="off"
+          />
+          <div id="filter-status" class="filter-group"></div>
+          <div id="filter-type" class="filter-group"></div>
+          <div id="filter-workload" class="filter-group"></div>
+          <label class="minor-toggle">
+            <input id="show-minor" type="checkbox" />
+            <span>Include minor / internal rooms</span>
+          </label>
+        </div>
+
+        <div id="power-controls" hidden>
+          <div id="filter-fuel" class="filter-group"></div>
+          <div id="filter-pstatus" class="filter-group"></div>
+        </div>
+
         <div id="showing" class="showing"></div>
       </div>
     </section>

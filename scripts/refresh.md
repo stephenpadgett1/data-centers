@@ -95,3 +95,7 @@ facility data and the editorial judgment calls fresh, then publishes by pushing 
   classification + seen caches mean each item is only handled once.
 - Discovered proposals are often early-stage and contested — keep their
   `confidence` low and prefer `purpose: speculative` until a project firms up.
+- The **power-generation layer** (`site/public/data/power-plants.json`, EIA Form
+  860M) is **not** part of this daily run. Refresh it ~monthly on its own:
+  `pip install -r pipeline/requirements.txt && python3 pipeline/fetch_power.py`,
+  then rebuild/commit. (Keeps the daily refresh dependency-free.)

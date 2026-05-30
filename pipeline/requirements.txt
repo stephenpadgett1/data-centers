@@ -1,0 +1,6 @@
+# Only needed for the OCCASIONAL (monthly) power-generation ingest:
+#   pip install -r pipeline/requirements.txt
+#   python3 pipeline/fetch_power.py
+# The daily data refresh (fetch.py / discover.py / build.py / validate.py) is
+# pure standard library and needs none of this.
+openpyxl>=3.0

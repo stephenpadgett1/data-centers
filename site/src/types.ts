@@ -119,3 +119,64 @@ export const PURPOSE_LABELS: Record<Purpose, string> = {
   multi_tenant: "Multi-tenant",
   unknown: "Unknown",
 };
+
+// ---------- Power generation (EIA Form 860M) ----------
+
+export type Fuel =
+  | "gas"
+  | "coal"
+  | "solar"
+  | "wind"
+  | "nuclear"
+  | "hydro"
+  | "battery"
+  | "petroleum"
+  | "geothermal"
+  | "biomass"
+  | "other";
+
+export interface PowerPlant {
+  id: string;
+  name: string;
+  state: string | null;
+  county: string | null;
+  lat: number;
+  lng: number;
+  mw: number;
+  fuel: Fuel;
+  status: Status; // operating | under_construction | planned
+  year: number | null;
+  operator: string | null;
+}
+
+export interface PowerMeta {
+  built_at: string;
+  source: string;
+  min_mw: number;
+  total_plants: number;
+  by_status: Record<string, number>;
+  by_fuel: Record<string, number>;
+  gw_by_fuel: Record<string, number>;
+  total_gw: number;
+  operating_gw: number;
+  pipeline_gw: number;
+}
+
+export const FUEL_META: Record<Fuel, { label: string; color: string }> = {
+  gas: { label: "Natural gas", color: "#f97316" },
+  coal: { label: "Coal", color: "#9ca3af" },
+  solar: { label: "Solar", color: "#facc15" },
+  wind: { label: "Wind", color: "#38bdf8" },
+  nuclear: { label: "Nuclear", color: "#a855f7" },
+  hydro: { label: "Hydro", color: "#2dd4bf" },
+  battery: { label: "Battery", color: "#4ade80" },
+  petroleum: { label: "Petroleum", color: "#b45309" },
+  geothermal: { label: "Geothermal", color: "#fb7185" },
+  biomass: { label: "Biomass", color: "#84cc16" },
+  other: { label: "Other", color: "#94a3b8" },
+};
+
+export const FUEL_ORDER: Fuel[] = [
+  "gas", "solar", "wind", "nuclear", "hydro", "coal",
+  "battery", "petroleum", "geothermal", "biomass", "other",
+];
