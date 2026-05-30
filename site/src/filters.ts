@@ -5,7 +5,9 @@ import {
   type Workload,
   STATUS_META,
   TYPE_LABELS,
+  TYPE_COLORS,
   WORKLOAD_LABELS,
+  WORKLOAD_COLORS,
 } from "./types";
 
 const STATUS_ORDER: Status[] = [
@@ -34,6 +36,7 @@ export interface FilterState {
   workloads: Set<string>;
   search: string;
   showMinor: boolean;
+  capacityOnly: boolean;
 }
 
 export interface FilterApi {
@@ -42,6 +45,8 @@ export interface FilterApi {
   present: Record<Dim, string[]>;
   /** Replace a dimension's active set (and sync the chips). */
   setDimension: (dim: Dim, keys: string[]) => void;
+  /** Toggle "only facilities with a tracked capacity (MW)". */
+  setCapacityOnly: (v: boolean) => void;
   /** Clear all filters back to "everything present". */
   resetAll: () => void;
 }
@@ -60,6 +65,7 @@ export function setupFilters(records: DataCenter[], onChange: () => void): Filte
     workloads: new Set(present.workloads),
     search: "",
     showMinor: false,
+    capacityOnly: false,
   };
 
   // chip element registry, per dimension, keyed by category
@@ -106,13 +112,21 @@ export function setupFilters(records: DataCenter[], onChange: () => void): Filte
     "filter-type",
     "types",
     "Operator type",
-    present.types.map((t) => ({ key: t, label: TYPE_LABELS[t as OperatorType] })),
+    present.types.map((t) => ({
+      key: t,
+      label: TYPE_LABELS[t as OperatorType],
+      color: TYPE_COLORS[t as OperatorType],
+    })),
   );
   chipGroup(
     "filter-workload",
     "workloads",
     "Workload",
-    present.workloads.map((w) => ({ key: w, label: WORKLOAD_LABELS[w as Workload] })),
+    present.workloads.map((w) => ({
+      key: w,
+      label: WORKLOAD_LABELS[w as Workload],
+      color: WORKLOAD_COLORS[w as Workload],
+    })),
   );
 
   const search = document.getElementById("search") as HTMLInputElement;
@@ -139,12 +153,18 @@ export function setupFilters(records: DataCenter[], onChange: () => void): Filte
     onChange();
   }
 
+  function setCapacityOnly(v: boolean) {
+    state.capacityOnly = v;
+    onChange();
+  }
+
   function resetAll() {
     state.statuses = new Set(present.statuses);
     state.types = new Set(present.types);
     state.workloads = new Set(present.workloads);
     state.search = "";
     state.showMinor = false;
+    state.capacityOnly = false;
     search.value = "";
     minor.checked = false;
     (["statuses", "types", "workloads"] as Dim[]).forEach(syncChips);
@@ -153,6 +173,7 @@ export function setupFilters(records: DataCenter[], onChange: () => void): Filte
 
   const predicate = (d: DataCenter): boolean => {
     if (!state.showMinor && d.minor) return false;
+    if (state.capacityOnly && d.capacity_mw == null) return false;
     if (!state.statuses.has(d.status)) return false;
     if (!state.types.has(d.classification.operator_type)) return false;
     if (!state.workloads.has(d.classification.workload)) return false;
@@ -163,5 +184,5 @@ export function setupFilters(records: DataCenter[], onChange: () => void): Filte
     return true;
   };
 
-  return { state, predicate, present, setDimension, resetAll };
+  return { state, predicate, present, setDimension, setCapacityOnly, resetAll };
 }

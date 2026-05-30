@@ -1,21 +1,38 @@
 import maplibregl, { type GeoJSONSource, type Map as MLMap } from "maplibre-gl";
-import type { DataCenter, Status } from "./types";
+import { type DataCenter, type Status, STATUS_META, TYPE_COLORS, WORKLOAD_COLORS } from "./types";
 
 const STYLE_URL = "https://tiles.openfreemap.org/styles/dark";
 
-const STATUS_COLOR_EXPR: maplibregl.ExpressionSpecification = [
-  "match",
-  ["get", "status"],
-  "operational",
-  "#2dd4bf",
-  "under_construction",
-  "#fbbf24",
-  "planned",
-  "#a78bfa",
-  "announced",
-  "#60a5fa",
-  /* unknown */ "#64748b",
-];
+export type ColorDim = "status" | "types" | "workloads";
+
+const FALLBACK_COLOR = "#64748b";
+
+/** Build a MapLibre `match` color expression from a {category -> color} map. */
+function colorExpr(prop: string, colors: Record<string, string>): maplibregl.ExpressionSpecification {
+  const expr: unknown[] = ["match", ["get", prop]];
+  for (const [key, color] of Object.entries(colors)) expr.push(key, color);
+  expr.push(FALLBACK_COLOR);
+  return expr as maplibregl.ExpressionSpecification;
+}
+
+const STATUS_COLORS: Record<string, string> = Object.fromEntries(
+  Object.entries(STATUS_META).map(([k, v]) => [k, v.color]),
+);
+
+const COLOR_EXPR: Record<ColorDim, maplibregl.ExpressionSpecification> = {
+  status: colorExpr("status", STATUS_COLORS),
+  types: colorExpr("otype", TYPE_COLORS),
+  workloads: colorExpr("workload", WORKLOAD_COLORS),
+};
+const STATUS_COLOR_EXPR = COLOR_EXPR.status;
+
+const CLUSTER_DEFAULT = { fill: "#14b8a6", stroke: "#2dd4bf" };
+
+/** Color for a single category within a dimension (for the cluster tint + legend). */
+export function categoryColor(dim: ColorDim, key: string): string {
+  const map = dim === "types" ? TYPE_COLORS : dim === "workloads" ? WORKLOAD_COLORS : STATUS_COLORS;
+  return (map as Record<string, string>)[key] ?? FALLBACK_COLOR;
+}
 
 export function createMap(container: string): MLMap {
   return new maplibregl.Map({
@@ -38,6 +55,8 @@ export function toFeatureCollection(records: DataCenter[]): GeoJSON.FeatureColle
       properties: {
         id: d.id,
         status: d.status,
+        otype: d.classification.operator_type,
+        workload: d.classification.workload,
         cap: d.capacity_mw ?? 0,
         curated: d.source === "curated" ? 1 : 0,
       },
@@ -49,6 +68,9 @@ export interface MapHandles {
   setData: (fc: GeoJSON.FeatureCollection) => void;
   flyTo: (d: DataCenter) => void;
   highlight: (id: string | null) => void;
+  setColorBy: (dim: ColorDim) => void;
+  /** Tint the cluster bubbles a single color, or null to reset to default. */
+  setClusterColor: (color: string | null) => void;
 }
 
 export function installLayers(
@@ -196,6 +218,14 @@ export function installLayers(
       map.flyTo({ center: [d.lng, d.lat], zoom: Math.max(map.getZoom(), 11), speed: 0.8 }),
     highlight: (id) =>
       map.setFilter("selected", ["==", ["get", "id"], id ?? "__none__"]),
+    setColorBy: (dim) => {
+      map.setPaintProperty("points", "circle-color", COLOR_EXPR[dim]);
+      map.setPaintProperty("points-glow", "circle-color", COLOR_EXPR[dim]);
+    },
+    setClusterColor: (color) => {
+      map.setPaintProperty("clusters", "circle-color", color ?? CLUSTER_DEFAULT.fill);
+      map.setPaintProperty("clusters", "circle-stroke-color", color ?? CLUSTER_DEFAULT.stroke);
+    },
   };
 }
 

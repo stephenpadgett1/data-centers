@@ -88,11 +88,29 @@ export const TYPE_LABELS: Record<OperatorType, string> = {
   unknown: "Unclassified",
 };
 
+export const TYPE_COLORS: Record<OperatorType, string> = {
+  hyperscaler: "#f472b6", // pink
+  colocation: "#38bdf8", // sky
+  enterprise: "#a3e635", // lime
+  crypto: "#fb923c", // orange
+  telecom: "#c084fc", // purple
+  government: "#cbd5e1", // light slate
+  education: "#fde047", // yellow
+  unknown: "#64748b", // slate
+};
+
 export const WORKLOAD_LABELS: Record<Workload, string> = {
   ai: "AI / accelerated",
   general: "General compute",
   mixed: "Mixed",
   unknown: "Unknown",
+};
+
+export const WORKLOAD_COLORS: Record<Workload, string> = {
+  ai: "#fb7185", // rose
+  general: "#22d3ee", // cyan
+  mixed: "#c4b5fd", // light violet
+  unknown: "#64748b", // slate
 };
 
 export const PURPOSE_LABELS: Record<Purpose, string> = {
