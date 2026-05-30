@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Daily refresh LaunchAgent template.
+
+  Install:
+    cp scripts/launchd-refresh.plist ~/Library/LaunchAgents/com.datacenters.refresh.plist
+    # edit the paths below to match your checkout, then:
+    launchctl load -w ~/Library/LaunchAgents/com.datacenters.refresh.plist
+
+  Disable:
+    launchctl unload -w ~/Library/LaunchAgents/com.datacenters.refresh.plist
+
+  Runs scripts/refresh-cron.sh every day at 09:30 local time.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.datacenters.refresh</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/stephenpadgett/Projects/data-centers/scripts/refresh-cron.sh</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>9</integer>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+  <key>RunAtLoad</key>
+  <false/>
+  <key>StandardOutPath</key>
+  <string>/Users/stephenpadgett/Projects/data-centers/logs/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/stephenpadgett/Projects/data-centers/logs/launchd.err.log</string>
+</dict>
+</plist>

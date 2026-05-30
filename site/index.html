@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="An interactive map of US data centers — operational, under construction, and planned — with editorial judgment calls on each."
+    />
+    <title>US Data Centers — Live Map</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2305080f'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%232dd4bf'/%3E%3Ccircle cx='16' cy='16' r='10' fill='none' stroke='%232dd4bf' stroke-opacity='0.4' stroke-width='1.5'/%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <!-- Top-left: title + live stats -->
+    <header id="hud" class="panel">
+      <div class="hud-title">
+        <h1>US DATA CENTERS</h1>
+        <p class="hud-sub">operational · under construction · planned</p>
+      </div>
+      <div id="stats" class="stats"></div>
+      <div id="refreshed" class="refreshed"></div>
+    </header>
+
+    <!-- Controls: search, filters, legend -->
+    <section id="controls" class="panel">
+      <button id="controls-toggle" class="controls-toggle" aria-label="Toggle filters">
+        Filters
+      </button>
+      <div id="controls-body" class="controls-body">
+        <input
+          id="search"
+          class="search"
+          type="search"
+          placeholder="Search name or operator…"
+          autocomplete="off"
+        />
+        <div id="filter-status" class="filter-group"></div>
+        <div id="filter-type" class="filter-group"></div>
+        <div id="filter-workload" class="filter-group"></div>
+        <label class="minor-toggle">
+          <input id="show-minor" type="checkbox" />
+          <span>Include minor / internal rooms</span>
+        </label>
+        <div id="showing" class="showing"></div>
+      </div>
+    </section>
+
+    <!-- Right: detail panel -->
+    <aside id="detail" class="panel detail" aria-hidden="true">
+      <button id="detail-close" class="detail-close" aria-label="Close">×</button>
+      <div id="detail-body"></div>
+    </aside>
+
+    <footer id="attribution" class="attribution"></footer>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

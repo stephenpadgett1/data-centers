@@ -1,0 +1,130 @@
+{
+  "_comment": "Curated layer of headline announced / under-construction AI megacampuses that OSM doesn't yet capture well. Coordinates are approximate campus locations drawn from the cited public sources. Maintained by the daily editorial pass: re-check status and capacity, add newly-announced campuses. capacity_mw uses the headline planned full-buildout figure where stated.",
+  "facilities": [
+    {
+      "id": "curated/stargate-abilene-tx",
+      "name": "Stargate Site 1 (Lancium Clean Campus)",
+      "operator": "OpenAI / Oracle / Crusoe",
+      "lat": 32.378,
+      "lng": -99.857,
+      "city": "Abilene",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 1200,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; first ~300 MW already running NVIDIA Blackwell GPUs as of 2025. The single most prominent purpose-built AI training campus in the US.",
+      "website": "https://openai.com/index/announcing-the-stargate-project/",
+      "sources": [
+        "https://openai.com/index/five-new-stargate-sites/",
+        "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
+        "https://www.datacentermap.com/usa/texas/abilene/abilene-clean-campus/"
+      ]
+    },
+    {
+      "id": "curated/meta-hyperion-la",
+      "name": "Meta Hyperion (Richland Parish)",
+      "operator": "Meta",
+      "lat": 32.430,
+      "lng": -91.668,
+      "city": "Holly Ridge",
+      "state": "LA",
+      "status": "under_construction",
+      "capacity_mw": 5000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, backed by a $27B+ financing deal and 10 new gas-fired plants. Built out 2025–2030 specifically for frontier AI training.",
+      "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
+        "https://www.datacenterdynamics.com/en/news/meta-purchases-additional-1400-acres-for-hyperion-mega-data-center-expansion/"
+      ]
+    },
+    {
+      "id": "curated/xai-colossus-memphis",
+      "name": "xAI Colossus",
+      "operator": "xAI",
+      "lat": 35.063,
+      "lng": -90.025,
+      "city": "Memphis",
+      "state": "TN",
+      "status": "under_construction",
+      "capacity_mw": 1000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 (~100k–200k GPUs, ~250 MW); the Colossus 2 expansion across adjacent Memphis/Southaven buildings targets 1–2 GW. Notable for on-site gas turbines drawing local controversy.",
+      "website": "https://x.ai/colossus",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts"
+      ]
+    },
+    {
+      "id": "curated/microsoft-fairwater-wi",
+      "name": "Microsoft Fairwater",
+      "operator": "Microsoft",
+      "lat": 42.742,
+      "lng": -87.943,
+      "city": "Mount Pleasant",
+      "state": "WI",
+      "status": "under_construction",
+      "capacity_mw": 3300,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Microsoft's self-described \"world's most powerful AI datacenter\" on a 315-acre Mount Pleasant site, housing hundreds of thousands of NVIDIA GB200/GB300 GPUs. Projected to draw ~3.3 GW by late 2027 across a campus expanding toward ~9M sq ft; first buildings coming online in early 2026.",
+      "website": "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/",
+      "sources": [
+        "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-announces-worlds-most-powerful-ai-data-center-315-acre-site"
+      ]
+    },
+    {
+      "id": "curated/aws-rainier-new-carlisle-in",
+      "name": "AWS Project Rainier (New Carlisle)",
+      "operator": "Amazon Web Services",
+      "lat": 41.701,
+      "lng": -86.523,
+      "city": "New Carlisle",
+      "state": "IN",
+      "status": "under_construction",
+      "capacity_mw": 2200,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Amazon's massive New Carlisle, Indiana campus — the compute backbone of \"Project Rainier\" dedicated largely to Anthropic's Claude model training. A multi-billion-dollar, multi-gigawatt build using AWS's custom Trainium accelerators.",
+      "website": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-compute-anthropic",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/amazon-project-rainier-anthropic-indiana/"
+      ]
+    },
+    {
+      "id": "curated/meta-prometheus-new-albany-oh",
+      "name": "Meta Prometheus (New Albany)",
+      "operator": "Meta",
+      "lat": 40.092,
+      "lng": -82.792,
+      "city": "New Albany",
+      "state": "OH",
+      "status": "under_construction",
+      "capacity_mw": 1000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Meta's \"Prometheus\" AI cluster near New Albany, Ohio — among the first ~1 GW-class AI supercomputing campuses Meta expects to bring online (targeted 2026), part of its multi-hundred-billion-dollar superintelligence infrastructure push.",
+      "website": "https://datacenters.atmeta.com/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/meta-prometheus-hyperion-ai-superclusters/"
+      ]
+    }
+  ]
+}

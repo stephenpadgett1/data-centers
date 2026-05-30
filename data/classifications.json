@@ -1,0 +1,74 @@
+{
+  "osm/way/34770750": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Enterprise data center operated by Hewlett-Packard / HPE for its own corporate and cloud operations rather than for lease.",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  },
+  "osm/way/819981891": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center for HCA Healthcare's IT & Services division, supporting hospital and clinical systems — general compute, not for lease.",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  },
+  "osm/way/1344901566": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Wholesale colocation facility operated by Sentinel Data Centers, leasing space and power to multiple enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  },
+  "osm/way/204316962": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Multi-tenant colocation facility in Edison, NJ originally developed by IO Data Centers (since absorbed into Iron Mountain's portfolio).",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  },
+  "osm/way/723117951": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "STACK Infrastructure hyperscale-colocation campus in New Albany, Ohio — one of the anchors of central Ohio's fast-growing data center corridor.",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  },
+  "osm/way/460167190": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Wholesale colocation facility under the Intergate brand (Sabey lineage), built for multiple large tenants.",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  },
+  "osm/way/876120402": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Colocation facility developed by DBT Data in Harrisonburg, VA, serving regional enterprise and tenant demand.",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  },
+  "osm/way/1501825871": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Appears to be a high-density / cryptocurrency-mining site in Chateaugay, NY — part of a known upstate New York mining cluster drawing on cheap power.",
+    "source": "claude",
+    "classified_on": "2026-05-30"
+  }
+}
