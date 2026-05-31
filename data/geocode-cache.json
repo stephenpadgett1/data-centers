@@ -3,6 +3,10 @@
     "lat": 40.60226,
     "lng": -75.47161
   },
+  "archbald, pa": {
+    "lat": 41.4948,
+    "lng": -75.53685
+  },
   "box elder county, utah": {
     "lat": 41.35861,
     "lng": -113.21121
@@ -19,6 +23,10 @@
     "lat": 42.85012,
     "lng": -106.32514
   },
+  "charlestown, in": {
+    "lat": 38.44286,
+    "lng": -85.66203
+  },
   "cleveland, ohio": {
     "lat": 41.49966,
     "lng": -81.69368
@@ -26,6 +34,18 @@
   "colorado springs, colorado": {
     "lat": 38.83396,
     "lng": -104.82535
+  },
+  "conway, ar": {
+    "lat": 35.08919,
+    "lng": -92.43984
+  },
+  "corpus christi, tx": {
+    "lat": 27.76353,
+    "lng": -97.40332
+  },
+  "de soto, ks": {
+    "lat": 38.97917,
+    "lng": -94.96858
   },
   "desoto county, mississippi": {
     "lat": 34.87029,
@@ -35,9 +55,17 @@
     "lat": 32.24638,
     "lng": -106.37426
   },
+  "henderson county, tx": {
+    "lat": 32.1826,
+    "lng": -95.78932
+  },
   "ilion, new york": {
     "lat": 43.01507,
     "lng": -75.03543
+  },
+  "indianapolis, in": {
+    "lat": 39.76833,
+    "lng": -86.15835
   },
   "inver grove heights, minnesota": {
     "lat": 44.8479,
@@ -47,13 +75,41 @@
     "lat": 35.65205,
     "lng": -117.81766
   },
+  "kenilworth, nj": {
+    "lat": 40.67714,
+    "lng": -74.28707
+  },
+  "lakeland, fl": {
+    "lat": 28.03947,
+    "lng": -81.9498
+  },
+  "lawrenceburg, tn": {
+    "lat": 35.2423,
+    "lng": -87.33474
+  },
+  "lebanon county, pa": {
+    "lat": 40.37571,
+    "lng": -76.46261
+  },
+  "new florence, mo": {
+    "lat": 38.91032,
+    "lng": -91.44822
+  },
   "north slope borough, alaska": {
     "lat": 69.53351,
     "lng": -153.82207
   },
+  "palm beach county, fl": {
+    "lat": 26.62798,
+    "lng": -80.44942
+  },
   "pittsylvania county, virginia": {
     "lat": 36.81217,
     "lng": -79.43641
+  },
+  "pocatello, id": {
+    "lat": 42.86203,
+    "lng": -112.45063
   },
   "rapides parish, la": {
     "lat": 31.17199,
@@ -62,6 +118,10 @@
   "rapides parish, louisiana": {
     "lat": 31.17199,
     "lng": -92.55264
+  },
+  "saline, mi": {
+    "lat": 42.16671,
+    "lng": -83.78161
   },
   "socorro, new mexico": {
     "lat": 34.05729,
@@ -74,5 +134,9 @@
   "upper merion township, pennsylvania": {
     "lat": 40.08602,
     "lng": -75.3662
+  },
+  "waco, tx": {
+    "lat": 31.54919,
+    "lng": -97.14746
   }
 }

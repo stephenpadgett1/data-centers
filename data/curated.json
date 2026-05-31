@@ -15,12 +15,12 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; first ~300 MW already running NVIDIA Blackwell GPUs as of 2025. The single most prominent purpose-built AI training campus in the US.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW across eight buildings; four are operational as of 2026 (first ~200 MW launched Sept 2025 on NVIDIA Blackwell GPUs) with completion expected by end of 2026. Oracle/OpenAI dropped plans to expand the flagship site, with Microsoft in talks to take on adjacent Crusoe capacity (combined complex ~2.1 GW). The most prominent purpose-built AI training campus in the US.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
         "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
-        "https://www.datacentermap.com/usa/texas/abilene/abilene-clean-campus/"
+        "https://www.datacenterdynamics.com/en/news/oracleopenai-drop-plans-to-expand-flagship-abilene-stargate-site-meta-in-talks-to-pick-up-crusoe-capacity-with-nvidias-help/"
       ]
     },
     {
@@ -53,12 +53,12 @@
       "city": "Memphis",
       "state": "TN",
       "status": "under_construction",
-      "capacity_mw": 1000,
+      "capacity_mw": 2000,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 (~100k–200k GPUs, ~250 MW); the Colossus 2 expansion across adjacent Memphis/Southaven buildings targets 1–2 GW. Notable for on-site gas turbines drawing local controversy.",
+      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024; in January 2026 xAI added a third Memphis building, expanding the complex toward ~2 GW and a reported ~555,000 NVIDIA GPUs (~$18B) — the largest single-site AI training installation in the world. Notable for on-site gas turbines drawing local controversy.",
       "website": "https://x.ai/colossus",
       "sources": [
         "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
@@ -94,16 +94,17 @@
       "lng": -86.523,
       "city": "New Carlisle",
       "state": "IN",
-      "status": "under_construction",
+      "status": "operational",
       "capacity_mw": 2200,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Amazon's massive New Carlisle, Indiana campus — the compute backbone of \"Project Rainier\" dedicated largely to Anthropic's Claude model training. A multi-billion-dollar, multi-gigawatt build using AWS's custom Trainium accelerators.",
+      "summary": "Amazon's massive New Carlisle, Indiana campus — the compute backbone of \"Project Rainier\" dedicated largely to Anthropic's Claude model training. Phase 1 (~30 buildings, 500k+ custom Trainium2 accelerators) became operational in October 2025; a Phase 2 expansion announced Nov 2025 brings committed investment past $26B, with the full campus drawing toward 2.2 GW on a 1,200-acre site.",
       "website": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-compute-anthropic",
       "sources": [
-        "https://www.datacenterdynamics.com/en/news/amazon-project-rainier-anthropic-indiana/"
+        "https://www.datacenterdynamics.com/en/news/amazon-project-rainier-anthropic-indiana/",
+        "https://constructionreviewonline.com/amazon-announces-15-billion-data-center-expansion-in-northwest-indiana-states-largest-construction-project/"
       ]
     },
     {
@@ -287,26 +288,6 @@
       ]
     },
     {
-      "id": "curated/news/cleveland-oh-11",
-      "name": "Proposed $1.6B data center — Cleveland",
-      "operator": null,
-      "lat": 41.49966,
-      "lng": -81.69368,
-      "city": "Cleveland",
-      "state": "OH",
-      "status": "planned",
-      "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
-      "confidence": "low",
-      "summary": "A ~$1.6B data center planned in Cleveland, Ohio. Early-stage, reported locally; neighbors have raised concerns.",
-      "website": null,
-      "sources": [
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE10b1Z0NEdpOUNHVkVfaDVvNGoyVFNVMnBGc1Fwdko5UGU1ZkZhTUhmTEVfTnVPbzFpSVB6cFNLbFB2LXh5TXc0MDFUWEZTZi02TXZvZ3BkRm9iWXpoaUk2aHR6cy1CSS1Cb1oxSlR1NTZvZDBmTUxWRTNraEM?oc=5"
-      ]
-    },
-    {
       "id": "curated/news/broken-arrow-ok-12",
       "name": "Proposed data center — Broken Arrow",
       "operator": null,
@@ -419,8 +400,8 @@
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
-      "confidence": "low",
-      "summary": "A massive data center planned in Pittsylvania County, Virginia, with new details emerging. Early-stage.",
+      "confidence": "medium",
+      "summary": "A very large data center project in Pittsylvania County (Danville area), Virginia. County leaders approved the project in 2026 — described as a ~$100B investment with more capital and jobs than originally announced, contingent on tax incentives remaining in place.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1LT0RETDkxSDAtaDItZ3lzNUhPZlhueG92dGpwUVluZ3daSGkzZ0Z5Q3VfQlViX25qZUZRbTgyMGYxV2xnQXVkeURXZThwdFo4V05VcVhuUFV3VjBoU1E2ak1CaTR6SDF2WFMtNGE2MEl3SWEtaVVYd0lrOHAySVhrNjFRUDVsUGgtSHJQRmc5Z0VsU0duNdIBrAFBVV95cUxNX2ZGeXdpYXVNYUJiSTNpanJidDRrOUdIbUZkcDRCZTZuQmM0R2s1SnR0XzhZSXd6dXlhdkt4dnRFUjZLNFEwUFJjM2JCQ3EtWkVOS3Q4TTNsSk5ZWjg3VExKRFNYRVdHQ19ibUxLTUQwbHdEemcxbXZDZ3VOZFB0SnROTTBlb3EtV0FyOTNESW5UcXYtLTlmajNxa3gxcjJETk01MS14SDVHcmds?oc=5"
@@ -428,22 +409,24 @@
     },
     {
       "id": "curated/news/box-elder-county-ut-39",
-      "name": "Proposed data center — Box Elder County",
-      "operator": null,
+      "name": "Wonder Valley (Stratos Hyperscale) — Box Elder County",
+      "operator": "Wonder Valley (Kevin O'Leary)",
       "lat": 41.35861,
       "lng": -113.21121,
       "city": "Box Elder County",
       "state": "UT",
       "status": "planned",
-      "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
-      "confidence": "low",
-      "summary": "A proposed data center in Box Elder County, Utah, drawing concern over its scale and impact. Early-stage.",
+      "capacity_mw": 7500,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "The Wonder Valley / Stratos Hyperscale campus backed by Kevin O'Leary in rural Box Elder County, Utah — pitched at up to 7.5 GW across 10,000–13,000 acres, which would make it one of the largest data centers in the world. County commissioners approved enabling resolutions on May 4, 2026 amid fierce local opposition; construction is not expected to begin until ~2028.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxONk43NWJZM3dYLW12VW1hbmNPdmdiXzlyRHdZdW5pQXZpckhDbEpDeTNmM1pvQVdtZTVjYjUtSWFES1ZQdkFfUGp0dTBqeWdFY1JyUlRhVG1wbFFhNVZxZjNvRzVzNmw5Vmh5aXE1SW1FRVo3NVpNVlJ4OHFzX3VzR0dWUVRta2M4Qno4NHpjdG9scTFwdG5B?oc=5"
+        "https://fortune.com/2026/05/11/shark-tank-kevin-oleary-millionaire-utah-data-center-american-politics-protests-ai-tech/",
+        "https://edition.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition",
+        "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/"
       ]
     },
     {
@@ -484,6 +467,331 @@
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWVZVmJyVHJDRWF0bTZleGktdEhwdlNUQjU5RlNxTUdnaHJrNlVpeWp2V2RXSEUwcVJaM1FWTDQtT1cxX0VCRFBLRzdQbm0wZ0Q5bnBaakNGdDFDSHFseWdtS1JRU2VIbjBVLXlVVEhfcUhHc2h6YlpfV2U1Qm1yMkdGeEZQUmtKeG5vemRPZHR5NFE3cUwtRUd6cGVLQ2NFNkozVnN0dWFYdEYyRVdielBiRk1fTUp0ODlV?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/saline-mi-oracle-53",
+      "name": "Oracle / OpenAI data center — Saline Township",
+      "operator": "Oracle / OpenAI (Related Digital)",
+      "lat": 42.16671,
+      "lng": -83.78161,
+      "city": "Saline",
+      "state": "MI",
+      "status": "under_construction",
+      "capacity_mw": 1000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "A ~$16B data center campus in Saline Township (Washtenaw County), Michigan, developed by Related Digital and purpose-built for Oracle to support its OpenAI AI-compute partnership. Three single-story buildings totaling more than a gigawatt; construction began in 2026 after the township initially voted the project down.",
+      "website": null,
+      "sources": [
+        "https://www.prnewswire.com/news-releases/related-digital-announces-financing-for-16-billion-oracle-data-center-project-in-saline-township-michigan-302753421.html",
+        "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+      ]
+    },
+    {
+      "id": "curated/news/new-florence-mo-google-52",
+      "name": "Google data center — New Florence (Montgomery County)",
+      "operator": "Google",
+      "lat": 38.91032,
+      "lng": -91.44822,
+      "city": "New Florence",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Google's $15B data center in New Florence, Montgomery County, Missouri — announced May 2026 as the largest single private investment in state history. Primarily air-cooled to minimize water use; sited along Interstate 70 west of Warrenton.",
+      "website": null,
+      "sources": [
+        "https://www.kcur.org/housing-development-section/2026-05-21/missouri-governor-announces-15-billion-google-data-center-in-montgomery-county",
+        "https://governor.mo.gov/press-releases/archive/missouri-secures-15-billion-investment-google-montgomery-county"
+      ]
+    },
+    {
+      "id": "curated/news/nueces-county-tx-hut8-56",
+      "name": "Hut 8 Beacon Point — Nueces County",
+      "operator": "Hut 8",
+      "lat": 27.76353,
+      "lng": -97.40332,
+      "city": "Corpus Christi",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 1000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Hut 8's Beacon Point AI data center campus on a 525-acre site in Nueces County, near Corpus Christi, Texas. A 15-year, 352 MW lease (~$9.8B base value) was signed with an investment-grade hyperscale tenant; the campus has a 1 GW interconnection agreement with energization targeted for Q1 2027. Has drawn local concern amid the region's water crisis.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/hut-8-signs-352mw-data-center-lease-in-texas-with-investment-grade-tenant/",
+        "https://www.kristv.com/news/local-news/in-your-neighborhood/nueces-county/hut-8-signs-9-8-billion-lease-for-ai-data-center-campus-in-nueces-county"
+      ]
+    },
+    {
+      "id": "curated/news/desoto-ks-beale-55",
+      "name": "Beale Infrastructure hyperscale campus — De Soto",
+      "operator": "Beale Infrastructure",
+      "lat": 38.97917,
+      "lng": -94.96858,
+      "city": "De Soto",
+      "state": "KS",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Beale Infrastructure's ~$3B hyperscale data center campus in De Soto, Kansas (about 30 miles west of Kansas City) — billed as the first hyperscale data center announced in the state. Full buildout is planned at four buildings and more than one million square feet, backed by Blue Owl Capital with power from Evergy; first phase broke ground in 2026.",
+      "website": null,
+      "sources": [
+        "https://www.businesswire.com/news/home/20260429340180/en/Beale-Infrastructure-Announces-Hyperscale-Kansas-Data-Center-Campus-Advancing-$3-Billion-Infrastructure-Investment",
+        "https://rebusinessonline.com/beale-infrastructure-unveils-plans-for-3b-data-center-campus-in-de-soto-kansas/"
+      ]
+    },
+    {
+      "id": "curated/news/pocatello-id-54",
+      "name": "Proposed AI data center — Pocatello (former Hoku site)",
+      "operator": "Lex Developments",
+      "lat": 42.86203,
+      "lng": -112.45063,
+      "city": "Pocatello",
+      "state": "ID",
+      "status": "planned",
+      "capacity_mw": 200,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A ~$2.26B, 200 MW AI campus proposed by Arizona-based Lex Developments on the site of the defunct Hoku Materials polysilicon plant in Pocatello, Idaho. Early-stage; a conditional-use permit was under review in 2026.",
+      "website": null,
+      "sources": [
+        "https://boisedev.com/news/2026/05/14/lex-portneuf-data-center/",
+        "https://localnews8.com/news/2026/05/13/pocatello-to-host-public-hearing-on-2-26b-ai-data-center-proposal/"
+      ]
+    },
+    {
+      "id": "curated/news/lakeland-fl-41",
+      "name": "Proposed hyperscale data center — Lakeland",
+      "operator": null,
+      "lat": 28.03947,
+      "lng": -81.9498,
+      "city": "Lakeland",
+      "state": "FL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A hyperscale data center proposed in Lakeland, Florida. Early-stage; surfaced via local reporting.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE56YzR3SXp0bHpZYlRUV0pvWERiMFdnbFA4cG0xSVIzaFk3dXhTeWlMb2txcVZrak9DM0N1ZVJEZ2tRMHZxZDVPcGtDanFBb1czdXhxSU1qdlFjT1pGcGFwNm1wWGp3cHUwT2tScW5Camk0eHFtT21lbg?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/lebanon-county-pa-42",
+      "name": "Proposed $1.7B data center — Lebanon County",
+      "operator": null,
+      "lat": 40.37571,
+      "lng": -76.46261,
+      "city": "Lebanon County",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$1.7B data center proposed in Lebanon County, Pennsylvania, drawing local protest. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilAJBVV95cUxQLWZyTlhIM2tydHJMRmZ4cnVrQ2J2cmJNZ21CcF9SVnF3dVFicmVzMTdEdmxXaDRKbGpsTm5OYW9NN0pQcjItVW42b3BFX0t3Y1NWTGxyd0d5Z1JnY3ZObl9iLXVreGkwdTcwVkRwZ3YybG1hX3JPcHZNenc4c0VlQWlxMTlSRnBIZTVlTkZGNGRYOGw3QnVJWDNBNl9tbDlQaGpFZjFDam5yaHM1eDBsdkdnV1o2cEQ3d3hXNWZqZW1va0RPQmxXQ0M2RGtDQy1OUS1iRGJmWXZESEhHVFJDNGFTUUkxQ0prelMyNEQyemUwUjFPRkxwWDU4V3lCMXJwbTFHYUFKYjZoVmt5djNDeDNfZno?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/palm-beach-county-fl-43",
+      "name": "Proposed data center — Palm Beach County",
+      "operator": null,
+      "lat": 26.62798,
+      "lng": -80.44942,
+      "city": "Palm Beach County",
+      "state": "FL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Palm Beach County, Florida that some neighbors say is too large for the site. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQRE5oeXlMR2pMMmI2V29iNHFBVlowcHdtRjZ1dV9fOTZ2cmRMTEJqYXdQdUg1RTAyMVhQTnV0akpkemhFQVF4VFB2TF9GeXg1M21QdnlwRVdvOE9qeXVTQU9yU3pmZDlMM0pRZlQ3d2l2TXY5NlZGYkNhSUhxV216MVBEVF8wbzNMYThyQm5pc2FHT05sUm1EWXluTUNfeGVkbFFwRHNHNHhOLUFRX1J0Y0hsdHgyLW1lY19BOFNJR2t6TGM4U2xXVUdTVEVPdlJTSnBDaTFfWDdhSWhYeDMtdDIyTGxVRUNWWFc2eUViYXU2ZkJnYm1SNVdMMVBhSDN3bmdreXFsSWRVSUFSWHdMYUgxRjhXNnlSYVBvcm9mTnJ3RnhYNVBHQ3gwcmo3N3lUeEd3N3F6T2NvYmVmT1FpZmE3MHFYdVU5Zl9naktTWHhUQWtBUFNua0dMV1Z4YmdNNmktVlplVGF6U1FIWWpkUFJReWJ0Mm1Pc3VXbg?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/charlestown-in-44",
+      "name": "Proposed $105M data center — Charlestown",
+      "operator": null,
+      "lat": 38.44286,
+      "lng": -85.66203,
+      "city": "Charlestown",
+      "state": "IN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$105M data center proposed in Charlestown, Indiana (Louisville metro); neighbors have raised noise and traffic concerns. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcmpLbzl1amJJM0dFYWl2ZzdpeG1hTE5ROXJRd2RVNFVGdWhpOUpIaW4xREgzV2VCWEpEV3p3bEJnQWF4M2JnRGZnVUJVNGlXQkRMLXh3aXdwbjcwS21EWDFyVXJmWjNqRm9ScVZxZjNyS0VxT2FtOVhqcEFmX0NMcV9tS2hFWG9TaEdKUTFBbTR6bVMySS10OHl5b3hWSE1KOTkzbjFyYjdKYmlNR0hXYjJjTVRCWjFETHFTTEdoc1podXBtQmU1SHUzejZXdENZemh3Zk92NlZBZWZUTERGWjdyTlpJN2FZSHRpeUtsZURsY1YyUG8w?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/waco-tx-45",
+      "name": "Proposed data center — Waco area",
+      "operator": null,
+      "lat": 31.54919,
+      "lng": -97.14746,
+      "city": "Waco",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A second data center proposed in the Waco, Texas area, alarming rural residents. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGR4bFR0Q2Z0NlR6MkxHMHlpU3NHZHpFUHluQ3VrYWV2ZG5OS2lNblVzMTdkNGE0aDlUeURYa3FmbDVBbllrMW0tQ2hZTjYtUnQ4OGVkZmVHYVB4UUJpYWlucldsRzdoQ3IxUl9LRXdYXzd1allBcU43UWZ6QVV0UVpmdzlTS1Qz?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/henderson-county-tx-46",
+      "name": "Proposed data center — Henderson County",
+      "operator": null,
+      "lat": 32.1826,
+      "lng": -95.78932,
+      "city": "Henderson County",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center planned near a water source in Henderson County, East Texas, prompting local alarm. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXBYZWdpR0VPQVhlcjdWa2MyVTZ3NmdQeUE3Q2V0emxuN1pDVzhuTUo3LUV0aVRYeFNqR2ZQMm4tZ0RIRXBoN1I4TXpiQ1VZc2tNcFNMaUpZdDltNElyX1Iydk5lZnpuODRjbTEtSVEzWWk2bktFaks2R1NOaDZMSUJhYllBZHlSYjZIUlJpdnpkRm81Uk1UeDNmcFpzREhxM2FudHV5SUxtVzJsaTA1TVFxYlVXMENi0gG-AUFVX3lxTFA0RUFKNi1vaFFmUHQtc0I2UVlqczRWMVRTT0pUUEpzYXRENXRyWmE3c0JmRE5MWXF6Y1d5T2xOSjVwOXVSZkpYV0s1MC1GV21MaGkySERxSW5HQnJqOVdWZDdQZVlvVmpjR0x2VHhmNnAtOFR2LUZSV1pMRl95YUQxVWNHdlAyZE9zc0RzaHdhWWJDaHdkM21BLWpvTDROaVdhMGdjNXBVNGRCRW10d0ZXYkJlV0Z3NEVpYkNxTHc?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/conway-ar-47",
+      "name": "Proposed $1B AI data center — Conway",
+      "operator": null,
+      "lat": 35.08919,
+      "lng": -92.43984,
+      "city": "Conway",
+      "state": "AR",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A ~$1B AI data center proposed near Conway, Arkansas; residents have protested over tax, water and power concerns. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcG1PZDBHcUQ1NFhPd2FJYzljTEhPNnNianN4X0ZpNHF4bHRTQWxxOWhKOE4ydEMwNEJ2Mmg2OEROR0tsZm9ObWVJYk83MzBIckZNRjFkN3NKbzk4bTN4Zm81ZWdzcC1EQW1POUdLOXM4TUdEUkxlbzRnY19zSGlHWURkaGFOU1hMRlRNNGdUUHpOZXlFMjREamYwQWVxUThibXZjaFRiRDdhUkdXcUtPQk1TUWZDQUpsMXdjZmVEY0w2SmdwWWJWUjR5UnpEazJaNXVRZkVfN2hiSmp3VC1VcGZ2VTZPQzBRdW54eVNhOEtHZWFYeExWT2c2MjcxN3VFeGJsbzUyMXc3N0xu?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/lawrenceburg-tn-48",
+      "name": "Proposed data center — Lawrenceburg",
+      "operator": null,
+      "lat": 35.2423,
+      "lng": -87.33474,
+      "city": "Lawrenceburg",
+      "state": "TN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Lawrenceburg, Tennessee that has outraged some residents. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSlNjWl9ZeHI4UjR2WDI5d3F6dEwxSlJXWWdoWjJjUlNUdFNQRWpEZms4VFBpdmlxbmZYdU9HcGpPZ0ExVFhmbXdrN0t2Ml9EOE5TaG9HdG14X0l1QXdHSzdZNUtxRDBXRG1JNnZ0TmVyVkJDNEFPZDFPSnh2Vmp2aTdadDI5LVQ3ZHRxZDRsUVE4dks4bUZRZ0VpZkNBMnFzUTd2QWZGWlB0OW96ODdCS3l4YVE5blA4NEYtblVSOWV0LVBUSEJZZXZ0UFhDNDQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/kenilworth-nj-49",
+      "name": "Proposed AI data center — Kenilworth",
+      "operator": null,
+      "lat": 40.67714,
+      "lng": -74.28707,
+      "city": "Kenilworth",
+      "state": "NJ",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center in Kenilworth (Union County), New Jersey, drawing resident protest. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHVoZHc2bVJjNG52SVA3Y1lsc0ZYWHdiSzlMMVJKYjFHdEpOS0RUcW1CTW1LZklCMDc0dm5fdEd3ejBwcVROaVZYeU5tVVFnYkVSYlE5NXI4SDdGOFpFRW93RjhaMGZkenpiMDZyS21XbVhveUJxMDIxYkJ5Z2VvbjBnSXVrenpTOVhhSXdnTlBnVkxFb3U3QjJibmFnWnpHWTQ0NWpwdGt0aGJsc01SY216cEhUcnZGOHhONWZfUXFBNE9CUVUwSjR4bw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/archbald-pa-50",
+      "name": "Proposed data center campus — Archbald",
+      "operator": null,
+      "lat": 41.4948,
+      "lng": -75.53685,
+      "city": "Archbald",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center campus proposed in Archbald, Pennsylvania (Lackawanna County). The project was removed from the state's fast-track permitting program in 2026 but remains under development. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmNxNEQ4VTRidDFFSEtaMHhNdUZwWkVBX2lGd0Q2ZUNhX0puREJCclphR0t2SVR0VkJVYjV0VDFoaHdLRHp3T1lHNHBOTXg1Y1ZJWUwwTTM4NDV4cjZBUjBNbWNfeTZPczdDaU9XS01uMTBXVk5lMHlxaktSWWRlUUNjREtmOU9SU1lESzV0RmprN0VoTmhraWFwNDlLWGx3NDlfYndqUWRNakpRQm9YTV9yNmlfaWR4?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/indianapolis-in-51",
+      "name": "Proposed $2B data center — Indianapolis (east side)",
+      "operator": null,
+      "lat": 39.76833,
+      "lng": -86.15835,
+      "city": "Indianapolis",
+      "state": "IN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$2B data center proposed on Indianapolis's east side, with residents pushing back. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOG1oRGVlWlJ4bUFBNzREMWxLSi14d25vakNzNWZia2hrT2Q0bXg4Wk41S1hLNmV4cnNpVjhOM2pwMjdBcS1JTldzVFdYRGpYQ3g2Tk1idUxQTllmSWc5OTltZlNSMjFRd2dkWTdmZlpxTEl2WjlIaTl0a01lYm1PZWlacFBad2tsQnEwbWV3bHNYeWNDUHkxZnNISUtja2FGd3c?oc=5"
       ]
     }
   ]

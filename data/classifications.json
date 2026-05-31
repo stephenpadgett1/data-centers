@@ -70,5 +70,284 @@
     "summary": "Appears to be a high-density / cryptocurrency-mining site in Chateaugay, NY — part of a known upstate New York mining cluster drawing on cheap power.",
     "source": "claude",
     "classified_on": "2026-05-30"
+  },
+  "osm/way/380282154": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by Visa in Ashburn, VA, supporting the company's global payment-processing network rather than leased to tenants.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/598261190": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "State Farm Insurance corporate data center in Olathe, KS, supporting the insurer's internal IT and claims systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/240724127": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by eBay for its own e-commerce marketplace and platform infrastructure.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/931732650": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by eBay for its own e-commerce marketplace and platform infrastructure.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/1282332209": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "UPS enterprise data center in Alpharetta, GA, supporting the logistics company's package-tracking and operational systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/373913881": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Cisco Systems corporate data center on its Allen, TX campus, supporting internal engineering and IT workloads.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/830138727": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Banking data center originally built for BB&T (now part of Truist), supporting core financial-services systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/818790301": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Financial-services data center built for Credit Suisse in Clifton, NJ, supporting the bank's trading and back-office systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/325096144": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Adobe corporate data center in Hillsboro, OR, supporting the company's internal and product cloud operations.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/509611423": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Lowe's corporate data center supporting the home-improvement retailer's internal IT, e-commerce, and store systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/530982335": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "GoDaddy data center in Gilbert, AZ, operated to host the company's own web-hosting and domain platform rather than leased as colocation.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/507673418": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Citigroup Technology data center supporting the bank's core financial-services and transaction-processing systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/545895086": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "ADP (Automatic Data Processing) data center in South Dakota, supporting the company's payroll and HR-services platform.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/547156394": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "TJX Companies corporate technology data center supporting the off-price retailer's internal IT and store systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/464371693": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Enterprise data center operating under the Kaiser name, most likely a captive facility for Kaiser Permanente's healthcare IT systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/813688320": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Data center operated by Actapio, a US subsidiary of Yahoo Japan / SoftBank, serving the parent company's own compute needs.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/383888914": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Data Foundry Texas 1 colocation facility in Austin, TX (Data Foundry was acquired by Switch), leasing space to multiple enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/577628941": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Data Foundry Texas 2 colocation facility in Austin, TX (Data Foundry was acquired by Switch), a multi-tenant carrier-neutral data center.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/156520409": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Lakeside Technology Center at 350 E Cermak in Chicago — one of the largest carrier hotels / multi-tenant colocation buildings in the world, operated by Digital Realty.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/435518280": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "NAP of the Americas in Miami — a major carrier-neutral interconnection hub and colocation facility (originally Terremark, now operated by Equinix).",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/424945845": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Serverfarm LAX1 colocation facility in El Segundo, CA, leasing space and power to multiple tenants.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/1501805557": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Crane Data Centers facility in the Portland, OR area (Forest Grove), a multi-tenant colocation data center.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/978934687": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Digital Crossroad colocation facility in Hammond, IN, built on a former power-plant site to serve Chicago-metro tenants with low-latency interconnection.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/808979618": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "EdgeCore Digital Infrastructure wholesale data center in Mesa, AZ, built to lease large blocks of capacity to hyperscale and enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/379204643": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "LightEdge Austin II colocation and cloud facility in Austin, TX, serving multiple enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/863162820": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Stream Data Centers Chicago II wholesale colocation facility in Elk Grove Village, IL.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/863162825": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Stream Data Centers Chicago I wholesale colocation facility in Elk Grove Village, IL.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/958153769": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "DLI ONE colocation data center in Columbus, GA, offering multi-tenant space and connectivity.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/516686211": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Charter Communications (Spectrum) National Data Center in Charlotte, NC, supporting the cable/telecom operator's network and subscriber systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/439365340": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Data center of the Virginia Information Technologies Agency (VITA), the Commonwealth of Virginia's central IT organization serving state government systems.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
+  },
+  "osm/way/253670255": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Greenidge Generation site in Dresden, NY — a natural-gas power plant co-located with a behind-the-meter Bitcoin-mining data center.",
+    "source": "claude",
+    "classified_on": "2026-05-31"
   }
 }
