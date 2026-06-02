@@ -129,22 +129,23 @@
     },
     {
       "id": "curated/news/rapides-parish-la-1",
-      "name": "Proposed AI campus — Rapides Parish",
-      "operator": null,
+      "name": "Applied Digital AI campus — Rapides Parish",
+      "operator": "Applied Digital",
       "lat": 31.17199,
       "lng": -92.55264,
       "city": "Rapides Parish",
       "state": "LA",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
       "workload": "ai",
-      "confidence": "low",
-      "summary": "A ~$3.6B AI data center campus proposed in Rapides Parish, Louisiana — early-stage, reported by local press; developer/tenant not yet confirmed.",
+      "confidence": "medium",
+      "summary": "A multi-billion-dollar Applied Digital AI data center campus in Rapides Parish (Central Louisiana / \"Cenla\"), announced alongside Gov. Jeff Landry in May 2026. Applied Digital, an AI/HPC hyperscale operator, is the named developer; early-stage.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5"
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZnQmZwdGFla1owY0ctWW8yNGVwV3JaZ3FqcDlZQUYtUFRwSDVkM0VsNUVVdzdqcDM5NzBwbG1PTndVdHBSMnNXYVV0Zjdyek5wWVBoaEJHSUJBMXNfZkRPb0l2MkowSTNpVVdJS2ZVRlRYd0xpdExQNjgteXpVaWVsdmluWmt6WlE3Vkc1SVBIeUlFM2pyRVVUUWEwcVkyN0hEWTc1VjdPUFZucXhRV3lQMmFpUQ?oc=5"
       ]
     },
     {
@@ -736,22 +737,23 @@
     },
     {
       "id": "curated/news/kenilworth-nj-49",
-      "name": "Proposed AI data center — Kenilworth",
-      "operator": null,
+      "name": "CoreWeave AI data center — Kenilworth",
+      "operator": "CoreWeave",
       "lat": 40.67714,
       "lng": -74.28707,
       "city": "Kenilworth",
       "state": "NJ",
-      "status": "planned",
+      "status": "under_construction",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
       "workload": "ai",
-      "confidence": "low",
-      "summary": "A proposed AI data center in Kenilworth (Union County), New Jersey, drawing resident protest. Early-stage.",
+      "confidence": "medium",
+      "summary": "An AI data center in Kenilworth (Union County), New Jersey. CoreWeave acquired the site for a planned ~400,000 sq ft, ~$1.8B facility now under construction; the project has drawn resident protest and state scrutiny over tax incentives.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHVoZHc2bVJjNG52SVA3Y1lsc0ZYWHdiSzlMMVJKYjFHdEpOS0RUcW1CTW1LZklCMDc0dm5fdEd3ejBwcVROaVZYeU5tVVFnYkVSYlE5NXI4SDdGOFpFRW93RjhaMGZkenpiMDZyS21XbVhveUJxMDIxYkJ5Z2VvbjBnSXVrenpTOVhhSXdnTlBnVkxFb3U3QjJibmFnWnpHWTQ0NWpwdGt0aGJsc01SY216cEhUcnZGOHhONWZfUXFBNE9CUVUwSjR4bw?oc=5"
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHVoZHc2bVJjNG52SVA3Y1lsc0ZYWHdiSzlMMVJKYjFHdEpOS0RUcW1CTW1LZklCMDc0dm5fdEd3ejBwcVROaVZYeU5tVVFnYkVSYlE5NXI4SDdGOFpFRW93RjhaMGZkenpiMDZyS21XbVhveUJxMDIxYkJ5Z2VvbjBnSXVrenpTOVhhSXdnTlBnVkxFb3U3QjJibmFnWnpHWTQ0NWpwdGt0aGJsc01SY216cEhUcnZGOHhONWZfUXFBNE9CUVUwSjR4bw?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdThTSXdVMmZOX194bnl1dTVYQUZqR0c1RkxQcmFocVJ1VlpTWi14aUlhREFxcjBvUHMxdHR1ZUpIb01WcWNyNnZ3cnROT1h0MVhtZHhrdjU2cThCS0c3TmljSklJWkwySUtjVnBCbkNIUVhMbjkzQ014YjB5Y3c3aUl4RDR6Vks4aFBr?oc=5"
       ]
     },
     {
@@ -792,6 +794,368 @@
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOG1oRGVlWlJ4bUFBNzREMWxLSi14d25vakNzNWZia2hrT2Q0bXg4Wk41S1hLNmV4cnNpVjhOM2pwMjdBcS1JTldzVFdYRGpYQ3g2Tk1idUxQTllmSWc5OTltZlNSMjFRd2dkWTdmZlpxTEl2WjlIaTl0a01lYm1PZWlacFBad2tsQnEwbWV3bHNYeWNDUHkxZnNISUtja2FGd3c?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/independence-mo-nebius-57",
+      "name": "Nebius AI data center campus — Independence",
+      "operator": "Nebius",
+      "lat": 39.09248,
+      "lng": -94.41379,
+      "city": "Independence",
+      "state": "MO",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "AI-cloud provider Nebius broke ground in May 2026 on a ~400-acre AI data center campus in Independence, Missouri, amid local community opposition. Early construction stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGV6S0VweW9QcnQ4SDlrY2NmREsyemcwS21ieThYUzFjLVJveEp2ZjdYdWtLR25Fbk9KcHY5bllwZldCR0tnYXZoYVRwbmVXUXRfWlNtNHo5T2lzYzZuZFVkd0R1dERzN3lKR3lmR05DUU0yb0pDR3dUY2xQWlJlbDhWd3RPcy1RR0M3NEdmNFAzb3FKRV9WWnhTcFBxN3czRmNwMC1zQ2hqcFFFcmdjQW5VYkh4dEEyaHpPTw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/west-feliciana-la-hut8-58",
+      "name": "Hut 8 River Bend AI campus — West Feliciana Parish",
+      "operator": "Hut 8 (Fluidstack tenant)",
+      "lat": 30.88427,
+      "lng": -91.40167,
+      "city": "West Feliciana Parish",
+      "state": "LA",
+      "status": "under_construction",
+      "capacity_mw": 245,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Hut 8's River Bend AI data center campus in West Feliciana Parish, Louisiana — an up-to-$10B Phase I build drawing 330 MW of Entergy capacity to support ~245 MW of commercialized IT. Financed in April 2026 via $3.25B of investment-grade senior secured notes and leased, with Google backing, to AI-cloud firm Fluidstack for Anthropic workloads. Construction underway; operations targeted for Q2 2027.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNEhYV01FXzgxRE5RZVJCRjNoeU5lX21IOTE2Q0Vtb1hfVDNVMWpjZll0ajYxeGdheUpIeExKSHZZQmE4SFlHMzk2eTN1RnBvR2ZJaW9GWWd4WWFZSU1VUnBoWEV1X0xSYTdKYzB5U3ctRWktcGN1WEd5NlJpNFdlcERVR0RnNVk4WXg1bUVqOVRfcUUwMXRwRVUwTFMxSWg3WW11OG95UTVRTFRzU3p1Mko5OW53NHhrc3dPdGdOdEh3R3lqMXFWaXphWkFaeUtDOVg3VlpUYWFpcFB5ZUJXV0RkVmxzWVc0OTdNa0xkTkFJZ0ZrS25vRWRibU55YmRaaGhycHpNWkxSV3M?oc=5",
+        "https://www.datacenterdynamics.com/en/news/hut-8-selling-325bn-in-bonds-to-finance-google-and-anthropic-backed-river-bend-ai-data-center-campus/"
+      ]
+    },
+    {
+      "id": "curated/news/santa-teresa-nm-jupiter-59",
+      "name": "Project Jupiter (Stack Infrastructure / Oracle) — Santa Teresa",
+      "operator": "Stack Infrastructure / Oracle (BorderPlex Digital)",
+      "lat": 31.87003,
+      "lng": -106.68658,
+      "city": "Santa Teresa",
+      "state": "NM",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Project Jupiter — a ~1,400-acre AI data center campus in Santa Teresa (Doña Ana County), New Mexico near El Paso, developed by Stack Infrastructure and BorderPlex Digital with Oracle as the confirmed tenant as part of the OpenAI/Oracle Stargate initiative. Plans span four buildings with on-site gas generation, battery storage and a desalination plant; headline investment cited up to $165B. Approved by county commissioners in 2025; developers revised the power plan in 2026.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNld4d2ROT0p3d05GLWNzZmdwTlJ1V2dIYmJwTERNTkFIWnA2dE45ekFtSmt1QzkxY2dxTzg2UnRXcTg2WE53bENzS1IyVGNOSHhZSWpEck1Oa1BjVGh2R2ZBbGtyOEp5VkVVS2lJSGNlTDFzRGdmbUlwT3hSeTJ3eG1qQlZLX3hTbU96MWJQMnVQeGdQd3FXRi1lUDM4cEkwQ05rdHVlRGhGbDJfaV8za2N2OXM?oc=5",
+        "https://www.datacenterdynamics.com/en/news/oracle-revealed-as-tenant-of-project-jupiter-data-center-campus-in-new-mexico/"
+      ]
+    },
+    {
+      "id": "curated/news/van-wert-oh-60",
+      "name": "Proposed $10B data center campus — Van Wert",
+      "operator": null,
+      "lat": 40.80147,
+      "lng": -84.60099,
+      "city": "Van Wert",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$10B data center campus confirmed for Van Wert, Ohio in May 2026, expected to bring some 1,500 construction jobs. Developer/tenant not yet publicly confirmed; early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1VwcHBIZGxiUUhQelFadTMycE9Vdng2ZnZDTklvS2llR2RHSTVBN1ljd25wNUMzMnRCUVcwR1RuZ1FYY1k5S3cweHlhbUlsOFozODJ6SlV2RE9uUHdjcWcxeXdlclRHOFhudHdmblZfaXpsYU9nbmJhRDNoa3hsU1A3XzMyVEhTckRXTHRIdTZQalVnaGN4b0d2VDZNMkpuMWp6WkdyNGl0RHV2YmlzbTV0WUVVd3ZWRXJwbS01SFJDVTdLZklQOFM0V01CelU?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/san-antonio-tx-706ac-61",
+      "name": "Approved 706-acre data center — near San Antonio",
+      "operator": null,
+      "lat": 29.4246,
+      "lng": -98.49514,
+      "city": "San Antonio",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A 706-acre data center development approved on the outskirts of San Antonio, Texas (reported May 2026). Operator/tenant not yet confirmed; approved but not yet under construction. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlYzWFVjOFV0NjFQUWtaMHQ0N0hzdHZYTG54M2hoc0NZX3RkbkVlcW50c3lsbjI4NURaN3N3QzZuOFp2aGR2ZXZPVzk3M21ubGFueEJRN3RiSjF0WnRtTU1RSU1JdzFnV3dQMTk0cTMyMHRjc1ZJVUE2djM2eFhubkt1VVB2Z0VRQlZ3UE9sWGhtX1BHTXhFV09xZWk5ZDNSNlNTeVpNZmV5WkNtOGNEYV9kUC1Edw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/st-louis-mo-armory-62",
+      "name": "Armory 'Innovation District' data center — St. Louis",
+      "operator": null,
+      "lat": 38.62541,
+      "lng": -90.19001,
+      "city": "St. Louis",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$3B data center planned within the redeveloped Armory 'Innovation District' in midtown St. Louis, Missouri; the city cleared a data center permit for the project in April 2026. Early-stage redevelopment.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHk3UjNUVkhPSTRoLVNXVXRsWENwblJCbTVtcmRLR3V6enlaTXpfX2VhZW5nSWtZbUhJcjJ2WkJZMGNSdkR5NU5YXzVFaEhSMW1pbUZIODYyZ1lzelZVdGRpcW02ZW9uRlF6VUNIbDdzV2p4OENQMmxBTG45VzlWYnQ1YUZpdkU3YkZXZW9KZEtIZnA5QVQxMnVrdHJmQ21iZXpudVBtRTFvRVlKOXVwVXBPV3VXaGJoZVc4WWdSR01uUjRLb09aWkNRTURJWUw4R1l1d2JET0hMZw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/bessemer-al-63",
+      "name": "Proposed data center campus — Bessemer",
+      "operator": null,
+      "lat": 33.40178,
+      "lng": -86.95444,
+      "city": "Bessemer",
+      "state": "AL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center campus in Bessemer, Alabama (Birmingham metro) that grew in scope in 2026. Operator not confirmed; early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDAyeE5nZFVRbGxxcDlFXzVJRHdkREw3T2RZVXQzRkNXYWdxZ1VPSEZVRm1nNHM1clZVbUZTQ1lONTNhajJQTXNfNXM1RjdldS1TZ09FQXZldDYxLWx2WDB1Y05tNXhnM3NzNWpSWEd5WnFLQXVPeWdnaTBzTUV1S0Q5dVJtRndhRE0xcFdZV0lWM3NWSnE4REF0OVlsMUUwUTFn0gG3AUFVX3lxTE50Ti1PanVpZHZwN1kzSFVwYWhnMzc0LVVUY1JkWmQ3b3lUSmlscGdwRVZMYTRBX1N2dHhaM1R0eHBJbGttb3ZaSDF6UDJ3Wk1rOFRmSFQ0SldRTF96X1dKTDk1TTlwLVlVZF85RFJwSW04dmY1bElqNWZGQVlDbGRxTlVKa3ZzYnJFRmU0MHpRSGd3LWRTT01pa2R5VkZRMjVjSF90MjE4T2ZqNkNPQml3Ym81TXF5WQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/red-oak-tx-64",
+      "name": "Proposed 800-acre data center campus — Red Oak",
+      "operator": null,
+      "lat": 32.51439,
+      "lng": -96.80666,
+      "city": "Red Oak",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "An ~800-acre data center campus proposed in Red Oak, Texas (south of Dallas), drawing packed council meetings and resident opposition in 2026. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVVJDUVIwQVJremkzRFk1ZUlYeG9JcGp6SFZvd29oeHFUVVRCX0FXS2JteXZUbEE5bGtvaVVXY21NWlZmUnpERF96MnVCVXpyZFNQYU5EdEx1VDdKMkI3Vm0yY1JlSXpWNFNuRUJOQlE2YW5Bb0Y1clZKUkxLamJSaG5faERzOU8tU20zbjFQVHREX2JUVEtkOHo3LURIVEluTzV6YjVYSnVibXlXTXBlZExPclpfQTZadWJrbmNqbklaV2p2RXdMelNGR2NRUUJTQ3B3QWVKSXFtaHEtZXI2djR2b1ZRQXpPVFE?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/benbrook-tx-65",
+      "name": "Planned $1.1B data center campus — near Benbrook",
+      "operator": null,
+      "lat": 32.67319,
+      "lng": -97.46058,
+      "city": "Benbrook",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$1.1B data center campus planned near Benbrook, Texas (Fort Worth area) that could break ground in summer 2026. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXVRQU1UcUIxM2tFWGNpS3BleFBFTDNiZ1VLaFZNYWVUUzNyZGtHdFlDek5EOVh3LUVFbHg1MlNGUVdyQzBWdEZfRWxmd1RuVThoNEI1b1dMcnJNbGgycUtEMzYxYTh5aGFEekZFVmNLeC1qV3pJMlZxSENiRHlJTA?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/texarkana-tx-bigpine-66",
+      "name": "Project Big Pine — 500-acre data center campus, Texarkana region",
+      "operator": null,
+      "lat": 33.44667,
+      "lng": -94.07715,
+      "city": "Texarkana",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "\"Project Big Pine,\" a 500-acre data center campus planned for the Texarkana region on the Texas/Arkansas border. Developer not yet confirmed; early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3FDUk0xMTJGVzBxdjJyUmlCMUE0OExrbGdqYnlLTW5MenRqcy03U1VpcXZodFlxX1U5dV9ERnBrZHVqUDlGd0xaVnlKbkE1VVgyemR3SkVnYVpEa1FHdEVYeU50VWU3UWx5Ukd0WHlCVTRJblNJeHo2SWxnTDNQWjV2cmxDc2ZIYXFKMFhlazVIYUlqMUpQUjI1Y2lLWVNRUGc?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/marshfield-mo-67",
+      "name": "Planned AI data center — Marshfield",
+      "operator": null,
+      "lat": 37.33712,
+      "lng": -92.90659,
+      "city": "Marshfield",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A planned AI data center near Marshfield, Missouri that drew hundreds to a packed public meeting in May 2026. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUGVmQjFOYzd5LXI0U0JIM3BQY1lEcHNxT2hxVXVmTk5vNnVpMGRrZjVza1FoaUtObFdXbGhFUHo4UEl3dVNuempySlFkbk1XSGRYaGl0WXFuckNvNS1WMDlDZV96NG5RMEx0cWM0TFdLTXdJRVNubmppdmFBX1htMUt2dm9hSUZMYTJqWVpWeHIxZVNyQ0NUeDRBRdIBrwFBVV95cUxQeFlQS0tHNWF4SHNlN1ZKaGFEOWZaU2RVS3MyRnc5M19lOXhNM1BIaTdPVjlVcjNUWnB3U1B1Z3NxUG54d2REMFlQb1VBNnZVRG94Y2dpb2p5VXEzbl9iQmFJekkwb09MaXRjTV9rdGJNTkpIX0h2cl9OZTVKQjctcDB3VXFMLWZIU3RmTW05VUlXbGNBUHlVQk5uYjJUMlVXVTNuSXYwcjZFYW5QcWlV?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/nodaway-county-mo-68",
+      "name": "Proposed AI data center — Nodaway County",
+      "operator": null,
+      "lat": 40.34834,
+      "lng": -94.87237,
+      "city": "Nodaway County",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center in Nodaway County, Missouri raising local concern over environmental, health and utility-cost impacts. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeWpwOXk4WUFwcXh1YmdGc0dBZFFmcW95dDdJUGU0Q0phWFdWOTRDRV8xZE5YOXVOS2h6SFBkUy1LUWJYLUdMcE5oLTFUZm9LRGNvTzJVWVU1UlpncUNlTVVuWEJRYjR2SVFpQWVNOWxoY0JvM2U1ekZ5bjZkdEpPWVktTEVEcFJjbURST05VREFZYUNtTGdqS2tzeUV4clhkazdvdUZxVmtaT1RRM05JUDdDYzhPSUNXWm9zYjk5LXN2eVFha0dLclc0clN0TkYz?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/johnson-county-ks-69",
+      "name": "Proposed data center — rural Johnson County",
+      "operator": null,
+      "lat": 38.88379,
+      "lng": -94.83891,
+      "city": "Johnson County",
+      "state": "KS",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A large data center proposed on hundreds of acres in rural Johnson County, Kansas — a renewed proposal reported in spring 2026 after an earlier effort. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0dwaXVEUU5wZUxJdDFOWHViVVljbng5ZXlIWllQSFI2QV9oaF96OGlPTHZlQVJsRUdVaExmaXpuQWJPbzl0MF9BN3JLclFQcE1Mbl9uNUxpV0F3ZzNHa0pEZ2NxVnYzUVROY2cyWXVUdnlTM0ExTHhVdUd3WFl4blpXLVpvYUxuNUF6btIBjAFBVV95cUxObzJadmFEcUpuY2lXLW5jb3B0ZXhwNmRUY0VxQVJ1ZDB4WU10aUNrSm5pYzlyUFJDRlFNTldpTXdKUktTRzNIYUowMWp6TGJETWJzVl9INWlDTnROUy1oR0ZaMGVqT1Y2Y1lkU3pnOG41WHB6MXJlNFlLa0JZMFpVVkI4NW9vSVlFNWhLcQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/lowndes-county-al-70",
+      "name": "Proposed data center — Lowndes County",
+      "operator": null,
+      "lat": 32.10881,
+      "lng": -86.64025,
+      "city": "Lowndes County",
+      "state": "AL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Lowndes County, Alabama that packed a county meeting with residents in April 2026. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmYtdlVKNkZoNndrZFl3aWlVLS1jWHpXQWw3ZkFLQTkxSzYtUVFwUE14cENmd1lRT0VkT3ZwbnUzM1FuTUxnUlJCNnBzLTNKUFBpQWF6TW5ZV2F0Y3J6OGtVSXZSRWJvSjBtY3dHSGJmcVQ3d2NiOW5PRXlYaDhheXdPQ2lKdTdOQ2FXejA2UmdjN1FWd25vWlZCN0nSAbABQVVfeXFMTUhSWHlaSktWY0lZUVJ6dV9KOEJKbWliRHh4LTY1VWZYZFM2bS1qaTFVcG1TZWZSWXk1SXdzQzBmOFRKQThFYzFWSFNZVnA1TlNMZWhBemJnSjJhd0dCbHljUEs5V1U1dUF1MGZjQ0Q0TEMtMFFXWHdCWGU3TVJiT1JYRFkwWW10cVdJMTYtQUEwenlhR2xLZ0pFZDRtRTdhcm9wZldkbE5mZ0JYaERGc0Q?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/nassau-county-fl-71",
+      "name": "Proposed AI data center — Nassau County",
+      "operator": null,
+      "lat": 30.66243,
+      "lng": -81.77073,
+      "city": "Nassau County",
+      "state": "FL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center in Nassau County, Florida (north of Jacksonville) drawing growing local concern in mid-2026. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1am5uMzNPemZYYVpzMkpxbXc5ZF9HM2RYMFZya0pEVmlsTWRYOFp0cFZpaEZsX0pLWGxqQzFaV2xsR3k2ZDlLZ0luaUJLWjFmY0NmQlNpU0FYTS01dGdyZVVQVU5ERUdwc1E?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/hillsboro-tx-72",
+      "name": "Proposed data center (300 acres) — Hillsboro",
+      "operator": null,
+      "lat": 32.01085,
+      "lng": -97.13037,
+      "city": "Hillsboro",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center tied to a ~300-acre land sale in Hillsboro, Texas that has drawn community concern. Very early-stage (land-sale phase).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzRXVFZTdnJsc3VaQlhtVFRSTFRzQTVaVGpNVHJzNy1EbHlxVmNRNFJUR3hIT1RTMUVUUmZiVEJXc3pnRFNmanFSQWhENnlzekJlQWwtOTJ3TkpMQnFwX3FpU2RYRVNOUlgtSk9yaGpoRGVIUXdHOTQxSGtFN3czLW12cmU3S25Zbk1CWURVYXM5cUdySzhuZ294WFhRenRzUEw0ekd1b0JrLUhDaVhST1hnTUw1U0pXbXc?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/nashville-tn-fisk-73",
+      "name": "Fisk University data center — Nashville",
+      "operator": "Fisk University",
+      "lat": 36.16228,
+      "lng": -86.7743,
+      "city": "Nashville",
+      "state": "TN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "education",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Fisk University announced a ~$1B plan to transform its Nashville, Tennessee campus that includes building a data center. Early-stage; details still emerging.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbkx5YmFaV0pBVGczSktXZGJVYVFoQW9NR1o5c3ZBbXpOdVNfQjgzX2dUaXJvM0UxR2VNcmNPNDRWb3JYbUdRcG1CRjBzNXVDakFzdlcyZDRkSV8xZUxFQTV1dmtXZ1ZrY2NhVlpUU2VIeTAtbk9YbWV2My1zU1JpT1RwX2xVYWo1OUFaeWdpUFd0ZzY2M1ptZGR0a0t1YlVvcDZVY2FZdHJEeWRHZy1v?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/durham-nc-duke-74",
+      "name": "Duke University data center — Durham",
+      "operator": "Duke University",
+      "lat": 35.99665,
+      "lng": -78.90181,
+      "city": "Durham",
+      "state": "NC",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "education",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Duke University announced plans for a new data center in Durham, North Carolina that it says will emphasize environmental responsibility and sustainability. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VVlNjTktQWi1WYzQwN053VVVKTUV3M0o5TlJrZk8ydFU2Z2Z5TjBsTlBfQVRydXREZXJoeUFialAxcHV4TUFpX3dMYTF0VUJqWTFZdVJzVUQzd2N2VEJtSXlwQVdUVGstajhqWUY4ZUdESXRTay1z?oc=5"
       ]
     }
   ]

@@ -7,6 +7,14 @@
     "lat": 41.4948,
     "lng": -75.53685
   },
+  "benbrook, tx": {
+    "lat": 32.67319,
+    "lng": -97.46058
+  },
+  "bessemer, al": {
+    "lat": 33.40178,
+    "lng": -86.95444
+  },
   "box elder county, utah": {
     "lat": 41.35861,
     "lng": -113.21121
@@ -51,6 +59,10 @@
     "lat": 34.87029,
     "lng": -89.97787
   },
+  "durham, nc": {
+    "lat": 35.99665,
+    "lng": -78.90181
+  },
   "fort bliss, el paso, texas": {
     "lat": 32.24638,
     "lng": -106.37426
@@ -59,9 +71,17 @@
     "lat": 32.1826,
     "lng": -95.78932
   },
+  "hillsboro, tx": {
+    "lat": 32.01085,
+    "lng": -97.13037
+  },
   "ilion, new york": {
     "lat": 43.01507,
     "lng": -75.03543
+  },
+  "independence, mo": {
+    "lat": 39.09248,
+    "lng": -94.41379
   },
   "indianapolis, in": {
     "lat": 39.76833,
@@ -74,6 +94,10 @@
   "inyokern, california": {
     "lat": 35.65205,
     "lng": -117.81766
+  },
+  "johnson county, ks": {
+    "lat": 38.88379,
+    "lng": -94.83891
   },
   "kenilworth, nj": {
     "lat": 40.67714,
@@ -91,9 +115,29 @@
     "lat": 40.37571,
     "lng": -76.46261
   },
+  "lowndes county, al": {
+    "lat": 32.10881,
+    "lng": -86.64025
+  },
+  "marshfield, mo": {
+    "lat": 37.33712,
+    "lng": -92.90659
+  },
+  "nashville, tn": {
+    "lat": 36.16228,
+    "lng": -86.7743
+  },
+  "nassau county, fl": {
+    "lat": 30.66243,
+    "lng": -81.77073
+  },
   "new florence, mo": {
     "lat": 38.91032,
     "lng": -91.44822
+  },
+  "nodaway county, mo": {
+    "lat": 40.34834,
+    "lng": -94.87237
   },
   "north slope borough, alaska": {
     "lat": 69.53351,
@@ -119,13 +163,33 @@
     "lat": 31.17199,
     "lng": -92.55264
   },
+  "red oak, tx": {
+    "lat": 32.51439,
+    "lng": -96.80666
+  },
   "saline, mi": {
     "lat": 42.16671,
     "lng": -83.78161
   },
+  "san antonio, tx": {
+    "lat": 29.4246,
+    "lng": -98.49514
+  },
+  "santa teresa, nm": {
+    "lat": 31.87003,
+    "lng": -106.68658
+  },
   "socorro, new mexico": {
     "lat": 34.05729,
     "lng": -106.89308
+  },
+  "st. louis, mo": {
+    "lat": 38.62541,
+    "lng": -90.19001
+  },
+  "texarkana, tx": {
+    "lat": 33.44667,
+    "lng": -94.07715
   },
   "town of tonawanda, new york": {
     "lat": 42.98085,
@@ -135,8 +199,16 @@
     "lat": 40.08602,
     "lng": -75.3662
   },
+  "van wert, oh": {
+    "lat": 40.80147,
+    "lng": -84.60099
+  },
   "waco, tx": {
     "lat": 31.54919,
     "lng": -97.14746
+  },
+  "west feliciana parish, la": {
+    "lat": 30.88427,
+    "lng": -91.40167
   }
 }

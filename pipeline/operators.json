@@ -30,7 +30,7 @@
     { "name": "EdgeConneX", "aliases": ["edgeconnex", "edge connex"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
     { "name": "DataBank", "aliases": ["databank"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "TierPoint", "aliases": ["tierpoint", "tier point"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
-    { "name": "Sabey", "aliases": ["sabey"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
+    { "name": "Sabey", "aliases": ["sabey", "intergate"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "Aligned", "aliases": ["aligned"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
     { "name": "Cyxtera", "aliases": ["cyxtera"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "Stream Data Centers", "aliases": ["stream data", "stream realty"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
@@ -61,11 +61,17 @@
     { "name": "Patmos", "aliases": ["patmos"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "Ascent", "aliases": ["ascent corp", "ascent "], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "GI Partners", "aliases": ["gi partners"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
+    { "name": "Involta", "aliases": ["involta"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
+    { "name": "LightEdge", "aliases": ["lightedge"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
+    { "name": "Telehouse", "aliases": ["telehouse"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
+    { "name": "Serverfarm", "aliases": ["serverfarm"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
+    { "name": "Data Foundry", "aliases": ["data foundry"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
 
     { "name": "FirstLight", "aliases": ["firstlight"], "operator_type": "telecom", "workload": "general", "purpose": "purpose_built" },
     { "name": "US Signal", "aliases": ["us signal"], "operator_type": "telecom", "workload": "general", "purpose": "purpose_built" },
     { "name": "Hurricane Electric", "aliases": ["hurricane electric"], "operator_type": "telecom", "workload": "general", "purpose": "purpose_built" },
     { "name": "DirecTV", "aliases": ["directv"], "operator_type": "telecom", "workload": "general", "purpose": "purpose_built" },
+    { "name": "Cogent Communications", "aliases": ["cogent communications", "cogent "], "operator_type": "telecom", "workload": "general", "purpose": "purpose_built" },
 
     { "name": "DXC Technology", "aliases": ["dxc technology", "dxc "], "operator_type": "enterprise", "workload": "general", "purpose": "purpose_built" },
     { "name": "Yahoo", "aliases": ["yahoo"], "operator_type": "enterprise", "workload": "general", "purpose": "purpose_built" },
@@ -75,6 +81,7 @@
 
     { "name": "IONIC Digital", "aliases": ["ionic digital"], "operator_type": "crypto", "workload": "general", "purpose": "purpose_built" },
     { "name": "MineOne", "aliases": ["mineone", "mine one"], "operator_type": "crypto", "workload": "general", "purpose": "purpose_built" },
+    { "name": "Nautilus", "aliases": ["nautilus"], "operator_type": "crypto", "workload": "general", "purpose": "purpose_built" },
 
     { "name": "Lumen", "aliases": ["lumen", "centurylink", "level 3", "level3", "qwest"], "operator_type": "telecom", "workload": "general", "purpose": "purpose_built" },
     { "name": "Verizon", "aliases": ["verizon"], "operator_type": "telecom", "workload": "general", "purpose": "purpose_built" },

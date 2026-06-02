@@ -349,5 +349,302 @@
     "summary": "Greenidge Generation site in Dresden, NY — a natural-gas power plant co-located with a behind-the-meter Bitcoin-mining data center.",
     "source": "claude",
     "classified_on": "2026-05-31"
+  },
+  "osm/way/1092757323": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Compute North operated this site as high-density blockchain/crypto and HPC hosting drawing low-cost power; the company has since restructured.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/1052182309": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "4010 Data Center, a carrier-neutral colocation facility in Phoenix, Arizona leasing space and power to multiple tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/840582927": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Middletown Data Center, a colocation facility in Middletown, Virginia serving regional enterprise and tenant demand.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/1481581948": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Edged Chicago (ORD01), a sustainable, waterless colocation data center operated by the Edged platform near Chicago.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/224100721": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "A data center shell in Manassas, Virginia associated with COPT (Corporate Office Properties); wholesale space leased to data center tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/334264478": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "The Terminal Commerce Building (401 N Broad St) in Philadelphia — a major carrier hotel and multi-tenant colocation / interconnection hub.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/452116337": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "BT's facility at 492 River Road (Nutley, NJ) hosting BT Radianz managed connectivity for financial-markets customers.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/30666790": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "U.S. Postal Service facility (the Los Angeles Terminal Annex) used for postal data/processing operations — government-operated.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/256728809": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "First National Technical Center (FNTS), the primary data center of First National of Nebraska, supporting the bank's operations and its managed-services arm.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/37947313": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "OpenColo, a carrier-neutral colocation provider in Santa Clara, California leasing space to multiple tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/247427998": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by Merrill Lynch (Bank of America) for its own financial-services systems.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/453969923": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Former Time Warner (Cable) data center in Centennial, Colorado — cable/telecom operator facility.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/780063735": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Pacific Gas & Electric (PG&E) data center in Fairfield, California supporting the utility's own operations.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/317466755": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by Visa in Vernon Hills, Illinois, supporting its global payment-processing network.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/166431620": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Union Pacific Railroad's Jack Koraleski Technology, Research & Development Center in Omaha, Nebraska — the railroad's own IT/operations data center.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/509611426": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by CHRISTUS Health supporting the hospital system's clinical and IT systems.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/718465287": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Healthcare data center associated with Epic Systems / Mayo Clinic in Rochester, Minnesota, supporting clinical and EHR systems.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/813532303": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "SAP enterprise data center (COS02) hosting the software company's own cloud and corporate systems.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/1011125238": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "We Energies (WEC Energy Group) data center near Pewaukee/Waukesha, Wisconsin supporting the utility's own operations.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/903236619": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by Quicken Loans / Rocket Mortgage in Detroit, Michigan for its mortgage and fintech operations.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/138260136": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "The NCSA Petascale Computing Facility at the University of Illinois Urbana-Champaign — a research/HPC supercomputing center (home to Blue Waters and Delta).",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/224174031": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "SV Colo, a small carrier-neutral colocation provider in Santa Clara, California.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/244490839": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "phoenixNAP, a colocation and infrastructure-as-a-service provider in Phoenix, Arizona serving multiple tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/549418041": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by Experian (the McKinney, Texas facility) for the credit bureau's data and analytics systems.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/815078625": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by Charles Schwab for the brokerage's financial-services systems.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/138643160": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "LexisNexis data center in Springfield — captive enterprise facility for the legal/data-analytics provider's systems.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/1083841125": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "T5@Colorado Springs, a wholesale colocation data center operated by T5 Data Centers.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/545060574": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Liquid Web, a managed hosting and colocation provider, in Lansing, Michigan.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/509611437": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Stream San Antonio II, a wholesale colocation data center operated by Stream Data Centers.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/428021796": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Digital Realty (DRT) LAX10 colocation / interconnection data center in the Los Angeles market.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/384310259": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "XO Communications (now part of Verizon) data center in Fremont, California.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/509611436": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Captive enterprise data center associated with Valero Energy supporting the refiner's corporate IT operations.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
+  },
+  "osm/way/1320038649": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "DC BLOX cable landing station and data center in Myrtle Beach, South Carolina — a subsea-cable interconnection and colocation facility.",
+    "source": "claude",
+    "classified_on": "2026-06-02"
   }
 }
