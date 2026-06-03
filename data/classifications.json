@@ -646,5 +646,248 @@
     "summary": "DC BLOX cable landing station and data center in Myrtle Beach, South Carolina — a subsea-cable interconnection and colocation facility.",
     "source": "claude",
     "classified_on": "2026-06-02"
+  },
+  "osm/way/428021816": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "One Wilshire in downtown Los Angeles — one of the most important carrier hotels and interconnection hubs on the US West Coast, with dense colocation and meet-me-room tenancy (anchored by CoreSite).",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/250052753": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "32 Avenue of the Americas, a landmark Manhattan carrier hotel and interconnection hub (the former AT&T Long Distance Building) housing dense network and colocation tenancy.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/289884123": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "33 Thomas Street, the windowless AT&T 'Long Lines Building' in Lower Manhattan — a hardened telecom switching and network facility operated by AT&T.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/369452572": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "The Pittock Block, the principal carrier hotel and interconnection point in downtown Portland, Oregon, home to the NWAX internet exchange and multiple colocation tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/node/3732415309": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Carrier-neutral interconnection / meet-me space in the Pittock Block (operated by Alco Properties) hosting the Pittock/NWAX internet exchange in Portland, Oregon.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/209073645": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Colovore, a high-density, liquid-cooled colocation provider in Santa Clara, California catering to power-dense AI/HPC and enterprise deployments.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/relation/12901583": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Liberty Center One, an independent colocation and disaster-recovery data center in Royal Oak, Michigan serving regional enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/node/6401035673": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Rack59 Data Center, a carrier-neutral colocation facility in Oklahoma City, Oklahoma.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/node/13311012216": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Fiberhub LAS1, a colocation and managed-infrastructure data center in Las Vegas, Nevada.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/node/12766117170": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Dataverge, a carrier-neutral colocation provider in Brooklyn, New York.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/node/8165754026": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Data Holdings, a Tier III colocation data center in Milwaukee, Wisconsin owned by the Forest County Potawatomi Business Development Corporation.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/290703004": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "CoreSpace, a colocation and managed-hosting provider operating a data center in Dallas, Texas.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/492699069": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Colocation data center operated by TPx Communications (a managed-services / UCaaS provider) in Santa Ana, California.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/379199519": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Alpheus Communications colocation data center in Austin, Texas, part of the Texas fiber operator's network and colocation footprint.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/328702348": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Tata Communications network / cable-landing facility (TGN — Tata Global Network) in Hillsboro, Oregon supporting transpacific subsea cable systems.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/node/7324132050": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Windstream Communications network and data facility in Durham, North Carolina.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/453969917": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Former Time Warner Cable data center in Centennial, Colorado — a cable/telecom operator facility now part of Charter/Spectrum.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/169170979": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by Molina Healthcare in Albuquerque, New Mexico, supporting the managed-care insurer's IT systems.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/480762078": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Siemens EDA (formerly Mentor Graphics) corporate / engineering data center in Wilsonville, Oregon supporting the company's chip-design software and internal compute.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/1227550179": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Captive enterprise data center associated with pharmaceutical company Novartis, supporting its corporate R&D and IT systems.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/553884511": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Captive enterprise data center operated by Carfax for its vehicle-history data platform.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/152163711": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center operated by defense and aerospace contractor L3Harris Technologies.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/224139416": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Dell Technologies data center at 350 Holger Way in San Jose, California, supporting the company's own engineering and IT operations.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/671838900": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Data center associated with Rice University in Houston, Texas, supporting campus research and academic IT.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/931369845": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Johns Hopkins University data center supporting the university's research and academic IT systems.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/node/12387534800": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "University of New Mexico central data center in Albuquerque, supporting campus research and administrative IT.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
+  },
+  "osm/way/726150321": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Data center operated by the Choctaw Nation of Oklahoma — a sovereign tribal government — in Durant, Oklahoma.",
+    "source": "claude",
+    "classified_on": "2026-06-03"
   }
 }

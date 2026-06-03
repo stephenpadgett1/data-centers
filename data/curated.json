@@ -15,12 +15,13 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW across eight buildings; four are operational as of 2026 (first ~200 MW launched Sept 2025 on NVIDIA Blackwell GPUs) with completion expected by end of 2026. Oracle/OpenAI dropped plans to expand the flagship site, with Microsoft in talks to take on adjacent Crusoe capacity (combined complex ~2.1 GW). The most prominent purpose-built AI training campus in the US.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW across eight buildings; the first two went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI), Crusoe topped out the final building in 2026, and the full 1.2 GW is targeted for Q4 2026. OpenAI/Oracle declined to expand the flagship site; Nvidia paid a $150M deposit to secure the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
         "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
-        "https://www.datacenterdynamics.com/en/news/oracleopenai-drop-plans-to-expand-flagship-abilene-stargate-site-meta-in-talks-to-pick-up-crusoe-capacity-with-nvidias-help/"
+        "https://www.datacenterdynamics.com/en/news/oracleopenai-drop-plans-to-expand-flagship-abilene-stargate-site-meta-in-talks-to-pick-up-crusoe-capacity-with-nvidias-help/",
+        "https://www.datacenterdynamics.com/en/news/crusoe-tops-out-final-building-at-openai-stargate-data-center-campus-in-abilene-texas/"
       ]
     },
     {
@@ -860,22 +861,23 @@
     },
     {
       "id": "curated/news/van-wert-oh-60",
-      "name": "Proposed $10B data center campus — Van Wert",
-      "operator": null,
+      "name": "QTS data center campus — Van Wert",
+      "operator": "QTS",
       "lat": 40.80147,
       "lng": -84.60099,
       "city": "Van Wert",
       "state": "OH",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
-      "confidence": "low",
-      "summary": "A ~$10B data center campus confirmed for Van Wert, Ohio in May 2026, expected to bring some 1,500 construction jobs. Developer/tenant not yet publicly confirmed; early-stage.",
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "QTS Data Centers is developing a ~$10B, seven-building data center campus on a 902-acre portion of a 1,500-acre 'mega site' near U.S. 30 in Van Wert County, Ohio (announced May 29, 2026). Groundbreaking is targeted for Q4 2026 with full buildout to ~2032; the campus will use a closed-loop, water-free cooling system and add ~200 permanent jobs plus ~1,500 construction jobs.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1VwcHBIZGxiUUhQelFadTMycE9Vdng2ZnZDTklvS2llR2RHSTVBN1ljd25wNUMzMnRCUVcwR1RuZ1FYY1k5S3cweHlhbUlsOFozODJ6SlV2RE9uUHdjcWcxeXdlclRHOFhudHdmblZfaXpsYU9nbmJhRDNoa3hsU1A3XzMyVEhTckRXTHRIdTZQalVnaGN4b0d2VDZNMkpuMWp6WkdyNGl0RHV2YmlzbTV0WUVVd3ZWRXJwbS01SFJDVTdLZklQOFM0V01CelU?oc=5"
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1VwcHBIZGxiUUhQelFadTMycE9Vdng2ZnZDTklvS2llR2RHSTVBN1ljd25wNUMzMnRCUVcwR1RuZ1FYY1k5S3cweHlhbUlsOFozODJ6SlV2RE9uUHdjcWcxeXdlclRHOFhudHdmblZfaXpsYU9nbmJhRDNoa3hsU1A3XzMyVEhTckRXTHRIdTZQalVnaGN4b0d2VDZNMkpuMWp6WkdyNGl0RHV2YmlzbTV0WUVVd3ZWRXJwbS01SFJDVTdLZklQOFM0V01CelU?oc=5",
+        "https://www.datacenterdynamics.com/en/news/qts-behind-van-wert-ohio-mega-site-acquisition-announces-10-billion-data-center-campus/"
       ]
     },
     {
@@ -1156,6 +1158,190 @@
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VVlNjTktQWi1WYzQwN053VVVKTUV3M0o5TlJrZk8ydFU2Z2Z5TjBsTlBfQVRydXREZXJoeUFialAxcHV4TUFpX3dMYTF0VUJqWTFZdVJzVUQzd2N2VEJtSXlwQVdUVGstajhqWUY4ZUdESXRTay1z?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/haskell-county-tx-google-75",
+      "name": "Google AI data center hubs — Haskell County",
+      "operator": "Google",
+      "lat": 33.15422,
+      "lng": -99.72,
+      "city": "Haskell County",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Part of Google's $40B commitment (announced Nov 2025, running through 2027) to expand cloud and AI infrastructure in Texas — its largest investment in any state. The plan spans three new data center hubs in ERCOT's West load zone: two in Haskell County and one in Armstrong County (Panhandle). One Haskell County campus will be paired with a new solar-plus-battery storage plant to limit grid impact.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/google-commits-40bn-to-expand-cloud-and-ai-infrastructure-in-texas-through-2027/",
+        "https://www.texastribune.org/2025/11/14/texas-google-data-centers-ai/"
+      ]
+    },
+    {
+      "id": "curated/news/barker-ny-terawulf-76",
+      "name": "TeraWulf Lake Mariner AI campus — Barker",
+      "operator": "TeraWulf",
+      "lat": 43.32768,
+      "lng": -78.55476,
+      "city": "Barker",
+      "state": "NY",
+      "status": "under_construction",
+      "capacity_mw": 500,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "TeraWulf's Lake Mariner campus — a 500 MW AI 'factory' built on ~180 acres of an 1,800-acre retired coal-plant site near Barker (Town of Somerset), New York, north of Buffalo. ~60 critical-IT MW are operational for Core42 as of early 2026, with long-term leases for 380 MW to Fluidstack; buildings CB-4 and CB-5 are slated to energize in 2026, and the site is planned to scale toward 750 MW.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterknowledge.com/ai-data-centers/how-a-coal-plant-in-buffalo-became-terawulf-s-500-mw-ai-campus",
+        "https://www.datacenterfrontier.com/site-selection/article/55379784/terawulfs-lake-mariner-campus-how-a-retired-coal-plant-became-an-ai-factory-prototype"
+      ]
+    },
+    {
+      "id": "curated/news/la-porte-in-microsoft-77",
+      "name": "Microsoft data center campus — La Porte",
+      "operator": "Microsoft",
+      "lat": 41.6106,
+      "lng": -86.72252,
+      "city": "La Porte",
+      "state": "IN",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Microsoft's $1B+ data center development in La Porte, Indiana. After a first campus (six buildings on ~489 acres at Radius Industrial Park), the city approved annexation and rezoning of 1,000+ acres in Pleasant Township for a second, larger campus expected to add ~11 more buildings. Site preparation began in March 2026; first buildings run through 2027 with completion targeted around 2029.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/microsoft-expands-plans-for-la-porte-indiana-data-center-campus/",
+        "https://www.wndu.com/2026/05/19/laporte-common-council-votes-favor-second-microsoft-data-center-campus/"
+      ]
+    },
+    {
+      "id": "curated/news/wheatfield-in-amazon-78",
+      "name": "AWS data center campus — Wheatfield",
+      "operator": "Amazon Web Services",
+      "lat": 41.19294,
+      "lng": -87.05482,
+      "city": "Wheatfield",
+      "state": "IN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "AWS plans a campus of up to nine buildings on a 304-acre site in Wheatfield (Jasper County), Indiana, adjacent to NIPSCO's Schahfer Generating Station to minimize transmission costs. The ~$7B project would be the largest in Jasper County history and AWS's third in Northwest Indiana (after New Carlisle and Hobart); it still requires county commissioner and council approval.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/amazon-plans-nine-building-data-center-campus-in-wheatfield-indiana/",
+        "https://www.insideindianabusiness.com/articles/amazon-planning-7-billion-data-center-near-nipsco-plant"
+      ]
+    },
+    {
+      "id": "curated/news/avondale-az-prime-83",
+      "name": "Prime Data Centers campus — Avondale",
+      "operator": "Prime Data Centers",
+      "lat": 33.4356,
+      "lng": -112.3496,
+      "city": "Avondale",
+      "state": "AZ",
+      "status": "under_construction",
+      "capacity_mw": 240,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Prime Data Centers broke ground in May 2026 on the first three buildings of a 240 MW data center campus in Avondale (Phoenix metro), Arizona, part of a ~$3B planned investment in the area.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU0c2N1E1LVlTY2Nqa21aSmc1OWdQMktLYk05Nld1VW1wblhZWUNtd3B2TU9zV2VXako5aWJsaXlKQkxFZzNITHhrUFh1MzJjYldramlYX0hfMW1kTW11eXd5U3VzMUZpR2pfTzdheDNNZXJodFpPcjA1TTBCS0NOYmY3YmliZGJQbVNzS1RGaGs4QnRWUkZKMnl3RGswMVdqMEFkNzNCUW9vbFlrMnRkMHF3dzh2djEzcmVXellNQXZuODlQOUJaQURXTnVYbzdHSlBlaTJFRkhIb3dnOHV6eGU5QkhKbWFuWWg5ZV9ieUZjOGN0aVd6NnhqYWxnN3NoUWlBN1Vrbk9EUQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/nashville-tn-zoo-79",
+      "name": "Proposed data center near Nashville Zoo",
+      "operator": null,
+      "lat": 36.08812,
+      "lng": -86.74138,
+      "city": "Nashville",
+      "state": "TN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed next to the Nashville Zoo in Nashville, Tennessee, drawing community pushback in mid-2026. Early-stage; coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWplSERKUHpQTi0xcHFibHhqZ2cwYTU4ZkRpdnNocXJBbHlHcTNWNFhDMHhOWWo5U1h6bjlCLWVGbkZWN0hEZEhSWGktV0ZuZDNuTDhWZUpRXzE5aDhQLXVzVkxuUmQxMk9TZ1BNMXAxTUNsVzBUYkxhWHNsdGNKczJmZmxsX0l6cXd4MjBjT3ZuNjZhRFZ2TEYyQXNPRm82VXRmbVEyelLSAa4BQVVfeXFMTWp5Uk91T3p0STMyc1ZRRXgwejkwOUdCYThPZlFZSGV6RnBxUmlYaE1abHFzTm1SUjNNYTdHaWlOZk94V0ZOaldXMjVxMHpwdVA0MEd0dEtfendCdDBLZFdTLU9BYzlNNFEwNFhjcUsyZ1A4U3dJSUtRZVVUQjROVVlvLTZMMFB5YVdfVUxYQ1d3MDhLUlF6WmkzYXE0ci01aXJhaGM2OGhRYVFjbnRR?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/mcminnville-tn-80",
+      "name": "Proposed AI data center — McMinnville",
+      "operator": null,
+      "lat": 35.6834,
+      "lng": -85.76998,
+      "city": "McMinnville",
+      "state": "TN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A high-density AI data center campus proposed near McMinnville, a Middle Tennessee city, drawing both support and calls for a moratorium among residents in 2026. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2FlOEJZN0d0QVk0WTZWR3BlcjUybXMyUU51cjZLMkhDM0FCV1FtbzZ6dGlqMy1kZGdRc0EzUlZoZWdrNFB0QzBkc2UtY2IxN1hIV2d3Ym5vQUVJR1JGeFpqYVRPa0ZRSjRZS0pXR014TmwxbTNpM2hxR0hCSGFtZWI1a1huSVdFZkpoOEpfcmdycjE5MDltR2lpcXbSAaIBQVVfeXFMTjczdmYweEFlSXJmd0VSbmVkVC04cXNKM3Vwb042b2ptMGhvbjloS1FmdlltMTRwTWFOaXdfWFpjQmNyV045SGZadWd3RnFiM2k0X3NLbTBJZm5UMVNWeTVDQmw1LVZqZTY2dzhnSlQwQU4wcS1iZkRsUVlFQXRObDJUR0YyZGIzOWNONmtWT3loaFpESGVUYWZfd3Zlb1FSY2hn?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/dickerson-md-81",
+      "name": "Proposed Dickerson data center",
+      "operator": null,
+      "lat": 39.2201,
+      "lng": -77.42415,
+      "city": "Dickerson",
+      "state": "MD",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Dickerson (Montgomery County), Maryland, with updated site plans posted for public review in 2026. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTF9OSDN6bTBJbGw3MHpnM2lESkxnS1BPdjdvQkpWMDdjdWVTLWlOenBVMktxZGlqYWM2ZXlpLVB1MEo1NzI2WWRKVVBSYktjZXYtQ0VvX0N6dVZsazIwclF1RTlWcXlxNGdqUjRiMHN5Z0VMYjhDT0VMZHA0Z3k4MlhyUG1WWXhUUnRvbXpNTWE3QWRBVFE?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/big-beaver-pa-82",
+      "name": "Proposed data center — Big Beaver",
+      "operator": null,
+      "lat": 40.82451,
+      "lng": -80.36284,
+      "city": "Big Beaver",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Big Beaver (Beaver County), Pennsylvania, that drew a large crowd to a 2026 town hall. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjE4VmVOc1RMN1NBRWtSMEg3WlM1WV9PQjNkUy1fVk9xVk1BZ0VrRFQ3TENMa1ZkZE8xS0QwMDJPdEtyRUNKWXZqMzY0YVRsZGtBWXc2dW5sNjlCX0RTN2RlWVFwSXdOVUpLdl9fcHdhRnphSndMNFJ5ZjZVdHVvWUZsWDZJbFNJWm5hQ1hqSWtQMmlYUmE5ckhnd1dCTWp5QXlLUEtlcGI0QQ?oc=5"
       ]
     }
   ]

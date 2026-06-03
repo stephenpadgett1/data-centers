@@ -7,6 +7,14 @@
     "lat": 41.4948,
     "lng": -75.53685
   },
+  "avondale, az": {
+    "lat": 33.4356,
+    "lng": -112.3496
+  },
+  "barker, ny": {
+    "lat": 43.32768,
+    "lng": -78.55476
+  },
   "benbrook, tx": {
     "lat": 32.67319,
     "lng": -97.46058
@@ -14,6 +22,10 @@
   "bessemer, al": {
     "lat": 33.40178,
     "lng": -86.95444
+  },
+  "big beaver, pa": {
+    "lat": 40.82451,
+    "lng": -80.36284
   },
   "box elder county, utah": {
     "lat": 41.35861,
@@ -59,6 +71,10 @@
     "lat": 34.87029,
     "lng": -89.97787
   },
+  "dickerson, md": {
+    "lat": 39.2201,
+    "lng": -77.42415
+  },
   "durham, nc": {
     "lat": 35.99665,
     "lng": -78.90181
@@ -66,6 +82,10 @@
   "fort bliss, el paso, texas": {
     "lat": 32.24638,
     "lng": -106.37426
+  },
+  "haskell, tx": {
+    "lat": 33.15422,
+    "lng": -99.72
   },
   "henderson county, tx": {
     "lat": 32.1826,
@@ -103,6 +123,10 @@
     "lat": 40.67714,
     "lng": -74.28707
   },
+  "la porte, in": {
+    "lat": 41.6106,
+    "lng": -86.72252
+  },
   "lakeland, fl": {
     "lat": 28.03947,
     "lng": -81.9498
@@ -122,6 +146,14 @@
   "marshfield, mo": {
     "lat": 37.33712,
     "lng": -92.90659
+  },
+  "mcminnville, tn": {
+    "lat": 35.6834,
+    "lng": -85.76998
+  },
+  "nashville zoo, nashville, tn": {
+    "lat": 36.08812,
+    "lng": -86.74138
   },
   "nashville, tn": {
     "lat": 36.16228,
@@ -210,5 +242,9 @@
   "west feliciana parish, la": {
     "lat": 30.88427,
     "lng": -91.40167
+  },
+  "wheatfield, in": {
+    "lat": 41.19294,
+    "lng": -87.05482
   }
 }
