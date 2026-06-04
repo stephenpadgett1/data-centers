@@ -190,26 +190,6 @@
       ]
     },
     {
-      "id": "curated/news/socorro-nm-4",
-      "name": "Proposed data center — Socorro",
-      "operator": null,
-      "lat": 34.05729,
-      "lng": -106.89308,
-      "city": "Socorro",
-      "state": "NM",
-      "status": "planned",
-      "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
-      "confidence": "low",
-      "summary": "A proposed data center near Socorro, New Mexico, drawing local opposition at town-hall meetings. Early-stage.",
-      "website": null,
-      "sources": [
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxONm9HWThZeGtEcGpDdHZ4ZlRDcDF1RlJCNDRlRnVLeVAxR3djYkpLaWlmOGJJQThrb2J1bDVhN2FrWEcxdGY4MUZrQlpxTE04VV9tS3ZPTl85VG9YdkJVTDZ3bjVnSklabG44UVdZWlF3NHExNWhNTWxneDFpS1VhQlpQT3FER0l5a1dvQUxzMmltZjlGVHluNmlfaDdwLS1sT0gwVQ?oc=5"
-      ]
-    },
-    {
       "id": "curated/news/broadview-mt-6",
       "name": "Proposed AI data center — Broadview",
       "operator": null,
@@ -1342,6 +1322,107 @@
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjE4VmVOc1RMN1NBRWtSMEg3WlM1WV9PQjNkUy1fVk9xVk1BZ0VrRFQ3TENMa1ZkZE8xS0QwMDJPdEtyRUNKWXZqMzY0YVRsZGtBWXc2dW5sNjlCX0RTN2RlWVFwSXdOVUpLdl9fcHdhRnphSndMNFJ5ZjZVdHVvWUZsWDZJbFNJWm5hQ1hqSWtQMmlYUmE5ckhnd1dCTWp5QXlLUEtlcGI0QQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/wythe-county-va-tac-84",
+      "name": "TAC Data Centers gigawatt campus — Wythe County",
+      "operator": "TAC Data Centers (The Ardent Companies)",
+      "lat": 36.9424,
+      "lng": -80.96231,
+      "city": "Wythe County",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Charlotte, NC-based TAC Data Centers (a subsidiary of Atlanta's The Ardent Companies) plans a 1+ GW, ~1,000-acre campus of 9–11 buildings totaling 3.5–4M sq ft in eastern Wythe County, off I-81 near the Pulaski County line. First half targeted online ~2029. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://cardinalnews.org/2026/06/04/gigawatt-data-center-project-planned-for-wythe-county/"
+      ]
+    },
+    {
+      "id": "curated/news/holyoke-ma-85",
+      "name": "Proposed data center — Holyoke",
+      "operator": null,
+      "lat": 42.20712,
+      "lng": -72.60759,
+      "city": "Holyoke",
+      "state": "MA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Holyoke, MA — a city with abundant municipal hydro power — drawing local controversy. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNU1MS2o0dEVPTExhZHJkOXliYnVreDNkNU1iZ2dJNjlVT2tBQlpZOU5ud0FSNGZuZDdjUzN2SGlrQkNVQ2drWTNLTDRkazdscGNqYzhsNkdRZ2JLeGd4RkpYc2RodEJ0cV83dUxLMDFTcXltc1ZBdDhFWk02cVJqVnk3V3dPLXJtU2htOU94OU4teG5fbGfSAaoBQVVfeXFMT0Q0MTJ4Wk1nOGRSNXNhVHNicWJLU1NvVWRfbFRTd0dDX2RMSEQ5LXRqeUxnV0lIMFotLXNqQnRod2J4VGIzNXFrS25HQTdoX3hWNDNKTWRMNDhzazNGdkR5LXc5eHZ3MUZiUXR4Q1N6UldIUEI1MDhXeEJadk5ZbkJObGF2YjROR3RPZEI1YmVnTEVTTDZKOGtlREExZlo1VXM4Q1FVN0RTa0E?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/tysons-va-86",
+      "name": "Proposed data center buildings — near Tysons",
+      "operator": null,
+      "lat": 38.91913,
+      "lng": -77.22296,
+      "city": "Tysons",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "\"Bespoke\" data center buildings proposed near residential areas of Tysons, VA (Fairfax County), drawing neighborhood opposition. Early-stage.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdk1UeHNITzBsTGpvc0NwdFJDRFY5d1Q4czJFQ3lmaDBpbWwwc2FCQWJ2N0N4cFoxZ3p5ZWVaVjZpNUZTbmJpVVBjSTFkNGlKSnVSSTdmdnhPOUduSV9fZ0h2MjF3WHpTR0xqTjU5NUptRFdkSS1lLURpM0drZ0FYRmFqdVJvV1FiWGF1WkR2R0l2YVExckhWQ2YtNjE?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/urbana-oh-thor-87",
+      "name": "Thor Equities data center campus — near Urbana",
+      "operator": "Thor Equities",
+      "lat": 40.10839,
+      "lng": -83.75243,
+      "city": "Urbana",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 460000,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Real-estate developer Thor Equities plans a ~460,000 sq ft data center campus near Urbana, in Champaign County, Ohio. Early-stage / speculative build.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjAweHpWYVB5Mmx6STh0LWZLMmxFckNTRFkxRzJiU2JUMzRNOFUzX2g4UHJPaXVMRy1jekoyWWZHVVE3dzBXQS1RbmZwVXB0Qk0wdVlTMHpMOUQxQnFKZXZlOURMc0dFcy1Md1MxUVdXd3dvSHVRLVVRNDkwWlRyTEhEcDNCb3k5cEcxR1EzVXJld3Y3QWQ4RGtIRlN2S0JXbnJmTno1SE82TGkyN3pCQTZNRERDR01Md3Z4V1d3?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/hutto-tx-88",
+      "name": "AI data center — Hutto",
+      "operator": null,
+      "lat": 30.54276,
+      "lng": -97.54689,
+      "city": "Hutto",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A large AI data center reported under construction in Hutto, TX (northeast of Austin, Williamson County). Operator/end-tenant not yet confirmed.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzBpNFp0UXlQRW9rSkhpU1haV1ZSYV9FQ3RzYVBlWmN2N09WdzRsaFh2Um9LZzA0Yk4wcEc0X2g4SmRfWnpxM3E4anBFZldESWxpV3lncXc2c0JsTkdsZDhpMFBqcTM4ekNPbGJHanp2WHZNN1k2RlZwUzBfLUE1V2xuajhrUTFlQUdwelFlazJKZHpmZGhZT21RNVJDTEhOTkljZFM1T1pQcUtIT20xMFNFX0tjYTNPRUFSRGRTNVpvUnFYSUllc0lObW5aX0FUYUlMUlBB?oc=5"
       ]
     }
   ]

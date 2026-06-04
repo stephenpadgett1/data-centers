@@ -83,6 +83,10 @@
     "lat": 32.24638,
     "lng": -106.37426
   },
+  "fort chiswell, va": {
+    "lat": 36.9424,
+    "lng": -80.96231
+  },
   "haskell, tx": {
     "lat": 33.15422,
     "lng": -99.72
@@ -94,6 +98,14 @@
   "hillsboro, tx": {
     "lat": 32.01085,
     "lng": -97.13037
+  },
+  "holyoke, ma": {
+    "lat": 42.20712,
+    "lng": -72.60759
+  },
+  "hutto, tx": {
+    "lat": 30.54276,
+    "lng": -97.54689
   },
   "ilion, new york": {
     "lat": 43.01507,
@@ -227,9 +239,17 @@
     "lat": 42.98085,
     "lng": -78.86522
   },
+  "tysons, va": {
+    "lat": 38.91913,
+    "lng": -77.22296
+  },
   "upper merion township, pennsylvania": {
     "lat": 40.08602,
     "lng": -75.3662
+  },
+  "urbana, oh": {
+    "lat": 40.10839,
+    "lng": -83.75243
   },
   "van wert, oh": {
     "lat": 40.80147,
@@ -246,5 +266,9 @@
   "wheatfield, in": {
     "lat": 41.19294,
     "lng": -87.05482
+  },
+  "wytheville, va": {
+    "lat": 36.948,
+    "lng": -81.08697
   }
 }

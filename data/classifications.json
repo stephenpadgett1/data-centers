@@ -889,5 +889,266 @@
     "summary": "Data center operated by the Choctaw Nation of Oklahoma — a sovereign tribal government — in Durant, Oklahoma.",
     "source": "claude",
     "classified_on": "2026-06-03"
+  },
+  "osm/way/1493516623": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "RIC2 DC1 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — a master-planned ~180 MW, 5+ building site east of Richmond near the airport.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1493516624": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "RIC2 DC2 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — wholesale/multi-tenant capacity east of Richmond.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1493516625": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "RIC2 DC3 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — wholesale/multi-tenant capacity east of Richmond.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1493516626": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "RIC2 DC5 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — wholesale/multi-tenant capacity east of Richmond.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1493516628": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "RIC2 DC6 (under construction) on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — part of a master-planned ~180 MW site east of Richmond.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1173822723": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building EAT12 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA — cloud capacity served by Columbia River hydro power.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1173822722": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building EAT13 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA — cloud capacity served by Columbia River hydro power.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1173822721": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building EAT14 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA — cloud capacity served by Columbia River hydro power.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1310628998": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center for H-E-B, the San Antonio-based grocery chain, supporting its retail and logistics IT — general compute, not for lease.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/714943309": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Public Service Enterprise Group (PSE&G) delivery / emergency-response operations center in New Jersey — a utility's captive facility for grid operations.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1519367009": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Information Systems Facility at White Sands Missile Range (US Army), New Mexico — a government/military computing facility supporting test-range operations.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/318069356": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "State of New Mexico data center in the John F. Simms Jr. State Office Building, Santa Fe — central government IT for state agencies.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/818167571": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "1623 Farnam is Omaha's primary carrier-neutral interconnection hub / carrier hotel, hosting many networks and colocation tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/618339179": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "365 Data Centers colocation facility in Bridgewater, NJ — multi-tenant colocation and interconnection serving the central New Jersey market.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/597835788": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Stream Data Centers wholesale colocation building (DFW IV) in the Dallas–Fort Worth metro, leasing data-hall capacity to enterprise and cloud tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1460847458": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "EdgeCore Digital Infrastructure wholesale data center in Silicon Valley — large-scale leased capacity for hyperscale and enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/615593145": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Data center in Alpharetta, GA owned by Mapletree Industrial Trust (a Singapore-listed REIT with a large US data center portfolio), leased to colocation/enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/37947315": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Layer42 Networks colocation and connectivity facility in Santa Clara, CA serving Silicon Valley customers.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/544536822": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Liquid Web managed-hosting data center (Lansing, MI area) — multi-tenant hosting and cloud services.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/417682780": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "KOMO Plaza (formerly Fisher Plaza), Seattle — East tower; carrier-neutral colocation and home of the Seattle Internet Exchange.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/417682781": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "KOMO Plaza (formerly Fisher Plaza), Seattle — West tower; carrier-neutral colocation and interconnection space.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/752001022": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Fort Rock Data Centers colocation facility in Bend, OR serving central Oregon enterprise and regional tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/336387583": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Baltimore Technology Park carrier-neutral colocation facility in Baltimore, MD.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/961071564": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "SimpleHelix managed-hosting and colocation data center in Huntsville, AL.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/262058094": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Appears to be a Menlo Digital wholesale data center building (MD-DC1); multi-tenant colocation, though operator details are not fully confirmed.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/459188722": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Submarine cable landing station (Apollo trans-Atlantic system) — network/telecom infrastructure terminating an undersea fiber cable.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/459188725": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Cable & Wireless submarine cable landing station at Shirley, NY — coastal telecom landing point for trans-Atlantic fiber.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/1456953254": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "East Kentucky Network (parent of Appalachian Wireless) datacenter in Ivel, KY supporting a regional telecom / wireless carrier.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
+  },
+  "osm/way/611308188": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Strata Networks (UBTA cooperative) telecom data center in Vernal, UT serving the Uintah Basin.",
+    "source": "claude",
+    "classified_on": "2026-06-04"
   }
 }
