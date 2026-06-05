@@ -292,21 +292,23 @@
     {
       "id": "curated/news/inyokern-ca-14",
       "name": "Proposed data center — Inyokern",
-      "operator": null,
+      "operator": "R&L Capital (RB Inyokern Data Center)",
       "lat": 35.65205,
       "lng": -117.81766,
       "city": "Inyokern",
       "state": "CA",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 99,
       "operator_type": "unknown",
       "purpose": "speculative",
-      "workload": "general",
-      "confidence": "low",
-      "summary": "A proposed data center near Inyokern, California; reporting centers on its projected water use (12–16M gallons/yr). Early-stage.",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "The proposed RB Inyokern Data Center by R&L Capital on ~50 acres of industrial land near US-395/SR-178 in Inyokern (unincorporated Kern County), ~6 miles from Ridgecrest. A ~238,000 sq ft single-story facility with 44 diesel backup generators (~99 MW) and grid power from Southern California Edison; a California Energy Commission application was filed in late April 2026. Contested locally over projected water use.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMThmQ3VLS21pWHU0YVpPNnFJdEhHcFlFZVVFOHRjOGZULXZoUnJkNTlGb3U2M05zWDRzYUkzQXYxWTlWYmJOdXBoVGxlaE1uRnRHclRsN3lPSFFWTlVyT0xTQnFTdHhkaGZRMUJCSFRoQjJiLTZabDZXQTZHRGIwMUJwQmRGeHZ1VlBSRTFXYlA0clZuM0FRX09XRS1lZVNIQXQzZV8wdjRZajZxM1FmVU9ia1UtVjBtXzF0ddIBwgFBVV95cUxOanBvUVRZSDJ5RXFuOUFhSlJTUlprRjFrNFpHUFhFTTdMalRUTDZWNHJ4SWFZeDFHZjBUUjMxSnNoQlZ1WTBIRlhPM1RPRDRYR3g4a09ZSGRGQWttTlNSVUZ6dHgzVjdfbmFCWmYwWWlzTmMwaTJVc2hIcG1ENnd4MHNsemhNTW9IWV9QS19OQktjTU12WkpDenBTR19Yb2NHZ1JOdzJNdHhGdjc3cHNNUHc0ZVM1dUk4bEtBT3ZjLVJVQQ?oc=5"
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMThmQ3VLS21pWHU0YVpPNnFJdEhHcFlFZVVFOHRjOGZULXZoUnJkNTlGb3U2M05zWDRzYUkzQXYxWTlWYmJOdXBoVGxlaE1uRnRHclRsN3lPSFFWTlVyT0xTQnFTdHhkaGZRMUJCSFRoQjJiLTZabDZXQTZHRGIwMUJwQmRGeHZ1VlBSRTFXYlA0clZuM0FRX09XRS1lZVNIQXQzZV8wdjRZajZxM1FmVU9ia1UtVjBtXzF0ddIBwgFBVV95cUxOanBvUVRZSDJ5RXFuOUFhSlJTUlprRjFrNFpHUFhFTTdMalRUTDZWNHJ4SWFZeDFHZjBUUjMxSnNoQlZ1WTBIRlhPM1RPRDRYR3g4a09ZSGRGQWttTlNSVUZ6dHgzVjdfbmFCWmYwWWlzTmMwaTJVc2hIcG1ENnd4MHNsemhNTW9IWV9QS19OQktjTU12WkpDenBTR19Yb2NHZ1JOdzJNdHhGdjc3cHNNUHc0ZVM1dUk4bEtBT3ZjLVJVQQ?oc=5",
+        "https://sjvwater.org/water-a-big-question-for-proposed-ai-data-center-in-eastern-kern-desert/",
+        "https://somachlaw.com/policy-alert/ai-data-center-environmental-review-proposed-inyokern-data-center-highlights-water-use-concerns/"
       ]
     },
     {
@@ -403,12 +405,14 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "The Wonder Valley / Stratos Hyperscale campus backed by Kevin O'Leary in rural Box Elder County, Utah — pitched at up to 7.5 GW across 10,000–13,000 acres, which would make it one of the largest data centers in the world. County commissioners approved enabling resolutions on May 4, 2026 amid fierce local opposition; construction is not expected to begin until ~2028.",
+      "summary": "The Wonder Valley / Stratos Hyperscale campus backed by Kevin O'Leary in rural Box Elder County (Hansel Valley), Utah — pitched at up to ~9 GW, which would make it one of the largest data centers in the world. Box Elder County commissioners approved enabling resolutions on May 4, 2026 amid fierce local opposition. In mid-May 2026 O'Leary agreed to roughly halve the ~40,000-acre footprint, and the state is requiring a phased buildout (the initial phase-one permit covers under 2,000 acres). Residents have launched a referendum effort to block it; construction is not expected before ~2028.",
       "website": null,
       "sources": [
         "https://fortune.com/2026/05/11/shark-tank-kevin-oleary-millionaire-utah-data-center-american-politics-protests-ai-tech/",
         "https://edition.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition",
-        "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/"
+        "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/",
+        "https://www.nbcnews.com/tech/tech-news/kevin-oleary-utah-data-center-project-stratos-ai-shrink-hayley-rcna348430",
+        "https://www.sltrib.com/news/environment/2026/05/19/oleary-data-center-project-seeks/"
       ]
     },
     {
@@ -1423,6 +1427,69 @@
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzBpNFp0UXlQRW9rSkhpU1haV1ZSYV9FQ3RzYVBlWmN2N09WdzRsaFh2Um9LZzA0Yk4wcEc0X2g4SmRfWnpxM3E4anBFZldESWxpV3lncXc2c0JsTkdsZDhpMFBqcTM4ekNPbGJHanp2WHZNN1k2RlZwUzBfLUE1V2xuajhrUTFlQUdwelFlazJKZHpmZGhZT21RNVJDTEhOTkljZFM1T1pQcUtIT20xMFNFX0tjYTNPRUFSRGRTNVpvUnFYSUllc0lObW5aX0FUYUlMUlBB?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/lagrange-ga-google-89",
+      "name": "Google data center — LaGrange",
+      "operator": "Google",
+      "lat": 33.03929,
+      "lng": -85.03133,
+      "city": "LaGrange",
+      "state": "GA",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "high",
+      "summary": "Google's second data center in Georgia (after its Douglas County / Lithia Springs campus), at 411 Pegasus Parkway off I-85 in LaGrange (Troup County), ~70 miles southwest of Atlanta. Announced April 21, 2026 and already under construction; supports core Google services such as Search, Maps and YouTube.",
+      "website": "https://datacenters.google/locations/georgia/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/google-confirms-plans-for-data-center-in-lagrange-georgia/",
+        "https://www.cbsnews.com/atlanta/news/google-announces-new-lagrange-data-center-partnership-with-local-organizations/"
+      ]
+    },
+    {
+      "id": "curated/news/emporia-ks-flinthills-90",
+      "name": "Flint Hills Digital Campus — Emporia",
+      "operator": "Kanza Park Place LLC",
+      "lat": 38.40401,
+      "lng": -96.18162,
+      "city": "Emporia",
+      "state": "KS",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed 'gigawatt-scale' data center campus west of Emporia (Lyon County), Kansas, spanning ~11 land tracts near Industrial Park IV, led by developer Kanza Park Place LLC. Early-stage: the Emporia Planning Commission set a June 23, 2026 public hearing on rezoning and a new Digital Infrastructure Overlay District. No end-tenant named; capacity is a 'gigawatt-scale' pitch, not a firm figure.",
+      "website": null,
+      "sources": [
+        "https://kvoe.com/2026/06/02/plans-announced-for-flint-hills-digital-campus-in-west-emporia/",
+        "https://www.wibw.com/2026/06/02/flint-hills-digital-campus-proposed-emporia/"
+      ]
+    },
+    {
+      "id": "curated/news/dumas-tx-duos-91",
+      "name": "Duos Edge AI — Dumas Edge Data Center",
+      "operator": "Duos Edge AI",
+      "lat": 35.86148,
+      "lng": -101.97137,
+      "city": "Dumas",
+      "state": "TX",
+      "status": "operational",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "general",
+      "confidence": "high",
+      "summary": "An operational edge data center module operated by Duos Edge AI at 421 W. 4th St in Dumas (Moore County), Texas Panhandle. A compact, water-free 'edge' colocation pod sited near the local school district, providing regional compute and connectivity for K-12 education, healthcare, carriers and enterprises; a public open house is set for June 16, 2026.",
+      "website": null,
+      "sources": [
+        "https://www.globenewswire.com/news-release/2026/06/04/3306766/12618/en/Duos-Edge-AI-to-Host-Dumas-Edge-Data-Center-Open-House.html",
+        "https://www.datacenterdynamics.com/en/news/duos-edge-ai-opens-450kw-facility-in-corpus-christi-texas/"
       ]
     }
   ]

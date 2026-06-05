@@ -1150,5 +1150,248 @@
     "summary": "Strata Networks (UBTA cooperative) telecom data center in Vernal, UT serving the Uintah Basin.",
     "source": "claude",
     "classified_on": "2026-06-04"
+  },
+  "osm/way/525060850": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "DC BLOX, a Southeastern US colocation and connectivity provider; this is its multi-tenant data center in Chattanooga, TN.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/871694597": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "TurnKey Internet, a hosting and colocation provider; multi-tenant data center in Latham (Albany area), NY.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/1307072785": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Operated by Ark Data Centers, a Minnesota colocation provider; multi-tenant facility in Duluth, MN.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/589070714": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "On-campus IT data center for Phillips Exeter Academy, a private secondary school in Exeter, NH.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/1157356188": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Operated by West Wisconsin Telcom, a rural telephone cooperative; carrier facility in Menomonie, WI.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/1365213539": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Central-office/data facility of the Stayton Cooperative Telephone Company, an Oregon rural telecom cooperative.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/842544718": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Submarine cable landing station for the Unity cable system near Lynnwood, WA — telecom landing/network infrastructure.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/342664739": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Geneseo Communications, an Illinois telephone and broadband provider; carrier/network data facility.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/850342266": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Facility of the Marquette-Adams Telephone Cooperative, a Wisconsin rural telecom cooperative.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/1296723872": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Operated by GVTC (Guadalupe Valley Telephone Cooperative), a south-central Texas telecom/broadband cooperative.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/relation/19390019": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Dakota Carrier Network, a statewide fiber/transport operator owned by North Dakota independent telephone companies.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/104082694": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Aureon, an Iowa telecom/IT-services company owned by independent telephone companies; network/data facility in Des Moines.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/626281456": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Private data center for AngelTrax (mobile video surveillance) in Dothan, AL — enterprise self-use.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/63619642": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Multi-tenant colocation facility (Minnesota Gateway Data Center) in the Minneapolis, MN market.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/471658485": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Colocation data center (Live Oak) in the Dallas, TX market.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/878795698": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Colocation facility operated by Amnet Systems in Stamford, CT.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/581234765": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Cloud/colocation hosting provider (Cloud Storage Corp) in Hays, KS.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/365941471": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Facility operated by Claro, a telecom carrier (America Movil group).",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/1210421871": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Carrier Services Group, a telecom/carrier-services facility in Boardman, OH.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/223783259": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "On-site enterprise data center associated with CTI BioPharma, a Seattle, WA biotech.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/way/376627431": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Operated by CSS Communications (CSSNW) in Bellingham, WA — telecom/communications facility.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/node/6625492701": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Oso Grande, a New Mexico internet/telecom provider; network facility in Albuquerque.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/node/1825907839": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Southwest Cyberport (SWCP), a long-running New Mexico ISP; network/hosting facility in Albuquerque.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/node/9808044840": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Carrier-hotel/colocation at 123 Central (operated by BigByte) in Albuquerque, NM.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/node/6856057098": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "VirtBiz, a colocation/hosting provider in the Dallas, TX area.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/node/13465438761": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Rad Web Hosting, a web-hosting/colocation provider in Dallas, TX.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
+  },
+  "osm/node/10780794741": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Operated by Ntirety, a managed-hosting/cloud and security provider; multi-tenant facility in California.",
+    "source": "claude",
+    "classified_on": "2026-06-05"
   }
 }

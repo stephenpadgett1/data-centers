@@ -75,9 +75,17 @@
     "lat": 39.2201,
     "lng": -77.42415
   },
+  "dumas, tx": {
+    "lat": 35.86148,
+    "lng": -101.97137
+  },
   "durham, nc": {
     "lat": 35.99665,
     "lng": -78.90181
+  },
+  "emporia, ks": {
+    "lat": 38.40401,
+    "lng": -96.18162
   },
   "fort bliss, el paso, texas": {
     "lat": 32.24638,
@@ -138,6 +146,10 @@
   "la porte, in": {
     "lat": 41.6106,
     "lng": -86.72252
+  },
+  "lagrange, ga": {
+    "lat": 33.03929,
+    "lng": -85.03133
   },
   "lakeland, fl": {
     "lat": 28.03947,
