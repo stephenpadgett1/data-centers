@@ -1,26 +1,26 @@
 {
-  "built_at": "2026-06-05T09:38:31-07:00",
-  "refreshed_date": "2026-06-05",
-  "total": 1662,
-  "from_osm": 1589,
-  "from_curated": 73,
+  "built_at": "2026-06-06T09:42:09-07:00",
+  "refreshed_date": "2026-06-06",
+  "total": 1665,
+  "from_osm": 1588,
+  "from_curated": 77,
   "by_status": {
-    "planned": 54,
-    "operational": 1564,
-    "under_construction": 44
+    "planned": 57,
+    "operational": 1563,
+    "under_construction": 45
   },
   "by_type": {
-    "unknown": 339,
-    "enterprise": 63,
-    "hyperscaler": 489,
-    "colocation": 626,
+    "unknown": 332,
+    "enterprise": 65,
+    "hyperscaler": 491,
+    "colocation": 632,
     "government": 14,
     "telecom": 90,
     "education": 18,
     "crypto": 23
   },
-  "total_capacity_mw": 27484,
-  "total_capacity_gw": 27.5,
-  "unclassified": 268,
+  "total_capacity_mw": 29684,
+  "total_capacity_gw": 29.7,
+  "unclassified": 261,
   "attribution": "\u00a9 OpenStreetMap contributors (ODbL) \u00b7 curated megacampus data from public announcements"
 }

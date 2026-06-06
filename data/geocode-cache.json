@@ -1,4 +1,8 @@
 {
+  "301 virginia street, seattle, wa": {
+    "lat": 47.61235,
+    "lng": -122.34043
+  },
   "allentown, pennsylvania": {
     "lat": 40.60226,
     "lng": -75.47161
@@ -18,6 +22,10 @@
   "benbrook, tx": {
     "lat": 32.67319,
     "lng": -97.46058
+  },
+  "berry hill, va": {
+    "lat": 38.47207,
+    "lng": -77.83861
   },
   "bessemer, al": {
     "lat": 33.40178,
@@ -39,6 +47,10 @@
     "lat": 36.0526,
     "lng": -95.79082
   },
+  "cascade, virginia": {
+    "lat": 36.56458,
+    "lng": -79.66975
+  },
   "casper, wyoming": {
     "lat": 42.85012,
     "lng": -106.32514
@@ -46,6 +58,10 @@
   "charlestown, in": {
     "lat": 38.44286,
     "lng": -85.66203
+  },
+  "christian county, il": {
+    "lat": 39.52126,
+    "lng": -89.28298
   },
   "cleveland, ohio": {
     "lat": 41.49966,
@@ -62,6 +78,10 @@
   "corpus christi, tx": {
     "lat": 27.76353,
     "lng": -97.40332
+  },
+  "danville, va": {
+    "lat": 36.58799,
+    "lng": -79.39167
   },
   "de soto, ks": {
     "lat": 38.97917,
@@ -143,6 +163,14 @@
     "lat": 40.67714,
     "lng": -74.28707
   },
+  "kiowa, ok": {
+    "lat": 34.94251,
+    "lng": -99.01991
+  },
+  "kiowa, pittsburg county, ok": {
+    "lat": 34.72065,
+    "lng": -95.89916
+  },
   "la porte, in": {
     "lat": 41.6106,
     "lng": -86.72252
@@ -170,6 +198,10 @@
   "marshfield, mo": {
     "lat": 37.33712,
     "lng": -92.90659
+  },
+  "mcalester, ok": {
+    "lat": 34.9335,
+    "lng": -95.76979
   },
   "mcminnville, tn": {
     "lat": 35.6834,
@@ -235,6 +267,10 @@
     "lat": 31.87003,
     "lng": -106.68658
   },
+  "seattle, wa": {
+    "lat": 47.60383,
+    "lng": -122.33006
+  },
   "socorro, new mexico": {
     "lat": 34.05729,
     "lng": -106.89308
@@ -242,6 +278,10 @@
   "st. louis, mo": {
     "lat": 38.62541,
     "lng": -90.19001
+  },
+  "taylorville, il": {
+    "lat": 39.54875,
+    "lng": -89.29415
   },
   "texarkana, tx": {
     "lat": 33.44667,
@@ -274,6 +314,10 @@
   "west feliciana parish, la": {
     "lat": 30.88427,
     "lng": -91.40167
+  },
+  "west memphis, ar": {
+    "lat": 35.14648,
+    "lng": -90.18454
   },
   "wheatfield, in": {
     "lat": 41.19294,

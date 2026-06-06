@@ -1393,5 +1393,68 @@
     "summary": "Operated by Ntirety, a managed-hosting/cloud and security provider; multi-tenant facility in California.",
     "source": "claude",
     "classified_on": "2026-06-05"
+  },
+  "osm/way/195664350": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "HP/HPE Cherokee Data Center in the Cherokee Industrial Park, Tulsa — a hardened (Force-5 tornado-rated) enterprise facility built in 2009 and operated by Hewlett-Packard Enterprise for its own and managed operations.",
+    "source": "claude",
+    "classified_on": "2026-06-06"
+  },
+  "osm/way/39083541": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Leased data center at 1650 Union Hill Road, Alpharetta, owned by Strategic Datasphere (Strategic Capital Fund Management) — a ~165,000 sq ft, ~5-8 MW facility fully leased to investment-grade enterprise tenants (originally E*TRADE).",
+    "source": "claude",
+    "classified_on": "2026-06-06"
+  },
+  "osm/way/547156405": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Compugen New Albany data center at 7000 Souder Road (Franklin County, OH) — a Tier III facility acquired in 2022 by Canadian IT-solutions provider Compugen, offering secured, redundant data center floor space.",
+    "source": "claude",
+    "classified_on": "2026-06-06"
+  },
+  "osm/way/547277699": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Building on the Compugen New Albany data center campus (7000 Souder Road, Franklin County, OH) — a Tier III facility owned by Canadian IT-solutions provider Compugen offering secured, redundant data center floor space.",
+    "source": "claude",
+    "classified_on": "2026-06-06"
+  },
+  "osm/way/1391966326": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Encompass (Digital Media) satellite teleport in Lino Lakes, MN — a captive broadcast uplink/transmission facility for the company's media-distribution operations rather than a general-purpose compute data center.",
+    "source": "claude",
+    "classified_on": "2026-06-06"
+  },
+  "osm/way/1411056682": {
+    "operator_type": "colocation",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Build-to-suit data center developed, financed and owned by Oppidan Investment Company, which acts as landlord delivering single-tenant facilities (5-10 MW prototypes) for a tech-industry tenant under its national data center program.",
+    "source": "claude",
+    "classified_on": "2026-06-06"
+  },
+  "osm/way/897226573": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Arcola Tech Park, in the Arcola area of Loudoun County's 'Data Center Alley' (Northern Virginia) — a tech/commercial park amid major multi-tenant data center development; specific operator of this parcel is not firmly identified.",
+    "source": "claude",
+    "classified_on": "2026-06-06"
   }
 }

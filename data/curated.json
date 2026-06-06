@@ -15,7 +15,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW across eight buildings; the first two went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI), Crusoe topped out the final building in 2026, and the full 1.2 GW is targeted for Q4 2026. OpenAI/Oracle declined to expand the flagship site; Nvidia paid a $150M deposit to secure the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.3 GW / ~200 MW) and Crusoe topped out the final building, with construction running into late 2026–early 2027. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
@@ -38,7 +38,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, backed by a $27B+ financing deal and 10 new gas-fired plants. Built out 2025–2030 specifically for frontier AI training.",
+      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, powered by 10 new Meta-funded gas plants (~5.2 GW) plus committed renewables, transmission and storage. Construction began in earnest in early 2026; Phase 1 targets ~1.5 GW by late 2027 with full 5 GW phased through 2030. Cost projections have climbed from the original ~$10B toward $27B+ in near-term investment, with longer-run program estimates reported as high as ~$200B — among the largest private infrastructure projects in the US.",
       "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
       "sources": [
         "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
@@ -373,22 +373,24 @@
     },
     {
       "id": "curated/news/chatham-va-35",
-      "name": "Planned data center — Pittsylvania County",
-      "operator": null,
-      "lat": 36.81217,
-      "lng": -79.43641,
-      "city": "Chatham",
+      "name": "Stack Infrastructure Berry Hill megacampus — Pittsylvania County",
+      "operator": "Stack Infrastructure",
+      "lat": 36.56458,
+      "lng": -79.66975,
+      "city": "Cascade",
       "state": "VA",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
-      "confidence": "medium",
-      "summary": "A very large data center project in Pittsylvania County (Danville area), Virginia. County leaders approved the project in 2026 — described as a ~$100B investment with more capital and jobs than originally announced, contingent on tax incentives remaining in place.",
-      "website": null,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Denver-based developer Stack Infrastructure's AI data center campus at the Southern Virginia Megasite at Berry Hill (Pittsylvania County, southwest of Danville). In May 2026 the Danville-Pittsylvania Regional Industrial Facility Authority unanimously approved a performance agreement under which Stack will invest at least $73.5B (a ~$100B buildout over three decades) and create ~2,050 jobs across three construction phases, with land-sale closings between June 2027 and June 2031 on ~2,990 acres — the largest private investment ever announced in Virginia.",
+      "website": "https://virginiabusiness.com/stack-100b-berry-hill-data-center-project/",
       "sources": [
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSU1LT0RETDkxSDAtaDItZ3lzNUhPZlhueG92dGpwUVluZ3daSGkzZ0Z5Q3VfQlViX25qZUZRbTgyMGYxV2xnQXVkeURXZThwdFo4V05VcVhuUFV3VjBoU1E2ak1CaTR6SDF2WFMtNGE2MEl3SWEtaVVYd0lrOHAySVhrNjFRUDVsUGgtSHJQRmc5Z0VsU0duNdIBrAFBVV95cUxNX2ZGeXdpYXVNYUJiSTNpanJidDRrOUdIbUZkcDRCZTZuQmM0R2s1SnR0XzhZSXd6dXlhdkt4dnRFUjZLNFEwUFJjM2JCQ3EtWkVOS3Q4TTNsSk5ZWjg3VExKRFNYRVdHQ19ibUxLTUQwbHdEemcxbXZDZ3VOZFB0SnROTTBlb3EtV0FyOTNESW5UcXYtLTlmajNxa3gxcjJETk01MS14SDVHcmds?oc=5"
+        "https://virginiabusiness.com/stack-100b-berry-hill-data-center-project/",
+        "https://www.datacenterdynamics.com/en/news/stack-commits-735bn-investment-into-data-center-campus-in-berry-hill-virginia/",
+        "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
       ]
     },
     {
@@ -1490,6 +1492,90 @@
       "sources": [
         "https://www.globenewswire.com/news-release/2026/06/04/3306766/12618/en/Duos-Edge-AI-to-Host-Dumas-Edge-Data-Center-Open-House.html",
         "https://www.datacenterdynamics.com/en/news/duos-edge-ai-opens-450kw-facility-in-corpus-christi-texas/"
+      ]
+    },
+    {
+      "id": "curated/news/pittsburg-county-ok-iren-92",
+      "name": "IREN Project Emerald — Pittsburg County (Kiowa)",
+      "operator": "IREN",
+      "lat": 34.72065,
+      "lng": -95.89916,
+      "city": "Kiowa",
+      "state": "OK",
+      "status": "planned",
+      "capacity_mw": 1200,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Australia-based IREN's proposed ~1.2 GW 'Project Emerald' AI data center campus on ~2,000 acres along U.S. Highway 69 just south of Kiowa in Pittsburg County, southeast Oklahoma, valued at about $50B across two phases. A county review committee endorsed associated tax-increment-finance districts in May 2026; IREN has bought ~340 acres so far and hopes to begin construction in 2027.",
+      "website": null,
+      "sources": [
+        "https://nondoc.com/2026/05/14/pittsburg-county-committee-endorses-deal-tied-to-2000-acre-50-billion-data-center-site/",
+        "https://www.kjrh.com/news/local-news/project-emerald-ai-data-center-plan-in-pittsburg-county-moving-forward"
+      ]
+    },
+    {
+      "id": "curated/news/christian-county-il-eaglerock-93",
+      "name": "Eagle Rock Partners data center campus — Christian County",
+      "operator": "Eagle Rock Partners",
+      "lat": 39.52126,
+      "lng": -89.28298,
+      "city": "Christian County",
+      "state": "IL",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Real-estate developer Eagle Rock Partners' proposed ~1 GW, ~$8.8B data center campus on ~475 acres of rural Christian County, Illinois (Taylorville area) — ten 100 MW buildings. Eagle Rock preps sites for future operators rather than running facilities; no formal county application has been filed and construction would not begin before 2029-2030. The county imposed a temporary data-center restriction in 2025 and residents have organized opposition.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/property-developer-eagle-rock-proposes-1gw-data-center-in-christian-county-illinois/",
+        "https://www.wandtv.com/news/illinois/christian-co-residents-voice-concerns-over-proposed-eagle-rock-partners-data-center/article_616e4ba1-e406-4743-a4d5-bfcec81eaa8e.html"
+      ]
+    },
+    {
+      "id": "curated/news/west-memphis-ar-google-94",
+      "name": "Google Project Pyramid — West Memphis",
+      "operator": "Google",
+      "lat": 35.14648,
+      "lng": -90.18454,
+      "city": "West Memphis",
+      "state": "AR",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Google's 'Project Pyramid' data center campus on a ~1,178-acre site south of Bollinger Road in West Memphis (Crittenden County), Arkansas — five buildings supporting Google search and AI. Construction began in October 2025; Google has committed ~$4B (part of a broader ~$10B Arkansas plan, enabled by a multi-billion-dollar bond authorization) and is pairing it with a ~600 MW Entergy solar project. About 300 permanent jobs are expected — billed as the largest investment in Arkansas history.",
+      "website": "https://blog.google/company-news/inside-google/company-announcements/google-american-innovation-arkansas/",
+      "sources": [
+        "https://www.arkansasonline.com/news/2026/jun/04/google-data-center-poises-west-memphis-for-boom/",
+        "https://blog.google/company-news/inside-google/company-announcements/google-american-innovation-arkansas/"
+      ]
+    },
+    {
+      "id": "curated/news/seattle-wa-digitalrealty-95",
+      "name": "Digital Realty downtown data center — 301 Virginia St",
+      "operator": "Digital Realty",
+      "lat": 47.61235,
+      "lng": -122.34043,
+      "city": "Seattle",
+      "state": "WA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "Digital Realty's proposed six-story, ~380,000 sq ft network-dense colocation facility on the former Bed Bath & Beyond site at 301 Virginia St / 1930 3rd Ave in downtown Seattle. The plan, which would demolish the existing retail building, was advanced in 2026 as the City Council weighed a one-year data-center moratorium; Digital Realty describes it as 'not an AI data center.' Construction could start in 2027.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/digital-realty-plans-data-center-in-seattle-washington/",
+        "https://www.geekwire.com/2026/data-center-operator-reveals-plans-for-downtown-seattle-facility-as-city-weighs-one-year-ban/"
       ]
     }
   ]
