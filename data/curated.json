@@ -1577,6 +1577,27 @@
         "https://www.datacenterdynamics.com/en/news/digital-realty-plans-data-center-in-seattle-washington/",
         "https://www.geekwire.com/2026/data-center-operator-reveals-plans-for-downtown-seattle-facility-as-city-weighs-one-year-ban/"
       ]
+    },
+    {
+      "id": "curated/news/piedmont-ok-96",
+      "name": "Proposed data center — Piedmont (Cloverleaf / Beltline)",
+      "operator": null,
+      "lat": 35.642,
+      "lng": -97.74643,
+      "city": "Piedmont",
+      "state": "OK",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Early-stage data center proposals in Piedmont, Oklahoma (northwest of Oklahoma City) — including the 'Cloverleaf' project and a separate 'Beltline' rezoning request — that drew resident pushback over municipal water supply and growth in spring 2026. Developers tout closed-loop cooling, but the city planning commission tabled the rezonings pending a deeper study of water capacity. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.news9.com/oklahoma-city-news/piedmont-residents-raise-water-growth-concerns-over-proposed-massive-data-center-project",
+        "https://nondoc.com/2026/04/22/establish-a-baseline-of-impact-piedmont-residents-raise-questions-about-possible-data-center/"
+      ]
     }
   ]
 }
