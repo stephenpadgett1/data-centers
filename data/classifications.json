@@ -1456,5 +1456,41 @@
     "summary": "Arcola Tech Park, in the Arcola area of Loudoun County's 'Data Center Alley' (Northern Virginia) — a tech/commercial park amid major multi-tenant data center development; specific operator of this parcel is not firmly identified.",
     "source": "claude",
     "classified_on": "2026-06-06"
+  },
+  "osm/way/776316726": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "BNY Mellon's Tennessee Processing Center in Nashville — a captive financial-services back-office and data-processing facility supporting the bank's global operations and technology infrastructure, not a leased data center.",
+    "source": "claude",
+    "classified_on": "2026-06-08"
+  },
+  "osm/node/5146323411": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "The Open Computing Facility (OCF) at UC Berkeley — a student-run, volunteer-operated computing co-op providing free hosting, compute and lab services to the campus community.",
+    "source": "claude",
+    "classified_on": "2026-06-08"
+  },
+  "osm/way/940821791": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Omnis Network, a Tempe, Arizona hosting and colocation provider offering dedicated servers and managed infrastructure to multiple customers.",
+    "source": "claude",
+    "classified_on": "2026-06-08"
+  },
+  "osm/node/3406467087": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "NocRoom, a Miami colocation and managed IT-services provider leasing rack space and connectivity to multiple tenants.",
+    "source": "claude",
+    "classified_on": "2026-06-08"
   }
 }

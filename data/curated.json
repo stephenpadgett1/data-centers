@@ -644,22 +644,23 @@
     },
     {
       "id": "curated/news/waco-tx-45",
-      "name": "Proposed data center — Waco area",
-      "operator": null,
-      "lat": 31.54919,
-      "lng": -97.14746,
-      "city": "Waco",
+      "name": "Cipher Mining 'McLennan' data center campus — Riesel (near Waco)",
+      "operator": "Cipher Mining",
+      "lat": 31.47488,
+      "lng": -96.92433,
+      "city": "Riesel",
       "state": "TX",
       "status": "planned",
-      "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
+      "capacity_mw": 500,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
       "confidence": "low",
-      "summary": "A second data center proposed in the Waco, Texas area, alarming rural residents. Early-stage.",
-      "website": null,
+      "summary": "Cipher Mining's proposed ~500 MW hyperscale data center on a ~300-acre site north of Riesel, near the Sandy Creek power plant in McLennan County, Texas (the 'second' Waco-area campus that alarmed rural residents). Developed under the code name 'McLennan' by the bitcoin miner as it pivots to AI/HPC hosting; land is secured and the site is expected to be energized around 2028, with building plans depending on the end user. Coordinates approximate.",
+      "website": "https://www.ciphermining.com/",
       "sources": [
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGR4bFR0Q2Z0NlR6MkxHMHlpU3NHZHpFUHluQ3VrYWV2ZG5OS2lNblVzMTdkNGE0aDlUeURYa3FmbDVBbllrMW0tQ2hZTjYtUnQ4OGVkZmVHYVB4UUJpYWlucldsRzdoQ3IxUl9LRXdYXzd1allBcU43UWZ6QVV0UVpmdzlTS1Qz?oc=5"
+        "https://www.datacenterdynamics.com/en/news/cipher-looks-to-build-500mw-campus-near-coal-plant-outside-waco-texas/",
+        "https://wacobridge.org/2026/05/27/waco-data-center-cipher-riesel-mclennan-county/"
       ]
     },
     {
@@ -1597,6 +1598,231 @@
       "sources": [
         "https://www.news9.com/oklahoma-city-news/piedmont-residents-raise-water-growth-concerns-over-proposed-massive-data-center-project",
         "https://nondoc.com/2026/04/22/establish-a-baseline-of-impact-piedmont-residents-raise-questions-about-possible-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/pampa-tx-google-meitner-97",
+      "name": "Google Meitner Energy Center — Gray County",
+      "operator": "Google / Intersect Power",
+      "lat": 35.5363,
+      "lng": -100.96016,
+      "city": "Pampa",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 1000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "A co-located Google data center and clean-energy generation complex in the Texas Panhandle near Pampa (Gray/Roberts counties), ~60 miles northeast of Amarillo. Announced June 4, 2026 and built with Intersect Power (the clean-energy developer Google acquired in early 2026), the Meitner Energy Center pairs a hyperscale data center with 1 GW+ of on-site wind, solar and battery storage plus gas firing, so most of its power comes from dedicated generation rather than the local grid. Coordinates approximate.",
+      "website": "https://blog.google/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/google-intersect-power-break-ground-on-colocated-data-center-and-1gw-energy-project-in-texas/",
+        "https://www.powermag.com/google-launches-1-gw-plus-co-located-data-center-and-generation-complex-in-texas-panhandle/"
+      ]
+    },
+    {
+      "id": "curated/news/storey-county-nv-fleet-98",
+      "name": "Fleet Data Centers (Tract) — South Valley & Peru Ridge",
+      "operator": "Fleet Data Centers (Tract)",
+      "lat": 39.55602,
+      "lng": -119.49028,
+      "city": "Storey County",
+      "state": "NV",
+      "status": "under_construction",
+      "capacity_mw": 400,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Fleet Data Centers, a subsidiary of Tract Capital Management, broke ground in mid-2026 on two adjacent build-to-suit campuses — South Valley and Peru Ridge — along USA Parkway in the Tahoe Reno Industrial Center (Storey County), east of Reno, Nevada. Combined ~400 MW of critical compute, part of a reported ~$10B program; the capacity is 100% pre-leased to an unnamed AA-rated, $3T+ market-cap tenant on a long-term triple-net lease. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/fleet-breaks-ground-on-data-center-outside-reno-nevada/",
+        "https://www.nnbw.com/news/2026/jun/02/fleet-data-centers-breaks-ground-on-2-facilities/"
+      ]
+    },
+    {
+      "id": "curated/news/bastrop-county-tx-edgeconnex-99",
+      "name": "EdgeConneX second Bastrop County campus — Cedar Creek",
+      "operator": "EdgeConneX",
+      "lat": 30.0802,
+      "lng": -97.49329,
+      "city": "Cedar Creek",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "EdgeConneX's second data center campus in greater Bastrop County, Texas — two single-story buildings totaling ~730,000 sq ft on a ~180-acre site at 6682 FM 535 near Cedar Creek, southeast of Austin. A ~$1.4B total investment (~$700M of buildings); construction expected to begin mid-2026 with completion by the end of 2028, alongside the developer's first Cedar Creek campus already under construction. Coordinates approximate.",
+      "website": "https://www.edgeconnex.com/",
+      "sources": [
+        "https://communityimpact.com/austin/bastrop-cedar-creek/government/2026/03/31/edgeconnex-plans-second-data-center-campus-in-bastrop-county/",
+        "https://constructionreviewonline.com/1-4bn-edgeconnex-data-center-in-bastrop-county-texas-advances-with-tdlr-filings-submitted/"
+      ]
+    },
+    {
+      "id": "curated/news/fairfield-tx-cyrusone-100",
+      "name": "CyrusOne Freestone Energy Center campus — Fairfield",
+      "operator": "CyrusOne",
+      "lat": 31.7244,
+      "lng": -96.16488,
+      "city": "Fairfield",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 380,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "CyrusOne broke ground in 2026 on a hyperscale data center campus adjacent to Calpine's Freestone Energy Center, a gas-fired combined-cycle plant near Fairfield in Freestone County, Texas (~90 miles south of Dallas). Calpine (a Constellation business unit) is providing 380 MW of co-located power for Phase I, with an exclusive option for a further 380 MW in Phase II; the first phase is expected operational by Q4 2026.",
+      "website": "https://www.cyrusone.com/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/cyrusone-breaks-ground-on-380mw-data-center-in-texas/",
+        "https://www.constellationenergy.com/news/2026/02/constellation-and-cyrusone-announce-agreement-to-support-new-data-center-facility-at-freestone-energy-center-in-texas.html"
+      ]
+    },
+    {
+      "id": "curated/news/little-rock-ar-google-101",
+      "name": "Google Port of Little Rock data center",
+      "operator": "Google",
+      "lat": 34.74651,
+      "lng": -92.28963,
+      "city": "Little Rock",
+      "state": "AR",
+      "status": "planned",
+      "capacity_mw": 100,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Google's proposed ~$1B data center on 380 acres at the Port of Little Rock (Sweet Home area), Arkansas — five industrial buildings totaling ~1.43M sq ft plus two office buildings and an electrical substation, drawing more than 100 MW. Google confirmed the land purchase in April 2026; as of mid-2026 the project remains in permitting, and the city was drafting data-center zoning rules that would govern it. Coordinates approximate.",
+      "website": "https://blog.google/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/google-behind-1bn-data-center-in-little-rock-arkansas-report/",
+        "https://www.arkansasonline.com/news/2026/mar/31/googles-1b-port-of-little-rock-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/shalersville-oh-102",
+      "name": "Proposed data center — Shalersville Township",
+      "operator": null,
+      "lat": 41.23894,
+      "lng": -81.23121,
+      "city": "Shalersville",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "An early-stage data center proposed in Shalersville Township (Portage County), Ohio. Developers held a community meeting in late May 2026; operator and scale are not yet public. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.record-courier.com/"
+      ]
+    },
+    {
+      "id": "curated/news/columbus-ga-103",
+      "name": "Proposed data center — Columbus",
+      "operator": null,
+      "lat": 32.46107,
+      "lng": -84.98804,
+      "city": "Columbus",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "An early-stage data center proposed in Columbus, Georgia; the local Chamber of Commerce released a review of the project in spring 2026. Operator and scale not yet confirmed. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.wtvm.com/"
+      ]
+    },
+    {
+      "id": "curated/news/south-whitehall-pa-104",
+      "name": "Proposed data center — South Whitehall Township",
+      "operator": null,
+      "lat": 40.61001,
+      "lng": -75.55559,
+      "city": "South Whitehall Township",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in South Whitehall Township (Lehigh County), Pennsylvania, near Allentown. Plans were revised in spring 2026 amid local review; operator and scale not yet confirmed. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.wfmz.com/"
+      ]
+    },
+    {
+      "id": "curated/news/prichard-al-105",
+      "name": "Proposed data center — Prichard",
+      "operator": null,
+      "lat": 30.7388,
+      "lng": -88.07889,
+      "city": "Prichard",
+      "state": "AL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Prichard, Alabama (near Mobile), drawing mixed reactions from residents in mid-2026. Operator and scale not yet confirmed. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.fox10tv.com/"
+      ]
+    },
+    {
+      "id": "curated/news/chesterfield-county-va-106",
+      "name": "Proposed data center campus near I-95 — Chesterfield County",
+      "operator": null,
+      "lat": 37.386,
+      "lng": -77.57851,
+      "city": "Chesterfield County",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center campus proposed near Interstate 95 in Chesterfield County, Virginia (south of Richmond). In June 2026 the county Board of Zoning Appeals denied an appeal challenging the project, allowing it to advance. Operator and scale not yet confirmed. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.wtvr.com/"
+      ]
+    },
+    {
+      "id": "curated/news/san-antonio-tx-westside-107",
+      "name": "Proposed $157M West Side data center — San Antonio",
+      "operator": null,
+      "lat": 29.4246,
+      "lng": -98.49514,
+      "city": "San Antonio",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed ~$157M data center project on the West Side of San Antonio, Texas, the subject of a public input meeting in spring 2026. Distinct from the larger 706-acre development approved on the city's outskirts. Operator not yet confirmed. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://news4sanantonio.com/"
       ]
     }
   ]
