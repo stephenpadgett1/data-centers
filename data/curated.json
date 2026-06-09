@@ -1824,6 +1824,49 @@
       "sources": [
         "https://news4sanantonio.com/"
       ]
+    },
+    {
+      "id": "curated/news/lyon-township-mi-verrus-108",
+      "name": "Verrus 'Project Flex' data center — Lyon Township",
+      "operator": "Verrus",
+      "lat": 42.512,
+      "lng": -83.616,
+      "city": "New Hudson",
+      "state": "MI",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Proposed ~1.8M sq ft, 172-acre AI data center campus (six buildings plus a utility substation) in Lyon Township, Oakland County, developed by Verrus — a data center developer backed by Alphabet spinoff Sidewalk Infrastructure Partners — with Walbridge as general contractor. Anthropic has reportedly been in talks as an anchor tenant. The site plan won conditional approval in Sept 2025, but final permits remain pending amid strong local opposition and a March 2026 township moratorium on data centers; the developer has threatened litigation over the delays. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.crainsdetroit.com/economic-development/verrus-data-center-planned-lyon-township/",
+        "https://www.datacenterdynamics.com/en/news/180-acre-data-center-set-to-be-built-in-lyon-township-michigan/",
+        "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+      ]
+    },
+    {
+      "id": "curated/news/bethlehem-ny-kenwood-109",
+      "name": "Kenwood Commons data center (former Doane Stuart site) — Bethlehem",
+      "operator": "Guild Ventures",
+      "lat": 42.629,
+      "lng": -73.865,
+      "city": "Slingerlands",
+      "state": "NY",
+      "status": "planned",
+      "capacity_mw": 180,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Proposed hyperscale/colocation data center on the former Doane Stuart School (Kenwood) campus in the Town of Bethlehem, Albany County, as part of Guild Ventures' ~76-acre 'Kenwood Commons' mixed-use redevelopment (housing, retail and the data-center component). The owner has requested up to 180 MW. Early-stage and contested; the Albany County executive has noted the county does not control the local approval process. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://spectrumlocalnews.com/nys/capital-region/news/2026/05/28/albany-county-executive-proposed-data-center",
+        "https://spectrumlocalnews.com/nys/capital-region/news/2026/05/22/data-center-proposed-for-former-doane-stuart-school-site"
+      ]
     }
   ]
 }

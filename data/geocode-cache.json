@@ -3,6 +3,10 @@
     "lat": 47.61235,
     "lng": -122.34043
   },
+  "853 kenwood avenue, slingerlands, ny": {
+    "lat": 42.62911,
+    "lng": -73.8652
+  },
   "allentown, pennsylvania": {
     "lat": 40.60226,
     "lng": -75.47161
@@ -223,6 +227,10 @@
     "lat": 32.10881,
     "lng": -86.64025
   },
+  "lyon township, mi": {
+    "lat": 44.48289,
+    "lng": -84.79288
+  },
   "madison, in": {
     "lat": 40.16245,
     "lng": -85.72608
@@ -254,6 +262,10 @@
   "new florence, mo": {
     "lat": 38.91032,
     "lng": -91.44822
+  },
+  "new hudson, mi": {
+    "lat": 42.51173,
+    "lng": -83.61566
   },
   "nodaway county, mo": {
     "lat": 40.34834,
@@ -322,6 +334,10 @@
   "shalersville, oh": {
     "lat": 41.23894,
     "lng": -81.23121
+  },
+  "slingerlands, ny": {
+    "lat": 42.62925,
+    "lng": -73.86457
   },
   "socorro, new mexico": {
     "lat": 34.05729,

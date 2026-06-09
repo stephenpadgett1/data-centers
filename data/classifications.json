@@ -1492,5 +1492,23 @@
     "summary": "NocRoom, a Miami colocation and managed IT-services provider leasing rack space and connectivity to multiple tenants.",
     "source": "claude",
     "classified_on": "2026-06-08"
+  },
+  "osm/node/9808044830": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "505 Marquette Ave NW is H5 Data Centers' downtown Albuquerque carrier hotel — a ~225,000 sq ft, network-neutral colocation building with access to ~20 MW and 25+ carriers (Cogent, Hurricane Electric, CityLink). Acquired by H5 in 2022.",
+    "source": "claude",
+    "classified_on": "2026-06-09"
+  },
+  "osm/node/13409186015": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "DāSTOR's King of Prussia data center at 3400 Horizon Drive — a ~22,000 sq ft, network-neutral Tier III colocation facility serving the Philadelphia market. DāSTOR (founded by ex-Crown Castle colo head Kevin Mulqueen) acquired the site, formerly operated by DataBridge Sites.",
+    "source": "claude",
+    "classified_on": "2026-06-09"
   }
 }
