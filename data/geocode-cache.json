@@ -47,6 +47,10 @@
     "lat": 41.35861,
     "lng": -113.21121
   },
+  "boyce, la": {
+    "lat": 31.39046,
+    "lng": -92.66931
+  },
   "broadview, montana": {
     "lat": 46.09773,
     "lng": -108.8771
@@ -87,6 +91,10 @@
     "lat": 41.49966,
     "lng": -81.69368
   },
+  "clinton, ia": {
+    "lat": 41.90547,
+    "lng": -90.56
+  },
   "colorado springs, colorado": {
     "lat": 38.83396,
     "lng": -104.82535
@@ -102,6 +110,10 @@
   "corpus christi, tx": {
     "lat": 27.76353,
     "lng": -97.40332
+  },
+  "dalton, ga": {
+    "lat": 34.76919,
+    "lng": -84.97025
   },
   "danville, va": {
     "lat": 36.58799,
@@ -134,6 +146,10 @@
   "fairfield, tx": {
     "lat": 31.7244,
     "lng": -96.16488
+  },
+  "faribault, mn": {
+    "lat": 43.6648,
+    "lng": -93.95105
   },
   "fort bliss, el paso, texas": {
     "lat": 32.24638,
@@ -219,6 +235,10 @@
     "lat": 40.37571,
     "lng": -76.46261
   },
+  "liberty, mo": {
+    "lat": 39.24648,
+    "lng": -94.41908
+  },
   "little rock, ar": {
     "lat": 34.74651,
     "lng": -92.28963
@@ -246,6 +266,10 @@
   "mcminnville, tn": {
     "lat": 35.6834,
     "lng": -85.76998
+  },
+  "moncure, nc": {
+    "lat": 35.6225,
+    "lng": -79.07831
   },
   "nashville zoo, nashville, tn": {
     "lat": 36.08812,
@@ -287,6 +311,10 @@
     "lat": 35.642,
     "lng": -97.74643
   },
+  "piketon, oh": {
+    "lat": 39.06813,
+    "lng": -83.01434
+  },
   "pittsylvania county, virginia": {
     "lat": 36.81217,
     "lng": -79.43641
@@ -294,6 +322,10 @@
   "pocatello, id": {
     "lat": 42.86203,
     "lng": -112.45063
+  },
+  "point pleasant, wv": {
+    "lat": 38.84453,
+    "lng": -82.13709
   },
   "prichard, al": {
     "lat": 30.7388,
@@ -323,6 +355,10 @@
     "lat": 29.4246,
     "lng": -98.49514
   },
+  "sanford, nc": {
+    "lat": 35.47988,
+    "lng": -79.1803
+  },
   "santa teresa, nm": {
     "lat": 31.87003,
     "lng": -106.68658
@@ -350,6 +386,10 @@
   "st. louis, mo": {
     "lat": 38.62541,
     "lng": -90.19001
+  },
+  "strasburg, va": {
+    "lat": 38.98873,
+    "lng": -78.36228
   },
   "tahoe reno industrial center, nv": {
     "lat": 39.55602,

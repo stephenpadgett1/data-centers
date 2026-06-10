@@ -53,13 +53,13 @@
       "lng": -90.025,
       "city": "Memphis",
       "state": "TN",
-      "status": "under_construction",
+      "status": "operational",
       "capacity_mw": 2000,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024; in January 2026 xAI added a third Memphis building, expanding the complex toward ~2 GW and a reported ~555,000 NVIDIA GPUs (~$18B) — the largest single-site AI training installation in the world. Notable for on-site gas turbines drawing local controversy.",
+      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 and Colossus 2 came online in January 2026; xAI has since purchased a third building, pushing the complex toward ~2 GW and a reported ~555,000 NVIDIA GPUs (~$18B) — the largest single-site AI training installation in the world, with further expansion still under construction. Notable for on-site gas turbines drawing local controversy.",
       "website": "https://x.ai/colossus",
       "sources": [
         "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
@@ -130,23 +130,23 @@
     },
     {
       "id": "curated/news/rapides-parish-la-1",
-      "name": "Applied Digital AI campus — Rapides Parish",
+      "name": "Applied Digital 'Delta Forge 1' AI campus — Boyce (Rapides Parish)",
       "operator": "Applied Digital",
-      "lat": 31.17199,
-      "lng": -92.55264,
-      "city": "Rapides Parish",
+      "lat": 31.39046,
+      "lng": -92.66931,
+      "city": "Boyce",
       "state": "LA",
-      "status": "planned",
-      "capacity_mw": null,
+      "status": "under_construction",
+      "capacity_mw": 300,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
-      "confidence": "medium",
-      "summary": "A multi-billion-dollar Applied Digital AI data center campus in Rapides Parish (Central Louisiana / \"Cenla\"), announced alongside Gov. Jeff Landry in May 2026. Applied Digital, an AI/HPC hyperscale operator, is the named developer; early-stage.",
+      "confidence": "high",
+      "summary": "Applied Digital's ~$3.6B 'Delta Forge 1' AI Factory campus — a ~300 MW (critical IT load), ~300-acre site near Boyce in Rapides Parish, Central Louisiana ('Cenla') — is the company's first Louisiana campus. Announced alongside Gov. Jeff Landry in May 2026; site development began in January 2026 with initial operations expected mid-2027. Coordinates approximate.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEZnQmZwdGFla1owY0ctWW8yNGVwV3JaZ3FqcDlZQUYtUFRwSDVkM0VsNUVVdzdqcDM5NzBwbG1PTndVdHBSMnNXYVV0Zjdyek5wWVBoaEJHSUJBMXNfZkRPb0l2MkowSTNpVVdJS2ZVRlRYd0xpdExQNjgteXpVaWVsdmluWmt6WlE3Vkc1SVBIeUlFM2pyRVVUUWEwcVkyN0hEWTc1VjdPUFZucXhRV3lQMmFpUQ?oc=5"
+        "https://www.opportunitylouisiana.gov/news/central-louisiana-secures-3-6-billion-applied-digital-ai-factory-campus",
+        "https://technical.ly/civics/applied-digital-ai-campus-louisiana/"
       ]
     },
     {
@@ -1707,22 +1707,23 @@
     },
     {
       "id": "curated/news/shalersville-oh-102",
-      "name": "Proposed data center — Shalersville Township",
-      "operator": null,
+      "name": "Bitdeer / Geis AI data center campus — Shalersville Township",
+      "operator": "Bitdeer / Geis Cos.",
       "lat": 41.23894,
       "lng": -81.23121,
       "city": "Shalersville",
       "state": "OH",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
+      "operator_type": "crypto",
+      "purpose": "purpose_built",
+      "workload": "ai",
       "confidence": "low",
-      "summary": "An early-stage data center proposed in Shalersville Township (Portage County), Ohio. Developers held a community meeting in late May 2026; operator and scale are not yet public. Coordinates approximate.",
+      "summary": "A proposed 15-building AI computing campus on ~257 acres at the Turnpike Commerce Center in Shalersville Township (Portage County), Ohio, developed by Singapore-based Bitdeer in partnership with local developer Geis Cos. Construction cost is reported at over $300M excluding equipment. A local moratorium running through early November 2026 must expire or be lifted before it can proceed. Coordinates approximate.",
       "website": null,
       "sources": [
-        "https://www.record-courier.com/"
+        "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
+        "https://www.news5cleveland.com/news/local-news/oh-portage/data-center-project-team-hosts-portage-co-neighbors-to-discuss-257-acre-development"
       ]
     },
     {
@@ -1866,6 +1867,173 @@
       "sources": [
         "https://spectrumlocalnews.com/nys/capital-region/news/2026/05/28/albany-county-executive-proposed-data-center",
         "https://spectrumlocalnews.com/nys/capital-region/news/2026/05/22/data-center-proposed-for-former-doane-stuart-school-site"
+      ]
+    },
+    {
+      "id": "curated/news/piketon-oh-110",
+      "name": "OpenAI / SB Energy 10 GW data center — Portsmouth Site (Piketon)",
+      "operator": "SB Energy (developer) / OpenAI (anchor tenant)",
+      "lat": 39.06813,
+      "lng": -83.01434,
+      "city": "Piketon",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": 10000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "OpenAI is reportedly in advanced talks to lease a proposed ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. Nvidia is reportedly supplying chips and backing the financing; a first ~800 MW phase is targeted for 2028, supported by ~9.2 GW of new on-site natural gas generation. Very early-stage / speculative. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/openai-in-talks-to-lease-10gw-data-center-from-sb-energy-in-ohio/",
+        "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html"
+      ]
+    },
+    {
+      "id": "curated/news/dalton-ga-111",
+      "name": "Core Scientific / CoreWeave AI data center campus — Dalton (Whitfield County)",
+      "operator": "Core Scientific / CoreWeave",
+      "lat": 34.76919,
+      "lng": -84.97025,
+      "city": "Dalton",
+      "state": "GA",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "An AI/HPC data center buildout led by Core Scientific (site developer) with CoreWeave as the compute tenant, anchored by an under-construction campus on Old Tilton Road (~167 acres) in Dalton, Whitfield County. In June 2026 a Whitfield County Superior Court judge validated ~$15.2B in taxable revenue bonds across four related projects, issued via the Dalton-Whitfield County Joint Development Authority with repayment left to the private companies (not taxpayers). Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://daltoncitizen.com/2026/06/04/judge-validates-15-2-billion-in-data-center-related-bonds/",
+        "https://www.datacenterdynamics.com/en/news/core-scientific-plans-new-ai-data-centers-in-dalton-georgia/"
+      ]
+    },
+    {
+      "id": "curated/news/faribault-mn-112",
+      "name": "Archer Datacenters data center — Faribault",
+      "operator": "Archer Datacenters",
+      "lat": 43.6648,
+      "lng": -93.95105,
+      "city": "Faribault",
+      "state": "MN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed ~500,000 sq ft data center on an ~84-acre site in Faribault, Rice County, developed by Archer Datacenters. On June 8, 2026 the Minnesota Court of Appeals sided with the Minnesota Center for Environmental Advocacy, ruling the city must conduct more environmental study before approving the project — which remains active but legally stalled. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.mprnews.org/story/2026/06/08/appeals-court-rules-faribault-erred-in-data-center-decision",
+        "https://www.cbsnews.com/minnesota/news/data-center-faribault-minnesota-court-ruling/"
+      ]
+    },
+    {
+      "id": "curated/news/clinton-ia-113",
+      "name": "QTS AI data center campus — Clinton",
+      "operator": "QTS",
+      "lat": 41.90547,
+      "lng": -90.56,
+      "city": "Clinton",
+      "state": "IA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "QTS Data Centers has proposed a multi-billion-dollar AI data center campus north of US Hwy 30 and west of Mill Creek Parkway in Clinton, Clinton County, Iowa. The city council rejected a temporary moratorium on June 9, 2026 and is drafting permitting rules, so the project is active and proceeding. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://quadcitiesbusiness.com/multibillion-dollar-data-center-proposed-for-clinton/",
+        "https://www.kwqc.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton/"
+      ]
+    },
+    {
+      "id": "curated/news/lee-county-nc-114",
+      "name": "CyrusOne data center — northern Lee County (near Moncure)",
+      "operator": "CyrusOne (PointOne / Helix Ventures developers)",
+      "lat": 35.6225,
+      "lng": -79.07831,
+      "city": "Sanford",
+      "state": "NC",
+      "status": "planned",
+      "capacity_mw": 90,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "A 90 MW IT-load CyrusOne data center (~300,000 sq ft on 56 acres, phase one of a 430-acre development) off Lower Moncure Road in northern Lee County, NC, developed by PointOne with local developer Helix Ventures. County commissioners approved it over the planning board's objection; construction could begin later in 2026 with operations around 2028. Coordinates approximate (near Moncure).",
+      "website": null,
+      "sources": [
+        "https://rantnc.com/2026/06/08/data-center-proposed-in-northern-lee-county/"
+      ]
+    },
+    {
+      "id": "curated/news/strasburg-va-115",
+      "name": "Takanock 'Project Tallmadge' data center — Strasburg",
+      "operator": "Takanock",
+      "lat": 38.98873,
+      "lng": -78.36228,
+      "city": "Strasburg",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Takanock has proposed 'Project Tallmadge,' a ~2-million-sq-ft data center campus on an ~80-87-acre parcel in Strasburg's Industrial Park (Shenandoah County's first data center), with construction potentially starting in late 2027. Residents have raised water and power concerns; the project remains in the proposal/review stage. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.whsv.com/2026/05/28/strasburg-residents-raise-concerns-over-proposed-data-center-spanning-80-acre-parcel/",
+        "https://www.strasburgva.com/administration/project/project-tallmadge"
+      ]
+    },
+    {
+      "id": "curated/news/mason-county-wv-116",
+      "name": "Nscale 'Monarch Compute Campus' — Mason County (Point Pleasant)",
+      "operator": "Nscale",
+      "lat": 38.84453,
+      "lng": -82.13709,
+      "city": "Point Pleasant",
+      "state": "WV",
+      "status": "planned",
+      "capacity_mw": 2000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Nscale's 'Monarch Compute Campus' near Point Pleasant in Mason County, WV — on a ~2,380-acre site with 2,080 acres rezoned from agricultural to rural-industrial in May 2026 — is a planned 2 GW AI data center (scalable to 8 GW by 2031) with a state-certified on-site AI microgrid. Nscale has reported an MOU with Microsoft for 1.35 GW; an air permit is currently open for public comment. Early-stage. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.aol.com/articles/2-080-acres-rezoned-data-213734000.html",
+        "https://www.wvgazettemail.com/news/point-pleasant-data-center-3-buildings-nearly-1-000-natural-gas-diesel-engines/article_47d6212b-2bcb-44f1-9238-f3b05a4ab717.html"
+      ]
+    },
+    {
+      "id": "curated/news/liberty-mo-117",
+      "name": "Metrobloks data center campus — Liberty",
+      "operator": "Metrobloks",
+      "lat": 39.24648,
+      "lng": -94.41908,
+      "city": "Liberty",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Metrobloks' approved ~$1.4B, three-building (568,800 sq ft) high-density AI data center campus on ~29-30 acres near Old Hughes Road in Liberty, Clay County (Kansas City metro). The city has approved $1.4B in bonds and over $200M in tax abatements; building permits had not yet been submitted as of spring 2026, and residents have voiced opposition over land, utilities, and tax breaks. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://www.libertymissouri.gov/m/newsflash/Home/Detail/5426",
+        "https://www.datacenterdynamics.com/en/news/metrobloks-announces-plans-for-three-building-data-center-campus-in-kansas-city-missouri/"
       ]
     }
   ]

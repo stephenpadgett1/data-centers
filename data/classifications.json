@@ -1510,5 +1510,23 @@
     "summary": "DāSTOR's King of Prussia data center at 3400 Horizon Drive — a ~22,000 sq ft, network-neutral Tier III colocation facility serving the Philadelphia market. DāSTOR (founded by ex-Crown Castle colo head Kevin Mulqueen) acquired the site, formerly operated by DataBridge Sites.",
     "source": "claude",
     "classified_on": "2026-06-09"
+  },
+  "osm/way/1339825480": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Google's data center campus in northwest Omaha (around 11110 State St, Douglas County), a ~378-460 acre site that began operating in 2024 — general cloud plus AI compute, built and operated by Google for its own services. The large OSM polygon reflects the campus landuse boundary, not building floor area.",
+    "source": "claude",
+    "classified_on": "2026-06-10"
+  },
+  "osm/way/1490401523": {
+    "operator_type": "colocation",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "high",
+    "summary": "Originally Argo Blockchain's 'Helios' Bitcoin mining site in Dickens County, TX (built 2022, ~180 MW), sold to Galaxy Digital in December 2022 and since converted into a purpose-built AI/HPC data center campus fully leased to CoreWeave (800 MW under a 15-year deal). The OSM name 'Argo Data Center' is outdated; the current owner/operator is Galaxy Digital and the campus is 'Helios.'",
+    "source": "claude",
+    "classified_on": "2026-06-10"
   }
 }
