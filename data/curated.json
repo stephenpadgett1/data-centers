@@ -15,7 +15,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.3 GW / ~200 MW) and Crusoe topped out the final building, with construction running into late 2026–early 2027. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.3 GW / ~200 MW) and Crusoe topped out the final building, with construction running into late 2026\u2013early 2027. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
@@ -38,7 +38,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, powered by 10 new Meta-funded gas plants (~5.2 GW) plus committed renewables, transmission and storage. Construction began in earnest in early 2026; Phase 1 targets ~1.5 GW by late 2027 with full 5 GW phased through 2030. Cost projections have climbed from the original ~$10B toward $27B+ in near-term investment, with longer-run program estimates reported as high as ~$200B — among the largest private infrastructure projects in the US.",
+      "summary": "Meta's largest data center ever \u2014 a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, powered by 10 new Meta-funded gas plants (~5.2 GW) plus committed renewables, transmission and storage. Construction began in earnest in early 2026; Phase 1 targets ~1.5 GW by late 2027 with full 5 GW phased through 2030. Cost projections have climbed from the original ~$10B toward $27B+ in near-term investment, with longer-run program estimates reported as high as ~$200B \u2014 among the largest private infrastructure projects in the US.",
       "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
       "sources": [
         "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
@@ -59,7 +59,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 and Colossus 2 came online in January 2026; xAI has since purchased a third building, pushing the complex toward ~2 GW and a reported ~555,000 NVIDIA GPUs (~$18B) — the largest single-site AI training installation in the world, with further expansion still under construction. Notable for on-site gas turbines drawing local controversy.",
+      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 and Colossus 2 came online in January 2026; xAI has since purchased a third building, pushing the complex toward ~2 GW and a reported ~555,000 NVIDIA GPUs (~$18B) \u2014 the largest single-site AI training installation in the world, with further expansion still under construction. Notable for on-site gas turbines drawing local controversy.",
       "website": "https://x.ai/colossus",
       "sources": [
         "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
@@ -101,7 +101,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Amazon's massive New Carlisle, Indiana campus — the compute backbone of \"Project Rainier\" dedicated largely to Anthropic's Claude model training. Phase 1 (~30 buildings, 500k+ custom Trainium2 accelerators) became operational in October 2025; a Phase 2 expansion announced Nov 2025 brings committed investment past $26B, with the full campus drawing toward 2.2 GW on a 1,200-acre site.",
+      "summary": "Amazon's massive New Carlisle, Indiana campus \u2014 the compute backbone of \"Project Rainier\" dedicated largely to Anthropic's Claude model training. Phase 1 (~30 buildings, 500k+ custom Trainium2 accelerators) became operational in October 2025; a Phase 2 expansion announced Nov 2025 brings committed investment past $26B, with the full campus drawing toward 2.2 GW on a 1,200-acre site.",
       "website": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-compute-anthropic",
       "sources": [
         "https://www.datacenterdynamics.com/en/news/amazon-project-rainier-anthropic-indiana/",
@@ -117,12 +117,12 @@
       "city": "New Albany",
       "state": "OH",
       "status": "under_construction",
-      "capacity_mw": 1000,
+      "capacity_mw": 1500,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's \"Prometheus\" AI cluster near New Albany, Ohio — among the first ~1 GW-class AI supercomputing campuses Meta expects to bring online (targeted 2026), part of its multi-hundred-billion-dollar superintelligence infrastructure push.",
+      "summary": "Meta's \"Prometheus\" AI cluster near New Albany, Ohio \u2014 among the first ~1 GW-class AI supercomputing campuses Meta expects to bring online (targeted 2026), part of its multi-hundred-billion-dollar superintelligence infrastructure push.",
       "website": "https://datacenters.atmeta.com/",
       "sources": [
         "https://www.datacenterdynamics.com/en/news/meta-prometheus-hyperion-ai-superclusters/"
@@ -130,7 +130,7 @@
     },
     {
       "id": "curated/news/rapides-parish-la-1",
-      "name": "Applied Digital 'Delta Forge 1' AI campus — Boyce (Rapides Parish)",
+      "name": "Applied Digital 'Delta Forge 1' AI campus \u2014 Boyce (Rapides Parish)",
       "operator": "Applied Digital",
       "lat": 31.39046,
       "lng": -92.66931,
@@ -142,7 +142,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Applied Digital's ~$3.6B 'Delta Forge 1' AI Factory campus — a ~300 MW (critical IT load), ~300-acre site near Boyce in Rapides Parish, Central Louisiana ('Cenla') — is the company's first Louisiana campus. Announced alongside Gov. Jeff Landry in May 2026; site development began in January 2026 with initial operations expected mid-2027. Coordinates approximate.",
+      "summary": "Applied Digital's ~$3.6B 'Delta Forge 1' AI Factory campus \u2014 a ~300 MW (critical IT load), ~300-acre site near Boyce in Rapides Parish, Central Louisiana ('Cenla') \u2014 is the company's first Louisiana campus. Announced alongside Gov. Jeff Landry in May 2026; site development began in January 2026 with initial operations expected mid-2027. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.opportunitylouisiana.gov/news/central-louisiana-secures-3-6-billion-applied-digital-ai-factory-campus",
@@ -163,7 +163,7 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "A large data center proposed near Fort Bliss, El Paso — reportedly could draw more power than the entire city. Early-stage proposal.",
+      "summary": "A large data center proposed near Fort Bliss, El Paso \u2014 reportedly could draw more power than the entire city. Early-stage proposal.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFpkbTcxb3FxcFozQUtDV0NJVGZCdnBaUkxQWFdkenhRSmNrZVY1SllqcEZoQklOY3NSU3dTYVZhVTQwZXdjNXozWU1rb3RZZ2NjdzNuc2tHc3AwSzlMWXhCZ0JnSXNXYl9EaUxZaEM1dUZvbXFSN2xDSDZEbUZ5d0JkZzVwdE9lN0U4aGNGNmFKT2V5czRRRFcwNVNCbmFpTGNjeHBDdVFRZ3Eta2VNcHB1RWNReTM2bDF1anpSQQ?oc=5"
@@ -171,7 +171,7 @@
     },
     {
       "id": "curated/news/casper-wy-3",
-      "name": "Proposed data center — near Casper",
+      "name": "Proposed data center \u2014 near Casper",
       "operator": null,
       "lat": 42.85012,
       "lng": -106.32514,
@@ -191,7 +191,7 @@
     },
     {
       "id": "curated/news/broadview-mt-6",
-      "name": "Proposed AI data center — Broadview",
+      "name": "Proposed AI data center \u2014 Broadview",
       "operator": null,
       "lat": 46.09773,
       "lng": -108.8771,
@@ -211,7 +211,7 @@
     },
     {
       "id": "curated/news/tonawanda-ny-8",
-      "name": "Proposed $2B AI data center — Tonawanda",
+      "name": "Proposed $2B AI data center \u2014 Tonawanda",
       "operator": null,
       "lat": 42.98085,
       "lng": -78.86522,
@@ -231,7 +231,7 @@
     },
     {
       "id": "curated/news/desoto-county-ms-9",
-      "name": "Proposed data center complex — DeSoto County",
+      "name": "Proposed data center complex \u2014 DeSoto County",
       "operator": null,
       "lat": 34.87029,
       "lng": -89.97787,
@@ -251,7 +251,7 @@
     },
     {
       "id": "curated/news/upper-merion-pa-10",
-      "name": "Proposed data center campus — Upper Merion",
+      "name": "Proposed data center campus \u2014 Upper Merion",
       "operator": null,
       "lat": 40.08602,
       "lng": -75.3662,
@@ -271,7 +271,7 @@
     },
     {
       "id": "curated/news/broken-arrow-ok-12",
-      "name": "Proposed data center — Broken Arrow",
+      "name": "Proposed data center \u2014 Broken Arrow",
       "operator": null,
       "lat": 36.0526,
       "lng": -95.79082,
@@ -291,7 +291,7 @@
     },
     {
       "id": "curated/news/inyokern-ca-14",
-      "name": "Proposed data center — Inyokern",
+      "name": "Proposed data center \u2014 Inyokern",
       "operator": "R&L Capital (RB Inyokern Data Center)",
       "lat": 35.65205,
       "lng": -117.81766,
@@ -313,7 +313,7 @@
     },
     {
       "id": "curated/news/ilion-ny-23",
-      "name": "Planned AI data center — Ilion (Remington site)",
+      "name": "Planned AI data center \u2014 Ilion (Remington site)",
       "operator": null,
       "lat": 43.01507,
       "lng": -75.03543,
@@ -333,7 +333,7 @@
     },
     {
       "id": "curated/news/colorado-springs-co-29",
-      "name": "Proposed AI data center — Colorado Springs",
+      "name": "Proposed AI data center \u2014 Colorado Springs",
       "operator": null,
       "lat": 38.83396,
       "lng": -104.82535,
@@ -353,7 +353,7 @@
     },
     {
       "id": "curated/news/allentown-pa-31",
-      "name": "Proposed data center — South Allentown",
+      "name": "Proposed data center \u2014 South Allentown",
       "operator": null,
       "lat": 40.60226,
       "lng": -75.47161,
@@ -373,7 +373,7 @@
     },
     {
       "id": "curated/news/chatham-va-35",
-      "name": "Stack Infrastructure Berry Hill megacampus — Pittsylvania County",
+      "name": "Stack Infrastructure Berry Hill megacampus \u2014 Pittsylvania County",
       "operator": "Stack Infrastructure",
       "lat": 36.56458,
       "lng": -79.66975,
@@ -385,7 +385,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Denver-based developer Stack Infrastructure's AI data center campus at the Southern Virginia Megasite at Berry Hill (Pittsylvania County, southwest of Danville). In May 2026 the Danville-Pittsylvania Regional Industrial Facility Authority unanimously approved a performance agreement under which Stack will invest at least $73.5B (a ~$100B buildout over three decades) and create ~2,050 jobs across three construction phases, with land-sale closings between June 2027 and June 2031 on ~2,990 acres — the largest private investment ever announced in Virginia.",
+      "summary": "Denver-based developer Stack Infrastructure's AI data center campus at the Southern Virginia Megasite at Berry Hill (Pittsylvania County, southwest of Danville). In May 2026 the Danville-Pittsylvania Regional Industrial Facility Authority unanimously approved a performance agreement under which Stack will invest at least $73.5B (a ~$100B buildout over three decades) and create ~2,050 jobs across three construction phases, with land-sale closings between June 2027 and June 2031 on ~2,990 acres \u2014 the largest private investment ever announced in Virginia.",
       "website": "https://virginiabusiness.com/stack-100b-berry-hill-data-center-project/",
       "sources": [
         "https://virginiabusiness.com/stack-100b-berry-hill-data-center-project/",
@@ -395,7 +395,7 @@
     },
     {
       "id": "curated/news/box-elder-county-ut-39",
-      "name": "Wonder Valley (Stratos Hyperscale) — Box Elder County",
+      "name": "Wonder Valley (Stratos Hyperscale) \u2014 Box Elder County",
       "operator": "Wonder Valley (Kevin O'Leary)",
       "lat": 41.35861,
       "lng": -113.21121,
@@ -407,7 +407,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "The Wonder Valley / Stratos Hyperscale campus backed by Kevin O'Leary in rural Box Elder County (Hansel Valley), Utah — pitched at up to ~9 GW, which would make it one of the largest data centers in the world. Box Elder County commissioners approved enabling resolutions on May 4, 2026 amid fierce local opposition. In mid-May 2026 O'Leary agreed to roughly halve the ~40,000-acre footprint, and the state is requiring a phased buildout (the initial phase-one permit covers under 2,000 acres). Residents have launched a referendum effort to block it; construction is not expected before ~2028.",
+      "summary": "The Wonder Valley / Stratos Hyperscale campus backed by Kevin O'Leary in rural Box Elder County (Hansel Valley), Utah \u2014 pitched at up to ~9 GW, which would make it one of the largest data centers in the world. Box Elder County commissioners approved enabling resolutions on May 4, 2026 amid fierce local opposition. In mid-May 2026 O'Leary agreed to roughly halve the ~40,000-acre footprint, and the state is requiring a phased buildout (the initial phase-one permit covers under 2,000 acres). Residents have launched a referendum effort to block it; construction is not expected before ~2028.",
       "website": null,
       "sources": [
         "https://fortune.com/2026/05/11/shark-tank-kevin-oleary-millionaire-utah-data-center-american-politics-protests-ai-tech/",
@@ -419,7 +419,7 @@
     },
     {
       "id": "curated/news/inver-grove-heights-mn-40",
-      "name": "Planned data center — Inver Grove Heights",
+      "name": "Planned data center \u2014 Inver Grove Heights",
       "operator": null,
       "lat": 44.8479,
       "lng": -93.04281,
@@ -439,7 +439,7 @@
     },
     {
       "id": "curated/news/north-slope-borough-ak-0",
-      "name": "Proposed AI data center — Alaska North Slope",
+      "name": "Proposed AI data center \u2014 Alaska North Slope",
       "operator": null,
       "lat": 69.53351,
       "lng": -153.82207,
@@ -459,7 +459,7 @@
     },
     {
       "id": "curated/news/saline-mi-oracle-53",
-      "name": "Oracle / OpenAI data center — Saline Township",
+      "name": "Oracle / OpenAI data center \u2014 Saline Township",
       "operator": "Oracle / OpenAI (Related Digital)",
       "lat": 42.16671,
       "lng": -83.78161,
@@ -480,7 +480,7 @@
     },
     {
       "id": "curated/news/new-florence-mo-google-52",
-      "name": "Google data center — New Florence (Montgomery County)",
+      "name": "Google data center \u2014 New Florence (Montgomery County)",
       "operator": "Google",
       "lat": 38.91032,
       "lng": -91.44822,
@@ -492,7 +492,7 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "high",
-      "summary": "Google's $15B data center in New Florence, Montgomery County, Missouri — announced May 2026 as the largest single private investment in state history. Primarily air-cooled to minimize water use; sited along Interstate 70 west of Warrenton.",
+      "summary": "Google's $15B data center in New Florence, Montgomery County, Missouri \u2014 announced May 2026 as the largest single private investment in state history. Primarily air-cooled to minimize water use; sited along Interstate 70 west of Warrenton.",
       "website": null,
       "sources": [
         "https://www.kcur.org/housing-development-section/2026-05-21/missouri-governor-announces-15-billion-google-data-center-in-montgomery-county",
@@ -501,7 +501,7 @@
     },
     {
       "id": "curated/news/nueces-county-tx-hut8-56",
-      "name": "Hut 8 Beacon Point — Nueces County",
+      "name": "Hut 8 Beacon Point \u2014 Nueces County",
       "operator": "Hut 8",
       "lat": 27.76353,
       "lng": -97.40332,
@@ -522,7 +522,7 @@
     },
     {
       "id": "curated/news/desoto-ks-beale-55",
-      "name": "Beale Infrastructure hyperscale campus — De Soto",
+      "name": "Beale Infrastructure hyperscale campus \u2014 De Soto",
       "operator": "Beale Infrastructure",
       "lat": 38.97917,
       "lng": -94.96858,
@@ -534,7 +534,7 @@
       "purpose": "multi_tenant",
       "workload": "mixed",
       "confidence": "medium",
-      "summary": "Beale Infrastructure's ~$3B hyperscale data center campus in De Soto, Kansas (about 30 miles west of Kansas City) — billed as the first hyperscale data center announced in the state. Full buildout is planned at four buildings and more than one million square feet, backed by Blue Owl Capital with power from Evergy; first phase broke ground in 2026.",
+      "summary": "Beale Infrastructure's ~$3B hyperscale data center campus in De Soto, Kansas (about 30 miles west of Kansas City) \u2014 billed as the first hyperscale data center announced in the state. Full buildout is planned at four buildings and more than one million square feet, backed by Blue Owl Capital with power from Evergy; first phase broke ground in 2026.",
       "website": null,
       "sources": [
         "https://www.businesswire.com/news/home/20260429340180/en/Beale-Infrastructure-Announces-Hyperscale-Kansas-Data-Center-Campus-Advancing-$3-Billion-Infrastructure-Investment",
@@ -543,7 +543,7 @@
     },
     {
       "id": "curated/news/pocatello-id-54",
-      "name": "Proposed AI data center — Pocatello (former Hoku site)",
+      "name": "Proposed AI data center \u2014 Pocatello (former Hoku site)",
       "operator": "Lex Developments",
       "lat": 42.86203,
       "lng": -112.45063,
@@ -564,7 +564,7 @@
     },
     {
       "id": "curated/news/lakeland-fl-41",
-      "name": "Proposed hyperscale data center — Lakeland",
+      "name": "Proposed hyperscale data center \u2014 Lakeland",
       "operator": null,
       "lat": 28.03947,
       "lng": -81.9498,
@@ -584,7 +584,7 @@
     },
     {
       "id": "curated/news/lebanon-county-pa-42",
-      "name": "Proposed $1.7B data center — Lebanon County",
+      "name": "Proposed $1.7B data center \u2014 Lebanon County",
       "operator": null,
       "lat": 40.37571,
       "lng": -76.46261,
@@ -604,7 +604,7 @@
     },
     {
       "id": "curated/news/palm-beach-county-fl-43",
-      "name": "Proposed data center — Palm Beach County",
+      "name": "Proposed data center \u2014 Palm Beach County",
       "operator": null,
       "lat": 26.62798,
       "lng": -80.44942,
@@ -624,7 +624,7 @@
     },
     {
       "id": "curated/news/charlestown-in-44",
-      "name": "Proposed $105M data center — Charlestown",
+      "name": "Proposed $105M data center \u2014 Charlestown",
       "operator": null,
       "lat": 38.44286,
       "lng": -85.66203,
@@ -644,7 +644,7 @@
     },
     {
       "id": "curated/news/waco-tx-45",
-      "name": "Cipher Mining 'McLennan' data center campus — Riesel (near Waco)",
+      "name": "Cipher Mining 'McLennan' data center campus \u2014 Riesel (near Waco)",
       "operator": "Cipher Mining",
       "lat": 31.47488,
       "lng": -96.92433,
@@ -665,7 +665,7 @@
     },
     {
       "id": "curated/news/henderson-county-tx-46",
-      "name": "Proposed data center — Henderson County",
+      "name": "Proposed data center \u2014 Henderson County",
       "operator": null,
       "lat": 32.1826,
       "lng": -95.78932,
@@ -685,7 +685,7 @@
     },
     {
       "id": "curated/news/conway-ar-47",
-      "name": "Proposed $1B AI data center — Conway",
+      "name": "Proposed $1B AI data center \u2014 Conway",
       "operator": null,
       "lat": 35.08919,
       "lng": -92.43984,
@@ -705,7 +705,7 @@
     },
     {
       "id": "curated/news/lawrenceburg-tn-48",
-      "name": "Proposed data center — Lawrenceburg",
+      "name": "Proposed data center \u2014 Lawrenceburg",
       "operator": null,
       "lat": 35.2423,
       "lng": -87.33474,
@@ -725,7 +725,7 @@
     },
     {
       "id": "curated/news/kenilworth-nj-49",
-      "name": "CoreWeave AI data center — Kenilworth",
+      "name": "CoreWeave AI data center \u2014 Kenilworth",
       "operator": "CoreWeave",
       "lat": 40.67714,
       "lng": -74.28707,
@@ -746,7 +746,7 @@
     },
     {
       "id": "curated/news/archbald-pa-50",
-      "name": "Proposed data center campus — Archbald",
+      "name": "Proposed data center campus \u2014 Archbald",
       "operator": null,
       "lat": 41.4948,
       "lng": -75.53685,
@@ -766,7 +766,7 @@
     },
     {
       "id": "curated/news/indianapolis-in-51",
-      "name": "Proposed $2B data center — Indianapolis (east side)",
+      "name": "Proposed $2B data center \u2014 Indianapolis (east side)",
       "operator": null,
       "lat": 39.76833,
       "lng": -86.15835,
@@ -786,7 +786,7 @@
     },
     {
       "id": "curated/news/independence-mo-nebius-57",
-      "name": "Nebius AI data center campus — Independence",
+      "name": "Nebius AI data center campus \u2014 Independence",
       "operator": "Nebius",
       "lat": 39.09248,
       "lng": -94.41379,
@@ -806,7 +806,7 @@
     },
     {
       "id": "curated/news/west-feliciana-la-hut8-58",
-      "name": "Hut 8 River Bend AI campus — West Feliciana Parish",
+      "name": "Hut 8 River Bend AI campus \u2014 West Feliciana Parish",
       "operator": "Hut 8 (Fluidstack tenant)",
       "lat": 30.88427,
       "lng": -91.40167,
@@ -818,7 +818,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Hut 8's River Bend AI data center campus in West Feliciana Parish, Louisiana — an up-to-$10B Phase I build drawing 330 MW of Entergy capacity to support ~245 MW of commercialized IT. Financed in April 2026 via $3.25B of investment-grade senior secured notes and leased, with Google backing, to AI-cloud firm Fluidstack for Anthropic workloads. Construction underway; operations targeted for Q2 2027.",
+      "summary": "Hut 8's River Bend AI data center campus in West Feliciana Parish, Louisiana \u2014 an up-to-$10B Phase I build drawing 330 MW of Entergy capacity to support ~245 MW of commercialized IT. Financed in April 2026 via $3.25B of investment-grade senior secured notes and leased, with Google backing, to AI-cloud firm Fluidstack for Anthropic workloads. Construction underway; operations targeted for Q2 2027.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNEhYV01FXzgxRE5RZVJCRjNoeU5lX21IOTE2Q0Vtb1hfVDNVMWpjZll0ajYxeGdheUpIeExKSHZZQmE4SFlHMzk2eTN1RnBvR2ZJaW9GWWd4WWFZSU1VUnBoWEV1X0xSYTdKYzB5U3ctRWktcGN1WEd5NlJpNFdlcERVR0RnNVk4WXg1bUVqOVRfcUUwMXRwRVUwTFMxSWg3WW11OG95UTVRTFRzU3p1Mko5OW53NHhrc3dPdGdOdEh3R3lqMXFWaXphWkFaeUtDOVg3VlpUYWFpcFB5ZUJXV0RkVmxzWVc0OTdNa0xkTkFJZ0ZrS25vRWRibU55YmRaaGhycHpNWkxSV3M?oc=5",
@@ -827,7 +827,7 @@
     },
     {
       "id": "curated/news/santa-teresa-nm-jupiter-59",
-      "name": "Project Jupiter (Stack Infrastructure / Oracle) — Santa Teresa",
+      "name": "Project Jupiter (Stack Infrastructure / Oracle) \u2014 Santa Teresa",
       "operator": "Stack Infrastructure / Oracle (BorderPlex Digital)",
       "lat": 31.87003,
       "lng": -106.68658,
@@ -839,7 +839,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Project Jupiter — a ~1,400-acre AI data center campus in Santa Teresa (Doña Ana County), New Mexico near El Paso, developed by Stack Infrastructure and BorderPlex Digital with Oracle as the confirmed tenant as part of the OpenAI/Oracle Stargate initiative. Plans span four buildings with on-site gas generation, battery storage and a desalination plant; headline investment cited up to $165B. Approved by county commissioners in 2025; developers revised the power plan in 2026.",
+      "summary": "Project Jupiter \u2014 a ~1,400-acre AI data center campus in Santa Teresa (Do\u00f1a Ana County), New Mexico near El Paso, developed by Stack Infrastructure and BorderPlex Digital with Oracle as the confirmed tenant as part of the OpenAI/Oracle Stargate initiative. Plans span four buildings with on-site gas generation, battery storage and a desalination plant; headline investment cited up to $165B. Approved by county commissioners in 2025; developers revised the power plan in 2026.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNld4d2ROT0p3d05GLWNzZmdwTlJ1V2dIYmJwTERNTkFIWnA2dE45ekFtSmt1QzkxY2dxTzg2UnRXcTg2WE53bENzS1IyVGNOSHhZSWpEck1Oa1BjVGh2R2ZBbGtyOEp5VkVVS2lJSGNlTDFzRGdmbUlwT3hSeTJ3eG1qQlZLX3hTbU96MWJQMnVQeGdQd3FXRi1lUDM4cEkwQ05rdHVlRGhGbDJfaV8za2N2OXM?oc=5",
@@ -848,7 +848,7 @@
     },
     {
       "id": "curated/news/van-wert-oh-60",
-      "name": "QTS data center campus — Van Wert",
+      "name": "QTS data center campus \u2014 Van Wert",
       "operator": "QTS",
       "lat": 40.80147,
       "lng": -84.60099,
@@ -869,7 +869,7 @@
     },
     {
       "id": "curated/news/san-antonio-tx-706ac-61",
-      "name": "Approved 706-acre data center — near San Antonio",
+      "name": "Approved 706-acre data center \u2014 near San Antonio",
       "operator": null,
       "lat": 29.4246,
       "lng": -98.49514,
@@ -889,7 +889,7 @@
     },
     {
       "id": "curated/news/st-louis-mo-armory-62",
-      "name": "Armory 'Innovation District' data center — St. Louis",
+      "name": "Armory 'Innovation District' data center \u2014 St. Louis",
       "operator": null,
       "lat": 38.62541,
       "lng": -90.19001,
@@ -909,7 +909,7 @@
     },
     {
       "id": "curated/news/bessemer-al-63",
-      "name": "Proposed data center campus — Bessemer",
+      "name": "Proposed data center campus \u2014 Bessemer",
       "operator": null,
       "lat": 33.40178,
       "lng": -86.95444,
@@ -929,7 +929,7 @@
     },
     {
       "id": "curated/news/red-oak-tx-64",
-      "name": "Proposed 800-acre data center campus — Red Oak",
+      "name": "Proposed 800-acre data center campus \u2014 Red Oak",
       "operator": null,
       "lat": 32.51439,
       "lng": -96.80666,
@@ -949,7 +949,7 @@
     },
     {
       "id": "curated/news/benbrook-tx-65",
-      "name": "Planned $1.1B data center campus — near Benbrook",
+      "name": "Planned $1.1B data center campus \u2014 near Benbrook",
       "operator": null,
       "lat": 32.67319,
       "lng": -97.46058,
@@ -969,7 +969,7 @@
     },
     {
       "id": "curated/news/texarkana-tx-bigpine-66",
-      "name": "Project Big Pine — 500-acre data center campus, Texarkana region",
+      "name": "Project Big Pine \u2014 500-acre data center campus, Texarkana region",
       "operator": null,
       "lat": 33.44667,
       "lng": -94.07715,
@@ -989,7 +989,7 @@
     },
     {
       "id": "curated/news/marshfield-mo-67",
-      "name": "Planned AI data center — Marshfield",
+      "name": "Planned AI data center \u2014 Marshfield",
       "operator": null,
       "lat": 37.33712,
       "lng": -92.90659,
@@ -1009,7 +1009,7 @@
     },
     {
       "id": "curated/news/nodaway-county-mo-68",
-      "name": "Proposed AI data center — Nodaway County",
+      "name": "Proposed AI data center \u2014 Nodaway County",
       "operator": null,
       "lat": 40.34834,
       "lng": -94.87237,
@@ -1029,7 +1029,7 @@
     },
     {
       "id": "curated/news/johnson-county-ks-69",
-      "name": "Proposed data center — rural Johnson County",
+      "name": "Proposed data center \u2014 rural Johnson County",
       "operator": null,
       "lat": 38.88379,
       "lng": -94.83891,
@@ -1041,7 +1041,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A large data center proposed on hundreds of acres in rural Johnson County, Kansas — a renewed proposal reported in spring 2026 after an earlier effort. Early-stage.",
+      "summary": "A large data center proposed on hundreds of acres in rural Johnson County, Kansas \u2014 a renewed proposal reported in spring 2026 after an earlier effort. Early-stage.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0dwaXVEUU5wZUxJdDFOWHViVVljbng5ZXlIWllQSFI2QV9oaF96OGlPTHZlQVJsRUdVaExmaXpuQWJPbzl0MF9BN3JLclFQcE1Mbl9uNUxpV0F3ZzNHa0pEZ2NxVnYzUVROY2cyWXVUdnlTM0ExTHhVdUd3WFl4blpXLVpvYUxuNUF6btIBjAFBVV95cUxObzJadmFEcUpuY2lXLW5jb3B0ZXhwNmRUY0VxQVJ1ZDB4WU10aUNrSm5pYzlyUFJDRlFNTldpTXdKUktTRzNIYUowMWp6TGJETWJzVl9INWlDTnROUy1oR0ZaMGVqT1Y2Y1lkU3pnOG41WHB6MXJlNFlLa0JZMFpVVkI4NW9vSVlFNWhLcQ?oc=5"
@@ -1049,7 +1049,7 @@
     },
     {
       "id": "curated/news/lowndes-county-al-70",
-      "name": "Proposed data center — Lowndes County",
+      "name": "Proposed data center \u2014 Lowndes County",
       "operator": null,
       "lat": 32.10881,
       "lng": -86.64025,
@@ -1069,7 +1069,7 @@
     },
     {
       "id": "curated/news/nassau-county-fl-71",
-      "name": "Proposed AI data center — Nassau County",
+      "name": "Proposed AI data center \u2014 Nassau County",
       "operator": null,
       "lat": 30.66243,
       "lng": -81.77073,
@@ -1089,7 +1089,7 @@
     },
     {
       "id": "curated/news/hillsboro-tx-72",
-      "name": "Proposed data center (300 acres) — Hillsboro",
+      "name": "Proposed data center (300 acres) \u2014 Hillsboro",
       "operator": null,
       "lat": 32.01085,
       "lng": -97.13037,
@@ -1109,7 +1109,7 @@
     },
     {
       "id": "curated/news/nashville-tn-fisk-73",
-      "name": "Fisk University data center — Nashville",
+      "name": "Fisk University data center \u2014 Nashville",
       "operator": "Fisk University",
       "lat": 36.16228,
       "lng": -86.7743,
@@ -1129,7 +1129,7 @@
     },
     {
       "id": "curated/news/durham-nc-duke-74",
-      "name": "Duke University data center — Durham",
+      "name": "Duke University data center \u2014 Durham",
       "operator": "Duke University",
       "lat": 35.99665,
       "lng": -78.90181,
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "curated/news/haskell-county-tx-google-75",
-      "name": "Google AI data center hubs — Haskell County",
+      "name": "Google AI data center hubs \u2014 Haskell County",
       "operator": "Google",
       "lat": 33.15422,
       "lng": -99.72,
@@ -1161,7 +1161,7 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "high",
-      "summary": "Part of Google's $40B commitment (announced Nov 2025, running through 2027) to expand cloud and AI infrastructure in Texas — its largest investment in any state. The plan spans three new data center hubs in ERCOT's West load zone: two in Haskell County and one in Armstrong County (Panhandle). One Haskell County campus will be paired with a new solar-plus-battery storage plant to limit grid impact.",
+      "summary": "Part of Google's $40B commitment (announced Nov 2025, running through 2027) to expand cloud and AI infrastructure in Texas \u2014 its largest investment in any state. The plan spans three new data center hubs in ERCOT's West load zone: two in Haskell County and one in Armstrong County (Panhandle). One Haskell County campus will be paired with a new solar-plus-battery storage plant to limit grid impact.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/google-commits-40bn-to-expand-cloud-and-ai-infrastructure-in-texas-through-2027/",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": "curated/news/barker-ny-terawulf-76",
-      "name": "TeraWulf Lake Mariner AI campus — Barker",
+      "name": "TeraWulf Lake Mariner AI campus \u2014 Barker",
       "operator": "TeraWulf",
       "lat": 43.32768,
       "lng": -78.55476,
@@ -1182,7 +1182,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "TeraWulf's Lake Mariner campus — a 500 MW AI 'factory' built on ~180 acres of an 1,800-acre retired coal-plant site near Barker (Town of Somerset), New York, north of Buffalo. ~60 critical-IT MW are operational for Core42 as of early 2026, with long-term leases for 380 MW to Fluidstack; buildings CB-4 and CB-5 are slated to energize in 2026, and the site is planned to scale toward 750 MW.",
+      "summary": "TeraWulf's Lake Mariner campus \u2014 a 500 MW AI 'factory' built on ~180 acres of an 1,800-acre retired coal-plant site near Barker (Town of Somerset), New York, north of Buffalo. ~60 critical-IT MW are operational for Core42 as of early 2026, with long-term leases for 380 MW to Fluidstack; buildings CB-4 and CB-5 are slated to energize in 2026, and the site is planned to scale toward 750 MW.",
       "website": null,
       "sources": [
         "https://www.datacenterknowledge.com/ai-data-centers/how-a-coal-plant-in-buffalo-became-terawulf-s-500-mw-ai-campus",
@@ -1191,7 +1191,7 @@
     },
     {
       "id": "curated/news/la-porte-in-microsoft-77",
-      "name": "Microsoft data center campus — La Porte",
+      "name": "Microsoft data center campus \u2014 La Porte",
       "operator": "Microsoft",
       "lat": 41.6106,
       "lng": -86.72252,
@@ -1212,7 +1212,7 @@
     },
     {
       "id": "curated/news/wheatfield-in-amazon-78",
-      "name": "AWS data center campus — Wheatfield",
+      "name": "AWS data center campus \u2014 Wheatfield",
       "operator": "Amazon Web Services",
       "lat": 41.19294,
       "lng": -87.05482,
@@ -1233,7 +1233,7 @@
     },
     {
       "id": "curated/news/avondale-az-prime-83",
-      "name": "Prime Data Centers campus — Avondale",
+      "name": "Prime Data Centers campus \u2014 Avondale",
       "operator": "Prime Data Centers",
       "lat": 33.4356,
       "lng": -112.3496,
@@ -1273,7 +1273,7 @@
     },
     {
       "id": "curated/news/mcminnville-tn-80",
-      "name": "Proposed AI data center — McMinnville",
+      "name": "Proposed AI data center \u2014 McMinnville",
       "operator": null,
       "lat": 35.6834,
       "lng": -85.76998,
@@ -1313,7 +1313,7 @@
     },
     {
       "id": "curated/news/big-beaver-pa-82",
-      "name": "Proposed data center — Big Beaver",
+      "name": "Proposed data center \u2014 Big Beaver",
       "operator": null,
       "lat": 40.82451,
       "lng": -80.36284,
@@ -1333,7 +1333,7 @@
     },
     {
       "id": "curated/news/wythe-county-va-tac-84",
-      "name": "TAC Data Centers gigawatt campus — Wythe County",
+      "name": "TAC Data Centers gigawatt campus \u2014 Wythe County",
       "operator": "TAC Data Centers (The Ardent Companies)",
       "lat": 36.9424,
       "lng": -80.96231,
@@ -1345,7 +1345,7 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Charlotte, NC-based TAC Data Centers (a subsidiary of Atlanta's The Ardent Companies) plans a 1+ GW, ~1,000-acre campus of 9–11 buildings totaling 3.5–4M sq ft in eastern Wythe County, off I-81 near the Pulaski County line. First half targeted online ~2029. Early-stage.",
+      "summary": "Charlotte, NC-based TAC Data Centers (a subsidiary of Atlanta's The Ardent Companies) plans a 1+ GW, ~1,000-acre campus of 9\u201311 buildings totaling 3.5\u20134M sq ft in eastern Wythe County, off I-81 near the Pulaski County line. First half targeted online ~2029. Early-stage.",
       "website": null,
       "sources": [
         "https://cardinalnews.org/2026/06/04/gigawatt-data-center-project-planned-for-wythe-county/"
@@ -1353,7 +1353,7 @@
     },
     {
       "id": "curated/news/holyoke-ma-85",
-      "name": "Proposed data center — Holyoke",
+      "name": "Proposed data center \u2014 Holyoke",
       "operator": null,
       "lat": 42.20712,
       "lng": -72.60759,
@@ -1365,7 +1365,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A data center proposed in Holyoke, MA — a city with abundant municipal hydro power — drawing local controversy. Early-stage.",
+      "summary": "A data center proposed in Holyoke, MA \u2014 a city with abundant municipal hydro power \u2014 drawing local controversy. Early-stage.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNU1MS2o0dEVPTExhZHJkOXliYnVreDNkNU1iZ2dJNjlVT2tBQlpZOU5ud0FSNGZuZDdjUzN2SGlrQkNVQ2drWTNLTDRkazdscGNqYzhsNkdRZ2JLeGd4RkpYc2RodEJ0cV83dUxLMDFTcXltc1ZBdDhFWk02cVJqVnk3V3dPLXJtU2htOU94OU4teG5fbGfSAaoBQVVfeXFMT0Q0MTJ4Wk1nOGRSNXNhVHNicWJLU1NvVWRfbFRTd0dDX2RMSEQ5LXRqeUxnV0lIMFotLXNqQnRod2J4VGIzNXFrS25HQTdoX3hWNDNKTWRMNDhzazNGdkR5LXc5eHZ3MUZiUXR4Q1N6UldIUEI1MDhXeEJadk5ZbkJObGF2YjROR3RPZEI1YmVnTEVTTDZKOGtlREExZlo1VXM4Q1FVN0RTa0E?oc=5"
@@ -1373,7 +1373,7 @@
     },
     {
       "id": "curated/news/tysons-va-86",
-      "name": "Proposed data center buildings — near Tysons",
+      "name": "Proposed data center buildings \u2014 near Tysons",
       "operator": null,
       "lat": 38.91913,
       "lng": -77.22296,
@@ -1393,7 +1393,7 @@
     },
     {
       "id": "curated/news/urbana-oh-thor-87",
-      "name": "Thor Equities data center campus — near Urbana",
+      "name": "Thor Equities data center campus \u2014 near Urbana",
       "operator": "Thor Equities",
       "lat": 40.10839,
       "lng": -83.75243,
@@ -1414,7 +1414,7 @@
     },
     {
       "id": "curated/news/hutto-tx-88",
-      "name": "AI data center — Hutto",
+      "name": "AI data center \u2014 Hutto",
       "operator": null,
       "lat": 30.54276,
       "lng": -97.54689,
@@ -1434,7 +1434,7 @@
     },
     {
       "id": "curated/news/lagrange-ga-google-89",
-      "name": "Google data center — LaGrange",
+      "name": "Google data center \u2014 LaGrange",
       "operator": "Google",
       "lat": 33.03929,
       "lng": -85.03133,
@@ -1455,7 +1455,7 @@
     },
     {
       "id": "curated/news/emporia-ks-flinthills-90",
-      "name": "Flint Hills Digital Campus — Emporia",
+      "name": "Flint Hills Digital Campus \u2014 Emporia",
       "operator": "Kanza Park Place LLC",
       "lat": 38.40401,
       "lng": -96.18162,
@@ -1476,7 +1476,7 @@
     },
     {
       "id": "curated/news/dumas-tx-duos-91",
-      "name": "Duos Edge AI — Dumas Edge Data Center",
+      "name": "Duos Edge AI \u2014 Dumas Edge Data Center",
       "operator": "Duos Edge AI",
       "lat": 35.86148,
       "lng": -101.97137,
@@ -1497,7 +1497,7 @@
     },
     {
       "id": "curated/news/pittsburg-county-ok-iren-92",
-      "name": "IREN Project Emerald — Pittsburg County (Kiowa)",
+      "name": "IREN Project Emerald \u2014 Pittsburg County (Kiowa)",
       "operator": "IREN",
       "lat": 34.72065,
       "lng": -95.89916,
@@ -1518,7 +1518,7 @@
     },
     {
       "id": "curated/news/christian-county-il-eaglerock-93",
-      "name": "Eagle Rock Partners data center campus — Christian County",
+      "name": "Eagle Rock Partners data center campus \u2014 Christian County",
       "operator": "Eagle Rock Partners",
       "lat": 39.52126,
       "lng": -89.28298,
@@ -1530,7 +1530,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "Real-estate developer Eagle Rock Partners' proposed ~1 GW, ~$8.8B data center campus on ~475 acres of rural Christian County, Illinois (Taylorville area) — ten 100 MW buildings. Eagle Rock preps sites for future operators rather than running facilities; no formal county application has been filed and construction would not begin before 2029-2030. The county imposed a temporary data-center restriction in 2025 and residents have organized opposition.",
+      "summary": "Real-estate developer Eagle Rock Partners' proposed ~1 GW, ~$8.8B data center campus on ~475 acres of rural Christian County, Illinois (Taylorville area) \u2014 ten 100 MW buildings. Eagle Rock preps sites for future operators rather than running facilities; no formal county application has been filed and construction would not begin before 2029-2030. The county imposed a temporary data-center restriction in 2025 and residents have organized opposition.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/property-developer-eagle-rock-proposes-1gw-data-center-in-christian-county-illinois/",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "curated/news/west-memphis-ar-google-94",
-      "name": "Google Project Pyramid — West Memphis",
+      "name": "Google Project Pyramid \u2014 West Memphis",
       "operator": "Google",
       "lat": 35.14648,
       "lng": -90.18454,
@@ -1551,7 +1551,7 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "high",
-      "summary": "Google's 'Project Pyramid' data center campus on a ~1,178-acre site south of Bollinger Road in West Memphis (Crittenden County), Arkansas — five buildings supporting Google search and AI. Construction began in October 2025; Google has committed ~$4B (part of a broader ~$10B Arkansas plan, enabled by a multi-billion-dollar bond authorization) and is pairing it with a ~600 MW Entergy solar project. About 300 permanent jobs are expected — billed as the largest investment in Arkansas history.",
+      "summary": "Google's 'Project Pyramid' data center campus on a ~1,178-acre site south of Bollinger Road in West Memphis (Crittenden County), Arkansas \u2014 five buildings supporting Google search and AI. Construction began in October 2025; Google has committed ~$4B (part of a broader ~$10B Arkansas plan, enabled by a multi-billion-dollar bond authorization) and is pairing it with a ~600 MW Entergy solar project. About 300 permanent jobs are expected \u2014 billed as the largest investment in Arkansas history.",
       "website": "https://blog.google/company-news/inside-google/company-announcements/google-american-innovation-arkansas/",
       "sources": [
         "https://www.arkansasonline.com/news/2026/jun/04/google-data-center-poises-west-memphis-for-boom/",
@@ -1560,7 +1560,7 @@
     },
     {
       "id": "curated/news/seattle-wa-digitalrealty-95",
-      "name": "Digital Realty downtown data center — 301 Virginia St",
+      "name": "Digital Realty downtown data center \u2014 301 Virginia St",
       "operator": "Digital Realty",
       "lat": 47.61235,
       "lng": -122.34043,
@@ -1581,7 +1581,7 @@
     },
     {
       "id": "curated/news/piedmont-ok-96",
-      "name": "Proposed data center — Piedmont (Cloverleaf / Beltline)",
+      "name": "Proposed data center \u2014 Piedmont (Cloverleaf / Beltline)",
       "operator": null,
       "lat": 35.642,
       "lng": -97.74643,
@@ -1593,7 +1593,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "Early-stage data center proposals in Piedmont, Oklahoma (northwest of Oklahoma City) — including the 'Cloverleaf' project and a separate 'Beltline' rezoning request — that drew resident pushback over municipal water supply and growth in spring 2026. Developers tout closed-loop cooling, but the city planning commission tabled the rezonings pending a deeper study of water capacity. Coordinates approximate.",
+      "summary": "Early-stage data center proposals in Piedmont, Oklahoma (northwest of Oklahoma City) \u2014 including the 'Cloverleaf' project and a separate 'Beltline' rezoning request \u2014 that drew resident pushback over municipal water supply and growth in spring 2026. Developers tout closed-loop cooling, but the city planning commission tabled the rezonings pending a deeper study of water capacity. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.news9.com/oklahoma-city-news/piedmont-residents-raise-water-growth-concerns-over-proposed-massive-data-center-project",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": "curated/news/pampa-tx-google-meitner-97",
-      "name": "Google Meitner Energy Center — Gray County",
+      "name": "Google Meitner Energy Center \u2014 Gray County",
       "operator": "Google / Intersect Power",
       "lat": 35.5363,
       "lng": -100.96016,
@@ -1623,7 +1623,7 @@
     },
     {
       "id": "curated/news/storey-county-nv-fleet-98",
-      "name": "Fleet Data Centers (Tract) — South Valley & Peru Ridge",
+      "name": "Fleet Data Centers (Tract) \u2014 South Valley & Peru Ridge",
       "operator": "Fleet Data Centers (Tract)",
       "lat": 39.55602,
       "lng": -119.49028,
@@ -1635,7 +1635,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Fleet Data Centers, a subsidiary of Tract Capital Management, broke ground in mid-2026 on two adjacent build-to-suit campuses — South Valley and Peru Ridge — along USA Parkway in the Tahoe Reno Industrial Center (Storey County), east of Reno, Nevada. Combined ~400 MW of critical compute, part of a reported ~$10B program; the capacity is 100% pre-leased to an unnamed AA-rated, $3T+ market-cap tenant on a long-term triple-net lease. Coordinates approximate.",
+      "summary": "Fleet Data Centers, a subsidiary of Tract Capital Management, broke ground in mid-2026 on two adjacent build-to-suit campuses \u2014 South Valley and Peru Ridge \u2014 along USA Parkway in the Tahoe Reno Industrial Center (Storey County), east of Reno, Nevada. Combined ~400 MW of critical compute, part of a reported ~$10B program; the capacity is 100% pre-leased to an unnamed AA-rated, $3T+ market-cap tenant on a long-term triple-net lease. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/fleet-breaks-ground-on-data-center-outside-reno-nevada/",
@@ -1644,7 +1644,7 @@
     },
     {
       "id": "curated/news/bastrop-county-tx-edgeconnex-99",
-      "name": "EdgeConneX second Bastrop County campus — Cedar Creek",
+      "name": "EdgeConneX second Bastrop County campus \u2014 Cedar Creek",
       "operator": "EdgeConneX",
       "lat": 30.0802,
       "lng": -97.49329,
@@ -1656,7 +1656,7 @@
       "purpose": "multi_tenant",
       "workload": "mixed",
       "confidence": "high",
-      "summary": "EdgeConneX's second data center campus in greater Bastrop County, Texas — two single-story buildings totaling ~730,000 sq ft on a ~180-acre site at 6682 FM 535 near Cedar Creek, southeast of Austin. A ~$1.4B total investment (~$700M of buildings); construction expected to begin mid-2026 with completion by the end of 2028, alongside the developer's first Cedar Creek campus already under construction. Coordinates approximate.",
+      "summary": "EdgeConneX's second data center campus in greater Bastrop County, Texas \u2014 two single-story buildings totaling ~730,000 sq ft on a ~180-acre site at 6682 FM 535 near Cedar Creek, southeast of Austin. A ~$1.4B total investment (~$700M of buildings); construction expected to begin mid-2026 with completion by the end of 2028, alongside the developer's first Cedar Creek campus already under construction. Coordinates approximate.",
       "website": "https://www.edgeconnex.com/",
       "sources": [
         "https://communityimpact.com/austin/bastrop-cedar-creek/government/2026/03/31/edgeconnex-plans-second-data-center-campus-in-bastrop-county/",
@@ -1665,7 +1665,7 @@
     },
     {
       "id": "curated/news/fairfield-tx-cyrusone-100",
-      "name": "CyrusOne Freestone Energy Center campus — Fairfield",
+      "name": "CyrusOne Freestone Energy Center campus \u2014 Fairfield",
       "operator": "CyrusOne",
       "lat": 31.7244,
       "lng": -96.16488,
@@ -1698,7 +1698,7 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "high",
-      "summary": "Google's proposed ~$1B data center on 380 acres at the Port of Little Rock (Sweet Home area), Arkansas — five industrial buildings totaling ~1.43M sq ft plus two office buildings and an electrical substation, drawing more than 100 MW. Google confirmed the land purchase in April 2026; as of mid-2026 the project remains in permitting, and the city was drafting data-center zoning rules that would govern it. Coordinates approximate.",
+      "summary": "Google's proposed ~$1B data center on 380 acres at the Port of Little Rock (Sweet Home area), Arkansas \u2014 five industrial buildings totaling ~1.43M sq ft plus two office buildings and an electrical substation, drawing more than 100 MW. Google confirmed the land purchase in April 2026; as of mid-2026 the project remains in permitting, and the city was drafting data-center zoning rules that would govern it. Coordinates approximate.",
       "website": "https://blog.google/",
       "sources": [
         "https://www.datacenterdynamics.com/en/news/google-behind-1bn-data-center-in-little-rock-arkansas-report/",
@@ -1707,7 +1707,7 @@
     },
     {
       "id": "curated/news/shalersville-oh-102",
-      "name": "Bitdeer / Geis AI data center campus — Shalersville Township",
+      "name": "Bitdeer / Geis AI data center campus \u2014 Shalersville Township",
       "operator": "Bitdeer / Geis Cos.",
       "lat": 41.23894,
       "lng": -81.23121,
@@ -1728,7 +1728,7 @@
     },
     {
       "id": "curated/news/columbus-ga-103",
-      "name": "Proposed data center — Columbus",
+      "name": "Proposed data center \u2014 Columbus",
       "operator": null,
       "lat": 32.46107,
       "lng": -84.98804,
@@ -1748,7 +1748,7 @@
     },
     {
       "id": "curated/news/south-whitehall-pa-104",
-      "name": "Proposed data center — South Whitehall Township",
+      "name": "Proposed data center \u2014 South Whitehall Township",
       "operator": null,
       "lat": 40.61001,
       "lng": -75.55559,
@@ -1768,7 +1768,7 @@
     },
     {
       "id": "curated/news/prichard-al-105",
-      "name": "Proposed data center — Prichard",
+      "name": "Proposed data center \u2014 Prichard",
       "operator": null,
       "lat": 30.7388,
       "lng": -88.07889,
@@ -1788,7 +1788,7 @@
     },
     {
       "id": "curated/news/chesterfield-county-va-106",
-      "name": "Proposed data center campus near I-95 — Chesterfield County",
+      "name": "Proposed data center campus near I-95 \u2014 Chesterfield County",
       "operator": null,
       "lat": 37.386,
       "lng": -77.57851,
@@ -1808,7 +1808,7 @@
     },
     {
       "id": "curated/news/san-antonio-tx-westside-107",
-      "name": "Proposed $157M West Side data center — San Antonio",
+      "name": "Proposed $157M West Side data center \u2014 San Antonio",
       "operator": null,
       "lat": 29.4246,
       "lng": -98.49514,
@@ -1828,7 +1828,7 @@
     },
     {
       "id": "curated/news/lyon-township-mi-verrus-108",
-      "name": "Verrus 'Project Flex' data center — Lyon Township",
+      "name": "Verrus 'Project Flex' data center \u2014 Lyon Township",
       "operator": "Verrus",
       "lat": 42.512,
       "lng": -83.616,
@@ -1840,7 +1840,7 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Proposed ~1.8M sq ft, 172-acre AI data center campus (six buildings plus a utility substation) in Lyon Township, Oakland County, developed by Verrus — a data center developer backed by Alphabet spinoff Sidewalk Infrastructure Partners — with Walbridge as general contractor. Anthropic has reportedly been in talks as an anchor tenant. The site plan won conditional approval in Sept 2025, but final permits remain pending amid strong local opposition and a March 2026 township moratorium on data centers; the developer has threatened litigation over the delays. Coordinates approximate.",
+      "summary": "Proposed ~1.8M sq ft, 172-acre AI data center campus (six buildings plus a utility substation) in Lyon Township, Oakland County, developed by Verrus \u2014 a data center developer backed by Alphabet spinoff Sidewalk Infrastructure Partners \u2014 with Walbridge as general contractor. Anthropic has reportedly been in talks as an anchor tenant. The site plan won conditional approval in Sept 2025, but final permits remain pending amid strong local opposition and a March 2026 township moratorium on data centers; the developer has threatened litigation over the delays. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.crainsdetroit.com/economic-development/verrus-data-center-planned-lyon-township/",
@@ -1850,7 +1850,7 @@
     },
     {
       "id": "curated/news/bethlehem-ny-kenwood-109",
-      "name": "Kenwood Commons data center (former Doane Stuart site) — Bethlehem",
+      "name": "Kenwood Commons data center (former Doane Stuart site) \u2014 Bethlehem",
       "operator": "Guild Ventures",
       "lat": 42.629,
       "lng": -73.865,
@@ -1871,7 +1871,7 @@
     },
     {
       "id": "curated/news/piketon-oh-110",
-      "name": "OpenAI / SB Energy 10 GW data center — Portsmouth Site (Piketon)",
+      "name": "OpenAI / SB Energy 10 GW data center \u2014 Portsmouth Site (Piketon)",
       "operator": "SB Energy (developer) / OpenAI (anchor tenant)",
       "lat": 39.06813,
       "lng": -83.01434,
@@ -1892,7 +1892,7 @@
     },
     {
       "id": "curated/news/dalton-ga-111",
-      "name": "Core Scientific / CoreWeave AI data center campus — Dalton (Whitfield County)",
+      "name": "Core Scientific / CoreWeave AI data center campus \u2014 Dalton (Whitfield County)",
       "operator": "Core Scientific / CoreWeave",
       "lat": 34.76919,
       "lng": -84.97025,
@@ -1913,7 +1913,7 @@
     },
     {
       "id": "curated/news/faribault-mn-112",
-      "name": "Archer Datacenters data center — Faribault",
+      "name": "Archer Datacenters data center \u2014 Faribault",
       "operator": "Archer Datacenters",
       "lat": 43.6648,
       "lng": -93.95105,
@@ -1925,7 +1925,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A proposed ~500,000 sq ft data center on an ~84-acre site in Faribault, Rice County, developed by Archer Datacenters. On June 8, 2026 the Minnesota Court of Appeals sided with the Minnesota Center for Environmental Advocacy, ruling the city must conduct more environmental study before approving the project — which remains active but legally stalled. Coordinates approximate.",
+      "summary": "A proposed ~500,000 sq ft data center on an ~84-acre site in Faribault, Rice County, developed by Archer Datacenters. On June 8, 2026 the Minnesota Court of Appeals sided with the Minnesota Center for Environmental Advocacy, ruling the city must conduct more environmental study before approving the project \u2014 which remains active but legally stalled. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.mprnews.org/story/2026/06/08/appeals-court-rules-faribault-erred-in-data-center-decision",
@@ -1934,7 +1934,7 @@
     },
     {
       "id": "curated/news/clinton-ia-113",
-      "name": "QTS AI data center campus — Clinton",
+      "name": "QTS AI data center campus \u2014 Clinton",
       "operator": "QTS",
       "lat": 41.90547,
       "lng": -90.56,
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "curated/news/lee-county-nc-114",
-      "name": "CyrusOne data center — northern Lee County (near Moncure)",
+      "name": "CyrusOne data center \u2014 northern Lee County (near Moncure)",
       "operator": "CyrusOne (PointOne / Helix Ventures developers)",
       "lat": 35.6225,
       "lng": -79.07831,
@@ -1975,7 +1975,7 @@
     },
     {
       "id": "curated/news/strasburg-va-115",
-      "name": "Takanock 'Project Tallmadge' data center — Strasburg",
+      "name": "Takanock 'Project Tallmadge' data center \u2014 Strasburg",
       "operator": "Takanock",
       "lat": 38.98873,
       "lng": -78.36228,
@@ -1996,7 +1996,7 @@
     },
     {
       "id": "curated/news/mason-county-wv-116",
-      "name": "Nscale 'Monarch Compute Campus' — Mason County (Point Pleasant)",
+      "name": "Nscale 'Monarch Compute Campus' \u2014 Mason County (Point Pleasant)",
       "operator": "Nscale",
       "lat": 38.84453,
       "lng": -82.13709,
@@ -2008,7 +2008,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Nscale's 'Monarch Compute Campus' near Point Pleasant in Mason County, WV — on a ~2,380-acre site with 2,080 acres rezoned from agricultural to rural-industrial in May 2026 — is a planned 2 GW AI data center (scalable to 8 GW by 2031) with a state-certified on-site AI microgrid. Nscale has reported an MOU with Microsoft for 1.35 GW; an air permit is currently open for public comment. Early-stage. Coordinates approximate.",
+      "summary": "Nscale's 'Monarch Compute Campus' near Point Pleasant in Mason County, WV \u2014 on a ~2,380-acre site with 2,080 acres rezoned from agricultural to rural-industrial in May 2026 \u2014 is a planned 2 GW AI data center (scalable to 8 GW by 2031) with a state-certified on-site AI microgrid. Nscale has reported an MOU with Microsoft for 1.35 GW; an air permit is currently open for public comment. Early-stage. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.aol.com/articles/2-080-acres-rezoned-data-213734000.html",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": "curated/news/liberty-mo-117",
-      "name": "Metrobloks data center campus — Liberty",
+      "name": "Metrobloks data center campus \u2014 Liberty",
       "operator": "Metrobloks",
       "lat": 39.24648,
       "lng": -94.41908,
@@ -2034,6 +2034,110 @@
       "sources": [
         "https://www.libertymissouri.gov/m/newsflash/Home/Detail/5426",
         "https://www.datacenterdynamics.com/en/news/metrobloks-announces-plans-for-three-building-data-center-campus-in-kansas-city-missouri/"
+      ]
+    },
+    {
+      "id": "curated/news/goochland-va-tract-118",
+      "name": "Tuckahoe Technology Park (Tract) \u2014 Goochland County",
+      "operator": "Tract",
+      "lat": 37.72043,
+      "lng": -77.8838,
+      "city": "Goochland",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Denver-based data center land developer Tract has filed an initial application for Tuckahoe Technology Park, a multi-phase campus of roughly 12 data center buildings on nearly 900 acres just west of West Creek Business Park in Goochland County \u2014 the first project proposed under the county's new technology overlay district. Tract is under contract to buy the 13-parcel site and typically prepares land/power then sells to operators. Early-stage and contested; coordinates approximate (county seat).",
+      "website": null,
+      "sources": [
+        "https://richmondbizsense.com/2026/06/11/tuckahoe-tech-park-data-center-campus-planned-on-900-acre-tract-in-goochland/",
+        "https://www.wtvr.com/news/local-news/data-center-goochland-june-11-2026"
+      ]
+    },
+    {
+      "id": "curated/news/elk-river-mn-119",
+      "name": "Elk River Capital data center \u2014 Elk River",
+      "operator": "Elk River Capital (Ned Abdul)",
+      "lat": 45.30385,
+      "lng": -93.56718,
+      "city": "Elk River",
+      "state": "MN",
+      "status": "planned",
+      "capacity_mw": 33,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Developer Ned Abdul (Elk River Capital LLC) has proposed converting a vacant ~60,000 sq ft industrial building at 19178 Industrial Blvd in Elk River, MN into a roughly 33 MW data center running 24/7. The plan drew strong resident opposition at the May 2026 Planning Commission. Early-stage and contested.",
+      "website": null,
+      "sources": [
+        "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/proposed-elk-river-data-center-faces-strong-pushback/article_db6822f6-cb86-44fc-b6c5-4f751810b309.html"
+      ]
+    },
+    {
+      "id": "curated/news/desoto-county-fl-dcip-120",
+      "name": "DCIP Group AI data center campus \u2014 DeSoto County",
+      "operator": "DCIP Group",
+      "lat": 27.21588,
+      "lng": -81.85842,
+      "city": "Arcadia",
+      "state": "FL",
+      "status": "planned",
+      "capacity_mw": 4000,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "DCIP Group (CEO Jon Brown) is pursuing a gas-powered AI data center campus near Arcadia in DeSoto County, FL. The county approved rezoning ~34 acres of a decommissioned power-plant site in March 2026; the developer envisions a build-out of up to ~1,300 acres and a stated ~4,000 MW at full scale, fed by the Florida Gas Transmission pipeline. Highly speculative far-future capacity; contested by residents over water, noise and pollution.",
+      "website": null,
+      "sources": [
+        "https://www.winknews.com/news/desoto/desoto-county-divided-over-ai-data-center-near-arcadia/article_ecc92f05-b6e8-4ecf-99c0-d3cbfbb1b827.html",
+        "https://www.wgcu.org/government-politics/2026-05-22/developers-push-massive-data-center-complex-in-desoto-county-amid-backlash"
+      ]
+    },
+    {
+      "id": "curated/news/osawatomie-ks-alcove-121",
+      "name": "Project Catalyst (Alcove Development) \u2014 Osawatomie",
+      "operator": "Alcove Development",
+      "lat": 38.50161,
+      "lng": -94.95219,
+      "city": "Osawatomie",
+      "state": "KS",
+      "status": "planned",
+      "capacity_mw": 500,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Lawrence, KS-based Alcove Development is partnering with the City of Osawatomie on 'Project Catalyst,' a ~$1B, 500+ MW air-cooled data center campus on a 283-acre site within city limits in Miami County, KS. Officials call it the county's largest-ever economic development project; announced May 2026 and still in early permitting amid resident debate.",
+      "website": null,
+      "sources": [
+        "https://www.kshb.com/news/local-news/kansas/miami-county/project-catalyst-data-center-developer-in-osawatomie-offers-update-touting-economic-opportunity",
+        "https://www.kctv5.com/2026/05/29/osawatomie-moves-forward-with-500-megawatt-data-center-campus/"
+      ]
+    },
+    {
+      "id": "curated/news/boyd-county-ky-terawulf-122",
+      "name": "TeraWulf 'Muskie' HPC/AI campus \u2014 EastPark (Boyd County)",
+      "operator": "TeraWulf",
+      "lat": 38.47841,
+      "lng": -82.63794,
+      "city": "Ashland",
+      "state": "KY",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "TeraWulf acquired the ~285-acre 'Muskie' site within the 1,000-acre EastPark Industrial Park in northeastern Kentucky (near Ashland, Boyd County) for an HPC/AI hosting campus targeting more than 1 GW. The first 500 MW is slated for H2 2028 with a further 500 MW by H2 2030; it is TeraWulf's second Kentucky campus. Site acquired May 2026. Coordinates approximate (nearest city).",
+      "website": null,
+      "sources": [
+        "https://investors.terawulf.com/news-events/press-releases/detail/141/terawulf-expands-infrastructure-platform-with-acquisition-of-1-gw-eastern-kentucky-hpc-campus",
+        "https://www.datacenterdynamics.com/en/news/terawulf-acquires-site-in-kentucky-for-1gw-data-center-campus/"
       ]
     }
   ]

@@ -11,9 +11,17 @@
     "lat": 40.60226,
     "lng": -75.47161
   },
+  "arcadia, fl": {
+    "lat": 27.21588,
+    "lng": -81.85842
+  },
   "archbald, pa": {
     "lat": 41.4948,
     "lng": -75.53685
+  },
+  "ashland, ky": {
+    "lat": 38.47841,
+    "lng": -82.63794
   },
   "avondale, az": {
     "lat": 33.4356,
@@ -139,6 +147,10 @@
     "lat": 35.99665,
     "lng": -78.90181
   },
+  "elk river, mn": {
+    "lat": 45.30385,
+    "lng": -93.56718
+  },
   "emporia, ks": {
     "lat": 38.40401,
     "lng": -96.18162
@@ -158,6 +170,10 @@
   "fort chiswell, va": {
     "lat": 36.9424,
     "lng": -80.96231
+  },
+  "goochland, va": {
+    "lat": 37.72043,
+    "lng": -77.8838
   },
   "haskell, tx": {
     "lat": 33.15422,
@@ -298,6 +314,10 @@
   "north slope borough, alaska": {
     "lat": 69.53351,
     "lng": -153.82207
+  },
+  "osawatomie, ks": {
+    "lat": 38.50161,
+    "lng": -94.95219
   },
   "palm beach county, fl": {
     "lat": 26.62798,
