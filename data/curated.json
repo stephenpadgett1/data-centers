@@ -15,13 +15,14 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.3 GW / ~200 MW) and Crusoe topped out the final building, with construction running into late 2026\u2013early 2027. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.3 GW / ~200 MW) and Crusoe topped out the final building, with the remaining buildings on track for completion around mid-to-late 2026; in June 2026 Crusoe declared the campus officially live serving Oracle and OpenAI. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
         "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
         "https://www.datacenterdynamics.com/en/news/oracleopenai-drop-plans-to-expand-flagship-abilene-stargate-site-meta-in-talks-to-pick-up-crusoe-capacity-with-nvidias-help/",
-        "https://www.datacenterdynamics.com/en/news/crusoe-tops-out-final-building-at-openai-stargate-data-center-campus-in-abilene-texas/"
+        "https://www.datacenterdynamics.com/en/news/crusoe-tops-out-final-building-at-openai-stargate-data-center-campus-in-abilene-texas/",
+        "https://www.datacenterdynamics.com/en/news/crusoes-abilene-data-center-officially-live-serving-oracle-and-openais-stargate/"
       ]
     },
     {
@@ -38,11 +39,12 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's largest data center ever \u2014 a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, powered by 10 new Meta-funded gas plants (~5.2 GW) plus committed renewables, transmission and storage. Construction began in earnest in early 2026; Phase 1 targets ~1.5 GW by late 2027 with full 5 GW phased through 2030. Cost projections have climbed from the original ~$10B toward $27B+ in near-term investment, with longer-run program estimates reported as high as ~$200B \u2014 among the largest private infrastructure projects in the US.",
+      "summary": "Meta's largest data center ever \u2014 a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, powered by 10 new Meta-funded gas plants (~5.2 GW) plus committed renewables, transmission and storage. Construction began in earnest in early 2026; Phase 1 targets ~1.5 GW by late 2027 with full 5 GW phased through 2030. Cost projections have climbed from the original ~$10B toward $27B+ in near-term investment, with longer-run program estimates reported as high as ~$200B \u2014 among the largest private infrastructure projects in the US. In May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment; the construction workforce is expected to peak around 5,000 in mid-2026.",
       "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
       "sources": [
         "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
-        "https://www.datacenterdynamics.com/en/news/meta-purchases-additional-1400-acres-for-hyperion-mega-data-center-expansion/"
+        "https://www.datacenterdynamics.com/en/news/meta-purchases-additional-1400-acres-for-hyperion-mega-data-center-expansion/",
+        "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/"
       ]
     },
     {
@@ -513,11 +515,12 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Hut 8's Beacon Point AI data center campus on a 525-acre site in Nueces County, near Corpus Christi, Texas. A 15-year, 352 MW lease (~$9.8B base value) was signed with an investment-grade hyperscale tenant; the campus has a 1 GW interconnection agreement with energization targeted for Q1 2027. Has drawn local concern amid the region's water crisis.",
+      "summary": "Hut 8's Beacon Point AI data center campus on a 525-acre site in Nueces County, near Corpus Christi, Texas. A 15-year, 352 MW lease (~$9.8B base value) was signed with an investment-grade hyperscale tenant; the campus has a 1 GW interconnection agreement with energization targeted for Q1 2027. Has drawn local concern amid the region's water crisis. In June 2026 Hut 8 closed $4.25B of investment-grade senior secured notes (Baa2, non-recourse, at project subsidiary Beacon Point DC LLC) to fund the first 352 MW phase; the first two phases represent roughly $17B of capital investment.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/hut-8-signs-352mw-data-center-lease-in-texas-with-investment-grade-tenant/",
-        "https://www.kristv.com/news/local-news/in-your-neighborhood/nueces-county/hut-8-signs-9-8-billion-lease-for-ai-data-center-campus-in-nueces-county"
+        "https://www.kristv.com/news/local-news/in-your-neighborhood/nueces-county/hut-8-signs-9-8-billion-lease-for-ai-data-center-campus-in-nueces-county",
+        "https://www.prnewswire.com/news-releases/hut-8-closes-4-25-billion-of-investment-grade-senior-secured-notes-for-beacon-point-data-center-project-302795866.html"
       ]
     },
     {
@@ -2138,6 +2141,112 @@
       "sources": [
         "https://investors.terawulf.com/news-events/press-releases/detail/141/terawulf-expands-infrastructure-platform-with-acquisition-of-1-gw-eastern-kentucky-hpc-campus",
         "https://www.datacenterdynamics.com/en/news/terawulf-acquires-site-in-kentucky-for-1gw-data-center-campus/"
+      ]
+    },
+    {
+      "id": "curated/news/san-jose-ca-microsoft-alviso-123",
+      "name": "Microsoft Alviso campus \u2014 San Jose",
+      "operator": "Microsoft",
+      "lat": 37.42605,
+      "lng": -121.97524,
+      "city": "San Jose",
+      "state": "CA",
+      "status": "under_construction",
+      "capacity_mw": 48,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Microsoft's first purpose-built, company-owned data center in San Jose: a two-building, ~397,000 sq ft, 48 MW campus at 1657 Alviso-Milpitas Rd in the Alviso district, supporting cloud and AI demand. Ground broken June 2026 on land Microsoft has held for nearly a decade; completion targeted for 2028, with HITT as general contractor.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/microsoft-breaks-ground-on-alviso-data-center-campus-in-san-jose-california/",
+        "https://www.nbcbayarea.com/news/local/microsoft-breaks-ground-on-new-data-center-in-san-jose/4097643/"
+      ]
+    },
+    {
+      "id": "curated/news/iron-county-ut-antelope-124",
+      "name": "Antelope Data Center \u2014 Iron County",
+      "operator": "Pronghorn Development LLC",
+      "lat": 37.67742,
+      "lng": -113.06183,
+      "city": "Cedar City",
+      "state": "UT",
+      "status": "planned",
+      "capacity_mw": 1500,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Pronghorn Development's 'Project Antelope', a 640-acre campus approved by Iron County commissioners on June 4, 2026 (conditional use permit) after months of contested public hearings. Full buildout envisions five buildings totaling up to ~6.75M sq ft with an on-site natural gas plant of up to 1.5 GW, constructed over 8-10 years on Antelope Springs Road west of Cedar City. Coordinates approximate (nearest city).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/proposal-to-build-640-acre-data-center-in-iron-county-utah-gets-the-go-ahead/",
+        "https://www.abc4.com/news/southern-utah/iron-county-approves-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/spokane-wa-avista-125",
+      "name": "Proposed data center \u2014 Spokane County (Avista MOU)",
+      "operator": null,
+      "lat": 47.65719,
+      "lng": -117.42351,
+      "city": "Spokane",
+      "state": "WA",
+      "status": "planned",
+      "capacity_mw": 500,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "An unnamed company holds a nonbinding MOU with utility Avista for a data center in Spokane County drawing 125 MW from 2029, expandable to ~500 MW by 2032 \u2014 more than half of current countywide load. Site and operator undisclosed; a community petition opposes the project and the Spokane City Council introduced a one-year moratorium on new data center permits on June 10, 2026. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://www.spokesman.com/stories/2026/jun/09/avista-confirms-negotiations-with-company-seeking-/",
+        "https://www.kxly.com/news/spokane-community-pushes-back-against-proposed-data-center/article_54f95735-5c60-4034-9baf-254c51a5610a.html",
+        "https://my.spokanecity.org/news/releases/2026/06/10/council-members-introduce-an-ordinance-imposing-data-center-moratorium/"
+      ]
+    },
+    {
+      "id": "curated/news/taylor-tx-126",
+      "name": "Proposed data center \u2014 Taylor (former parkland site)",
+      "operator": null,
+      "lat": 30.57289,
+      "lng": -97.41411,
+      "city": "Taylor",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A three-phase, ~$1B data center proposed in Taylor (Williamson County), starting with a ~135,000 sq ft facility on an 87-acre site the city sold to an undisclosed developer for $10M \u2014 land originally donated for use as parkland, fueling strong community opposition and a petition drive for siting restrictions. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://www.fox7austin.com/news/proposed-data-center-taylor-draws-pushback-from-community",
+        "https://www.kvue.com/article/news/local/taylor-texas-residents-push-data-center-restrictions/269-46b7210e-ad8a-41b3-9abc-bfb373fdd66a"
+      ]
+    },
+    {
+      "id": "curated/news/springdale-pa-cheswick-127",
+      "name": "Springdale data center \u2014 former Cheswick power plant site",
+      "operator": "Allegheny DC Property Co. (Davidson Kempner)",
+      "lat": 40.54107,
+      "lng": -79.7826,
+      "city": "Springdale",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": 180,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Allegheny DC Property Co., owned by investment firm Davidson Kempner, plans a 565,000 sq ft, 180 MW data center plus a 200,000 sq ft cooling/facility-management building on the 47-acre site of the demolished coal-fired Cheswick Generating Station along the Allegheny River, reportedly aimed largely at AI workloads. Borough council narrowly approved the plan in December 2025; community opposition remains active (developer open house June 10, 2026).",
+      "website": null,
+      "sources": [
+        "https://www.publicsource.org/springdale-data-center-debate-open-house/",
+        "https://www.alleghenyfront.org/allegheny-county-springdale-cheswick-power-plant-community-concern/"
       ]
     }
   ]

@@ -1528,5 +1528,239 @@
     "summary": "Originally Argo Blockchain's 'Helios' Bitcoin mining site in Dickens County, TX (built 2022, ~180 MW), sold to Galaxy Digital in December 2022 and since converted into a purpose-built AI/HPC data center campus fully leased to CoreWeave (800 MW under a 15-year deal). The OSM name 'Argo Data Center' is outdated; the current owner/operator is Galaxy Digital and the campus is 'Helios.'",
     "source": "claude",
     "classified_on": "2026-06-10"
+  },
+  "osm/way/978632013": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Stanford University's Northwest Data Center and Communications Hub on the Stanford campus, serving university IT and research computing.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/204460799": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Facility of Optimum (Altice USA) in central New Jersey supporting its cable/broadband network operations.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/152163722": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "AZ Labs research facility in southeast Mesa near the ASU Polytechnic campus; appears to be a security/defense research lab rather than a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/836947535": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Office/IT facility of Myndshift Technologies, a Mesa-based managed IT and cloud services provider; small scale, not a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/828228235": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Corporate facility of StrongMind, a Chandler-based digital education company, supporting its own learning platform rather than leased capacity.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/290101976": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Facility of Venture Data, a survey-research and data-collection firm in Rexburg, Idaho; small captive operation.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/570397131": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Thin-nology, a Pflugerville, TX IT services firm offering managed hosting and small-scale data center services to local businesses.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/758278314": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "iGLASS Networks operates outsourced 24/7 NOC monitoring for ISPs and telecoms from this Cary, NC facility.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/758580536": {
+    "operator_type": "enterprise",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Vital Records Inc., a records-management and data-protection company in central New Jersey storing client records and backup media.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/903642490": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Local LDS Church Family History Center (genealogy research facility) in southeast Idaho; mis-tagged in OSM — not a server facility.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/1268789798": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Facility of Windbreak Cable, a small local cable/internet provider in Pine Bluffs, Wyoming.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/way/195165374": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Appears to be a captive IT/data facility of a financial-services firm near Kansas City International Airport.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/13019681063": {
+    "operator_type": "enterprise",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "North American data center of Comarch, a Polish IT services firm, hosting its managed services and client infrastructure in Mesa, AZ.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/9736262934": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Data facility of Frontier Science & Technology Research Foundation, a nonprofit that manages clinical-trial statistics and data, in Amherst, NY.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/13908533343": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Small rural Pennsylvania site pairing on-site power generation with compute; the naming pattern suggests a bitcoin/crypto-mining operation.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/6793837329": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Facility of Morgan Wireless, a local wireless ISP in Morgan County, West Virginia.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/3406476814": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "NocRoom, a Miami colocation and dedicated-server provider.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/12550746951": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Office of cybersecurity vendor Forescout Technologies in San Jose; corporate IT rather than a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/10880725408": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "e360, an IT solutions and managed-services provider in Concord, CA; office/lab rather than a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/8767284091": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Ergonomic Group, an IT infrastructure services firm in Glastonbury, CT; corporate facility.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/7821940847": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Alliance Technology, a small IT services firm in Mesa, AZ; not a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/7557854384": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "OptimumHQ, a Mesa, AZ SaaS/business-platform company; corporate office, not a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/7557868585": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "The Chatfield Group, an IT consulting firm in Mesa, AZ; office location, not a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/10567817971": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Duke University Libraries' Brandaleone Lab for Data and Visualization — an academic data/visualization lab, not a data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/8641856300": {
+    "operator_type": "enterprise",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Chick-fil-A hiring center storefront; mis-tagged in OSM — not a data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
+  },
+  "osm/node/7578821329": {
+    "operator_type": "enterprise",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Process-serving business storefront in Chandler, AZ; mis-tagged in OSM — not a data center.",
+    "source": "claude",
+    "classified_on": "2026-06-12"
   }
 }

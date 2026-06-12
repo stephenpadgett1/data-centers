@@ -11,6 +11,10 @@
     "lat": 40.60226,
     "lng": -75.47161
   },
+  "alviso, san jose, ca": {
+    "lat": 37.42605,
+    "lng": -121.97524
+  },
   "arcadia, fl": {
     "lat": 27.21588,
     "lng": -81.85842
@@ -74,6 +78,10 @@
   "casper, wyoming": {
     "lat": 42.85012,
     "lng": -106.32514
+  },
+  "cedar city, ut": {
+    "lat": 37.67742,
+    "lng": -113.06183
   },
   "cedar creek, bastrop county, tx": {
     "lat": 30.0802,
@@ -403,6 +411,14 @@
     "lat": 40.61001,
     "lng": -75.55559
   },
+  "spokane, wa": {
+    "lat": 47.65719,
+    "lng": -117.42351
+  },
+  "springdale, pa": {
+    "lat": 40.54107,
+    "lng": -79.7826
+  },
   "st. louis, mo": {
     "lat": 38.62541,
     "lng": -90.19001
@@ -414,6 +430,14 @@
   "tahoe reno industrial center, nv": {
     "lat": 39.55602,
     "lng": -119.49028
+  },
+  "taylor, tx": {
+    "lat": 32.27931,
+    "lng": -99.88126
+  },
+  "taylor, williamson county, tx": {
+    "lat": 30.57289,
+    "lng": -97.41411
   },
   "taylorville, il": {
     "lat": 39.54875,
