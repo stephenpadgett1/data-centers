@@ -1052,21 +1052,23 @@
     },
     {
       "id": "curated/news/lowndes-county-al-70",
-      "name": "Proposed data center \u2014 Lowndes County",
-      "operator": null,
+      "name": "Project Red Clay \u2014 Lowndes County (Cloverleaf Infrastructure)",
+      "operator": "Cloverleaf Infrastructure (developer)",
       "lat": 32.10881,
       "lng": -86.64025,
       "city": "Lowndes County",
       "state": "AL",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 1500,
       "operator_type": "unknown",
       "purpose": "speculative",
-      "workload": "general",
-      "confidence": "low",
-      "summary": "A data center proposed in Lowndes County, Alabama that packed a county meeting with residents in April 2026. Early-stage.",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "'Project Red Clay' \u2014 a proposed ~800-acre AI data-center campus at the intersection of US-80 and Route 21 in rural Lowndes County, AL, developed by Cloverleaf Infrastructure. Plans call for four 720,000 sq ft buildings, a 100,000 sq ft warehouse and a 30,000 sq ft office; Cloverleaf has requested ~1,500 MW from Alabama Power and up to 100,000 gallons/day of water from the Pintlala system. The site sits just over a mile from the Robert Gardner farm on the historic Selma-to-Montgomery trail (US-80 here is the Robert Mants Memorial Highway), drawing significant community and civil-rights opposition. Packed a county meeting in April 2026; early-stage / speculative.",
       "website": null,
       "sources": [
+        "https://www.route-fifty.com/artificial-intelligence/2026/06/historic-route-selma-montgomery-ai-cloud-looms/414145/",
+        "https://insideclimatenews.org/news/10062026/rural-alabama-community-opposes-hyperscale-data-center/",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmYtdlVKNkZoNndrZFl3aWlVLS1jWHpXQWw3ZkFLQTkxSzYtUVFwUE14cENmd1lRT0VkT3ZwbnUzM1FuTUxnUlJCNnBzLTNKUFBpQWF6TW5ZV2F0Y3J6OGtVSXZSRWJvSjBtY3dHSGJmcVQ3d2NiOW5PRXlYaDhheXdPQ2lKdTdOQ2FXejA2UmdjN1FWd25vWlZCN0nSAbABQVVfeXFMTUhSWHlaSktWY0lZUVJ6dV9KOEJKbWliRHh4LTY1VWZYZFM2bS1qaTFVcG1TZWZSWXk1SXdzQzBmOFRKQThFYzFWSFNZVnA1TlNMZWhBemJnSjJhd0dCbHljUEs5V1U1dUF1MGZjQ0Q0TEMtMFFXWHdCWGU3TVJiT1JYRFkwWW10cVdJMTYtQUEwenlhR2xLZ0pFZDRtRTdhcm9wZldkbE5mZ0JYaERGc0Q?oc=5"
       ]
     },
@@ -2247,6 +2249,27 @@
       "sources": [
         "https://www.publicsource.org/springdale-data-center-debate-open-house/",
         "https://www.alleghenyfront.org/allegheny-county-springdale-cheswick-power-plant-community-concern/"
+      ]
+    },
+    {
+      "id": "curated/news/muncy-township-pa-128",
+      "name": "Muncy Data Center \u2014 Muncy Township",
+      "operator": "DANKO Holdings II / Fishlips LLC (applicant)",
+      "lat": 41.25403,
+      "lng": -76.79914,
+      "city": "Muncy Township",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Proposed ~699,574 sq ft data-center complex (three buildings: two 14-pod facilities and one eight-pod facility, plus a substation, water/sewage treatment, water tanks and stormwater basins) along John Brady Drive near Yetter Road in Muncy Township, Lycoming County, PA, about two miles east of the closed Lycoming Mall. Applicant is DANKO Holdings II/Fishlips LLC; the site-plan engineer, Justin Ross, is COO of Pennsylvania Data Center Partners, which in July 2025 announced a $15B AI-hub joint venture with PowerHouse Data Centers. A conditional-use plan was acknowledged April 28, 2026, but the township board passed a nine-month moratorium on data centers in May 2026. Early-stage / speculative.",
+      "website": null,
+      "sources": [
+        "https://www.sungazette.com/news/top-news/2026/06/site-plan-offers-details-on-data-center-proposal/",
+        "https://www.sungazette.com/news/top-news/2026/06/group-seeks-to-put-data-center-in-muncy-township/"
       ]
     }
   ]
