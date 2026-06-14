@@ -2271,6 +2271,68 @@
         "https://www.sungazette.com/news/top-news/2026/06/site-plan-offers-details-on-data-center-proposal/",
         "https://www.sungazette.com/news/top-news/2026/06/group-seeks-to-put-data-center-in-muncy-township/"
       ]
+    },
+    {
+      "id": "curated/news/clinton-ms-aws-129",
+      "name": "AWS data center \u2014 Clinton",
+      "operator": "Amazon Web Services",
+      "lat": 32.34106,
+      "lng": -90.3216,
+      "city": "Clinton",
+      "state": "MS",
+      "status": "operational",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "AWS marked a $1 billion data center investment in Clinton (Hinds County), Mississippi, with a ribbon-cutting on June 9, 2026. The project retrofits the former Delphi manufacturing plant into a data center \u2014 AWS's first large-scale conversion of an existing industrial building \u2014 and is projected to create ~100 permanent jobs plus up to 1,500 construction jobs at peak.",
+      "website": null,
+      "sources": [
+        "https://magnoliatribune.com/2026/06/10/aws-marks-1-billion-data-center-investment-in-clinton/",
+        "https://mississippitoday.org/2026/06/09/data-center-clinton-mississippi-2/"
+      ]
+    },
+    {
+      "id": "curated/news/escambia-county-fl-130",
+      "name": "Proposed AI data center \u2014 Escambia County",
+      "operator": null,
+      "lat": 30.42131,
+      "lng": -87.21691,
+      "city": "Escambia County",
+      "state": "FL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "An unnamed data center company is in active negotiations to build an AI data center in Escambia County (Pensacola area), Florida, reportedly tied to a defense-AI use. The proposal has drawn strong local opposition (a petition gathered ~2,600 signatures in four days) and city/county leaders say it is not an economic-development priority; no deal is finalized. Coordinates are the Pensacola area as an approximation pending a site. Early-stage / speculative.",
+      "website": null,
+      "sources": [
+        "https://weartv.com/news/local/this-affects-everybody-escambia-county-residents-protesting-proposed-ai-data-center",
+        "https://weartv.com/news/local/data-center-company-in-active-negotiations-to-build-facility-in-escambia-county"
+      ]
+    },
+    {
+      "id": "curated/news/lawrenceburg-tn-131",
+      "name": "Proposed data center \u2014 Lawrenceburg",
+      "operator": null,
+      "lat": 35.2423,
+      "lng": -87.33474,
+      "city": "Lawrenceburg",
+      "state": "TN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed data center in Lawrenceburg (Lawrence County), Tennessee, has drawn opposition over water-quality concerns along Shoal Creek, which feeds the Tennessee River \u2014 environmental advocates warn of impacts up to 30 miles downstream in North Alabama. An online petition gained thousands of signatures. Early-stage / speculative.",
+      "website": null,
+      "sources": [
+        "https://www.waff.com/2026/06/03/48-investigates-proposed-tennessee-data-center-causing-concern-30-miles-downstream/"
+      ]
     }
   ]
 }

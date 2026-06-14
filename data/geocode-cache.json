@@ -111,6 +111,10 @@
     "lat": 41.90547,
     "lng": -90.56
   },
+  "clinton, ms": {
+    "lat": 32.34106,
+    "lng": -90.3216
+  },
   "colorado springs, colorado": {
     "lat": 38.83396,
     "lng": -104.82535
@@ -338,6 +342,10 @@
   "pampa, tx": {
     "lat": 35.5363,
     "lng": -100.96016
+  },
+  "pensacola, fl": {
+    "lat": 30.42131,
+    "lng": -87.21691
   },
   "piedmont, ok": {
     "lat": 35.642,
