@@ -1807,5 +1807,104 @@
     "summary": "Unnamed data-center polygon in Kuna, Ada County, ID \u2014 Meta's ~$800M Kuna hyperscale campus (Meta is the only data-center operator in Kuna). Self-operated hyperscale compute, not for lease.",
     "source": "claude",
     "classified_on": "2026-06-13"
+  },
+  "osm/way/567575425": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Apple's Mesa, Arizona data center (3740 S Signal Butte Rd) \u2014 a captive enterprise facility supporting iCloud and Apple online services, not leased space.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/696992451": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Amazon Web Services facility 'IAD52' in Manassas, Virginia (Prince William County) \u2014 part of AWS's us-east-1 cloud region.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/1456975948": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Meta (Facebook) data center building in Mesa, Arizona (Elliot Rd / Eastmark area) \u2014 hyperscale compute and storage for Meta's apps and AI workloads.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/1456975947": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Building on Meta's Mesa, Arizona data center campus (adjacent to the labeled Meta facility on Elliot Rd) \u2014 hyperscale compute for Meta's apps and AI.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/1456975949": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Building on Meta's Mesa, Arizona data center campus (S Eastmark Pkwy, contiguous with the labeled Meta facility) \u2014 hyperscale compute for Meta's apps and AI.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/116005354": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Apple's iCloud data center in Maiden, North Carolina (Startown Rd, Catawba County) \u2014 a captive enterprise facility for Apple's online services.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/713411278": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "CyrusOne Austin III, a multi-tenant wholesale colocation data center in Austin, Texas (MetCenter, Metropolis Dr).",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/713411279": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "CyrusOne Austin II, a multi-tenant wholesale colocation data center in Austin, Texas (MetCenter, Metropolis Dr).",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/696985482": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "QTS Ashburn 1, a multi-tenant colocation data center in Sterling/Ashburn, Virginia (Loudoun County 'Data Center Alley').",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/1433936352": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Meta (Facebook) Kansas City data center in Kansas City, Missouri (Clay County, NW 128th St) \u2014 hyperscale compute for Meta's apps and AI workloads.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
+  },
+  "osm/way/1288894120": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Data center under construction along US-78 in rural Dorchester County, South Carolina (St. George area) \u2014 consistent with Google's 'Project Dawson' campus, part of Google's multi-billion-dollar SC cloud/AI expansion.",
+    "source": "claude",
+    "classified_on": "2026-06-15"
   }
 }

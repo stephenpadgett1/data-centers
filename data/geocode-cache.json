@@ -159,6 +159,10 @@
     "lat": 35.99665,
     "lng": -78.90181
   },
+  "eastport, me": {
+    "lat": 44.90504,
+    "lng": -66.98464
+  },
   "elk river, mn": {
     "lat": 45.30385,
     "lng": -93.56718
@@ -274,6 +278,10 @@
   "lowndes county, al": {
     "lat": 32.10881,
     "lng": -86.64025
+  },
+  "luther, ok": {
+    "lat": 35.65961,
+    "lng": -97.19414
   },
   "lyon township, mi": {
     "lat": 44.48289,

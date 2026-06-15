@@ -2333,6 +2333,49 @@
       "sources": [
         "https://www.waff.com/2026/06/03/48-investigates-proposed-tennessee-data-center-causing-concern-30-miles-downstream/"
       ]
+    },
+    {
+      "id": "curated/news/eastport-me-deepgreen-132",
+      "name": "DeepGreen Western Passage underwater AI data center — Eastport",
+      "operator": "DeepGreen Western Passage SPV",
+      "lat": 44.90504,
+      "lng": -66.98464,
+      "city": "Eastport",
+      "state": "ME",
+      "status": "planned",
+      "capacity_mw": 51,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A speculative proposal by DeepGreen Western Passage SPV LLC (backed by Needham, MA real-estate agent Louis Wolfson) to sink ~34 subsea data-center pods and 170 tidal turbines into Western Passage / Passamaquoddy Bay off Eastport, powering underwater AI server racks with ~51 MW of tidal generation. A FERC preliminary-permit application was filed Feb 2026 (seeking a 48-month study window); residents have pushed the city council to oppose it over fishery and marine-heat concerns. Very early-stage; coordinates approximate (Eastport).",
+      "website": null,
+      "sources": [
+        "https://www.bangordailynews.com/2026/03/03/down-east/downeast-business/eastport-maine-ai-data-center-underwater-proposal/",
+        "https://www.newscentermaine.com/article/news/local/eastport-residents-debate-proposed-underwater-data-center-passamaquoddy-bay/97-129901d8-ec9a-45dd-82bf-8efa1efec2c7",
+        "https://www.quoddytides.com/proposed-tidal-project-would-power-underwater-ai-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/luther-ok-beltline-133",
+      "name": "Beltline Energy proposed data center — Luther",
+      "operator": "Beltline Energy",
+      "lat": 35.65961,
+      "lng": -97.19414,
+      "city": "Luther",
+      "state": "OK",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "An early-stage ~400-acre data center proposal near Luther, Oklahoma (east of Oklahoma City, between N Triple X Rd and N Luther Rd) by renewable-energy developer Beltline Energy, near an OG&E power plant and tied to a proposed ~40-mile transmission line running toward Piedmont. The project has drawn heavy resident opposition over water use and utility costs; a town special-use-permit meeting was repeatedly postponed and rescheduled to June 17, 2026. Speculative / pre-filing; coordinates approximate (Luther).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/data-center-proposal-in-luther-oklahoma-faces-opposition-prior-to-official-filing/",
+        "https://www.news9.com/data-centers-in-oklahoma/its-got-to-stop-luther-residents-voice-concerns-ahead-of-meeting-on-proposed-data-center"
+      ]
     }
   ]
 }
