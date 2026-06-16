@@ -1719,16 +1719,17 @@
       "city": "Shalersville",
       "state": "OH",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 750,
       "operator_type": "crypto",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "low",
-      "summary": "A proposed 15-building AI computing campus on ~257 acres at the Turnpike Commerce Center in Shalersville Township (Portage County), Ohio, developed by Singapore-based Bitdeer in partnership with local developer Geis Cos. Construction cost is reported at over $300M excluding equipment. A local moratorium running through early November 2026 must expire or be lifted before it can proceed. Coordinates approximate.",
+      "summary": "A proposed 15-building AI computing campus on ~257 acres at the Turnpike Commerce Center in Shalersville Township (Portage County), Ohio, developed by Singapore-based Bitdeer in partnership with local developer Geis Cos. It would start at ~150 MW with potential to scale to ~750 MW if fully built out; construction cost is reported at over $300M excluding equipment. A local moratorium running through early November 2026 must expire or be lifted before it can proceed. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.news5cleveland.com/news/local-news/local-developer-global-tech-firm-plan-major-data-center-project-in-portage-county",
-        "https://www.news5cleveland.com/news/local-news/oh-portage/data-center-project-team-hosts-portage-co-neighbors-to-discuss-257-acre-development"
+        "https://www.news5cleveland.com/news/local-news/oh-portage/data-center-project-team-hosts-portage-co-neighbors-to-discuss-257-acre-development",
+        "https://www.datacenterdynamics.com/en/news/bitdeer-looks-to-develop-750mw-data-center-campus-in-ohio/"
       ]
     },
     {
@@ -2375,6 +2376,71 @@
       "sources": [
         "https://www.datacenterdynamics.com/en/news/data-center-proposal-in-luther-oklahoma-faces-opposition-prior-to-official-filing/",
         "https://www.news9.com/data-centers-in-oklahoma/its-got-to-stop-luther-residents-voice-concerns-ahead-of-meeting-on-proposed-data-center"
+      ]
+    },
+    {
+      "id": "curated/news/montgomery-county-mo-amazon-134",
+      "name": "AWS data center campus — Montgomery County (New Florence)",
+      "operator": "Amazon Web Services",
+      "lat": 38.92,
+      "lng": -91.41,
+      "city": "New Florence",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Amazon's $10B data center campus in Montgomery County, Missouri — announced June 15, 2026, sited north of Interstate 70 just east of New Florence (distinct from Google's separately announced Montgomery County campus). Amazon pledged ~$7M in community contributions amid local opposition over water and utility costs. Coordinates approximate (near New Florence).",
+      "website": null,
+      "sources": [
+        "https://www.prnewswire.com/news-releases/amazon-selects-missouri-for-10-billion-data-center-campus-302800859.html",
+        "https://spectrumlocalnews.com/mo/st-louis/news/2026/06/15/amazon--10-billion-data-center-montgomery-county-missouri",
+        "https://themissouritimes.com/amazon-to-invest-10-billion-in-montgomery-county-data-center-campus/"
+      ]
+    },
+    {
+      "id": "curated/news/jackson-county-al-google-135",
+      "name": "Google data center expansion — Jackson County (Bridgeport)",
+      "operator": "Google",
+      "lat": 34.94752,
+      "lng": -85.71719,
+      "city": "Bridgeport",
+      "state": "AL",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "high",
+      "summary": "Google's $1.5B expansion (2026–2027) of its Jackson County, Alabama data center campus, on the former TVA Widows Creek coal-plant site near Bridgeport (~40 minutes southwest of Chattanooga). The campus has operated since 2019; Google pledged to cover 100% of the electricity and grid-infrastructure costs the expansion drives and is funding a $2M TVA Energy Impact Fund and STEM grants. More than 1,000 contract workers are expected across phases. Coordinates approximate (Bridgeport).",
+      "website": null,
+      "sources": [
+        "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+        "https://www.alreporter.com/2026/06/16/google-plans-1-5-billion-jackson-county-data-center-expansion/",
+        "https://www.datacenterdynamics.com/en/news/google-to-spend-15bn-expanding-its-data-center-campus-in-jackson-county-alabama/"
+      ]
+    },
+    {
+      "id": "curated/news/frederick-county-md-aws-136",
+      "name": "AWS data center campus — Quantum Frederick (Adamstown)",
+      "operator": "Amazon Web Services",
+      "lat": 39.30889,
+      "lng": -77.46673,
+      "city": "Adamstown",
+      "state": "MD",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Amazon Web Services data center campus in TPG/Quantum Loophole's Quantum Frederick park (former Eastalco aluminum smelter site near Adamstown, Frederick County, Maryland), reported as a ~$20B investment that extends AWS's US-East (Northern Virginia) cloud region into Maryland. Maryland regulators approved the project's air-quality permit ahead of construction. Coordinates approximate (Quantum Frederick / Adamstown).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/amazon-to-expand-virginia-cloud-region-into-maryland-develop-data-centers-in-tpgs-quantum-frederick-park/",
+        "https://www.wmar2news.com/news/local-news/frederickcounty/maryland-approves-amazons-air-quality-permit-to-build-frederick-data-center"
       ]
     }
   ]
