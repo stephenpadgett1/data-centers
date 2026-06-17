@@ -558,10 +558,11 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "A ~$2.26B, 200 MW AI campus proposed by Arizona-based Lex Developments on the site of the defunct Hoku Materials polysilicon plant in Pocatello, Idaho. Early-stage; a conditional-use permit was under review in 2026.",
+      "summary": "A ~$2.26B (reported up to ~$2.6B), 200 MW AI campus proposed by Arizona-based Lex Developments on ~49 acres at the site of the defunct Hoku Materials polysilicon plant on the west side of Pocatello, Idaho. In May 2026 the city's hearing examiner denied the conditional-use permit after lengthy, largely negative public testimony; in June 2026 the developer's attorneys appealed, arguing the application should have been approved with conditions (e.g. additional studies) rather than rejected outright. Contested and uncertain.",
       "website": null,
       "sources": [
         "https://boisedev.com/news/2026/05/14/lex-portneuf-data-center/",
+        "https://boisedev.com/news/2026/06/09/a-2-6-billion-idaho-data-center-was-denied-the-developer-is-trying-again/",
         "https://localnews8.com/news/2026/05/13/pocatello-to-host-public-hearing-on-2-26b-ai-data-center-proposal/"
       ]
     },
@@ -1258,21 +1259,22 @@
     },
     {
       "id": "curated/news/nashville-tn-zoo-79",
-      "name": "Proposed data center near Nashville Zoo",
-      "operator": null,
+      "name": "DC Blox data center near Nashville Zoo",
+      "operator": "DC Blox",
       "lat": 36.08812,
       "lng": -86.74138,
       "city": "Nashville",
       "state": "TN",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
       "workload": "general",
       "confidence": "low",
-      "summary": "A data center proposed next to the Nashville Zoo in Nashville, Tennessee, drawing community pushback in mid-2026. Early-stage; coordinates approximate.",
+      "summary": "Southeast colocation operator DC Blox's proposed ~24-acre data center next to the Nashville Zoo in south Nashville, Tennessee. It has drawn heavy community pushback (a petition with 150,000+ signatures, opposition from the zoo over risks to rare animals) and could be blocked by a proposed Metro Nashville moratorium on new data center development. Early-stage; coordinates approximate.",
       "website": null,
       "sources": [
+        "https://www.datacenterdynamics.com/en/news/dc-bloxs-proposed-24-acre-data-center-near-nashville-zoo-could-be-blocked-by-moratorium/",
         "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWplSERKUHpQTi0xcHFibHhqZ2cwYTU4ZkRpdnNocXJBbHlHcTNWNFhDMHhOWWo5U1h6bjlCLWVGbkZWN0hEZEhSWGktV0ZuZDNuTDhWZUpRXzE5aDhQLXVzVkxuUmQxMk9TZ1BNMXAxTUNsVzBUYkxhWHNsdGNKczJmZmxsX0l6cXd4MjBjT3ZuNjZhRFZ2TEYyQXNPRm82VXRmbVEyelLSAa4BQVVfeXFMTWp5Uk91T3p0STMyc1ZRRXgwejkwOUdCYThPZlFZSGV6RnBxUmlYaE1abHFzTm1SUjNNYTdHaWlOZk94V0ZOaldXMjVxMHpwdVA0MEd0dEtfendCdDBLZFdTLU9BYzlNNFEwNFhjcUsyZ1A4U3dJSUtRZVVUQjROVVlvLTZMMFB5YVdfVUxYQ1d3MDhLUlF6WmkzYXE0ci01aXJhaGM2OGhRYVFjbnRR?oc=5"
       ]
     },
@@ -2441,6 +2443,67 @@
       "sources": [
         "https://www.datacenterdynamics.com/en/news/amazon-to-expand-virginia-cloud-region-into-maryland-develop-data-centers-in-tpgs-quantum-frederick-park/",
         "https://www.wmar2news.com/news/local-news/frederickcounty/maryland-approves-amazons-air-quality-permit-to-build-frederick-data-center"
+      ]
+    },
+    {
+      "id": "curated/news/ross-tx-infrakey-137",
+      "name": "Infrakey AI data center campus — Ross (McLennan County)",
+      "operator": "Infrakey",
+      "lat": 31.7185,
+      "lng": -97.11917,
+      "city": "Ross",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed ~$10B, nearly-1 GW AI data center campus on a ~520-acre plot of unincorporated farmland next to Ross, in McLennan County north of Waco, Texas. Developed by Infrakey, a newly established AI data center developer that bought the land in 2025; backers say it would be the largest industrial development in McLennan County history (~$50M/year in tax revenue) but it has split nearby Ross and Lacy Lakeview. Distinct from Cipher Mining's separate McLennan County campus near Riesel. Early-stage; coordinates approximate (Ross town center).",
+      "website": null,
+      "sources": [
+        "https://fortune.com/2026/06/16/ai-data-center-texas-lacy-lakeview-ross/"
+      ]
+    },
+    {
+      "id": "curated/news/pinellas-park-fl-tpa-138",
+      "name": "Proposed data center — Pinellas Park (TPA Group)",
+      "operator": "TPA Group",
+      "lat": 27.8428,
+      "lng": -82.69954,
+      "city": "Pinellas Park",
+      "state": "FL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Boston-based developer TPA Group has proposed redeveloping an existing office-building site in Pinellas Park, Florida into a data center, demolishing the current structure to build a server facility. Smaller than the hyperscale campuses proposed elsewhere in Florida; under city review as of June 2026 amid statewide scrutiny of data center growth. Early-stage; coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://www.tampabay.com/news/environment/2026/06/16/pinellas-park-data-center-florida-moratorium-pollution/"
+      ]
+    },
+    {
+      "id": "curated/news/tyler-tx-vulcan-139",
+      "name": "Vulcan Core Bitcoin mining facility — Tyler",
+      "operator": "Vulcan Core",
+      "lat": 32.35126,
+      "lng": -95.30106,
+      "city": "Tyler",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "crypto",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Developer Vulcan Core has proposed a Bitcoin-mining data center at 1105 W. Erwin Street near downtown Tyler, Texas, with data center operator Barrio as the planned tenant. Sited next to an Oncor substation; the developer says it will fund its own interconnection and use a closed-loop cooling system rather than city water. Drew resident concerns over noise and water at a June 2026 community meeting; only ~7–10 full-time jobs expected. Early-stage; coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://www.kltv.com/2026/06/16/tyler-residents-gather-learn-about-proposed-data-center/",
+        "https://tylerpaper.com/2026/06/17/data-center-developer-addresses-concerns-about-proposed-bitcoin-mining-facility-planned-for-downtown-tyler/"
       ]
     }
   ]
