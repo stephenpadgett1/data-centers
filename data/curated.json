@@ -82,11 +82,12 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Microsoft's self-described \"world's most powerful AI datacenter\" on a 315-acre Mount Pleasant site, housing hundreds of thousands of NVIDIA GB200/GB300 GPUs. Projected to draw ~3.3 GW by late 2027 across a campus expanding toward ~9M sq ft; first buildings coming online in early 2026.",
+      "summary": "Microsoft's self-described \"world's most powerful AI datacenter\" on a 315-acre Mount Pleasant site, housing hundreds of thousands of NVIDIA GB200/GB300 GPUs. In June 2026 CEO Satya Nadella said Fairwater was going live ahead of schedule, bringing its first GB200 cluster online; Microsoft had also won approval in January 2026 for ~15 additional buildings on the campus. Projected to draw ~3.3 GW by late 2027 across a campus expanding toward ~9M sq ft.",
       "website": "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/",
       "sources": [
         "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
-        "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-announces-worlds-most-powerful-ai-data-center-315-acre-site"
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-announces-worlds-most-powerful-ai-data-center-315-acre-site",
+        "https://www.datacenterdynamics.com/en/news/microsoft-ceo-says-fairwater-data-center-site-is-going-live-ahead-of-schedule/"
       ]
     },
     {
@@ -2504,6 +2505,88 @@
       "sources": [
         "https://www.kltv.com/2026/06/16/tyler-residents-gather-learn-about-proposed-data-center/",
         "https://tylerpaper.com/2026/06/17/data-center-developer-addresses-concerns-about-proposed-bitcoin-mining-facility-planned-for-downtown-tyler/"
+      ]
+    },
+    {
+      "id": "curated/news/cave-city-ky-140",
+      "name": "Proposed data center — Cave City",
+      "operator": null,
+      "lat": 37.13675,
+      "lng": -85.95622,
+      "city": "Cave City",
+      "state": "KY",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center near Cave City, Kentucky that the Kentucky Industrial Alliance says could bring millions in local tax revenue, discussed in June 2026. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXVDd2NXU21zOXdUcTk5eFVZUjVFSEw3d29Zbm1GMkpsRXhETENzWmdzODMwRVNsNW9pM2Q5aDFqcTB2WTNRUENsVG85cVliOWhyeGVBX1dHaDliZ29UU2pGd1ZFM2VPdi1QaTd4YlhDSlloME9yMnlDQ0FoNDRPN1Bub1RDaG1MandaVVNOWGNqUFBQeEZESW44NmN6dHhLdmxTMWYtT19wRzZVT1pqc3JUS0ZOWlU5RlF0ZGNCZUw0a01lSW5UY25B0gHeAUFVX3lxTFBRSXV6OWFTV09FOHVNSWhreXJ4RFlQbVk5eDdJekhHNlpIWDBGdGhMbXdHY3dDSFJmM2JjR2ItNldScDNma1oteGpxTnpjTGRaWll2MWNCaXhlRG1Fd0RmQ1ZnUHdmeV9hUERGT1p1ZDFNcXpUX004SkpjRGVYQWl2OE5vNUVZN2FIZ1FBNlc3VHJ0REhwVFFCQlN5UXRJOV9nVjdNc1p3RW5kVER6a21QOWVaeGpsR1JVN2Q2SzhQWmEwQTdhbkdnckhkTXVOdGQzanNoaGlKcl9ITENWdw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/lufkin-tx-141",
+      "name": "Proposed AI data center — Lufkin",
+      "operator": null,
+      "lat": 31.33862,
+      "lng": -94.72886,
+      "city": "Lufkin",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center in Lufkin, Texas that drew resident concerns at a June 2026 public discussion. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxORm5wd2NGR1puNktHaHhsbjFxZVlLbmM4cGQwT2VGNHpuVDZNZWJiRnAxZ3dPaHVlWlFBd05PaW56bmVGd3U3b1NhY3o1b2R3TDVwZlVHSnE5b3ZXUk52WFNneDZVWTZSbldlY0pfLWdwMlM5U1JnaDM0N3FFN0d1d3F5TXNVX2RJOVFUbjRRX3pIUXBfNVpFWV9R0gGuAUFVX3lxTE5ldnA1R2VVQ1FOYk9HY2hjNjdiMnRXZ2dSUnRfMWxmZVhPaEtpMmZyczRieTF2emZxOWpyQ01SWHVyMkN0RUxVTzdyUTZRV3Rzbktaa1VlZHVhdkZCQi1QWjAxdlFLQ1dVd09wb19rT1RrNTJIOXlESVdzUmI0SkRIMWdzWEZBNTlCRHQ1UDFYOTk5MVhTQkhJdzZoRjVlbzBOdU9CRTAwOXpFMDFGZw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/cedar-rapids-ia-qts-142",
+      "name": "QTS data center campus — Cedar Rapids",
+      "operator": "QTS",
+      "lat": 41.8853,
+      "lng": -91.71472,
+      "city": "Cedar Rapids",
+      "state": "IA",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "QTS data center campus near the Eastern Iowa Airport in Cedar Rapids, developed in collaboration with the City of Cedar Rapids and Alliant Energy. As of June 2026 the campus was in construction and commissioning, with QTS seeking permits for a temporary modular power plant to support test operations until grid connection (expected to cease by year-end). Coordinates approximate (near the airport).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/qts-looking-to-build-temporary-power-plant-to-support-test-operations-at-campus-in-cedar-rapids-iowa-report/",
+        "https://cedar-rapids.org/news_detail_T6_R2180.php"
+      ]
+    },
+    {
+      "id": "curated/news/yellowstone-county-mt-quantica-143",
+      "name": "Quantica Big Sky Campus — Yellowstone County",
+      "operator": "Quantica Infrastructure",
+      "lat": 46.09773,
+      "lng": -108.8771,
+      "city": "Broadview",
+      "state": "MT",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "low",
+      "summary": "Big Sky Campus — a ~5,100-acre, ~1 GW data center and on-site power generation development in Yellowstone County, Montana (about 3 miles south of Broadview and ~30 miles north of Billings), led by Quantica Infrastructure's EnCap-backed Big Sky Digital Infrastructure platform. In June 2026 Quantica signed a labor MOU with the Southeastern Montana Building and Construction Trades Council for union construction. Early-stage; coordinates approximate.",
+      "website": "https://bigskydigitalinfra.com/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/encap-backed-quantica-details-plans-for-1gw-campus-in-montana/",
+        "https://datacenterpost.com/union-partnership-powers-the-big-sky-campus-quantica-and-montana-trades-council-forge-labor-framework/"
       ]
     }
   ]

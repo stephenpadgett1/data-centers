@@ -1,4 +1,22 @@
 {
+  "osm/way/45448535": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Telecom-operated facility (\"Minneapolis Data Center #2\") run by XO Communications, a competitive carrier later absorbed into Verizon; supports network and hosting services rather than wholesale lease.",
+    "source": "claude",
+    "classified_on": "2026-06-18"
+  },
+  "osm/way/1133047980": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Small colocation / managed-services facility under the FiberState Datacenter brand. Limited public detail; classified from the facility name.",
+    "source": "claude",
+    "classified_on": "2026-06-18"
+  },
   "osm/way/34770750": {
     "operator_type": "enterprise",
     "purpose": "purpose_built",

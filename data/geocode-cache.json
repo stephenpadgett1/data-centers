@@ -75,6 +75,10 @@
     "lat": 46.09773,
     "lng": -108.8771
   },
+  "broadview, mt": {
+    "lat": 46.09773,
+    "lng": -108.8771
+  },
   "broken arrow, oklahoma": {
     "lat": 36.0526,
     "lng": -95.79082
@@ -87,6 +91,10 @@
     "lat": 42.85012,
     "lng": -106.32514
   },
+  "cave city, ky": {
+    "lat": 37.13675,
+    "lng": -85.95622
+  },
   "cedar city, ut": {
     "lat": 37.67742,
     "lng": -113.06183
@@ -98,6 +106,10 @@
   "cedar creek, tx": {
     "lat": 32.73993,
     "lng": -96.81607
+  },
+  "cedar rapids, ia": {
+    "lat": 41.97589,
+    "lng": -91.67041
   },
   "charlestown, in": {
     "lat": 38.44286,
@@ -166,6 +178,10 @@
   "durham, nc": {
     "lat": 35.99665,
     "lng": -78.90181
+  },
+  "eastern iowa airport, cedar rapids, ia": {
+    "lat": 41.8853,
+    "lng": -91.71472
   },
   "eastport, me": {
     "lat": 44.90504,
@@ -286,6 +302,10 @@
   "lowndes county, al": {
     "lat": 32.10881,
     "lng": -86.64025
+  },
+  "lufkin, tx": {
+    "lat": 31.33862,
+    "lng": -94.72886
   },
   "lusby, md": {
     "lat": 38.36157,
