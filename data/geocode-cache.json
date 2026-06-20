@@ -59,6 +59,10 @@
     "lat": 40.82451,
     "lng": -80.36284
   },
+  "birmingham, al": {
+    "lat": 33.52068,
+    "lng": -86.80243
+  },
   "box elder county, utah": {
     "lat": 41.35861,
     "lng": -113.21121
@@ -211,6 +215,10 @@
     "lat": 36.9424,
     "lng": -80.96231
   },
+  "fulton, mo": {
+    "lat": 38.84671,
+    "lng": -91.94796
+  },
   "goochland, va": {
     "lat": 37.72043,
     "lng": -77.8838
@@ -238,6 +246,10 @@
   "ilion, new york": {
     "lat": 43.01507,
     "lng": -75.03543
+  },
+  "imperial, ca": {
+    "lat": 33.03055,
+    "lng": -115.35957
   },
   "independence, mo": {
     "lat": 39.09248,
@@ -362,6 +374,10 @@
   "new hudson, mi": {
     "lat": 42.51173,
     "lng": -83.61566
+  },
+  "newport news, va": {
+    "lat": 36.9775,
+    "lng": -76.42977
   },
   "nodaway county, mo": {
     "lat": 40.34834,
