@@ -1951,5 +1951,23 @@
     "summary": "Facility named 'Data Storage Centers' in Phoenix, AZ, appearing to be a colocation/data-storage provider. Classified from the facility name with limited public detail.",
     "source": "claude",
     "classified_on": "2026-06-20"
+  },
+  "osm/way/1194169753": {
+    "operator_type": "unknown",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Large (~2.2M sq ft) data center under construction in the Bristow/Gainesville area of Prince William County, VA — the heart of Northern Virginia's 'Data Center Alley.' OSM tags the general contractor as HITT (a leading mission-critical builder), so the end operator/tenant is not yet confirmed; the scale and location are consistent with hyperscale/wholesale development in this corridor (e.g., Amazon's nearby Devlin Technology Park).",
+    "source": "claude",
+    "classified_on": "2026-06-21"
+  },
+  "osm/way/1528887658": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Small facility of Landmax Data Systems, Inc., a Rush, NY data/records-management and IT-services firm. Tiny footprint (~1,500 sq ft) supporting the company's own service operations rather than wholesale lease; classified from the facility name.",
+    "source": "claude",
+    "classified_on": "2026-06-21"
   }
 }
