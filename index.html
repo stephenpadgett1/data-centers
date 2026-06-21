@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="An interactive map of US data centers — operational, under construction, and planned — with editorial judgment calls on each."
+    />
+    <title>US Data Centers — Live Map</title>
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%2305080f'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%232dd4bf'/%3E%3Ccircle cx='16' cy='16' r='10' fill='none' stroke='%232dd4bf' stroke-opacity='0.4' stroke-width='1.5'/%3E%3C/svg%3E"
+    />
+    <script type="module" crossorigin src="/data-centers/assets/index-C9F1cKcC.js"></script>
+    <link rel="stylesheet" crossorigin href="/data-centers/assets/index-DLpfFGUX.css">
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <!-- Top-left: title + live stats -->
+    <header id="hud" class="panel">
+      <div class="hud-title">
+        <div class="hud-titletext">
+          <h1>US DATA CENTERS</h1>
+          <p class="hud-sub">operational · under construction · planned</p>
+        </div>
+        <button id="hud-toggle" class="hud-toggle" aria-label="Toggle stats">▾</button>
+      </div>
+      <div id="stats" class="stats"></div>
+      <button id="insights-btn" class="insights-btn">▦ Insights &amp; rankings</button>
+      <div id="refreshed" class="refreshed"></div>
+    </header>
+
+    <!-- Controls: search, filters, legend -->
+    <section id="controls" class="panel">
+      <button id="controls-toggle" class="controls-toggle" aria-label="Toggle filters">
+        Filters
+      </button>
+      <div id="controls-body" class="controls-body">
+        <div id="layer-switch" class="layer-switch">
+          <button id="layer-dc" class="layer-btn active" data-layer="dc">Data centers</button>
+          <button id="layer-power" class="layer-btn" data-layer="power">Power plants</button>
+        </div>
+
+        <div id="dc-controls">
+          <input
+            id="search"
+            class="search"
+            type="search"
+            placeholder="Search name or operator…"
+            autocomplete="off"
+          />
+          <div id="filter-status" class="filter-group"></div>
+          <div id="filter-type" class="filter-group"></div>
+          <div id="filter-workload" class="filter-group"></div>
+          <label class="minor-toggle">
+            <input id="show-minor" type="checkbox" />
+            <span>Include minor / internal rooms</span>
+          </label>
+        </div>
+
+        <div id="power-controls" hidden>
+          <div id="filter-fuel" class="filter-group"></div>
+          <div id="filter-pstatus" class="filter-group"></div>
+        </div>
+
+        <div id="showing" class="showing"></div>
+      </div>
+    </section>
+
+    <!-- Right: detail panel -->
+    <aside id="detail" class="panel detail" aria-hidden="true">
+      <button id="detail-close" class="detail-close" aria-label="Close">×</button>
+      <div id="detail-body"></div>
+    </aside>
+
+    <!-- Insights dashboard -->
+    <aside id="insights" class="panel insights-panel" aria-hidden="true">
+      <button id="insights-close" class="detail-close" aria-label="Close">×</button>
+      <h2 class="insights-title">Insights &amp; rankings</h2>
+      <div id="insights-body"></div>
+    </aside>
+
+    <div id="choro-legend" class="choro-legend" hidden></div>
+
+    <footer id="attribution" class="attribution"></footer>
+
+  </body>
+</html>
