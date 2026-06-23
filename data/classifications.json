@@ -1,4 +1,13 @@
 {
+  "osm/way/1504463315": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Carrier-neutral colocation facility (ELP1) operated by MDC Data Centers (formerly McAllen Data Center) at 11455 Cedar Oak Dr, El Paso, TX — the first 100% carrier-neutral data center in El Paso, focused on US–Mexico cross-border interconnection.",
+    "source": "claude",
+    "classified_on": "2026-06-23"
+  },
   "osm/way/45448535": {
     "operator_type": "telecom",
     "purpose": "purpose_built",
