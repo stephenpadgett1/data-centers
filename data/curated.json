@@ -76,18 +76,19 @@
       "lng": -87.943,
       "city": "Mount Pleasant",
       "state": "WI",
-      "status": "under_construction",
+      "status": "operational",
       "capacity_mw": 3300,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Microsoft's self-described \"world's most powerful AI datacenter\" on a 315-acre Mount Pleasant site, housing hundreds of thousands of NVIDIA GB200/GB300 GPUs. In June 2026 CEO Satya Nadella said Fairwater was going live ahead of schedule, bringing its first GB200 cluster online; Microsoft had also won approval in January 2026 for ~15 additional buildings on the campus. Projected to draw ~3.3 GW by late 2027 across a campus expanding toward ~9M sq ft.",
+      "summary": "Microsoft's self-described \"world's most powerful AI datacenter\" on a 315-acre Mount Pleasant site, housing hundreds of thousands of NVIDIA GB200/GB300 GPUs. Microsoft announced on June 23, 2026 that the first Fairwater facility was complete and fully operational — having begun bringing equipment online in April — finishing ahead of its original schedule. A second, immediately adjacent facility is under construction (targeted 2028) and Microsoft won approval in January 2026 for ~15 additional buildings on the campus. The full campus is projected to draw toward ~3.3 GW across ~9M sq ft, with ~$4.7B in Wisconsin construction spend planned through 2028.",
       "website": "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/",
       "sources": [
         "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
         "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-announces-worlds-most-powerful-ai-data-center-315-acre-site",
-        "https://www.datacenterdynamics.com/en/news/microsoft-ceo-says-fairwater-data-center-site-is-going-live-ahead-of-schedule/"
+        "https://www.datacenterdynamics.com/en/news/microsoft-ceo-says-fairwater-data-center-site-is-going-live-ahead-of-schedule/",
+        "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/"
       ]
     },
     {

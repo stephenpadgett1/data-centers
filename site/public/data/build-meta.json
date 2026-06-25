@@ -1,19 +1,19 @@
 {
-  "built_at": "2026-06-24T09:36:13-07:00",
-  "refreshed_date": "2026-06-24",
-  "total": 1777,
-  "from_osm": 1648,
+  "built_at": "2026-06-25T09:36:15-07:00",
+  "refreshed_date": "2026-06-25",
+  "total": 1780,
+  "from_osm": 1651,
   "from_curated": 129,
   "by_status": {
     "planned": 98,
-    "operational": 1625,
-    "under_construction": 54
+    "operational": 1629,
+    "under_construction": 53
   },
   "by_type": {
     "unknown": 341,
     "enterprise": 86,
     "colocation": 679,
-    "hyperscaler": 512,
+    "hyperscaler": 515,
     "government": 16,
     "telecom": 96,
     "education": 21,
