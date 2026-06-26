@@ -1978,5 +1978,14 @@
     "summary": "Small facility of Landmax Data Systems, Inc., a Rush, NY data/records-management and IT-services firm. Tiny footprint (~1,500 sq ft) supporting the company's own service operations rather than wholesale lease; classified from the facility name.",
     "source": "claude",
     "classified_on": "2026-06-21"
+  },
+  "osm/way/1414729942": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Cryptocurrency (Bitcoin) mining operation in Campbell County, Wyoming, near Gillette, per its OpenStreetMap description (tagged telecom=data_center). Sits in the Powder River Basin energy region that has drawn crypto miners with cheap coal/gas power; small ~6,000 sq ft footprint.",
+    "source": "claude",
+    "classified_on": "2026-06-26"
   }
 }
