@@ -1,6 +1,6 @@
 {
-  "built_at": "2026-06-26T09:36:53-07:00",
-  "refreshed_date": "2026-06-26",
+  "built_at": "2026-06-27T09:38:06-07:00",
+  "refreshed_date": "2026-06-27",
   "total": 1780,
   "from_osm": 1651,
   "from_curated": 129,
@@ -12,8 +12,8 @@
   "by_type": {
     "unknown": 340,
     "enterprise": 86,
-    "colocation": 679,
-    "hyperscaler": 515,
+    "colocation": 680,
+    "hyperscaler": 514,
     "government": 16,
     "telecom": 96,
     "education": 21,
