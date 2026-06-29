@@ -1987,5 +1987,77 @@
     "summary": "Cryptocurrency (Bitcoin) mining operation in Campbell County, Wyoming, near Gillette, per its OpenStreetMap description (tagged telecom=data_center). Sits in the Powder River Basin energy region that has drawn crypto miners with cheap coal/gas power; small ~6,000 sq ft footprint.",
     "source": "claude",
     "classified_on": "2026-06-26"
+  },
+  "osm/way/938592711": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Compass Datacenters' Goodyear campus at 850 S Bullard Ave, Goodyear, AZ — a ~225-acre, multi-building wholesale colocation development (up to ~1.8M sq ft / 350 MW at full build-out) leasing dedicated capacity to hyperscale and enterprise tenants in the Phoenix West Valley.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
+  },
+  "osm/way/1059036248": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "STACK Infrastructure facility NVA02D at 9590 Hornbaker Rd, Manassas, VA — a wholesale colocation data center (~182 MW, operational since 2023) leasing capacity to hyperscale tenants in the Northern Virginia market.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
+  },
+  "osm/way/1128589934": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Microsoft (Azure) data center at 41720 Inclusion Lane SE, Leesburg, VA, part of Microsoft's Compass Creek campus in Loudoun County — self-operated cloud/AI compute rather than for lease.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
+  },
+  "osm/way/1128589933": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Microsoft Azure data center at 41730 Inclusion Lane SE, Leesburg, VA — adjacent to confirmed Microsoft buildings on the same Compass Creek campus; attributed to Microsoft by location.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
+  },
+  "osm/way/1333205263": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Microsoft Azure data center at 41679 Inclusion Lane SE, Leesburg, VA — part of Microsoft's Compass Creek campus alongside the confirmed 41700/41720 Inclusion Lane buildings; attributed to Microsoft by location.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
+  },
+  "osm/way/1319724559": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Citigroup (Citi) Midwest Data Center at 306 Greif Pkwy, Delaware, OH — a captive enterprise facility (~272k sq ft, ~21 MW) supporting the bank's own IT operations rather than for lease.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
+  },
+  "osm/way/916046040": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "JPMorgan Chase enterprise data center at 23505 E 6th Ave, Aurora, CO — a ~250k sq ft purpose-built facility (opened ~2019) supporting the bank's own operations, not leased.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
+  },
+  "osm/way/729376485": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Equinix NY11 carrier-neutral colocation data center at 1400 Federal Blvd, Carteret, NJ (formerly Verizon EWR1, acquired by Equinix in 2017) — retail/interconnection colocation serving the New York metro market.",
+    "source": "claude",
+    "classified_on": "2026-06-29"
   }
 }
