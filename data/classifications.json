@@ -2059,5 +2059,248 @@
     "summary": "Equinix NY11 carrier-neutral colocation data center at 1400 Federal Blvd, Carteret, NJ (formerly Verizon EWR1, acquired by Equinix in 2017) — retail/interconnection colocation serving the New York metro market.",
     "source": "claude",
     "classified_on": "2026-06-29"
+  },
+  "osm/way/1092283612": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "JPMorgan Chase's corporate data center at 65 3rd Avenue in Orangeburg, NY (Rockland County) — a purpose-built ~260k sqft bank facility in the Orangeburg data center cluster (which also includes DataBank LGA3 and 1547 CSR's ORNY1); a 2026 expansion there drew attention for a ~$77M state tax break.",
+    "source": "claude",
+    "classified_on": "2026-07-03"
+  },
+  "osm/way/1177975788": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "NCAR-Wyoming Supercomputing Center (NWSC) in the North Range Business Park off I-80 west of Cheyenne, WY - NSF-funded HPC facility operated by NCAR/UCAR with the University of Wyoming, home to the Derecho supercomputer (previously Yellowstone and Cheyenne). Location matches NWSC's published coordinates; Microsoft also operates in this park.",
+    "workload": "general"
+  },
+  "osm/way/1193914601": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Yahoo's Quincy, WA data center at Road 11 NW / Road P NW (1010 Yahoo Way), opened 2010 and later expanded under Oath/Verizon Media; the campus has since been marketed under H5 Data Centers as Quincy III. Identified by location.",
+    "workload": "general"
+  },
+  "osm/way/1197757147": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building on Commerce Circle in the Cheyenne Business Parkway, Cheyenne, WY, where Microsoft operates Azure data centers (EchoStar's much smaller facility is also in this park, but the ~250k sqft footprint matches Microsoft-scale construction). Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/1368776076": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Building at one of Microsoft's West Des Moines, IA data center campuses (Microsoft has five campuses in the city, incl. Projects Alluvion and Osmium; the WDM cluster hosted GPT-4 training). Identified by location in southwest West Des Moines.",
+    "workload": "mixed"
+  },
+  "osm/way/1372772726": {
+    "classified_on": "2026-07-03",
+    "confidence": "high",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Google's Mesa, AZ data center (Project Red Hawk) at the NW corner of Elliot and Sossaman Roads - $1B campus on 187 acres, Phase 1 (~288k sqft, matching this footprint) live in 2025, with three phases planned through 2030. Serves Google Cloud, Search, YouTube and AI/ML workloads.",
+    "workload": "mixed"
+  },
+  "osm/way/1377227154": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building east of S Greeley Highway in south Cheyenne, WY - the Bison Business Park area where Microsoft operates and is expanding its Azure data center footprint. Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/1430720170": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "One of the data center buildings under construction at AWS's multi-billion-dollar Madison County, MS campus near Canton (announced 2024, ~$10B across two campuses) - the largest economic development project in Mississippi history. Identified by location; buildings are unnamed in OSM.",
+    "workload": "mixed"
+  },
+  "osm/way/1430720171": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "One of the data center buildings under construction at AWS's multi-billion-dollar Madison County, MS campus near Canton (announced 2024, ~$10B across two campuses) - the largest economic development project in Mississippi history. Identified by location; buildings are unnamed in OSM.",
+    "workload": "mixed"
+  },
+  "osm/way/1430720172": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "One of the data center buildings under construction at AWS's multi-billion-dollar Madison County, MS campus near Canton (announced 2024, ~$10B across two campuses) - the largest economic development project in Mississippi history. Identified by location; buildings are unnamed in OSM.",
+    "workload": "mixed"
+  },
+  "osm/way/1430720173": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "One of the data center buildings under construction at AWS's multi-billion-dollar Madison County, MS campus near Canton (announced 2024, ~$10B across two campuses) - the largest economic development project in Mississippi history. Identified by location; buildings are unnamed in OSM.",
+    "workload": "mixed"
+  },
+  "osm/way/1430720174": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "One of the data center buildings under construction at AWS's multi-billion-dollar Madison County, MS campus near Canton (announced 2024, ~$10B across two campuses) - the largest economic development project in Mississippi history. Identified by location; buildings are unnamed in OSM.",
+    "workload": "mixed"
+  },
+  "osm/way/1454573842": {
+    "classified_on": "2026-07-03",
+    "confidence": "high",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Building at Meta's Rosemount, MN data center campus at UMore Park off County Road 42 (announced 2022, ~$800M+ initial phase). Identified by location in Rosemount's Dakota County site.",
+    "workload": "mixed"
+  },
+  "osm/way/1454573843": {
+    "classified_on": "2026-07-03",
+    "confidence": "high",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Building at Meta's Rosemount, MN data center campus at UMore Park off County Road 42 (announced 2022, ~$800M+ initial phase). Identified by location in Rosemount's Dakota County site.",
+    "workload": "mixed"
+  },
+  "osm/way/1454813845": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Building at one of Microsoft's West Des Moines, IA data center campuses (Microsoft has five campuses in the city, incl. Projects Alluvion and Osmium; the WDM cluster hosted GPT-4 training). Identified by location in southwest West Des Moines.",
+    "workload": "mixed"
+  },
+  "osm/way/1454813846": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Building at one of Microsoft's West Des Moines, IA data center campuses (Microsoft has five campuses in the city, incl. Projects Alluvion and Osmium; the WDM cluster hosted GPT-4 training). Identified by location in southwest West Des Moines.",
+    "workload": "mixed"
+  },
+  "osm/way/1470108469": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large building on Microsoft's Columbia Data Center campus in Quincy, WA (1515/501 Port Industrial Way) - one of Microsoft's oldest and largest Azure sites, opened 2007 and repeatedly expanded (Azure West US 2). Identified by location ~250m from the campus's published coordinates.",
+    "workload": "mixed"
+  },
+  "osm/way/1485867696": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building east of S Greeley Highway in south Cheyenne, WY - the Bison Business Park area where Microsoft operates and is expanding its Azure data center footprint. Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/1485867768": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building off High Plains Road in south Cheyenne, WY, in the Microsoft data center corridor near S Greeley Highway (Microsoft has operated Azure data centers in Cheyenne since 2012 and is the dominant operator in these LEADS business parks). Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/1485867769": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building off High Plains Road in south Cheyenne, WY, in the Microsoft data center corridor near S Greeley Highway (Microsoft has operated Azure data centers in Cheyenne since 2012 and is the dominant operator in these LEADS business parks). Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/1534114833": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building on Commerce Circle in the Cheyenne Business Parkway, Cheyenne, WY, where Microsoft operates Azure data centers (EchoStar's much smaller facility is also in this park, but the ~250k sqft footprint matches Microsoft-scale construction). Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/191655977": {
+    "classified_on": "2026-07-03",
+    "confidence": "high",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Building at Google's flagship Council Bluffs, IA data center campus on W Veterans Memorial Highway - one of Google's oldest and largest US sites (opened 2009, multi-billion-dollar buildout). Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/464097467": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Apple's Reno data center at the Reno Technology Park off I-80 east of Reno (Mustang exit), Washoe County, NV - built from 2012 onward in repeatedly extended phases and still expanding as of 2024. Identified by location; Apple is the established operator at this park.",
+    "workload": "general"
+  },
+  "osm/way/989352911": {
+    "classified_on": "2026-07-03",
+    "confidence": "low",
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "source": "claude",
+    "summary": "Data center building in Franklin Township (Somerset), NJ adjacent to the 200 Campus Drive colocation cluster (Rackspace NYC2 / former Datapipe Somerset), part of the dense Somerset County colo market. Operator attribution uncertain.",
+    "workload": "general"
+  },
+  "osm/way/1368776077": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Building at one of Microsoft's West Des Moines, IA data center campuses (Microsoft has five campuses in the city, incl. Projects Alluvion and Osmium; the WDM cluster hosted GPT-4 training). Identified by location in southwest West Des Moines.",
+    "workload": "mixed"
+  },
+  "osm/way/1485867694": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building east of S Greeley Highway in south Cheyenne, WY - the Bison Business Park area where Microsoft operates and is expanding its Azure data center footprint. Identified by location.",
+    "workload": "mixed"
+  },
+  "osm/way/1485867695": {
+    "classified_on": "2026-07-03",
+    "confidence": "medium",
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "source": "claude",
+    "summary": "Large unnamed data center building east of S Greeley Highway in south Cheyenne, WY - the Bison Business Park area where Microsoft operates and is expanding its Azure data center footprint. Identified by location.",
+    "workload": "mixed"
   }
 }

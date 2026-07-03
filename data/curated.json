@@ -15,14 +15,15 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.3 GW / ~200 MW) and Crusoe topped out the final building, with the remaining buildings on track for completion around mid-to-late 2026; in June 2026 Crusoe declared the campus officially live serving Oracle and OpenAI. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.6 GW live by mid-2026, with the remaining buildings running behind their original schedule) and Crusoe topped out the final building, with the remaining buildings on track for completion around mid-to-late 2026; in June 2026 Crusoe declared the campus officially live serving Oracle and OpenAI. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
         "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
         "https://www.datacenterdynamics.com/en/news/oracleopenai-drop-plans-to-expand-flagship-abilene-stargate-site-meta-in-talks-to-pick-up-crusoe-capacity-with-nvidias-help/",
         "https://www.datacenterdynamics.com/en/news/crusoe-tops-out-final-building-at-openai-stargate-data-center-campus-in-abilene-texas/",
-        "https://www.datacenterdynamics.com/en/news/crusoes-abilene-data-center-officially-live-serving-oracle-and-openais-stargate/"
+        "https://www.datacenterdynamics.com/en/news/crusoes-abilene-data-center-officially-live-serving-oracle-and-openais-stargate/",
+        "https://www.datacenterknowledge.com/ai-data-centers/stargate-update-ai-s-biggest-data-center-buildout-meets-reality"
       ]
     },
     {
@@ -2671,6 +2672,69 @@
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/nuclear-physics-research-lab-jefferson-lab-breaks-ground-on-30000-sq-ft-data-center/"
+      ]
+    },
+    {
+      "id": "curated/cloudburst-san-marcos-tx",
+      "name": "CloudBurst San Marcos Data Center I",
+      "operator": "CloudBurst Data Centers / Evolve Holdings",
+      "lat": 29.88264,
+      "lng": -97.94058,
+      "city": "San Marcos",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 1200,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "AI/HPC campus in the San Marcos-New Braunfels corridor (Guadalupe/Hays counties) master-planned for up to 1.2 GW, developed by CloudBurst Data Centers with Evolve Holdings. Ground broken November 2025; first 50 MW phase targeted for late 2026. Powered on-site via a long-term natural gas supply deal with Energy Transfer's Oasis Pipeline (enough for ~1.8 GW of generation). Tenants not yet announced.",
+      "website": "https://cloudburstdc.com/data-centers/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/cloudburst-breaks-ground-on-gigawatt-scale-data-center-campus-in-texas/",
+        "https://evolveincorporated.com/company-news/cloudburst-and-evolve-break-ground-on-1-2gw-flagship-ai-data-center-campus-incentral-texas"
+      ]
+    },
+    {
+      "id": "curated/microsoft-kilby-pecos-tx",
+      "name": "Microsoft 'Project Kilby' — Reeves County (Pecos)",
+      "operator": "Microsoft",
+      "lat": 30.78574,
+      "lng": -102.80654,
+      "city": "Pecos",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": 2000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Microsoft AI data center campus planned on 2,000+ acres near Pecos in Reeves County, West Texas (~2 GW IT capacity). Announced June 2026 alongside a 20-year power agreement with Chevron, whose subsidiary Energy Forge One (with Engine No. 1) will build an off-grid natural gas plant scaling to ~2.67 GW using GE Vernova and Solar Turbines equipment, fueled by Chevron's Permian Basin production. First power expected late 2028, with development extending through the 2030s.",
+      "website": null,
+      "sources": [
+        "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+        "https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html"
+      ]
+    },
+    {
+      "id": "curated/vantage-frontier-shackelford-tx",
+      "name": "Vantage 'Frontier' mega-campus — Shackelford County",
+      "operator": "Vantage Data Centers",
+      "lat": 32.72807,
+      "lng": -99.2946,
+      "city": "Shackelford County",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 1400,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Vantage Data Centers' largest campus and investment to date: a $25B+, 1.4 GW AI mega-campus on 1,200 acres in Shackelford County, TX (near Albany), with 10 data centers totaling 3.7M sq ft supporting 250 kW+ rack densities and closed-loop liquid cooling. Construction underway with the first building slated for delivery in late 2026; Oracle has been reported as the anchor customer, with on-site gas generation planned.",
+      "website": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+      "sources": [
+        "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+        "https://www.datacenterdynamics.com/en/news/vantage-plots-14gw-data-center-campus-in-texas/"
       ]
     }
   ]
