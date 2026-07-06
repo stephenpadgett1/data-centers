@@ -1,18 +1,18 @@
 {
-  "built_at": "2026-07-05T09:43:27-07:00",
-  "refreshed_date": "2026-07-05",
-  "total": 1792,
-  "from_osm": 1660,
+  "built_at": "2026-07-06T09:35:45-07:00",
+  "refreshed_date": "2026-07-06",
+  "total": 1794,
+  "from_osm": 1662,
   "from_curated": 132,
   "by_status": {
     "planned": 99,
-    "operational": 1639,
+    "operational": 1641,
     "under_construction": 54
   },
   "by_type": {
     "unknown": 315,
     "enterprise": 88,
-    "colocation": 687,
+    "colocation": 689,
     "hyperscaler": 543,
     "government": 16,
     "telecom": 96,
