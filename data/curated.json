@@ -127,10 +127,12 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's \"Prometheus\" AI cluster near New Albany, Ohio — among the first ~1 GW-class AI supercomputing campuses Meta expects to bring online (targeted 2026), part of its multi-hundred-billion-dollar superintelligence infrastructure push.",
+      "summary": "Meta's \"Prometheus\" AI cluster at its New Albany, Ohio campus — expected to be the world's first ~1 GW-class AI supercomputing campus, part of Meta's \"Titan Cluster\" push with total investment over $10B. Built as five rapid-deployment structures with a 20-acre on-site power yard; first phases were slated to come online in early-to-mid 2026 with the cluster still building out. Powered via nuclear agreements (Oklo, TerraPower, Vistra) plus a Meta-subsidiary 200 MW on-site gas project (Sidecat) authorized by Ohio in June 2026.",
       "website": "https://datacenters.atmeta.com/",
       "sources": [
-        "https://www.datacenterdynamics.com/en/news/meta-prometheus-hyperion-ai-superclusters/"
+        "https://www.datacenterdynamics.com/en/news/meta-prometheus-hyperion-ai-superclusters/",
+        "https://www.nbc4i.com/news/local-news/new-albany/meet-prometheus-worlds-highest-capacity-data-center-slated-to-open-in-ohio-in-2026/",
+        "https://www.nbc4i.com/news/local-news/new-albany/meta-will-use-nuclear-power-for-its-new-albany-a-i-data-center/"
       ]
     },
     {
@@ -412,14 +414,17 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "The Wonder Valley / Stratos Hyperscale campus backed by Kevin O'Leary in rural Box Elder County (Hansel Valley), Utah — pitched at up to ~9 GW, which would make it one of the largest data centers in the world. Box Elder County commissioners approved enabling resolutions on May 4, 2026 amid fierce local opposition. In mid-May 2026 O'Leary agreed to roughly halve the ~40,000-acre footprint, and the state is requiring a phased buildout (the initial phase-one permit covers under 2,000 acres). Residents have launched a referendum effort to block it; construction is not expected before ~2028.",
+      "summary": "The Wonder Valley / Stratos Hyperscale campus backed by Kevin O'Leary in rural Box Elder County (Hansel Valley), Utah — pitched at up to ~9 GW, which would make it one of the largest data centers in the world, developed with the state's Military Installation Development Authority (MIDA) as a self-powered (primarily gas) AI campus. Box Elder County commissioners approved enabling resolutions on May 4, 2026 amid fierce local opposition (a county poll found 71% opposed); in mid-May O'Leary agreed to roughly halve the ~40,000-acre footprint, with a phased buildout required. The county rejected two referendum petitions, and opponents (BEAR coalition, Alliance for a Better Utah) filed lawsuits in June 2026 seeking a public vote; commissioners also passed a 180-day moratorium on new data centers that does not affect the already-approved project. Construction is not expected before ~2028.",
       "website": null,
       "sources": [
         "https://fortune.com/2026/05/11/shark-tank-kevin-oleary-millionaire-utah-data-center-american-politics-protests-ai-tech/",
         "https://edition.cnn.com/2026/05/09/tech/ai-data-center-utah-kevin-oleary-opposition",
         "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/",
         "https://www.nbcnews.com/tech/tech-news/kevin-oleary-utah-data-center-project-stratos-ai-shrink-hayley-rcna348430",
-        "https://www.sltrib.com/news/environment/2026/05/19/oleary-data-center-project-seeks/"
+        "https://www.sltrib.com/news/environment/2026/05/19/oleary-data-center-project-seeks/",
+        "https://www.abc4.com/news/northern-utah/box-elder-referendum-stratos-data-center/",
+        "https://www.upr.org/utah-news/2026-06-17/box-elder-data-center-moratorium-stratos",
+        "https://www.ksl.com/article/51509105/box-elder-county-poll-finds-that-large-majority-71-of-respondents-oppose-data-center-plans"
       ]
     },
     {

@@ -2302,5 +2302,86 @@
     "source": "claude",
     "summary": "Large unnamed data center building east of S Greeley Highway in south Cheyenne, WY - the Bison Business Park area where Microsoft operates and is expanding its Azure data center footprint. Identified by location.",
     "workload": "mixed"
+  },
+  "osm/way/195165354": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Large unnamed data center building off NW 112th Street in Platte County (Kansas City Northland), MO 64163 - the Golden Plains Technology Park, home of Meta's Kansas City hyperscale data center campus (announced 2021, since expanded). Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/652034566": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Data center building on Startown Road in Maiden, Catawba County, NC - Apple's Maiden campus (opened 2010), the company's primary East Coast iCloud/services data center. Apple is the established data-center operator on Startown Road; identified by location.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/873137563": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Second large data center building on Apple's Maiden, NC campus on Startown Road (adjacent to osm/way/652034566). Part of Apple's East Coast iCloud/services campus, operating since 2010. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/1177975789": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Large unnamed data center in the North Range Business Park, Laramie County (Cheyenne), WY - Microsoft's North Range campus, the largest data center in Cheyenne (~200 MW), operated by Microsoft since 2012 and still expanding. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/1443922535": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Data center on Compass Creek Parkway SE by Leesburg Executive Airport, Loudoun County, VA. The Compass Creek development hosts Microsoft's Compass Creek campus (IAD01-03, ~245k sq ft buildings, ~180 MW) with a STACK Infrastructure campus immediately north - most likely a Microsoft building, though attribution between the two is uncertain.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/1502711381": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Data center at Westover Link in Westover Hills, San Antonio, TX - matches Microsoft's ~245,000 sq ft SAT15 facility at 3555 Westover Link, part of Microsoft's primary Texas Azure hub in Westover Hills (operating there since 2005). Identified by location and footprint.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/1432637060": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "One of three identical ~155k sq ft purpose-built data center buildings west of Loop 1604 in San Antonio's Westover Hills data center district - Microsoft's primary Texas hub, with Stream and other operators also in the area. Specific operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/1432637061": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "One of three identical ~155k sq ft purpose-built data center buildings west of Loop 1604 in San Antonio's Westover Hills data center district - Microsoft's primary Texas hub, with Stream and other operators also in the area. Specific operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
+  },
+  "osm/way/1432637062": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "One of three identical ~155k sq ft purpose-built data center buildings west of Loop 1604 in San Antonio's Westover Hills data center district - Microsoft's primary Texas hub, with Stream and other operators also in the area. Specific operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-07-07"
   }
 }
