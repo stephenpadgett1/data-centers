@@ -35,6 +35,10 @@
     "lat": 38.47841,
     "lng": -82.63794
   },
+  "atascosa county, tx": {
+    "lat": 28.85544,
+    "lng": -98.53163
+  },
   "avondale, az": {
     "lat": 33.4356,
     "lng": -112.3496
@@ -46,6 +50,10 @@
   "bastrop, tx": {
     "lat": 30.05411,
     "lng": -97.38878
+  },
+  "beloit, wi": {
+    "lat": 42.50833,
+    "lng": -89.03178
   },
   "benbrook, tx": {
     "lat": 32.67319,
@@ -91,6 +99,10 @@
     "lat": 36.0526,
     "lng": -95.79082
   },
+  "calvert, al": {
+    "lat": 31.15654,
+    "lng": -88.02031
+  },
   "cascade, virginia": {
     "lat": 36.56458,
     "lng": -79.66975
@@ -106,6 +118,14 @@
   "cedar city, ut": {
     "lat": 37.67742,
     "lng": -113.06183
+  },
+  "cedar creek lake, tx": {
+    "lat": 28.91759,
+    "lng": -95.6483
+  },
+  "cedar creek reservoir, tx": {
+    "lat": 32.29763,
+    "lng": -96.15173
   },
   "cedar creek, bastrop county, tx": {
     "lat": 30.0802,
@@ -179,6 +199,10 @@
     "lat": 39.2201,
     "lng": -77.42415
   },
+  "dubuque, ia": {
+    "lat": 42.50062,
+    "lng": -90.6648
+  },
   "dumas, tx": {
     "lat": 35.86148,
     "lng": -101.97137
@@ -234,6 +258,10 @@
   "henderson county, tx": {
     "lat": 32.1826,
     "lng": -95.78932
+  },
+  "hermantown, mn": {
+    "lat": 46.80689,
+    "lng": -92.23825
   },
   "hillsboro, tx": {
     "lat": 32.01085,
@@ -299,9 +327,17 @@
     "lat": 28.03947,
     "lng": -81.9498
   },
+  "lansing, ny": {
+    "lat": 42.48514,
+    "lng": -76.48562
+  },
   "lawrenceburg, tn": {
     "lat": 35.2423,
     "lng": -87.33474
+  },
+  "leavenworth county, ks": {
+    "lat": 39.21471,
+    "lng": -95.06203
   },
   "lebanon county, pa": {
     "lat": 40.37571,
@@ -335,13 +371,25 @@
     "lat": 44.48289,
     "lng": -84.79288
   },
+  "mabank, tx": {
+    "lat": 32.36653,
+    "lng": -96.10081
+  },
   "madison, in": {
     "lat": 40.16245,
     "lng": -85.72608
   },
+  "maquoketa, ia": {
+    "lat": 42.06909,
+    "lng": -90.66547
+  },
   "marshfield, mo": {
     "lat": 37.33712,
     "lng": -92.90659
+  },
+  "maryville, mo": {
+    "lat": 40.34605,
+    "lng": -94.87239
   },
   "mcalester, ok": {
     "lat": 34.9335,
@@ -354,6 +402,10 @@
   "moncure, nc": {
     "lat": 35.6225,
     "lng": -79.07831
+  },
+  "mount shasta, ca": {
+    "lat": 41.4092,
+    "lng": -122.19486
   },
   "muncy township, lycoming county, pa": {
     "lat": 41.25403,
@@ -455,6 +507,10 @@
     "lat": 31.47488,
     "lng": -96.92433
   },
+  "rockford, il": {
+    "lat": 42.27139,
+    "lng": -89.09397
+  },
   "ross, tx": {
     "lat": 31.7185,
     "lng": -97.11917
@@ -538,6 +594,10 @@
   "town of tonawanda, new york": {
     "lat": 42.98085,
     "lng": -78.86522
+  },
+  "tupman, ca": {
+    "lat": 35.29919,
+    "lng": -119.3584
   },
   "tyler, tx": {
     "lat": 32.35126,
