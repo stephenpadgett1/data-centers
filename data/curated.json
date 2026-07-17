@@ -5,8 +5,8 @@
       "id": "curated/stargate-abilene-tx",
       "name": "Stargate Site 1 (Lancium Clean Campus)",
       "operator": "OpenAI / Oracle / Crusoe",
-      "lat": 32.378,
-      "lng": -99.857,
+      "lat": 32.5,
+      "lng": -99.784,
       "city": "Abilene",
       "state": "TX",
       "status": "under_construction",
@@ -40,12 +40,14 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish designed to deliver up to 5 GW of compute, powered by 10 new Meta-funded gas plants (~5.2 GW) plus committed renewables, transmission and storage. Construction began in earnest in early 2026; Phase 1 targets ~1.5 GW by late 2027 with full 5 GW phased through 2030. Cost projections have climbed from the original ~$10B toward $27B+ in near-term investment, with longer-run program estimates reported as high as ~$200B — among the largest private infrastructure projects in the US. In May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment; the construction workforce is expected to peak around 5,000 in mid-2026.",
+      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish, powered by Meta-funded gas plants plus committed renewables, transmission and storage, supported by a ~7.5 GW Entergy Louisiana utility expansion. On July 13, 2026 Meta confirmed the full 5 GW build-out and lifted planned investment above $50B (up from an original ~$10B); it expects ~2 GW by 2030 and the full 5 GW around 2032. Construction began in earnest in early 2026 with more than $1.6B in contracts to Louisiana businesses so far; in May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment.",
       "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
       "sources": [
         "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
         "https://www.datacenterdynamics.com/en/news/meta-purchases-additional-1400-acres-for-hyperion-mega-data-center-expansion/",
-        "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/"
+        "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
+        "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+        "https://www.datacenterdynamics.com/en/news/meta-expands-data-center-campus-in-richland-parish-louisiana-to-5gw-will-invest-50bn/"
       ]
     },
     {
@@ -106,7 +108,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Amazon's massive New Carlisle, Indiana campus — the compute backbone of \"Project Rainier\" dedicated largely to Anthropic's Claude model training. Phase 1 (~30 buildings, 500k+ custom Trainium2 accelerators) became operational in October 2025; a Phase 2 expansion announced Nov 2025 brings committed investment past $26B, with the full campus drawing toward 2.2 GW on a 1,200-acre site.",
+      "summary": "Amazon's massive New Carlisle, Indiana campus — the compute backbone of \"Project Rainier\" dedicated largely to Anthropic's Claude model training. Phase 1 (500k+ custom Trainium2 accelerators) became operational in October 2025; by mid-2026 roughly 18 buildings were operating with over a dozen more under construction, Trainium3 deployment underway, and Phase 2 construction beginning — committed investment exceeds $26B, with the full campus drawing toward 2.2 GW on a 1,200-acre site.",
       "website": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-compute-anthropic",
       "sources": [
         "https://www.datacenterdynamics.com/en/news/amazon-project-rainier-anthropic-indiana/",
@@ -922,18 +924,18 @@
     {
       "id": "curated/news/bessemer-al-63",
       "name": "Proposed data center campus — Bessemer",
-      "operator": null,
+      "operator": "QTS",
       "lat": 33.40178,
       "lng": -86.95444,
       "city": "Bessemer",
       "state": "AL",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
+      "operator_type": "colocation",
       "purpose": "speculative",
       "workload": "general",
-      "confidence": "low",
-      "summary": "A proposed data center campus in Bessemer, Alabama (Birmingham metro) that grew in scope in 2026. Operator not confirmed; early-stage.",
+      "confidence": "medium",
+      "summary": "A proposed QTS data center campus in Bessemer, Alabama (Birmingham metro) that grew in scope through 2026; QTS confirmed its plans for the campus in July 2026. Early-stage.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDAyeE5nZFVRbGxxcDlFXzVJRHdkREw3T2RZVXQzRkNXYWdxZ1VPSEZVRm1nNHM1clZVbUZTQ1lONTNhajJQTXNfNXM1RjdldS1TZ09FQXZldDYxLWx2WDB1Y05tNXhnM3NzNWpSWEd5WnFLQXVPeWdnaTBzTUV1S0Q5dVJtRndhRE0xcFdZV0lWM3NWSnE4REF0OVlsMUUwUTFn0gG3AUFVX3lxTE50Ti1PanVpZHZwN1kzSFVwYWhnMzc0LVVUY1JkWmQ3b3lUSmlscGdwRVZMYTRBX1N2dHhaM1R0eHBJbGttb3ZaSDF6UDJ3Wk1rOFRmSFQ0SldRTF96X1dKTDk1TTlwLVlVZF85RFJwSW04dmY1bElqNWZGQVlDbGRxTlVKa3ZzYnJFRmU0MHpRSGd3LWRTT01pa2R5VkZRMjVjSF90MjE4T2ZqNkNPQml3Ym81TXF5WQ?oc=5"
@@ -2507,7 +2509,7 @@
       "purpose": "purpose_built",
       "workload": "general",
       "confidence": "low",
-      "summary": "Developer Vulcan Core has proposed a Bitcoin-mining data center at 1105 W. Erwin Street near downtown Tyler, Texas, with data center operator Barrio as the planned tenant. Sited next to an Oncor substation; the developer says it will fund its own interconnection and use a closed-loop cooling system rather than city water. Drew resident concerns over noise and water at a June 2026 community meeting; only ~7–10 full-time jobs expected. Early-stage; coordinates approximate (city center).",
+      "summary": "Developer Vulcan Core has proposed a Bitcoin-mining data center at 1105 W. Erwin Street near downtown Tyler, Texas, with data center operator Barrio as the planned tenant. Sited next to an Oncor substation; the developer says it will fund its own interconnection and use a closed-loop cooling system rather than city water. Drew resident concerns over noise and water at a June 2026 community meeting; only ~7–10 full-time jobs expected. Early-stage; coordinates approximate (city center). In July 2026 the Tyler planning commission denied a permit for the proposed facility; the project's future is uncertain.",
       "website": null,
       "sources": [
         "https://www.kltv.com/2026/06/16/tyler-residents-gather-learn-about-proposed-data-center/",
@@ -2537,7 +2539,7 @@
     {
       "id": "curated/news/lufkin-tx-141",
       "name": "Proposed AI data center — Lufkin",
-      "operator": null,
+      "operator": "AmpZ Champion Data Center Holdings / EPG Champion Development",
       "lat": 31.33862,
       "lng": -94.72886,
       "city": "Lufkin",
@@ -2548,10 +2550,11 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "A proposed AI data center in Lufkin, Texas that drew resident concerns at a June 2026 public discussion. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "summary": "A proposed AI data center on a 1,000+ acre site in Angelina County outside Lufkin, Texas, backed by Denver-based AmpZ Champion Data Center Holdings with Atlanta-based renewable-energy partner EPG Champion Development. Planned closed-loop cooling (~30,000 gallons filled once and reused). Drew resident concerns at June 2026 county meetings; early-stage. Coordinates approximate (city center).",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxORm5wd2NGR1puNktHaHhsbjFxZVlLbmM4cGQwT2VGNHpuVDZNZWJiRnAxZ3dPaHVlWlFBd05PaW56bmVGd3U3b1NhY3o1b2R3TDVwZlVHSnE5b3ZXUk52WFNneDZVWTZSbldlY0pfLWdwMlM5U1JnaDM0N3FFN0d1d3F5TXNVX2RJOVFUbjRRX3pIUXBfNVpFWV9R0gGuAUFVX3lxTE5ldnA1R2VVQ1FOYk9HY2hjNjdiMnRXZ2dSUnRfMWxmZVhPaEtpMmZyczRieTF2emZxOWpyQ01SWHVyMkN0RUxVTzdyUTZRV3Rzbktaa1VlZHVhdkZCQi1QWjAxdlFLQ1dVd09wb19rT1RrNTJIOXlESVdzUmI0SkRIMWdzWEZBNTlCRHQ1UDFYOTk5MVhTQkhJdzZoRjVlbzBOdU9CRTAwOXpFMDFGZw?oc=5"
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxORm5wd2NGR1puNktHaHhsbjFxZVlLbmM4cGQwT2VGNHpuVDZNZWJiRnAxZ3dPaHVlWlFBd05PaW56bmVGd3U3b1NhY3o1b2R3TDVwZlVHSnE5b3ZXUk52WFNneDZVWTZSbldlY0pfLWdwMlM5U1JnaDM0N3FFN0d1d3F5TXNVX2RJOVFUbjRRX3pIUXBfNVpFWV9R0gGuAUFVX3lxTE5ldnA1R2VVQ1FOYk9HY2hjNjdiMnRXZ2dSUnRfMWxmZVhPaEtpMmZyczRieTF2emZxOWpyQ01SWHVyMkN0RUxVTzdyUTZRV3Rzbktaa1VlZHVhdkZCQi1QWjAxdlFLQ1dVd09wb19rT1RrNTJIOXlESVdzUmI0SkRIMWdzWEZBNTlCRHQ1UDFYOTk5MVhTQkhJdzZoRjVlbzBOdU9CRTAwOXpFMDFGZw?oc=5",
+        "https://www.texastribune.org/2026/07/09/data-center-backlash-east-texas/"
       ]
     },
     {
@@ -2740,6 +2743,454 @@
       "sources": [
         "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
         "https://www.datacenterdynamics.com/en/news/vantage-plots-14gw-data-center-campus-in-texas/"
+      ]
+    },
+    {
+      "id": "curated/news/salem-or-verrus-oakline-148",
+      "name": "Verrus 'Oakline at Mill Creek' — Salem",
+      "operator": "Verrus",
+      "lat": 44.93916,
+      "lng": -123.03312,
+      "city": "Salem",
+      "state": "OR",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A $5.1B, 75-acre data center campus ('Oakline at Mill Creek') proposed by California-based Verrus near Turner Road SE and Deer Park Drive SE in Salem, Oregon — three data center buildings plus a substation for cloud/AI workloads, using battery storage and closed-loop cooling with grid-flexible demand. Disclosed July 2026 after a 16-month NDA; would be the largest private investment in city history. Early in city review; not approved. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://www.salemreporter.com/2026/07/14/salem-discloses-proposed-mill-creek-data-center-project-after-city-released-from-nda/",
+        "https://www.cityofsalem.net/Home/Components/News/News/2169/15"
+      ]
+    },
+    {
+      "id": "curated/news/nye-county-nv-blackjack-149",
+      "name": "Proposed Blackjack Data Center — Nye County",
+      "operator": null,
+      "lat": 36.20418,
+      "lng": -116.02603,
+      "city": "Pahrump",
+      "state": "NV",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed ~900-acre, ~800,000 sq ft data center campus east of Pahrump in Nye County, Nevada. Application predates the county's 2026 data center moratorium; residents have mobilized against it over Basin 162 aquifer water use, and commissioners weigh further restrictions at an August 2026 vote. A second proposal (Osprey Data Center) is also pending in the valley. Coordinates approximate (Pahrump).",
+      "website": null,
+      "sources": [
+        "https://www.8newsnow.com/news/local-news/nye-county-residents-mobilize-against-proposed-blackjack-data-center-ahead-of-august-vote/",
+        "https://pvtimes.com/news/data-centers-generating-community-angst-187770/"
+      ]
+    },
+    {
+      "id": "curated/news/cedar-rapids-ia-oppidan-150",
+      "name": "Oppidan/CLOP data center — Cedar Rapids (33rd Ave SW)",
+      "operator": "Oppidan (CLOP Cedar Rapids, IA LLC)",
+      "lat": 41.97589,
+      "lng": -91.67041,
+      "city": "Cedar Rapids",
+      "state": "IA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Cedar Rapids' third data center project — a ~100,000 sq ft, ~$101.5M facility at 1515 33rd Ave SW north of Highway 30, developed by CLOP Cedar Rapids IA LLC, a branch of Minnesota developer Oppidan (which built a similar Des Moines facility in 2024). Built without city incentives on industrial-zoned land; building permit issued July 2026. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://www.kcrg.com/2026/07/08/cedar-rapids-confirms-third-data-center-planned-southwest-side/",
+        "http://www.thegazette.com/news/local/3rd-cedar-rapids-data-center-ready-for-construction/article_e0973e26-383e-4896-bebc-a4c085b8d4a5.html"
+      ]
+    },
+    {
+      "id": "curated/news/san-jose-ca-silvercreek-151",
+      "name": "Proposed data center — 5977 Silver Creek Valley Road, San Jose",
+      "operator": null,
+      "lat": 37.33617,
+      "lng": -121.89059,
+      "city": "San Jose",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A large data center proposed to fill a vacant site at 5977 Silver Creek Valley Road in southeast San Jose, per July 2026 planning filings. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzlUeDBfM0ZFSVZweFZfWktjcHZNQUVlRXhhbDh1ZUJlVElpM19mNVJ0UTRlcGJfWmFaUlJfc3A1QmR5d0dib2xhRkRCczVodV9jeVdKV0wwbTNtTC1jeS03S05xRWpSMm1aSmdveExhS0lkM05iZDNwNmIzVjJrR1BKMzdTMXVhaHl4VGdXTlpfSkFlTlZOcUJITmUyTy1HNzlvRk9wbnViLU1CSnV6RjlQNF91VFI1clB3TkxXdkVEZw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/marietta-ga-powersferry-152",
+      "name": "Proposed data center — Powers Ferry Place, Marietta",
+      "operator": null,
+      "lat": 33.95285,
+      "lng": -84.54961,
+      "city": "Marietta",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed on Powers Ferry Place in Marietta, Georgia (Cobb County) that drew neighborhood backlash in July 2026. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGNoZTd2UDVuVlQ0ODdGczc5VzFqdkVoTnRaU2ZHeGlKRVRkY2p1OVFSQmluSU1NSGJFUUdBZjY5bU5NMmNKX2hPVUQwOVBIVm0zZW1OcDBKUWc1V2JrSW5ZUUx6dFJBU2NvSmw3eF9GQ2lkNUhLTWpqcGd0N0VEbzFJUEYwdS1X?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/mount-shasta-ca-153",
+      "name": "Proposed AI data center — former Crystal Geyser plant, Mount Shasta",
+      "operator": null,
+      "lat": 41.4092,
+      "lng": -122.19486,
+      "city": "Mount Shasta",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center at the former Crystal Geyser bottling plant in Mount Shasta, California. Local petition and water-use concerns emerged in June 2026; early-stage. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHhZQ2tkRER6cEJWdnAxeFFoWkRMY0hDZU5LV1VFRjFnVV9QbmlJaDhUQllfdk9kSXZLZ3pUUjU5ZEdVVnZVQWNGUmFSOWIxVUVoZmc2ZlFEay1YQnVzWEZmeTZxbmVWSUdKXy1sUkwxT0FkREo3MDVneExQVFowRm9ocDFYVkpEUVZuRE9BT2E1S0ZZTGRWNGFYcVFSSml1RlM5THVxenZJSlRjLVQwV0dMS19Va1dqSUE0?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBoY1NaWkllZUFYRlNPTWV4dW1CY0xPYWlUY2NXSThkNUEwZUxuRmtrd211VGFNOW80TTlvTjBYR2hKWmY3WnZVN3VnRHdxS0FlYkhNMm45MGd6bFozQWl4WTVjaWNLYnpJMzJSQmlfSnhYa3owU00wZVBZT05UWUhCWFZBZXEweUxiYWM4TjJpUXZZZkJqS2RfcVF0dENvdV9NeE1GY2tnMVFEVnM3UEVqaElHdWlFMF9PekFn?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/rural-hall-nc-154",
+      "name": "Proposed data center — Rural Hall",
+      "operator": null,
+      "lat": 36.24042,
+      "lng": -80.29338,
+      "city": "Rural Hall",
+      "state": "NC",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center in Rural Hall, North Carolina (Forsyth County). The planning board recommended denial, but in June 2026 the town dropped its opposition and the town council voted to support the project. Early-stage; operator undisclosed. Coordinates approximate (town center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUtoNWdjNjVteDNIM1pjb1Z0ZWx4Y3FUREx5MVJ4ZWE2Y1ppOTYxZGhsZHA5QVdPT2hXOGpPWkZiWW11T0VWbGM0ZDd2QXQ3WU9LSy1xMHdROWQ4OE1vSHF4SWotY3pqZGRvdEdoVVVPTGVnS1IwYTFKNWVQU1FjZElZRlRLdGpZeDd0NQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXZ3ZlRHSVZadjZvNUVBMWNWaFVMQ19mb2R1eXcxRXhzLXN0ZU5rNl9CM1lNdm4yOXA3OUsxWFZVaFU3cnhNSVpmTHp2V2tfY1dQcXBQeERHOHM2RU1hakR3aUNIaU1XWDNNZWNXOHliVGdLcEs2Wmw2dG9DdkZKUHJib1JicGxoc3FN?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/calvert-al-155",
+      "name": "Proposed $6B data center campus — Calvert (Mobile County)",
+      "operator": null,
+      "lat": 31.15654,
+      "lng": -88.02031,
+      "city": "Calvert",
+      "state": "AL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed ~$6B data center campus in Calvert, Alabama (northern Mobile County) that drew questions over growth, utilities and impact in July 2026; county commissioners say they lack authority to halt it. Early-stage; operator undisclosed. Coordinates approximate (Calvert).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkZhTFd3SFEwNU1MZlNPLUxTSzNwZnhYcHFFaExYQkVxQkw5cTNibmtMSl9wTi1EbFBqTkVlNUZyUGNVaFl3S0dwMENoNnFwdjMyMWoxUmoxMkI5MkVWWmt6SU9TUHZXenBvX254VVhsMHdjV2FnNUhtcUlUTE1mUVNxSzhSUFhHd09qdk9QMXdFRjkxZUJyZFk2Y0JDM1I3Q1FUR21OQU5XT3hEUEg3ZjJDREY0ak9Y?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY21Wa1lwdXdaZFBNRlhTM2l0TldZT1JrTnowMkZDcUFxWVpuQjNiME5FNWNka1RmWGFVdGlBQ0dVY0VpRkZ2MUFNSnNJTXZBUW03V01INmw5MTRfNkhENWhFQlpaLUJaZ2pzNEVwU045b3p6SHEycTVfLU14cG9rM1dNUFNXY083eW1jSHlmSnd1bDBQX0NrYU5mdG1DUzM2bHdkd0FfX3lhTVhfVmJSemF4UEZ0R19VRjg3RjNXNzhnZUU00gHYAUFVX3lxTE53aGdtT1dfalNORlg2Z3dnd1J4OTdXRUtmOV8tYnQ1ZUVhOTdWTW1yRW9KMGE3YkJ4N1RGdTdsZ21zRk94OFQ3NG9oRXNiNVM4bWdzTlEyeEpreGx2X0tzVjBFdG5YS05PdGVLTmZqZHF0STRXRDJLVXFPNjgxc1VyQ0hMS2dJTnl5R0swNFB5V0dMOVpYUU1JaWJWLTRpZ1lYRkE3LVpOek1Dbk4wY1NLTmVsRjFvSTVaX0dPWHpCWXUtbW9QdzlyekRIQWZrVXJHQ1hkcHY0bw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/beloit-wi-cornmaze-156",
+      "name": "Panattoni 'Project Cornmaze' — Town of Beloit",
+      "operator": "Panattoni (Meta pre-development agreement)",
+      "lat": 42.50833,
+      "lng": -89.03178,
+      "city": "Beloit",
+      "state": "WI",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "'Project Cornmaze' — a ~$1B, four-building, 2M+ sq ft hyperscale data center campus proposed by developer Panattoni on 430+ acres at a gravel quarry spanning the towns of Beloit and Turtle in Rock County, Wisconsin. Meta has signed a pre-development agreement for the site; energy needs could reach hundreds of MW with closed-loop cooling planned. Community concern over the NDA-shrouded process; ~5-year build if approved. Coordinates approximate (Beloit).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/meta-signs-pre-development-agreement-for-data-center-in-beloit-wisconsin/",
+        "https://www.wifr.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+      ]
+    },
+    {
+      "id": "curated/news/elk-hills-ca-beacon-157",
+      "name": "Beacon 'Golden Valley Technology Hub' — Elk Hills",
+      "operator": "Beacon Data Centers / California Resources Corp",
+      "lat": 35.29919,
+      "lng": -119.3584,
+      "city": "Tupman",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": 275,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Canada-based Beacon Data Centers' proposed 275 MW 'Golden Valley Technology Hub' — a ~400,000 sq ft AI data center on ~100 acres of former oilfield land on the Elk Hills oil field in western Kern County, CA, developed with California Resources Corp and powered primarily by CRC's Elk Hills gas plant with closed-loop liquid cooling. Announced June 2026; early-stage. Coordinates approximate (Tupman).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/canadas-beacon-dc-targets-275mw-data-center-campus-on-california-oil-field/",
+        "https://www.turnto23.com/news/in-your-neighborhood/taft-maricopa/massive-ai-data-center-proposed-for-kern-countys-elk-hills"
+      ]
+    },
+    {
+      "id": "curated/news/hereford-tx-google-158",
+      "name": "Proposed Google data center — Hereford",
+      "operator": "Google",
+      "lat": 34.82455,
+      "lng": -102.39878,
+      "city": "Hereford",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "A proposed Google data center near Hereford in Deaf Smith County, Texas (Panhandle) — distinct from Google's Gray County project. Community informational meetings were held in July 2026; details on size and timing not yet public. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDczcDBudkVXM0szS1NrakpVZEtwOTZhWGs4WU1jcTdMUml3TVJQVjBPWFRNUFM5R3dlaU9YVEEycWZxcWMzLTEzM2JGcEFqcklCN1VJMFNadklVLWw1WkRoS0hLc1pmZkYxTXRzSnAySDljY3JackdiSElkSXpKeVVHVXFabHltMTRLUUd0Q0Rob1hkRGtqT0Q1a29rSTV0TEJmczZpQjlFazY1UVJHVUw2bFNBNUNV0gHMAUFVX3lxTE1raVdFcnJ0NmZwcE1mMDg5UDVXZ3dsN3hRMTllV2hIYy1LVTdDc2VTeFlOcUdLb3dkNEpfbnhhdjJ5VWttaTBTZkloRWFhazZGZnN4VXlZM3I5UFJVRElpdWV6TWhCMnFnUmRGNnNacHJkbkR4SXB1bVdKWUpMdGY5eGFLMkhBWlBnMnJudFdHb2I3RGQ3WXJ5d1JhdWJsU2dhWlJpZUJaMGdtODFQbDJCUERETXkyM3ItSzRneFVlOGlwZEJVODNHOGhraA?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/childress-tx-crusoe-lancium-159",
+      "name": "Crusoe/Lancium AI data center campus — Childress",
+      "operator": "Crusoe / Lancium",
+      "lat": 34.51966,
+      "lng": -100.20677,
+      "city": "Childress",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Crusoe and Lancium's announced 1.0 GW AI data center campus in Childress, Texas (announced July 15, 2026) — their second Texas gigawatt-scale collaboration after the Abilene Stargate campus, on a Lancium-developed grid-interactive 'Clean Campus' site. Early-stage. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnVObWt2czZJdDlvOGdfSWxRS0hRTFZUOWU0M0Z0cVBnRGEyMjhVazFqSGtIU0pCWVdhQmkzdWtsTlpURnRlRDk0azcyQldXMGpXbXZKeGtyaUEwZ1k4WEZENnRsd1RPTllta3dycFRvc1lnOUVCeElsTVQ5N19QalJ6d2JsQlM2MVNtdzZfWXVwNHg2d2E1OFM5alV6bEZQa0drMFozSXZSaGdQVC01d3ZTVC1JOHc3TVZKNw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/raton-nm-160",
+      "name": "Proposed data center — Raton",
+      "operator": null,
+      "lat": 36.89792,
+      "lng": -104.43548,
+      "city": "Raton",
+      "state": "NM",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center in Raton, New Mexico (Colfax County) that drew resident pushback in June 2026. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdW1uYnNzcDdwRFZ4dnVpQlljLUZGVFJ3dTZ4S21KbTU4OHlqQkR4U2hUQ0N2dnhxMlllNGN4N3pDZml2Nng2c21QUlhRcGRTakdwTGdOa1hEZXZmUmFzYm9OamszZW8xNnoycGV4dVVTbmpXMHhkWkZWMjl6T3pXWDV0dWduc3g4aUFkYzVWVGxWM1FI?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/yaphank-ny-161",
+      "name": "Proposed AI data center — Yaphank",
+      "operator": null,
+      "lat": 40.83219,
+      "lng": -72.92997,
+      "city": "Yaphank",
+      "state": "NY",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed AI data center in Yaphank, Long Island (Town of Brookhaven, Suffolk County, NY) facing opposition from residents and town leaders as of June 2026. Early-stage; operator undisclosed. Coordinates approximate (hamlet center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVnFFMEo5emhxYmFjcVlaUWlnOXFJR2ZqUWRiMkVfM2xXMF9UbW5XUjJhbUJVdnphNDVnYmI4c2prd0JFa0kteS1PQzRRaldhNjFrM1U1VmtIUkF2dFlOOEEtRWl6NEZBTlZvemgxeFM0QW5DdWdpMl90bmdkTnZwTjM5eUp6M25vNmZhb2dkaTBKQ01sZkdiTWkxX083aVZJTzRKUExhRGRtUk4xbkE4R0M5MnA4dGd6Sm02andKSzlVTXFGOGNMaWtET2RJSWYtNVFZZ084RmNiU3Z2aXRjMg?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/cass-county-ne-162",
+      "name": "Proposed data center — Cass County",
+      "operator": null,
+      "lat": 41.0112,
+      "lng": -95.88622,
+      "city": "Cass County",
+      "state": "NE",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center in Cass County, Nebraska (south of Omaha) drawing resident pushback over water use and farmland conversion as of July 2026. Early-stage; operator undisclosed. Coordinates approximate (Plattsmouth).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXZSSHpqb0MwajlIc3BydHdjMVcxc0x2XzNCUC0tUHBDNTZWWkFINXRERjl2T0Jrd0pkVkxXMU5nYWMtekM0UU51eW9RaW9JaVVaWlJQcXYyRFB4aVpkcFo1b1pvXzAzWmhuWWtGZ05FRzdMUmJIamJqZ1pfbzltcGJ6WFRZVUlxa09pY0NWbFkxV0lZRS1qa3BGcU5PMEhFVnA4dUg0OWlPaUJ4TlU0ZGdBMXHSAcgBQVVfeXFMT2hJUmwyblp5cnhqSjNiazRrWEJwRVFEWmV0blR3V3llSGh0Zk42dTl4bkhvU2VqQmRpNkl0Q2hBZENFWkhYazIzM2QtVUlORHZlS0tCdVktYjl6a1ZSR0NGVUNma3JZX19DUnFlSG1kSTNxZXJYYThyS0pyLUVjLThvUHJ3Mm5aUkU2d3p6QndZZUpNNVlJcXB0UXJtWl8xazBqMjE1Q2hjZXdlRkRYeUx0ZFJ3akhzNkRxd1pLcTVSMGxsUTJXaE0?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/stafford-county-va-163",
+      "name": "Proposed data center — Stafford County",
+      "operator": null,
+      "lat": 38.41673,
+      "lng": -77.45798,
+      "city": "Stafford",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Stafford County, Virginia on a site containing centuries-old graves, drawing preservation concerns in July 2026. Early-stage; operator undisclosed. Coordinates approximate (Stafford).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTXRVLTVMS3hLbFhwdVNDSEdsY2NmeG9TODNfNWFJLUh6LWJTVXNfUElnMG5pSF82T25BdXdneEVkdkVEUTlBU3hPWjFydWFNMU9KelV3Zll5UkdwNFhBSk1INnhpZjZaVks2c2lWd1MtaEV3TE5HVnZaZ01RZ0t1Sld2ZFVmY2s5Y3dCSi1rWjEzSkJtMWtxLTZ6S3VQcWd1akIxVFVwY011T0VkMDZpQkZhZzVNZEdGYjFJUnN1aHFWTU5sQUgxMkRxQkoxYnpBbUozbUFBX1JPQdIB4gFBVV95cUxQcVMyRmY3Zi1jcmFqRWdpUGhCOFQyZm5LZ3B4eXdYaTgwV2hUMjJYRkZhQ2FTbms5bTExU3c5M2IxdWZQUTc2M0VmYUI2NUhTZ2tQZl9PdFh0U2NEZE50b2laMFZfV1BqR0ZoXy1mR2o5OEc1a1UtWk5qOGJGZWNvZ0otNjNYcFVlZ2VqbGpyWHhXNEUtWmotYnl6UkZoUWphNjVNNk15THNlc2lZYjF5V01PbU8yLVhOY2Fvd3ZhMWI2aG9FT0hZZVl0bHRRMWxPWHVINVA0YkZZeFE5VzVYeWxB?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/henderson-county-tx-diode-164",
+      "name": "Diode Ventures data center — Cedar Creek Lake (Henderson County)",
+      "operator": "Diode Ventures",
+      "lat": 32.27203,
+      "lng": -96.17327,
+      "city": "Tool",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Kansas-based Diode Ventures' proposed data center west of Cedar Creek Lake between Trinidad and Tool in Henderson County, Texas, which would draw up to 5M gallons/day from the reservoir that supplies most of Fort Worth's drinking water. Tarrant Regional Water District approval is required and residents are opposed amid drought conditions. Early-stage. Coordinates approximate (Tool).",
+      "website": null,
+      "sources": [
+        "https://www.keranews.org/news/2026-07-02/proposed-data-center-would-pull-from-lake-that-supplies-most-of-fort-worths-water"
+      ]
+    },
+    {
+      "id": "curated/news/ypsilanti-mi-um-lanl-165",
+      "name": "University of Michigan / Los Alamos AI research data center — Ypsilanti Township",
+      "operator": "University of Michigan / Los Alamos National Laboratory",
+      "lat": 42.24105,
+      "lng": -83.61176,
+      "city": "Ypsilanti",
+      "state": "MI",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "education",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "The University of Michigan's planned AI research computing data center in the Ypsilanti area, developed in partnership with Los Alamos National Laboratory. Facing sustained community concern; in June 2026 Rep. Debbie Dingell pressed U-M and LANL leadership to respond directly to residents. Coordinates approximate (Ypsilanti).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SYTZtMWMxYjUtZHk1Y1pwZGx5WW9zS25yTG9nU3VqeHlLNVNrQVJiNDZIRWlhLVBjbG14bXprSWFIU0NRQjRQREg5Q0p3RENFTDdmX0tmMS1hd3pBOVFUdjRLeU82cjVaaHRyajFFU29LQXpRYUJwTU1tcGw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/ames-ia-166",
+      "name": "Proposed data center — Ames",
+      "operator": null,
+      "lat": 42.02676,
+      "lng": -93.61704,
+      "city": "Ames",
+      "state": "IA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Ames, Iowa as of June 2026. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGdvSjJwd3EzbEd3ZGdjcHpEU3hwdjh2WmZ2WWw2cWQtbDRnNVFueGR4eXQ3NjlPamZFRDZPa19kVzJaZzRqcXZaN1Y3cHZibkR5UG9ndmJBdTRRbmUydFJXOGFtUV9JWGVrZXJ0Q1p6U2NRZmtoOV9FLU9sQ1F5akZ3?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/atascosa-county-tx-167",
+      "name": "Proposed data center — Atascosa County",
+      "operator": null,
+      "lat": 28.91803,
+      "lng": -98.54641,
+      "city": "Jourdanton",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center in Atascosa County, Texas (south of San Antonio) that residents were fighting as of July 2026. Early-stage; operator undisclosed. Coordinates approximate (Jourdanton).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNODYzMlRNdnhIWTBvdk01UUNZeFFMc2lWc2NIcVV6ZkdzdEhHY3RvczRfcExkTC1ieVBwaVFuZVU4ODgyNFRHMUNRYzNRdVlIaXlZUFdtZkw2SlE1V1pRYl91UUt2NnpRc0MyM3psYmVMZXhubUY2X1N4UE5XVjdhRFd3RWNBMDFCS1I4d2ozZ3l4TGNVOGc?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/bell-county-ky-168",
+      "name": "Proposed data center — Bell County",
+      "operator": null,
+      "lat": 36.76203,
+      "lng": -83.69492,
+      "city": "Pineville",
+      "state": "KY",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center in Bell County, Kentucky facing opposition from neighboring landowners, per July 2026 reporting. Early-stage; operator undisclosed. Coordinates approximate (Pineville).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1BZWnhSa29rTnlEYjhfYldfaVNKQ3hNbjB3Sl84anN3OENXOTlobUJtOWpRazExRkJlWHhGdHYwQldJVHRZbzFzNjdaMHBvM0tSX2U5RkxlX1hUdk95Vmo3NGZMZnNzTm9zZVBJdzFMVHkxZk1NRVItMThGSjVJT3ZpN2xqMDhwcG5fd0s3WWI3c0lHdm5SUE9SNTR6QdIBsgFBVV95cUxQaUczd0ZrQUlHWmc5ZktER21rM0Z3enI2dXZjX3JscW0tcGVycXRub2drdUZwbGtEWldzS1RqVllkOGQ0ODFvNWhzejZUenFqMFg2b2x2LTRGQXdXTjRJRTlDaEpFaGllalVBWjY1NEhpUkRIMEpOVW9pVUlySjlBWnpHdDNYTTRDYWQ0VlhqYmNTSVk5emxuUE13THlZV2owZEMtR050QmUzRmNpcVdWaFdR?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/ahwatukee-az-169",
+      "name": "Planned data center — Ahwatukee (Phoenix)",
+      "operator": null,
+      "lat": 33.31942,
+      "lng": -112.0313,
+      "city": "Phoenix",
+      "state": "AZ",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A planned data center in the Ahwatukee Foothills area of Phoenix, Arizona drawing neighbor concerns as of July 2026. Early-stage; operator undisclosed. Coordinates approximate (Ahwatukee).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFpuZVdGQk5pTFNBQzRZanBKMFI5MGdBRmZJd1ZhRkotdFB6aEI1LXI1T3pYWFRYX2JqOVY5elhaUG9aMHE1ekg2eG83SEd5aUNWeTdxQk9FWWt3eUZrQ1RHeFl3MFVRVnR4YWVpU3JEQi1PdDlCUjhsSU0zaXg1WmdTMlUzdmpFX1gzNDN4NmhheUlxdDI3ZkVUZEI2M2dSVDlfdXNCV0MxZ9IBrwFBVV95cUxQN3VyY043ejJjQk5ITUdiWEdvbk5nUEdMMEF1eWJQNmJrQjVBZUp0RTQ0SWR2RVBlWjk5ZnR1YnNEVktwV2ZEemJ4dGNkVS1zQ09ZVTlmZ1lmTUV5NzhIUnBNdTVGT3BPeEdxOWo4UDkySTNZQVJpdVdJM3BhNHlLVjVQMk9hdzBXRElQZHljdlE3Y2FWS3FiZDRXUU11LTc3OF9qT0pyRzdhLUdsOEFr?oc=5"
       ]
     }
   ]
