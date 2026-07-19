@@ -3139,5 +3139,50 @@
     "summary": "Large unnamed data center buildings off I-270 on Columbus, OH's west side (Hilliard area), consistent with Amazon/AWS's documented Hilliard-area data center cluster. Location-based inference; operator unconfirmed.",
     "source": "claude",
     "classified_on": "2026-07-17"
+  },
+  "osm/way/304754549": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Captive enterprise data center for UnitedHealth Group (UHG/Optum) in Chaska, MN, supporting the insurer's claims, clinical and corporate IT systems rather than leased capacity.",
+    "source": "claude",
+    "classified_on": "2026-07-19"
+  },
+  "osm/way/874888709": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building ~300 m from the named UHG Data Center in Chaska, MN; almost certainly part of the same UnitedHealth Group captive data center campus.",
+    "source": "claude",
+    "classified_on": "2026-07-19"
+  },
+  "osm/way/844372538": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Large (~645k sq ft) building inside Google's long-running Lenoir, NC (Caldwell County) data center campus, one of Google's original US self-build sites.",
+    "source": "claude",
+    "classified_on": "2026-07-19"
+  },
+  "osm/way/958153770": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "TSYS East Data Center at 8 Corporate Ridge Parkway, Columbus, GA \u2014 a ~112k sq ft captive facility of payment processor TSYS (now Global Payments) supporting card-processing operations.",
+    "source": "claude",
+    "classified_on": "2026-07-19"
+  },
+  "osm/way/813688319": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building on Sabey Data Centers' Intergate.Columbia (SDC Columbia) campus at 4405 Grant Road, East Wenatchee, WA \u2014 hydro-powered multi-tenant colocation with ~70 MW under power.",
+    "source": "claude",
+    "classified_on": "2026-07-19"
   }
 }

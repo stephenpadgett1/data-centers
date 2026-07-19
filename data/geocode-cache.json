@@ -83,6 +83,10 @@
     "lat": 33.52068,
     "lng": -86.80243
   },
+  "boling, tx": {
+    "lat": 29.26249,
+    "lng": -95.9398
+  },
   "box elder county, utah": {
     "lat": 41.35861,
     "lng": -113.21121
@@ -110,6 +114,10 @@
   "calvert, al": {
     "lat": 31.15654,
     "lng": -88.02031
+  },
+  "cartersville, ga": {
+    "lat": 34.16523,
+    "lng": -84.79976
   },
   "cascade, virginia": {
     "lat": 36.56458,
@@ -207,6 +215,10 @@
     "lat": 34.87029,
     "lng": -89.97787
   },
+  "dickens, tx": {
+    "lat": 33.61701,
+    "lng": -100.76141
+  },
   "dickerson, md": {
     "lat": 39.2201,
     "lng": -77.42415
@@ -263,9 +275,17 @@
     "lat": 37.72043,
     "lng": -77.8838
   },
+  "hallam, ne": {
+    "lat": 40.53778,
+    "lng": -96.78725
+  },
   "haskell, tx": {
     "lat": 33.15422,
     "lng": -99.72
+  },
+  "hawesville, ky": {
+    "lat": 37.90006,
+    "lng": -86.75499
   },
   "henderson county, tx": {
     "lat": 32.1826,
@@ -435,6 +455,10 @@
     "lat": 41.25403,
     "lng": -76.79914
   },
+  "munster, in": {
+    "lat": 41.56448,
+    "lng": -87.51254
+  },
   "nashville zoo, nashville, tn": {
     "lat": 36.08812,
     "lng": -86.74138
@@ -522,6 +546,10 @@
   "point pleasant, wv": {
     "lat": 38.84453,
     "lng": -82.13709
+  },
+  "port washington, wi": {
+    "lat": 43.38855,
+    "lng": -87.86928
   },
   "prichard, al": {
     "lat": 30.7388,
@@ -694,6 +722,10 @@
   "wheatfield, in": {
     "lat": 41.19294,
     "lng": -87.05482
+  },
+  "wheatland, wy": {
+    "lat": 42.05442,
+    "lng": -104.95273
   },
   "wytheville, va": {
     "lat": 36.948,
