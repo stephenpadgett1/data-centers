@@ -23,6 +23,10 @@
     "lat": 40.60226,
     "lng": -75.47161
   },
+  "allenwood, pa": {
+    "lat": 41.1086,
+    "lng": -76.89727
+  },
   "alviso, san jose, ca": {
     "lat": 37.42605,
     "lng": -121.97524
@@ -58,6 +62,10 @@
   "bastrop, tx": {
     "lat": 30.05411,
     "lng": -97.38878
+  },
+  "beaver dam, wi": {
+    "lat": 43.45777,
+    "lng": -88.83733
   },
   "beloit, wi": {
     "lat": 42.50833,
@@ -171,6 +179,10 @@
     "lat": 39.52126,
     "lng": -89.28298
   },
+  "city of umatilla, umatilla county, or": {
+    "lat": 45.9163,
+    "lng": -119.34824
+  },
   "cleveland, ohio": {
     "lat": 41.49966,
     "lng": -81.69368
@@ -223,6 +235,14 @@
     "lat": 39.2201,
     "lng": -77.42415
   },
+  "dowagiac, mi": {
+    "lat": 41.98247,
+    "lng": -86.10888
+  },
+  "dubuque county, ia": {
+    "lat": 42.4693,
+    "lng": -90.8742
+  },
   "dubuque, ia": {
     "lat": 42.50062,
     "lng": -90.6648
@@ -251,6 +271,10 @@
     "lat": 38.40401,
     "lng": -96.18162
   },
+  "evanston, wy": {
+    "lat": 41.26825,
+    "lng": -110.96376
+  },
   "fairfield, tx": {
     "lat": 31.7244,
     "lng": -96.16488
@@ -275,9 +299,17 @@
     "lat": 37.72043,
     "lng": -77.8838
   },
+  "grand rapids, mi": {
+    "lat": 42.96324,
+    "lng": -85.66786
+  },
   "hallam, ne": {
     "lat": 40.53778,
     "lng": -96.78725
+  },
+  "hamlet, nc": {
+    "lat": 34.88637,
+    "lng": -79.69721
   },
   "haskell, tx": {
     "lat": 33.15422,
@@ -306,6 +338,10 @@
   "holyoke, ma": {
     "lat": 42.20712,
     "lng": -72.60759
+  },
+  "hood county, tx": {
+    "lat": 32.41076,
+    "lng": -97.82828
   },
   "hutto, tx": {
     "lat": 30.54276,
@@ -370,6 +406,10 @@
   "lansing, ny": {
     "lat": 42.48514,
     "lng": -76.48562
+  },
+  "lawrence county, pa": {
+    "lat": 41.00142,
+    "lng": -80.35007
   },
   "lawrenceburg, tn": {
     "lat": 35.2423,
@@ -491,6 +531,10 @@
     "lat": 69.53351,
     "lng": -153.82207
   },
+  "olyphant, pa": {
+    "lat": 41.46883,
+    "lng": -75.60239
+  },
   "osawatomie, ks": {
     "lat": 38.50161,
     "lng": -94.95219
@@ -575,6 +619,10 @@
     "lat": 31.47488,
     "lng": -96.92433
   },
+  "rochester hills, mi": {
+    "lat": 42.65837,
+    "lng": -83.14993
+  },
   "rockford, il": {
     "lat": 42.27139,
     "lng": -89.09397
@@ -630,6 +678,10 @@
   "socorro, new mexico": {
     "lat": 34.05729,
     "lng": -106.89308
+  },
+  "south elgin, il": {
+    "lat": 41.99419,
+    "lng": -88.2923
   },
   "south whitehall township, pa": {
     "lat": 40.61001,
@@ -687,6 +739,10 @@
     "lat": 35.29919,
     "lng": -119.3584
   },
+  "turkey, tx": {
+    "lat": 34.39392,
+    "lng": -100.89408
+  },
   "tyler, tx": {
     "lat": 32.35126,
     "lng": -95.30106
@@ -694,6 +750,10 @@
   "tysons, va": {
     "lat": 38.91913,
     "lng": -77.22296
+  },
+  "umatilla, or": {
+    "lat": 45.6417,
+    "lng": -118.76711
   },
   "upper merion township, pennsylvania": {
     "lat": 40.08602,
@@ -711,6 +771,10 @@
     "lat": 31.54919,
     "lng": -97.14746
   },
+  "walla walla county, wa": {
+    "lat": 46.20552,
+    "lng": -118.51743
+  },
   "west feliciana parish, la": {
     "lat": 30.88427,
     "lng": -91.40167
@@ -726,6 +790,10 @@
   "wheatland, wy": {
     "lat": 42.05442,
     "lng": -104.95273
+  },
+  "wrightsville, ar": {
+    "lat": 34.60232,
+    "lng": -92.21681
   },
   "wytheville, va": {
     "lat": 36.948,

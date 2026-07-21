@@ -3184,5 +3184,275 @@
     "summary": "Building on Sabey Data Centers' Intergate.Columbia (SDC Columbia) campus at 4405 Grant Road, East Wenatchee, WA \u2014 hydro-powered multi-tenant colocation with ~70 MW under power.",
     "source": "claude",
     "classified_on": "2026-07-19"
+  },
+  "osm/way/1161730862": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Very large unnamed building (~1.5M sq ft) sitting within Amazon's IAD120/121/122 cluster in Sterling, VA (nearest named AWS building 60 m away) - classified as an AWS Northern Virginia data center from campus adjacency.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/460056018": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Large unnamed building (~710k sq ft) immediately adjacent (40 m) to Amazon IAD57/IAD58 in the Sterling/Ashburn corridor - classified as an AWS data center from campus adjacency.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1521913706": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed Herndon, VA building ~180 m from Amazon IAD-500/IAD-501 - part of the same AWS Herndon campus; classified from campus adjacency.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1521913707": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed Herndon, VA building ~130 m from Amazon IAD-500/IAD-501 - part of the same AWS Herndon campus; classified from campus adjacency.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1287260559": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building in the Manassas, VA corridor ~280 m from Amazon IAD130/IAD131 - classified as an AWS campus building from adjacency.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1482076328": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building ~150-270 m from Amazon IAD73/IAD74/IAD601 (Manassas/Gainesville, VA cluster) - classified as an AWS campus building from adjacency.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/844374689": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building 110 m from the Google-operated Stonewall Creek Business Park buildings near Leesburg, VA - classified as part of Google's Leesburg campus from adjacency.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1460776174": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~300k sq ft building ~400 m from Google's Stonewall Creek Business Park / Google Data Center near Leesburg, VA - likely a newer building of the same Google campus (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1460776170": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed building ~500-600 m from Google's Leesburg, VA (Stonewall Creek) data center buildings - likely part of the same Google campus buildout (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1460776171": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed building ~600 m from Google's Leesburg, VA (Stonewall Creek) data center buildings - likely part of the same Google campus buildout (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1443922527": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed building ~800 m from Google's Leesburg, VA (Stonewall Creek) campus in a corridor dominated by that campus - tentatively classified as Google (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1022757170": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~385k sq ft building 20 m from a CyrusOne-operated facility in Sterling, VA (next to Centersquare IAD2) - classified as part of the CyrusOne Sterling campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1426146790": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building ~300 m from CyrusOne's Aurora, IL campus (Chicago-Aurora CME site) - classified as part of the CyrusOne Aurora colocation campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1343761104": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building 40 m from CyrusOne Quincy (WA) - classified as part of the CyrusOne Quincy colocation campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1226436454": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building 20 m from CyrusOne OCB1 in Council Bluffs, IA - classified as part of the CyrusOne Council Bluffs colocation campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1484435248": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building ~240 m from CyrusOne Allen (Dallas metro, TX) - classified as part of the CyrusOne Allen colocation campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/283051469": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building ~230 m from Sabey's Intergate.Quincy campus in Quincy, WA - classified as an Intergate.Quincy colocation building.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/283051471": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building 90 m from Sabey's Intergate.Quincy campus in Quincy, WA - classified as an Intergate.Quincy colocation building.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1193914602": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building 140 m from Sabey's Intergate.Quincy campus in Quincy, WA - classified as an Intergate.Quincy colocation building.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/708916484": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building ~180 m from Sabey Intergate.Ashburn Building A (Ashburn, VA, near DataBank IAD1 and Equinix DC13) - classified as part of Sabey's Ashburn colocation campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/283051478": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building 90 m from the Yahoo Data Center in Quincy, WA - classified as part of Yahoo's captive Quincy campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/499403699": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building ~190 m from the Yahoo Data Center in Quincy, WA - classified as part of Yahoo's captive Quincy campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/807374322": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~217k sq ft building ~570 m from multiple Microsoft-operated buildings on the west side of Quincy, WA - likely part of Microsoft's Quincy campus buildout (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/451491797": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~151k sq ft building 30 m from the CoreSite Secaucus campus (NY3) in Secaucus, NJ - classified as part of CoreSite's New York-market colocation campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1510517637": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed building ~210 m from Iron Mountain VA-4/VA-5 in Manassas, VA - classified as part of Iron Mountain's Manassas colocation campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1177794153": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~142k sq ft building ~290 m from the QTS Irving (Dallas) data center campus, its only named data-center neighbor - classified as part of the QTS Irving campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1344901568": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building 130 m from the Sentinel Data Centers wholesale colocation site in Ashburn, VA (sibling building already classified as Sentinel) - classified as part of the same campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1344901567": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed building 20 m from the Sentinel Data Centers wholesale colocation site in Ashburn, VA (sibling building already classified as Sentinel) - classified as part of the same campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/744177375": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~127k sq ft building 60 m from Stream Data Centers' Houston (The Woodlands, TX) site - classified as part of the Stream Data Centers campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
+  },
+  "osm/way/1219083552": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~110k sq ft building ~280 m from T5 Chicago II in the Elk Grove Village, IL data center cluster - classified as part of the T5 campus.",
+    "source": "claude",
+    "classified_on": "2026-07-21"
   }
 }
