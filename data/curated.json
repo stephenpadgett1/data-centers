@@ -1899,17 +1899,19 @@
       "lng": -83.01434,
       "city": "Piketon",
       "state": "OH",
-      "status": "planned",
+      "status": "under_construction",
       "capacity_mw": 10000,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
-      "confidence": "low",
-      "summary": "OpenAI is reportedly in advanced talks to lease a proposed ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. Nvidia is reportedly supplying chips and backing the financing; a first ~800 MW phase is targeted for 2028, supported by ~9.2 GW of new on-site natural gas generation. Very early-stage / speculative. Coordinates approximate.",
+      "confidence": "medium",
+      "summary": "A ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. DOE announced the partnership in March 2026 and ground was broken that month; SB Energy has committed to ~10 GW of new on-site generation (at least 9.2 GW natural gas), with a first ~800 MW data center phase targeted for early 2028 at a reported $30–40B initial cost. OpenAI is reportedly in advanced talks to lease the campus as anchor tenant, with Nvidia supplying hardware and backing the financing. Full 10 GW build-out targeted around 2030. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/openai-in-talks-to-lease-10gw-data-center-from-sb-energy-in-ohio/",
-        "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html"
+        "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html",
+        "https://www.energy.gov/em/articles/partnership-ensures-affordable-energy-powers-ai-future-portsmouth-site",
+        "https://sciotovalleyguardian.com/2026/03/20/piketon-set-to-become-ground-zero-for-new-energy-megasite/"
       ]
     },
     {
@@ -3757,6 +3759,191 @@
       "sources": [
         "https://wwmt.com/news/local/dowagiac-data-center-neighbor-concerns-grow-alongside-announced-expansion-active-lawsuit-cass-county-michigan",
         "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSlZiU19mbXlMRDRJTTJLSmdyMW5sc2d2ZmhGcG9DS2IyT1ZzSTlSWl9JN1RGYWhmLUFZWmlFTUd6OFk1VlF0a3hhUi1TZGw1dmpIRVFqWHhRTmFvSWFNa09GQ3JpWFBrdVluR2RwdmJnWWVlVk1xVzJDRl85UTRyMk1YSlItTlNfOHVhRWF6RXhNYnpUQXVORkdtQ3pQVFlaSXY4TE1zTElxRzgxYXpQdzdZYTE1WG1MeFFYTHNhbmdlcVdMQ0U4LTNsSTNSdDVQR1VPTkVlbFVGN2F0anBsYVpnRXE1QnRk?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/effingham-county-ga-openai-197",
+      "name": "OpenAI 'Project Camellia' — Effingham County (Rincon)",
+      "operator": "OpenAI",
+      "lat": 32.29603,
+      "lng": -81.23539,
+      "city": "Rincon",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": 3200,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center.",
+      "website": null,
+      "sources": [
+        "https://www.gpb.org/news/2026/07/22/openai-plans-build-20b-data-center-campus-in-effingham-county-it-could-be-georgias",
+        "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/",
+        "https://www.effinghamherald.net/local/openai-plans-20b-data-center-in-effingham-county-rincon-georgia/"
+      ]
+    },
+    {
+      "id": "curated/news/savannah-river-site-sc-dcblox-198",
+      "name": "DC BLOX federal AI campus — Savannah River Site",
+      "operator": "DC BLOX (DOE/NNSA consortium)",
+      "lat": 33.42153,
+      "lng": -81.68567,
+      "city": "New Ellenton",
+      "state": "SC",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "A ~1 GW AI data center campus with ~2 GW of dedicated on-site power generation proposed at the Department of Energy's Savannah River Site near Aiken, SC. In July 2026 the DOE's National Nuclear Security Administration selected a development consortium with DC BLOX as digital-infrastructure partner, part of the federal initiative to site AI and energy infrastructure on federal land. Early-stage; coordinates approximate (SRS northern boundary).",
+      "website": null,
+      "sources": [
+        "https://datacenterpost.com/dc-blox-selected-for-landmark-federal-ai-and-energy-infrastructure-initiative/",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aS2xmN2FaWHZMVUdQUkF5eTk4UVhqRURNLTYzOEZURUhjbWxiS0paZTdlYjlocGZFVkpYZ2RDT21GbXdXUXBsWkhKUkRvN2JyZmNtRGVvVDFSbHpncXlqODl4OGliTHN3dFRMdmFiVDVKZkZpTjVtVU9ZUdIBe0FVX3lxTFBqX0cydTNJcUI0SHMtRWR5TXg0ZlJLRlNwZnowZXU5TmYyMS1qR210NTRSbmdwQW0zNkx2ZW1UNVFwSHNqTHZ3V0NPc3p0OTVHaTR2YTdBR1k4WElYUlUxUWgtMkk5OU1uRXU1SzM4WFdQdU5OVFZ0dm9Pcw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/russell-ky-rubix-199",
+      "name": "Rubix Data Centers — former AK Steel Ashland Works (Russell)",
+      "operator": "Rubix Data Centers (Submer Group)",
+      "lat": 38.5173,
+      "lng": -82.69766,
+      "city": "Russell",
+      "state": "KY",
+      "status": "planned",
+      "capacity_mw": 2000,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Barcelona-based Submer Group's Rubix Data Centers platform proposes a ~2 GW hyperscale AI data center on the brownfield site of the former AK Steel (Armco) Ashland Works, roughly 70% within the city of Russell in Greenup County, in northeastern Kentucky — the firm's first US project, announced July 2026. Reported investment of ~$8–12B (Louisville Business First reported ~$9.6B across ~550 acres). Subject to local approvals; Rubix has told Russell officials the decision is 'ultimately up to you.' Distinct from TeraWulf's EastPark campus in adjacent Boyd County.",
+      "website": "https://rubixdc.com/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/submers-rubix-data-centers-proposes-2gw-data-center-at-former-steelworks-in-kentucky/",
+        "https://kentuckylantern.com/2026/07/22/developer-proposes-hyperscale-data-center-at-the-site-at-former-eastern-kentucky-steel-mill/"
+      ]
+    },
+    {
+      "id": "curated/news/pittsburg-ca-perseus-200",
+      "name": "'Perseus' data center — Pittsburg",
+      "operator": null,
+      "lat": 38.02677,
+      "lng": -121.88539,
+      "city": "Pittsburg",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": 99,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~99 MW data center project code-named 'Perseus' planned on the city's former municipal golf course site (slated to become a business and technology park) in Pittsburg, Contra Costa County, California — the city's first major data center. The city moved the project forward in mid-2026 amid strong resident opposition over energy, noise and water use.",
+      "website": null,
+      "sources": [
+        "https://www.cbsnews.com/sanfrancisco/news/planned-data-center-in-pittsburg-brings-residents-out-in-force-in-opposition/",
+        "https://ccpulse.org/2026/06/02/pittsburg-moves-forward-with-first-major-data-center-project/"
+      ]
+    },
+    {
+      "id": "curated/news/tucker-county-wv-201",
+      "name": "Proposed data center development — Tucker County",
+      "operator": null,
+      "lat": 39.12873,
+      "lng": -79.46476,
+      "city": "Davis",
+      "state": "WV",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center development proposed on land in Tucker County, West Virginia (near Davis/Thomas), where advocates are pressing to learn who owns the land assembled for the project. Early-stage and locally contested. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEpzTVdYdEpqalhQX1V4YXA0bzVodnZKTk13dDRXbXNJWkYtVHZncUdwRmlCNHBVUTNwdXk4ZmcwbWRsZlk4VlpjWWU1SzNPM3I2VmtlNE5WaWZ5X0J1eXdVTmRHdzZDNXZFNmhUQkNPd201dTY3NmNsd3dyczEzWEFNZWRNWnhYSGVPNTB5YVdGUElMUDFCM213b0dza0h0N2N4OS01TkxaUzRKYW9jVENRd2VGZ3BrUlZOc3d1YTNqTlBJV0pWX21BVTl6N1VVSGJiVnZ3?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/mccormick-county-sc-202",
+      "name": "Proposed data center — McCormick County",
+      "operator": null,
+      "lat": 33.87953,
+      "lng": -82.27977,
+      "city": "McCormick",
+      "state": "SC",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in McCormick County, South Carolina (northwest of Augusta), drawing pushback from residents. Early-stage; details still emerging. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFdDR2pkZGpOVWtUUFptVlh0VXNDT3BnUmpXbHRpcVlFc3dRVUxHYzA1cllRZGVVN3ViTFVabEtSbmJIUUR3aXNjWW55WnUtSTFiUHpLam1QRW1KOUlQbW1SemJBNGlsTFIza20xaXVncWRLSGtkdEpaV0hkRXNmWlRNQi02Qmt6bU9IV0dNaEY4d9IBpgFBVV95cUxPT3BzTDByREhLN0t4ZUZ1elNtUnA5eFJwclpMdW5vcGlkSEZRdnU2ZVgxSGFvajVrZ0RCd0lFWS0wZDE1RkdPMUh2OGo1a09LWnR4VHBaMU1vcFBaSE9QVFdfUElaczRfOTZwblE4VFBvdDB6T3hhaEg2bEJ0X0pZTGdPQVQ1UEgyOGNvY1pIdkk0RFdZV2lBSVFaWHpxY3R4b05Ga2N3?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/fairfield-al-203",
+      "name": "Proposed data center — Fairfield",
+      "operator": null,
+      "lat": 33.49168,
+      "lng": -86.91503,
+      "city": "Fairfield",
+      "state": "AL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed in Fairfield, Alabama (Birmingham metro), where a city councilor has urged residents to keep an open mind amid regional data-center controversy. Early-stage; distinct from the Nebius Oxmoor Valley and QTS Bessemer projects nearby.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcU5PSjVCUzFKQy0tVC1wcXhSRlhPYmlocER4RmdqYUQ2NXdMNkl4bE9VUkJiVktmT0tWbnhuR3dsZFB6TXRCaGl2dVpsdVRTbmVRZVVNNVBIR0UzSEl1NXktVU9HTl9DdW9RSkJ1aVJZOVE3ZDV4cS11aVU0S2hqU1ZEZU5QNEJuMG53OW45a05zWUtqb1plem1SaVM5WldwMHRlS1VSZDdnODk5dl9zNktqbzd5RUJrZDhERERLNmpBY2s3VWhVR0dB?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/mifflin-county-pa-204",
+      "name": "Proposed data center — Mifflin County",
+      "operator": null,
+      "lat": 40.59924,
+      "lng": -77.57138,
+      "city": "Lewistown",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center whose plans were filed in Mifflin County, Pennsylvania in July 2026, days before a planned county moratorium vote on data-center development. Early-stage. Coordinates approximate (county seat).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnIxVmNibGRIaXFxaUxhNko0Q0E3RGRweHFUb180YWpHWUsyWmJDQUtTc0hQWWZ4SVd4dHl0SGkxVmtiYjlqaUNaa2JlQlZjUHloMmE1bUVHd0VaOXRkS05hVlN1ZFRVa2FuMTQxT0VXSEhwZUZWNDlPSnFqNmkydmE4aHIyQzBRYm1HNGZvOEI3Wkw5WlU4d3dKSWJaVE01SUFZd2hfTTktRzVuaTBWOWZR0gG3AUFVX3lxTE5tVFBfSUJpdkRSa1JZNEhJNktuREduRUY4a1VmU0NFMWhtSnR5Zml0XzV0UTEyc1ZiN29hYkpQTmZPQUJMTk5HUkdsMHkwTmREaFJSYWhHNzZkby1nWTF0YWVTUTZhSXA4RnAzU1N0eWpJOVVnMGxVaUg5Rlg0cjd2T2t6Y0I4Y09JSDZqR0V5Qk05S1Z1dmE2OTlVRVU1aVpXajBNdlBkZmZ3ZlV1V1VZREt1VkpLbw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/limerick-pa-205",
+      "name": "Proposed AI data center — Limerick",
+      "operator": null,
+      "lat": 40.23093,
+      "lng": -75.52212,
+      "city": "Limerick",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "An AI data center proposed in Limerick Township, Montgomery County, Pennsylvania, subject of a contested July 2026 public hearing with planned protests. Early-stage. Coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkZ0UVExa3JmLVhNbHI1WVNHTkN4MFJxT3o4UEt5bmI2cmEzbl9DSllTMEQ1d3NjX21XZjY0LWkzTl9la05MNUF4TndLZnczeWc2ZzVrQnJfcmxLaWlhZHhuQWF1UEU1dXdPUU9fYjBnWlA5dGk5S3RCX2tJUFRkX1RDdUN6X0VHMFE0a2I0WFk2ODBkd0RoamtDbHdJcWFaRVMw0gG8AUFVX3lxTE9ERVJoajA4dGR4aGlxQkU0QzBOeC1jNlhEUWZQYl9MX25FdlMySEdDYzl5RFRYTU5Oa0pvZXFRVDdIYWMwVGFMTmpaU1R2YzlyYndVdXFrcmNYVXJBSTFMVm1PUTZsWVI3S2lqQjJLZng1ZEVKVFhqTktiNVFtTjYxR0dVX280aTNYNTFHR3RvcFdYMmstXzZKdnB0bzNNSTlIUTRianV0SHhaRVRNbk14Y01rT3Q5MGdVcFRy?oc=5"
       ]
     }
   ]

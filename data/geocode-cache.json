@@ -219,6 +219,10 @@
     "lat": 36.58799,
     "lng": -79.39167
   },
+  "davis, wv": {
+    "lat": 39.12873,
+    "lng": -79.46476
+  },
   "de soto, ks": {
     "lat": 38.97917,
     "lng": -94.96858
@@ -274,6 +278,10 @@
   "evanston, wy": {
     "lat": 41.26825,
     "lng": -110.96376
+  },
+  "fairfield, al": {
+    "lat": 33.49168,
+    "lng": -86.91503
   },
   "fairfield, tx": {
     "lat": 31.7244,
@@ -423,9 +431,17 @@
     "lat": 40.37571,
     "lng": -76.46261
   },
+  "lewistown, pa": {
+    "lat": 40.59924,
+    "lng": -77.57138
+  },
   "liberty, mo": {
     "lat": 39.24648,
     "lng": -94.41908
+  },
+  "limerick, pa": {
+    "lat": 40.23093,
+    "lng": -75.52212
   },
   "little rock, ar": {
     "lat": 34.74651,
@@ -479,6 +495,10 @@
     "lat": 34.9335,
     "lng": -95.76979
   },
+  "mccormick, sc": {
+    "lat": 33.87953,
+    "lng": -82.27977
+  },
   "mcminnville, tn": {
     "lat": 35.6834,
     "lng": -85.76998
@@ -510,6 +530,10 @@
   "nassau county, fl": {
     "lat": 30.66243,
     "lng": -81.77073
+  },
+  "new ellenton, sc": {
+    "lat": 33.42153,
+    "lng": -81.68567
   },
   "new florence, mo": {
     "lat": 38.91032,
@@ -575,6 +599,10 @@
     "lat": 36.76203,
     "lng": -83.69492
   },
+  "pittsburg, ca": {
+    "lat": 38.02677,
+    "lng": -121.88539
+  },
   "pittsylvania county, virginia": {
     "lat": 36.81217,
     "lng": -79.43641
@@ -619,6 +647,10 @@
     "lat": 31.47488,
     "lng": -96.92433
   },
+  "rincon, ga": {
+    "lat": 32.29603,
+    "lng": -81.23539
+  },
   "rochester hills, mi": {
     "lat": 42.65837,
     "lng": -83.14993
@@ -634,6 +666,10 @@
   "rural hall, nc": {
     "lat": 36.24042,
     "lng": -80.29338
+  },
+  "russell, ky": {
+    "lat": 38.5173,
+    "lng": -82.69766
   },
   "salem, or": {
     "lat": 44.93916,
