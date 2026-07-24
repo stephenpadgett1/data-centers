@@ -35,6 +35,14 @@
     "lat": 42.02676,
     "lng": -93.61704
   },
+  "appling, columbia county, ga": {
+    "lat": 33.5585,
+    "lng": -82.32092
+  },
+  "appling, ga": {
+    "lat": 31.77714,
+    "lng": -82.29963
+  },
   "arcadia, fl": {
     "lat": 27.21588,
     "lng": -81.85842
@@ -319,6 +327,10 @@
     "lat": 34.88637,
     "lng": -79.69721
   },
+  "hanford, ca": {
+    "lat": 36.3278,
+    "lng": -119.64616
+  },
   "haskell, tx": {
     "lat": 33.15422,
     "lng": -99.72
@@ -378,6 +390,10 @@
   "inyokern, california": {
     "lat": 35.65205,
     "lng": -117.81766
+  },
+  "jenkins, ky": {
+    "lat": 37.17344,
+    "lng": -82.63099
   },
   "johnson county, ks": {
     "lat": 38.88379,
@@ -626,6 +642,10 @@
   "prichard, al": {
     "lat": 30.7388,
     "lng": -88.07889
+  },
+  "ransom, pa": {
+    "lat": 41.39425,
+    "lng": -75.82186
   },
   "rapides parish, la": {
     "lat": 31.17199,
