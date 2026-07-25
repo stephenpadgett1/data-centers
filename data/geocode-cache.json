@@ -315,6 +315,10 @@
     "lat": 37.72043,
     "lng": -77.8838
   },
+  "graham, tx": {
+    "lat": 33.10643,
+    "lng": -98.59038
+  },
   "grand rapids, mi": {
     "lat": 42.96324,
     "lng": -85.66786
@@ -446,6 +450,10 @@
   "lebanon county, pa": {
     "lat": 40.37571,
     "lng": -76.46261
+  },
+  "letcher county, ky": {
+    "lat": 37.12088,
+    "lng": -82.84517
   },
   "lewistown, pa": {
     "lat": 40.59924,
@@ -778,6 +786,10 @@
   "taylorville, il": {
     "lat": 39.54875,
     "lng": -89.29415
+  },
+  "temple, tx": {
+    "lat": 31.09837,
+    "lng": -97.34296
   },
   "texarkana, tx": {
     "lat": 33.44667,

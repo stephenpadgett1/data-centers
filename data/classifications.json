@@ -3454,5 +3454,68 @@
     "summary": "Unnamed ~110k sq ft building ~280 m from T5 Chicago II in the Elk Grove Village, IL data center cluster - classified as part of the T5 campus.",
     "source": "claude",
     "classified_on": "2026-07-21"
+  },
+  "osm/way/186515922": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building on Google's Lenoir, NC data center campus (reverse-geocodes to 'Google Lenoir Data Center', Caldwell County) \u2014 one of Google's longest-running US data center sites, operating since 2008.",
+    "source": "claude",
+    "classified_on": "2026-07-25"
+  },
+  "osm/way/1088241982": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "~150k sq ft facility on Uunet Drive on the Verizon Business campus in Ashburn, VA \u2014 the former UUNET/MCI complex on Loudoun County Parkway, a major Verizon network and data center site.",
+    "source": "claude",
+    "classified_on": "2026-07-25"
+  },
+  "osm/way/1540172612": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building on Meta's Huntsville, AL data center campus in the North Huntsville Industrial Park off Monroe Road \u2014 a $1.5B+ campus opened from 2018 onward and expanding toward ~3.5M sq ft.",
+    "source": "claude",
+    "classified_on": "2026-07-25"
+  },
+  "osm/way/1540172608": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building on Meta's Huntsville, AL data center campus in the North Huntsville Industrial Park off Monroe Road \u2014 a $1.5B+ campus opened from 2018 onward and expanding toward ~3.5M sq ft.",
+    "source": "claude",
+    "classified_on": "2026-07-25"
+  },
+  "osm/way/283051475": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Large data center building on Road 11 NW in Quincy, WA at the corner matching Sabey Data Centers' Intergate.Quincy multi-tenant campus (built 2011\u20132014 on cheap Grant County hydro power).",
+    "source": "claude",
+    "classified_on": "2026-07-25"
+  },
+  "osm/way/283051470": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Large data center building on Road 11 NW in Quincy, WA at the corner matching Sabey Data Centers' Intergate.Quincy multi-tenant campus (built 2011\u20132014 on cheap Grant County hydro power).",
+    "source": "claude",
+    "classified_on": "2026-07-25"
+  },
+  "osm/way/1015258645": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Stream Data Centers' Chaska, MN campus (Minneapolis I/II, 1706\u20131708 West Creek Lane) \u2014 Tier III-design multi-tenant and build-to-suit colocation facilities; OSM's 'StreamData Center' matches Stream's MSPA1 site.",
+    "source": "claude",
+    "classified_on": "2026-07-25"
   }
 }

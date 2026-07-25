@@ -2069,12 +2069,12 @@
       "city": "Goochland",
       "state": "VA",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 900,
       "operator_type": "colocation",
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Denver-based data center land developer Tract has filed for Tuckahoe Technology Park, a multi-phase campus of roughly 12 data center buildings on nearly 900 acres just west of West Creek Business Park in eastern Goochland County — the first project proposed under the county's new technology overlay district. In late June 2026 Tract filed a formal permit request covering ~871 acres. Tract typically prepares land/power then sells to operators. Early-stage and contested; coordinates approximate (county seat).",
+      "summary": "Denver-based data center land developer Tract has filed for Tuckahoe Technology Park, a multi-phase campus of roughly 12 data center buildings on nearly 900 acres just west of West Creek Business Park in eastern Goochland County — the first project proposed under the county's new technology overlay district. In late June 2026 Tract filed a formal permit request covering ~871 acres. Tract typically prepares land/power then sells to operators. Early-stage and contested; coordinates approximate (county seat). Reported at ~900 MW planned capacity in July 2026 coverage of community concerns.",
       "website": null,
       "sources": [
         "https://richmondbizsense.com/2026/06/11/tuckahoe-tech-park-data-center-campus-planned-on-900-acre-tract-in-goochland/",
@@ -3944,6 +3944,130 @@
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkZ0UVExa3JmLVhNbHI1WVNHTkN4MFJxT3o4UEt5bmI2cmEzbl9DSllTMEQ1d3NjX21XZjY0LWkzTl9la05MNUF4TndLZnczeWc2ZzVrQnJfcmxLaWlhZHhuQWF1UEU1dXdPUU9fYjBnWlA5dGk5S3RCX2tJUFRkX1RDdUN6X0VHMFE0a2I0WFk2ODBkd0RoamtDbHdJcWFaRVMw0gG8AUFVX3lxTE9ERVJoajA4dGR4aGlxQkU0QzBOeC1jNlhEUWZQYl9MX25FdlMySEdDYzl5RFRYTU5Oa0pvZXFRVDdIYWMwVGFMTmpaU1R2YzlyYndVdXFrcmNYVXJBSTFMVm1PUTZsWVI3S2lqQjJLZng1ZEVKVFhqTktiNVFtTjYxR0dVX280aTNYNTFHR3RvcFdYMmstXzZKdnB0bzNNSTlIUTRianV0SHhaRVRNbk14Y01rT3Q5MGdVcFRy?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/columbia-county-ga-google-206",
+      "name": "Google data center — White Oak Park, Columbia County (Appling)",
+      "operator": "Google",
+      "lat": 33.5585,
+      "lng": -82.32092,
+      "city": "Appling",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Columbia County officials announced Google as the sole end-user and operator of the planned ~8 million sq ft, $11B+ data center campus at the White Oak Park property in Appling, GA (northwest of Augusta). Plans for the site were first filed in 2025; the July 2026 announcement came alongside a Georgia Power partnership and new county data-center development standards. Six substations planned. Coordinates approximate (Appling).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/google-announced-as-end-user-of-8-million-sq-ft-data-center-in-columbia-georgia/",
+        "https://theaugustapress.com/google-will-be-the-end-user-of-appling-data-center-columbia-county-commissioners-and-development-authority-announce/",
+        "https://www.wjbf.com/csra-news/columbia-county-google-georgia-power-announce-partnership-on-data-center-restrictions/"
+      ]
+    },
+    {
+      "id": "curated/news/graham-tx-saltworks-207",
+      "name": "Stream 'Project Saltworks' — Graham",
+      "operator": "Stream Data Centers",
+      "lat": 33.10643,
+      "lng": -98.59038,
+      "city": "Graham",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Stream Data Centers has proposed 'Project Saltworks', an ~867-acre data center campus in Graham, TX (Young County), reported July 2026. Early-stage; capacity and timeline not yet public. Coordinates approximate (Graham).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/stream-proposes-867-acre-project-saltworks-data-center-in-graham-texas/"
+      ]
+    },
+    {
+      "id": "curated/news/ransom-township-pa-208",
+      "name": "Proposed ~930-acre data center — Ransom Township",
+      "operator": null,
+      "lat": 41.39425,
+      "lng": -75.82186,
+      "city": "Ransom Township",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A developer is eyeing a ~930-acre data center campus in Ransom Township, PA (Lackawanna County, northwest of Scranton), and bought a 530-acre parcel in late July 2026. Very early-stage; no operator or capacity disclosed. Coordinates approximate (Ransom).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/developer-eyes-930-acre-data-center-in-ransom-township-pennsylvania/"
+      ]
+    },
+    {
+      "id": "curated/news/hanford-ca-global-stack-209",
+      "name": "Proposed 'Global Stack' data center — Hanford",
+      "operator": null,
+      "lat": 36.3278,
+      "lng": -119.64616,
+      "city": "Hanford",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center (the 'Global Stack' project) at the Kings County Fairgrounds in Hanford, CA. At a packed July 21, 2026 city council meeting, 29 speakers opposed it over water, power and noise, and the mayor said the city had not been consulted on the proposal. Very early-stage and contested. Coordinates approximate (Hanford).",
+      "website": null,
+      "sources": [
+        "https://hanfordsentinel.com/business/proposed-data-center-draws-heated-crowd-at-hanford-city-council-meeting/article_04a283c0-72cc-4118-9215-1ff3a42ca0d1.html"
+      ]
+    },
+    {
+      "id": "curated/news/letcher-county-ky-gateway-210",
+      "name": "Proposed off-grid data center — Gateway Business Park (Letcher County)",
+      "operator": null,
+      "lat": 37.17344,
+      "lng": -82.63099,
+      "city": "Jenkins",
+      "state": "KY",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "The Appalachian Industrial Development Authority has an agreement with Diversified Gas and Oil and Maverick Holdings covering ~100 acres at the Gateway Business Park near Jenkins in Letcher County, KY, for a potential off-grid data center with on-site power generation. Feasibility and engineering work is ongoing; no end user identified yet. Very early-stage. Coordinates approximate (Jenkins).",
+      "website": null,
+      "sources": [
+        "https://www.wymt.com/2026/07/17/proposed-off-grid-data-center-eyeing-letcher-co-industrial-park/",
+        "https://www.datacenterdynamics.com/en/news/off-grid-data-center-proposed-for-letcher-county-kentucky-report/"
+      ]
+    },
+    {
+      "id": "curated/news/temple-tx-meta-211",
+      "name": "Meta data center — Temple",
+      "operator": "Meta",
+      "lat": 31.09837,
+      "lng": -97.34296,
+      "city": "Temple",
+      "state": "TX",
+      "status": "operational",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Meta's Temple data center — a ~900,000 sq ft hyperscale campus at 3101 Industrial Blvd (393 acres off NW H K Dodgen Loop) announced in 2022 — began operations July 22, 2026, a ~$1.2B investment supporting Meta's AI and app workloads. Coordinates approximate (Temple city center).",
+      "website": "https://datacenters.atmeta.com/asset/temple-data-center-one-pager/",
+      "sources": [
+        "https://www.kwtx.com/2026/07/22/meta-goes-live-temple-with-12-billion-ai-data-center/",
+        "https://www.datacenterdynamics.com/en/news/meta-starts-operations-at-data-center-in-temple-texas/"
       ]
     }
   ]
