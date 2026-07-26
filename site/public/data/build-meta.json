@@ -1,12 +1,12 @@
 {
-  "built_at": "2026-07-25T09:43:03-07:00",
-  "refreshed_date": "2026-07-25",
-  "total": 1952,
-  "from_osm": 1756,
+  "built_at": "2026-07-26T11:34:28-07:00",
+  "refreshed_date": "2026-07-26",
+  "total": 1953,
+  "from_osm": 1757,
   "from_curated": 196,
   "by_status": {
     "planned": 155,
-    "operational": 1734,
+    "operational": 1735,
     "under_construction": 63
   },
   "by_type": {
@@ -16,7 +16,7 @@
     "hyperscaler": 659,
     "government": 16,
     "telecom": 97,
-    "education": 22,
+    "education": 23,
     "crypto": 27
   },
   "total_capacity_mw": 74853,
