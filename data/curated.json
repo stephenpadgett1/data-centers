@@ -15,7 +15,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.6 GW live by mid-2026, with the remaining buildings running behind their original schedule) and Crusoe topped out the final building, with construction of the remaining buildings now expected to run into early 2027; in June 2026 Crusoe declared the campus officially live serving Oracle and OpenAI. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.6 GW live by mid-2026, with the remaining buildings running behind their original schedule) and Crusoe topped out the final building, with construction of the remaining buildings now expected to run into early 2027; in June 2026 Crusoe declared the campus officially live serving Oracle and OpenAI. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US. In March 2026 OpenAI scrapped a planned ~600 MW expansion (to avoid mixing Blackwell with the forthcoming Vera Rubin generation on one site), capping the campus at ~1.2 GW; roughly half of the eight buildings were operational by mid-2026.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
@@ -23,7 +23,8 @@
         "https://www.datacenterdynamics.com/en/news/oracleopenai-drop-plans-to-expand-flagship-abilene-stargate-site-meta-in-talks-to-pick-up-crusoe-capacity-with-nvidias-help/",
         "https://www.datacenterdynamics.com/en/news/crusoe-tops-out-final-building-at-openai-stargate-data-center-campus-in-abilene-texas/",
         "https://www.datacenterdynamics.com/en/news/crusoes-abilene-data-center-officially-live-serving-oracle-and-openais-stargate/",
-        "https://www.datacenterknowledge.com/ai-data-centers/stargate-update-ai-s-biggest-data-center-buildout-meets-reality"
+        "https://www.datacenterknowledge.com/ai-data-centers/stargate-update-ai-s-biggest-data-center-buildout-meets-reality",
+        "https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion"
       ]
     },
     {
@@ -1905,13 +1906,14 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "A ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. DOE announced the partnership in March 2026 and ground was broken that month; SB Energy has committed to ~10 GW of new on-site generation (at least 9.2 GW natural gas), with a first ~800 MW data center phase targeted for early 2028 at a reported $30–40B initial cost. OpenAI is reportedly in advanced talks to lease the campus as anchor tenant, with Nvidia supplying hardware and backing the financing. Full 10 GW build-out targeted around 2030. Coordinates approximate.",
+      "summary": "A ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. DOE announced the partnership in March 2026 and ground was broken that month; SB Energy has committed to ~10 GW of new on-site generation (at least 9.2 GW natural gas), with a first ~800 MW data center phase targeted for early 2028 at a reported $30–40B initial cost. OpenAI is reportedly close to finalizing a lease of the campus as anchor tenant — a commitment reported at ~$500B over its term — with Nvidia in talks to guarantee ~$250B of the financing (WSJ/NYT, late July 2026). Full 10 GW build-out targeted around 2030. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/openai-in-talks-to-lease-10gw-data-center-from-sb-energy-in-ohio/",
         "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html",
         "https://www.energy.gov/em/articles/partnership-ensures-affordable-energy-powers-ai-future-portsmouth-site",
-        "https://sciotovalleyguardian.com/2026/03/20/piketon-set-to-become-ground-zero-for-new-energy-megasite/"
+        "https://sciotovalleyguardian.com/2026/03/20/piketon-set-to-become-ground-zero-for-new-energy-megasite/",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5"
       ]
     },
     {
@@ -3679,22 +3681,23 @@
     },
     {
       "id": "curated/news/hall-county-tx-193",
-      "name": "Planned $10B data center campus — near Turkey (Hall County)",
-      "operator": null,
+      "name": "QTS / Lancium data center campus — Hall County (near Turkey)",
+      "operator": "QTS (on Lancium campus)",
       "lat": 34.39392,
       "lng": -100.89408,
       "city": "Turkey",
       "state": "TX",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
-      "confidence": "low",
-      "summary": "A ~$10B data center campus reported planned near Turkey in Hall County, in the Texas Panhandle (July 2026). Early-stage; coordinates are the town of Turkey (approximate).",
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "QTS plans to build 11 data centers on a Lancium energy campus near Turkey in Hall County, in the Texas Panhandle — the project behind the ~$10B campus reported in July 2026. Coordinates are the town of Turkey (approximate).",
       "website": null,
       "sources": [
-        "https://abc7amarillo.com/news/local/10-billion-data-center-campus-planned-near-turkey-in-hall-county"
+        "https://abc7amarillo.com/news/local/10-billion-data-center-campus-planned-near-turkey-in-hall-county",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3lwYWtJY1FFLU1KN3VhYnNIT082TTJaQzJVcmplZXJBVkpjR2FKYnBCZUk0Z1FqS19ldDl1ZURGVzRDMWRFSW11MEdMRlEyVHF2eGZFemNRaHptdU93NzZoVUJ2Zm5CUm9UNXE0RzViLVZYT0NGNjcyTmR0aUNDQjRyZjBiMzVpX0pPTmNwZEpIVTg4bHFrY2FvcW1NOUZVbXBnc1JhSmg1bGVqZFdEUw?oc=5"
       ]
     },
     {
@@ -4068,6 +4071,209 @@
       "sources": [
         "https://www.kwtx.com/2026/07/22/meta-goes-live-temple-with-12-billion-ai-data-center/",
         "https://www.datacenterdynamics.com/en/news/meta-starts-operations-at-data-center-in-temple-texas/"
+      ]
+    },
+    {
+      "id": "curated/news/el-paso-tx-meta-212",
+      "name": "Meta / BlackRock $14B AI data center — El Paso",
+      "operator": "Meta / BlackRock (joint venture)",
+      "lat": 31.7601,
+      "lng": -106.48705,
+      "city": "El Paso",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Meta announced (July 28, 2026) a strategic venture with funds managed by BlackRock to develop a ~$14B data center in El Paso, one of Meta's largest financed AI-infrastructure deals. Early-stage; coordinates are the El Paso city center (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMUVfYWxjWVFnZkkxREZUSjl2NG1YaGkwR1FUelRQall3MExWQkdhQTFoY25TUjhaRnY2dUUyeTFMR3lDN3VieVFKaEZsVkxTY2hTVVVWNWJUVGRqN3cyRFN4Tmk0elBINEx2SmprenNmVUpCZlFlZHRNbTdWbmdLeG5EejJDbEdLT0t4YkU3M2pMZlBYbHhnQ3hJc2ZUb1BVYlNza0NNNnVaVWNJNmpKSDlDQ3c5V054UDR1NnQwQ0ZpRkNmbkR6UUpJbmdNMXNaaUlvRHJuOGxQa0NNbnpfbEowVGZIaDBGenh0X3Rpc0t6eDhOQm93c1owQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWpuMGFrU2NCMHJUMFl5aDREMDBSUlY5LS1WVzBuZzRWVkZUQU5yaHUyMkMtUVpzQkZKLUhidDdWSF9WOEhzeVR1UVJ2OW5jcGpQbS0xNFprZkUwZDRUZm5DU2J1Und2Qk5qaUJ2c21yMnRaS3poOS1JN3pkcTlIV084WWxfVVUxaWgyUFFQbURITV9TbS1pTNIBngFBVV95cUxNRFVCT05jU0JxYXF1RkZDTkxNcXJ6SG5meWdNNEhBUXRDdEJJeXRMeW9ZSGYtb1pjYU0zYTM2c194YzBJXzl6T1Jsa3V4Vy1XM1dBTWV5X1drZHBRTENnSzVJSWRnZzJieVJTVzQtWlhhTnlrYWpTSEh2MGV6ek5IVXpfUHdHZU5saUVoVDF2Skp2YlEyNmw5cmlXOW1YZw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/brownsville-tx-213",
+      "name": "Proposed data center — Brownsville",
+      "operator": null,
+      "lat": 25.90243,
+      "lng": -97.49817,
+      "city": "Brownsville",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Brownsville is evaluating a permit for a proposed data center (July 2026). Early-stage; coordinates are the city center (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckRsTUJrWEZacHBKbkh1dmMyN1E0eDdTd29mMnVfTURabF9JS2lKRm9RZHFmbTllbi1zaG4zaFlvbUVyRzFUVjkxdGVzajdFWWhIR1pjcW9ZVDVxRTIxczItQlN6VkRPNmNsSWNxa3BscXlEbnBVMGZJWFZCQTc3VmthNEF2aGFhd2tEV1JvZEs2dTdzYkwzTV93U3FGZ1JJWU840gGoAUFVX3lxTFAxRnJoSjU2dUxWbWFUWFp4Z3VGeTllRXFtZ0lkNjYyczhXeThNUXVmdkxKOXBlS2tvTUh6djRvNlVlNTVISzFIOFE1Y0JLSjFKV3dHNmJxaFJWbGlWNm9sUVh6UmRMeGZIX0ZvTkZvN1E2LURSc01EVFhxMWFQc0FWQ0I5MGlqekpJY2tKUTBXSnRaQkg4bGNaZVJfUEpiUzRaUUZuNG96Sg?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/conshohocken-pa-214",
+      "name": "Proposed data center — Conshohocken (Plymouth Township)",
+      "operator": null,
+      "lat": 40.07388,
+      "lng": -75.30625,
+      "city": "Conshohocken",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed near Conshohocken in Montgomery County, PA is drawing organized opposition from Plymouth Township officials and residents (July 2026). Early-stage; coordinates approximate.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHVsekpKZFlmdHVrLVlaaF81UEJ2WXlwTjZYX256NWwzR1AtY2xHR3ppM1J5dlBWUVdnNUt3MlEwSkZQZW1zS1I0U2pDamxtZTNaZGd6Q1FzSXVEbkxfaG5iM1JKRzByVkVJTFlXcmxfUXNBUUM2UWxhRkFJZ2gwUjZ4aFg3UTRsdlVtTUxDVV9uSGRn?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/oregon-oh-215",
+      "name": "Proposed data center — Oregon (near Toledo)",
+      "operator": null,
+      "lat": 41.64366,
+      "lng": -83.48688,
+      "city": "Oregon",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed data center in Oregon, OH (Toledo suburb) that residents are seeking to halt via a city-charter amendment effort (July 2026). Early-stage and contested; coordinates are the city center (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaG81emoyYWxtUnNraF95cEpKckxLNnhJVTdjWTVyVGtLd1NQZUlaYjY3SU5hUHVhcWVvMDJ2dzdXUC1LMHhmb3VuMkpMRTllcDNTcHlOUzhoLTVaR3pweVFZUWpQRUszbzMyUHh1M1ZqM1A3VGZ6TE8zWl9NaDdFMUhZc0l6WmxuTnFPbkVXMDd5SElPZk5mMURiZmNSOW1oZ0NHVHI4bzIwNFhWSWZaSWZvaFVvRkVCVlFBZTdheS02M1FHV0N0WTVDRGlsNW1XQkk1Q3Q1b0U4TWNkZE9ZVDlrUmY0RDJ6Zk1FQ3F4cnkwZW9IZGozRTlJdjViQlRIYmc?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/kaufman-county-tx-flexential-216",
+      "name": "Flexential Dallas-area campus — Kaufman County",
+      "operator": "Flexential",
+      "lat": 32.60164,
+      "lng": -96.33751,
+      "city": "Kaufman County",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "Flexential announced (July 28, 2026) a new Dallas-area data center campus on 110 acres in Kaufman County, expanding its DFW footprint. Coordinates are the county centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdjg5T3hhd1NnYjZ6c3dDZWFfNGtuTjBYXzVqRlg4MDljTXg2eG5DLUdQWmRkdFBEeFlWZFc2SmJYWXlsRGZtVUpCVGd0ZFZoY1J5M2NRNnlMemN5cnpZUEFEb09LQXpJZk1EdGlNSUx0aTNONWdmaUZfd0RuMjl4Vm1sbXZsUEU3eGVOTDFGZWZVbXhXMUFLUjNPWnd6Q25rUktxclpwQjYzOFVBb0dMT3Z2TWxMek5QWllOcGpMUnFFRmI3YXhYZmFKMWY0SGZ0UFpRV0lrdzg?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/westfield-ma-218",
+      "name": "Proposed $4B data center — Westfield",
+      "operator": null,
+      "lat": 42.12054,
+      "lng": -72.74892,
+      "city": "Westfield",
+      "state": "MA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$4B data center proposed in Westfield, MA facing strong resident opposition (July 2026). Early-stage and contested; coordinates are the city center (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVDJiQ09nSUpkM09DUFIwd1BqVG94MTNkMk1tVVRqdDJPZ3Y5b1I1M3ItaGQtZjdnMHIwRS0zeWljNVByR2pPazNWV0xqWDBnRWZsZEpwR1AyU1pGdDZxUUJsdXpiaThEc05FOUxHR1k3SEFEeFVxLVhzdF8ybkJTUmRrNFBfVHNManI5a082dw?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/lorain-county-oh-219",
+      "name": "Proposed data center campus — Lorain County (industrial conversion)",
+      "operator": null,
+      "lat": 41.36732,
+      "lng": -82.10736,
+      "city": "Lorain County",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A developer proposes converting three Lorain County, OH industrial buildings into a data center campus (July 2026). Early-stage; coordinates approximate (Elyria area).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUmx5eGUyOXFyVmhLVjZVN2NkWGVacEVVemVmcWFoTzFnTUtnU2ZtQXozeWVfSUNhRzV0TVEyWXIwQ1RvR29abEg4Mjc2d3VVSnJ5U0JYQll0SDd2TWRIQkoxLVNscWRvSGwwQlV4RWl0eUpVb1ptazZRNWU2ZWpOSUFMZk0zR1FUYV9Vd192TWQzaFhubnhHY0tycEE4N094RU5QeHRDUWJhbVZIS043N3ZwWXZMamUyVmp2b1k5U2dGTG5YQ2ROOUhUbHJLVmxfMTZ5UThn?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/snyder-tx-energyvault-220",
+      "name": "Energy Vault modular AI data center — Snyder",
+      "operator": "Energy Vault",
+      "lat": 32.71808,
+      "lng": -100.91823,
+      "city": "Snyder",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Battery-storage firm Energy Vault broke ground (July 2026) on its first data center, in Snyder, TX — planned to comprise ten Crusoe Spark modular data center units co-located with its storage assets. Coordinates are the town center (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/bess-firm-energy-vault-breaks-ground-on-first-data-center-in-snyder-texas/"
+      ]
+    },
+    {
+      "id": "curated/news/lovejoy-ga-stillwater-221",
+      "name": "Stillwater Technology Park — Lovejoy (gigawatt-scale)",
+      "operator": "Stillwater Development",
+      "lat": 33.43622,
+      "lng": -84.31437,
+      "city": "Lovejoy",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Stillwater Development has filed a Development of Regional Impact application for the Stillwater Technology Park in Lovejoy, south of Atlanta — a 15-building, gigawatt-scale data center campus (July 2026). Early-stage; coordinates are the town of Lovejoy (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-campus-planned-outside-atlanta-georgia/"
+      ]
+    },
+    {
+      "id": "curated/news/fairfax-va-plaza500-starwood-222",
+      "name": "Starwood 'Plaza 500' data centers — Edsall Road (near Alexandria)",
+      "operator": "Starwood Capital",
+      "lat": 38.80771,
+      "lng": -77.12957,
+      "city": "Alexandria",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "Starwood Capital plans two data centers at the 34-acre Plaza 500 site off Edsall Road in Fairfax County, just outside Alexandria city limits (site bought for $165M in 2022; first-building permit plans filed July 16, 2026). Facing opposition from adjacent Bren Mar residents over a planned substation; Fairfax County planning commission review expected September 2026.",
+      "website": null,
+      "sources": [
+        "https://www.alxnow.com/2026/07/22/morning-notes-for-july-22-2026/",
+        "https://northernvirginiamag.com/news/2026/07/22/developer-files-plans-for-2-data-centers-near-alexandria/",
+        "https://baxtel.com/data-center/starwood-alexandria-va"
       ]
     }
   ]

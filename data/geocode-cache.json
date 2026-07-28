@@ -127,6 +127,10 @@
     "lat": 36.0526,
     "lng": -95.79082
   },
+  "brownsville, tx": {
+    "lat": 25.90243,
+    "lng": -97.49817
+  },
   "calvert, al": {
     "lat": 31.15654,
     "lng": -88.02031
@@ -211,6 +215,10 @@
     "lat": 32.46107,
     "lng": -84.98804
   },
+  "conshohocken, pa": {
+    "lat": 40.07388,
+    "lng": -75.30625
+  },
   "conway, ar": {
     "lat": 35.08919,
     "lng": -92.43984
@@ -275,9 +283,21 @@
     "lat": 44.90504,
     "lng": -66.98464
   },
+  "edsall road, alexandria, va": {
+    "lat": 38.80771,
+    "lng": -77.12957
+  },
+  "el paso, tx": {
+    "lat": 31.7601,
+    "lng": -106.48705
+  },
   "elk river, mn": {
     "lat": 45.30385,
     "lng": -93.56718
+  },
+  "elyria, oh": {
+    "lat": 41.36732,
+    "lng": -82.10736
   },
   "emporia, ks": {
     "lat": 38.40401,
@@ -407,6 +427,10 @@
     "lat": 28.91803,
     "lng": -98.54641
   },
+  "kaufman county, tx": {
+    "lat": 32.60164,
+    "lng": -96.33751
+  },
   "kenilworth, nj": {
     "lat": 40.67714,
     "lng": -74.28707
@@ -470,6 +494,10 @@
   "little rock, ar": {
     "lat": 34.74651,
     "lng": -92.28963
+  },
+  "lovejoy, ga": {
+    "lat": 33.43622,
+    "lng": -84.31437
   },
   "lowndes county, al": {
     "lat": 32.10881,
@@ -582,6 +610,10 @@
   "olyphant, pa": {
     "lat": 41.46883,
     "lng": -75.60239
+  },
+  "oregon, oh": {
+    "lat": 41.64366,
+    "lng": -83.48688
   },
   "osawatomie, ks": {
     "lat": 38.50161,
@@ -739,6 +771,10 @@
     "lat": 42.62925,
     "lng": -73.86457
   },
+  "snyder, tx": {
+    "lat": 32.71808,
+    "lng": -100.91823
+  },
   "socorro, new mexico": {
     "lat": 34.05729,
     "lng": -106.89308
@@ -850,6 +886,10 @@
   "west memphis, ar": {
     "lat": 35.14648,
     "lng": -90.18454
+  },
+  "westfield, ma": {
+    "lat": 42.12054,
+    "lng": -72.74892
   },
   "wheatfield, in": {
     "lat": 41.19294,

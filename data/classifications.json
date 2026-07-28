@@ -3517,5 +3517,293 @@
     "summary": "Stream Data Centers' Chaska, MN campus (Minneapolis I/II, 1706\u20131708 West Creek Lane) \u2014 Tier III-design multi-tenant and build-to-suit colocation facilities; OSM's 'StreamData Center' matches Stream's MSPA1 site.",
     "source": "claude",
     "classified_on": "2026-07-25"
+  },
+  "osm/way/826001605": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Very large polygon traced over the Wilson Pike Circle business-park area of Brentwood, TN \u2014 a corridor where several colocation providers (Flexential, TierPoint, H5) operate Nashville-area facilities. The footprint likely over-traces an office/flex park; the specific operator is not firmly identified.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/39083830": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Building marked 'Secure Data Center' on Edison Drive in Alpharetta, GA's North Point data-center corridor, ~750 m from Flexential's Alpharetta facility; specific operator not firmly identified.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1319637945": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~172k sq ft hall on Dulles West Boulevard in the Arcola section of Loudoun County, VA's Data Center Alley, adjacent to the Arcola Tech Park parcels; operator not firmly identified.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1544360246": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~163k sq ft hall on Lockridge Road in Loudoun County, VA, ~260 m from a QTS facility \u2014 classified as part of QTS's Lockridge Road campus.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1544360247": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~82k sq ft hall on Lockridge Road in Loudoun County, VA, ~210 m from a QTS facility \u2014 classified as part of QTS's Lockridge Road campus.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1012918195": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed ~151k sq ft building off Turner McDonald Parkway in Alpharetta, GA, ~440 m from Ascent's facility \u2014 classified as part of the Alpharetta colocation cluster (likely Ascent).",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1544103416": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~150k sq ft hall on Arcola Mills Drive in Loudoun County, VA, in a corridor anchored by Amazon Data Services buildings ~1.2 km away \u2014 tentatively AWS (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1544103415": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~149k sq ft hall on Arcola Mills Drive in Loudoun County, VA, in a corridor anchored by Amazon Data Services buildings ~1.4 km away \u2014 tentatively AWS (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1533148752": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~136k sq ft building in the Texas Research Park / SH-211 data-center cluster in far-west Bexar County (San Antonio), ~240 m from a Vantage Data Centers building \u2014 classified as part of Vantage's San Antonio campus.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1010260674": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Unnamed ~110k sq ft building ~80 m from a CyrusOne facility in the far-west San Antonio (Texas Research Park / SH-211) cluster \u2014 part of CyrusOne's San Antonio campus.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1301654223": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~130k sq ft hall in Stone Ridge, Loudoun County, VA, ~130 m from an Amazon Web Services building \u2014 tentatively AWS (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1301654224": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~130k sq ft hall in Stone Ridge, Loudoun County, VA, ~110 m from a Microsoft building \u2014 tentatively Microsoft (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1534356805": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~260 m from Digital Realty buildings \u2014 classified as part of the Digital Realty Loudoun build-out.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1544360250": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~330 m from Digital Realty buildings \u2014 classified as part of the Digital Realty Loudoun build-out.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1534356804": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~270 m from Digital Realty buildings \u2014 classified as part of the Digital Realty Loudoun build-out.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1313995085": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~124k sq ft building in Santa Clara, CA's data-center district, ~210 m from a Digital Realty facility \u2014 classified as part of the Santa Clara colocation cluster.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1075445245": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~109k sq ft building in Santa Clara, CA's data-center district, ~160 m from a Digital Realty facility \u2014 classified as part of the Santa Clara colocation cluster.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/254773884": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed ~122k sq ft building in Allen, TX, ~230 m from Centersquare's (former Cyxtera) facility \u2014 classified as part of the Allen data-center cluster.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1316005112": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~110k sq ft building on Oakton Street in the Elk Grove Village, IL data-center cluster near T5 Chicago \u2014 classified as part of the Elk Grove Village colocation cluster.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/292506449": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed ~109k sq ft building in Centennial, CO, ~130 m from zColo by Zayo \u2014 classified as part of the zColo/Zayo Denver-area campus.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1380114463": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "~107k sq ft data center off Bear Wallow Road in Warrenton, VA \u2014 matches the contested Amazon Web Services Warrenton data center approved in 2023.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1443922528": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed building on Sycolin Road near Google's Leesburg, VA (Stonewall Creek) campus, adjacent to a sibling building classified the same way \u2014 tentatively Google (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/451413811": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed ~102k sq ft building in downtown San Jose, CA's carrier/interconnection district, ~320 m from CoreSite \u2014 operator not firmly identified; classified as multi-tenant colocation.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1269259655": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "Unnamed ~96k sq ft building off Godwin Drive in Manassas, VA, ~380 m from an Amazon Web Services building \u2014 tentatively AWS (location-based inference).",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1375443893": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Building within Google's New Albany, OH data center campus \u2014 reverse-geocodes to 'Google New Albany Data Center' and sits ~150 m from tagged Google buildings.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/819981888": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Sibling building ~20 m from HCA Healthcare's IT & Services data center on Old Franklin Road, Nashville, TN \u2014 part of the same captive HCA campus.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/1544104138": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~82k sq ft hall on Old Ox Road in Sterling (Loudoun County), VA, ~270 m from a CyrusOne facility \u2014 classified as part of CyrusOne's Sterling campus.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/52958203": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Pearl Plaza office building in Denver, CO tagged as a data center; likely houses an internal server/telecom room rather than a commercial facility.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/952157194": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "1GServers \u2014 a small dedicated-server and colocation hosting provider \u2014 facility in Phoenix, AZ.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/958728802": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Tagged at the E-Foam (foam fabrication company) site in Winter Garden, FL \u2014 likely the company's on-site server room, not a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/837139011": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Small building tagged ForceAmp.com (database tools software company) in Coralville, IA \u2014 captive company server space.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
+  },
+  "osm/way/358946546": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Small QES Computers (IT services) building in Pleasanton, CA \u2014 not a commercial-scale data center.",
+    "source": "claude",
+    "classified_on": "2026-07-28"
   }
 }
