@@ -51,6 +51,10 @@
     "lat": 41.4948,
     "lng": -75.53685
   },
+  "arney, tx": {
+    "lat": 34.68729,
+    "lng": -102.10297
+  },
   "ashland, ky": {
     "lat": 38.47841,
     "lng": -82.63794
@@ -134,6 +138,10 @@
   "calvert, al": {
     "lat": 31.15654,
     "lng": -88.02031
+  },
+  "carrollton, ky": {
+    "lat": 38.6809,
+    "lng": -85.1794
   },
   "cartersville, ga": {
     "lat": 34.16523,
@@ -327,6 +335,10 @@
     "lat": 36.9424,
     "lng": -80.96231
   },
+  "frackville, pa": {
+    "lat": 40.78382,
+    "lng": -76.23039
+  },
   "fulton, mo": {
     "lat": 38.84671,
     "lng": -91.94796
@@ -451,6 +463,10 @@
     "lat": 33.03929,
     "lng": -85.03133
   },
+  "lake point, ut": {
+    "lat": 40.68078,
+    "lng": -112.263
+  },
   "lakeland, fl": {
     "lat": 28.03947,
     "lng": -81.9498
@@ -538,6 +554,10 @@
   "marshfield, mo": {
     "lat": 37.33712,
     "lng": -92.90659
+  },
+  "martins creek, pa": {
+    "lat": 40.78343,
+    "lng": -75.18629
   },
   "maryville, mo": {
     "lat": 40.34605,
@@ -638,6 +658,10 @@
   "pensacola, fl": {
     "lat": 30.42131,
     "lng": -87.21691
+  },
+  "petersburg, va": {
+    "lat": 37.22793,
+    "lng": -77.40193
   },
   "piedmont, ok": {
     "lat": 35.642,
@@ -886,6 +910,10 @@
   "west memphis, ar": {
     "lat": 35.14648,
     "lng": -90.18454
+  },
+  "west paducah, ky": {
+    "lat": 37.08311,
+    "lng": -88.74422
   },
   "westfield, ma": {
     "lat": 42.12054,
