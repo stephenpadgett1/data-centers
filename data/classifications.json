@@ -4,7 +4,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "high",
-    "summary": "Carrier-neutral colocation facility (ELP1) operated by MDC Data Centers (formerly McAllen Data Center) at 11455 Cedar Oak Dr, El Paso, TX \u2014 the first 100% carrier-neutral data center in El Paso, focused on US\u2013Mexico cross-border interconnection.",
+    "summary": "Carrier-neutral colocation facility (ELP1) operated by MDC Data Centers (formerly McAllen Data Center) at 11455 Cedar Oak Dr, El Paso, TX — the first 100% carrier-neutral data center in El Paso, focused on US–Mexico cross-border interconnection.",
     "source": "claude",
     "classified_on": "2026-06-23"
   },
@@ -40,7 +40,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Captive enterprise data center for HCA Healthcare's IT & Services division, supporting hospital and clinical systems \u2014 general compute, not for lease.",
+    "summary": "Captive enterprise data center for HCA Healthcare's IT & Services division, supporting hospital and clinical systems — general compute, not for lease.",
     "source": "claude",
     "classified_on": "2026-05-30"
   },
@@ -67,7 +67,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "STACK Infrastructure hyperscale-colocation campus in New Albany, Ohio \u2014 one of the anchors of central Ohio's fast-growing data center corridor.",
+    "summary": "STACK Infrastructure hyperscale-colocation campus in New Albany, Ohio — one of the anchors of central Ohio's fast-growing data center corridor.",
     "source": "claude",
     "classified_on": "2026-05-30"
   },
@@ -94,7 +94,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Appears to be a high-density / cryptocurrency-mining site in Chateaugay, NY \u2014 part of a known upstate New York mining cluster drawing on cheap power.",
+    "summary": "Appears to be a high-density / cryptocurrency-mining site in Chateaugay, NY — part of a known upstate New York mining cluster drawing on cheap power.",
     "source": "claude",
     "classified_on": "2026-05-30"
   },
@@ -265,7 +265,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Lakeside Technology Center at 350 E Cermak in Chicago \u2014 one of the largest carrier hotels / multi-tenant colocation buildings in the world, operated by Digital Realty.",
+    "summary": "Lakeside Technology Center at 350 E Cermak in Chicago — one of the largest carrier hotels / multi-tenant colocation buildings in the world, operated by Digital Realty.",
     "source": "claude",
     "classified_on": "2026-05-31"
   },
@@ -274,7 +274,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "NAP of the Americas in Miami \u2014 a major carrier-neutral interconnection hub and colocation facility (originally Terremark, now operated by Equinix).",
+    "summary": "NAP of the Americas in Miami — a major carrier-neutral interconnection hub and colocation facility (originally Terremark, now operated by Equinix).",
     "source": "claude",
     "classified_on": "2026-05-31"
   },
@@ -373,7 +373,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Greenidge Generation site in Dresden, NY \u2014 a natural-gas power plant co-located with a behind-the-meter Bitcoin-mining data center.",
+    "summary": "Greenidge Generation site in Dresden, NY — a natural-gas power plant co-located with a behind-the-meter Bitcoin-mining data center.",
     "source": "claude",
     "classified_on": "2026-05-31"
   },
@@ -427,7 +427,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "The Terminal Commerce Building (401 N Broad St) in Philadelphia \u2014 a major carrier hotel and multi-tenant colocation / interconnection hub.",
+    "summary": "The Terminal Commerce Building (401 N Broad St) in Philadelphia — a major carrier hotel and multi-tenant colocation / interconnection hub.",
     "source": "claude",
     "classified_on": "2026-06-02"
   },
@@ -445,7 +445,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "U.S. Postal Service facility (the Los Angeles Terminal Annex) used for postal data/processing operations \u2014 government-operated.",
+    "summary": "U.S. Postal Service facility (the Los Angeles Terminal Annex) used for postal data/processing operations — government-operated.",
     "source": "claude",
     "classified_on": "2026-06-02"
   },
@@ -481,7 +481,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Former Time Warner (Cable) data center in Centennial, Colorado \u2014 cable/telecom operator facility.",
+    "summary": "Former Time Warner (Cable) data center in Centennial, Colorado — cable/telecom operator facility.",
     "source": "claude",
     "classified_on": "2026-06-02"
   },
@@ -508,7 +508,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Union Pacific Railroad's Jack Koraleski Technology, Research & Development Center in Omaha, Nebraska \u2014 the railroad's own IT/operations data center.",
+    "summary": "Union Pacific Railroad's Jack Koraleski Technology, Research & Development Center in Omaha, Nebraska — the railroad's own IT/operations data center.",
     "source": "claude",
     "classified_on": "2026-06-02"
   },
@@ -562,7 +562,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "The NCSA Petascale Computing Facility at the University of Illinois Urbana-Champaign \u2014 a research/HPC supercomputing center (home to Blue Waters and Delta).",
+    "summary": "The NCSA Petascale Computing Facility at the University of Illinois Urbana-Champaign — a research/HPC supercomputing center (home to Blue Waters and Delta).",
     "source": "claude",
     "classified_on": "2026-06-02"
   },
@@ -607,7 +607,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "LexisNexis data center in Springfield \u2014 captive enterprise facility for the legal/data-analytics provider's systems.",
+    "summary": "LexisNexis data center in Springfield — captive enterprise facility for the legal/data-analytics provider's systems.",
     "source": "claude",
     "classified_on": "2026-06-02"
   },
@@ -670,7 +670,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "DC BLOX cable landing station and data center in Myrtle Beach, South Carolina \u2014 a subsea-cable interconnection and colocation facility.",
+    "summary": "DC BLOX cable landing station and data center in Myrtle Beach, South Carolina — a subsea-cable interconnection and colocation facility.",
     "source": "claude",
     "classified_on": "2026-06-02"
   },
@@ -679,7 +679,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "One Wilshire in downtown Los Angeles \u2014 one of the most important carrier hotels and interconnection hubs on the US West Coast, with dense colocation and meet-me-room tenancy (anchored by CoreSite).",
+    "summary": "One Wilshire in downtown Los Angeles — one of the most important carrier hotels and interconnection hubs on the US West Coast, with dense colocation and meet-me-room tenancy (anchored by CoreSite).",
     "source": "claude",
     "classified_on": "2026-06-03"
   },
@@ -697,7 +697,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "33 Thomas Street, the windowless AT&T 'Long Lines Building' in Lower Manhattan \u2014 a hardened telecom switching and network facility operated by AT&T.",
+    "summary": "33 Thomas Street, the windowless AT&T 'Long Lines Building' in Lower Manhattan — a hardened telecom switching and network facility operated by AT&T.",
     "source": "claude",
     "classified_on": "2026-06-03"
   },
@@ -805,7 +805,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Tata Communications network / cable-landing facility (TGN \u2014 Tata Global Network) in Hillsboro, Oregon supporting transpacific subsea cable systems.",
+    "summary": "Tata Communications network / cable-landing facility (TGN — Tata Global Network) in Hillsboro, Oregon supporting transpacific subsea cable systems.",
     "source": "claude",
     "classified_on": "2026-06-03"
   },
@@ -823,7 +823,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Former Time Warner Cable data center in Centennial, Colorado \u2014 a cable/telecom operator facility now part of Charter/Spectrum.",
+    "summary": "Former Time Warner Cable data center in Centennial, Colorado — a cable/telecom operator facility now part of Charter/Spectrum.",
     "source": "claude",
     "classified_on": "2026-06-03"
   },
@@ -913,7 +913,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Data center operated by the Choctaw Nation of Oklahoma \u2014 a sovereign tribal government \u2014 in Durant, Oklahoma.",
+    "summary": "Data center operated by the Choctaw Nation of Oklahoma — a sovereign tribal government — in Durant, Oklahoma.",
     "source": "claude",
     "classified_on": "2026-06-03"
   },
@@ -922,7 +922,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "RIC2 DC1 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA \u2014 a master-planned ~180 MW, 5+ building site east of Richmond near the airport.",
+    "summary": "RIC2 DC1 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — a master-planned ~180 MW, 5+ building site east of Richmond near the airport.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -931,7 +931,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "RIC2 DC2 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA \u2014 wholesale/multi-tenant capacity east of Richmond.",
+    "summary": "RIC2 DC2 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — wholesale/multi-tenant capacity east of Richmond.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -940,7 +940,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "RIC2 DC3 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA \u2014 wholesale/multi-tenant capacity east of Richmond.",
+    "summary": "RIC2 DC3 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — wholesale/multi-tenant capacity east of Richmond.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -949,7 +949,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "RIC2 DC5 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA \u2014 wholesale/multi-tenant capacity east of Richmond.",
+    "summary": "RIC2 DC5 on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — wholesale/multi-tenant capacity east of Richmond.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -958,7 +958,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "RIC2 DC6 (under construction) on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA \u2014 part of a master-planned ~180 MW site east of Richmond.",
+    "summary": "RIC2 DC6 (under construction) on QTS's Richmond 2 hyperscale-colocation campus in Sandston, VA — part of a master-planned ~180 MW site east of Richmond.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -967,7 +967,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building EAT12 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA \u2014 cloud capacity served by Columbia River hydro power.",
+    "summary": "Building EAT12 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA — cloud capacity served by Columbia River hydro power.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -976,7 +976,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building EAT13 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA \u2014 cloud capacity served by Columbia River hydro power.",
+    "summary": "Building EAT13 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA — cloud capacity served by Columbia River hydro power.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -985,7 +985,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building EAT14 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA \u2014 cloud capacity served by Columbia River hydro power.",
+    "summary": "Building EAT14 in Microsoft's Malaga (Azure) hyperscale campus near Wenatchee, WA — cloud capacity served by Columbia River hydro power.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -994,7 +994,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Captive enterprise data center for H-E-B, the San Antonio-based grocery chain, supporting its retail and logistics IT \u2014 general compute, not for lease.",
+    "summary": "Captive enterprise data center for H-E-B, the San Antonio-based grocery chain, supporting its retail and logistics IT — general compute, not for lease.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1003,7 +1003,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Public Service Enterprise Group (PSE&G) delivery / emergency-response operations center in New Jersey \u2014 a utility's captive facility for grid operations.",
+    "summary": "Public Service Enterprise Group (PSE&G) delivery / emergency-response operations center in New Jersey — a utility's captive facility for grid operations.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1012,7 +1012,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Information Systems Facility at White Sands Missile Range (US Army), New Mexico \u2014 a government/military computing facility supporting test-range operations.",
+    "summary": "Information Systems Facility at White Sands Missile Range (US Army), New Mexico — a government/military computing facility supporting test-range operations.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1021,7 +1021,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "State of New Mexico data center in the John F. Simms Jr. State Office Building, Santa Fe \u2014 central government IT for state agencies.",
+    "summary": "State of New Mexico data center in the John F. Simms Jr. State Office Building, Santa Fe — central government IT for state agencies.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1039,7 +1039,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "365 Data Centers colocation facility in Bridgewater, NJ \u2014 multi-tenant colocation and interconnection serving the central New Jersey market.",
+    "summary": "365 Data Centers colocation facility in Bridgewater, NJ — multi-tenant colocation and interconnection serving the central New Jersey market.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1048,7 +1048,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Stream Data Centers wholesale colocation building (DFW IV) in the Dallas\u2013Fort Worth metro, leasing data-hall capacity to enterprise and cloud tenants.",
+    "summary": "Stream Data Centers wholesale colocation building (DFW IV) in the Dallas–Fort Worth metro, leasing data-hall capacity to enterprise and cloud tenants.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1057,7 +1057,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "EdgeCore Digital Infrastructure wholesale data center in Silicon Valley \u2014 large-scale leased capacity for hyperscale and enterprise tenants.",
+    "summary": "EdgeCore Digital Infrastructure wholesale data center in Silicon Valley — large-scale leased capacity for hyperscale and enterprise tenants.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1084,7 +1084,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Liquid Web managed-hosting data center (Lansing, MI area) \u2014 multi-tenant hosting and cloud services.",
+    "summary": "Liquid Web managed-hosting data center (Lansing, MI area) — multi-tenant hosting and cloud services.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1093,7 +1093,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "KOMO Plaza (formerly Fisher Plaza), Seattle \u2014 East tower; carrier-neutral colocation and home of the Seattle Internet Exchange.",
+    "summary": "KOMO Plaza (formerly Fisher Plaza), Seattle — East tower; carrier-neutral colocation and home of the Seattle Internet Exchange.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1102,7 +1102,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "KOMO Plaza (formerly Fisher Plaza), Seattle \u2014 West tower; carrier-neutral colocation and interconnection space.",
+    "summary": "KOMO Plaza (formerly Fisher Plaza), Seattle — West tower; carrier-neutral colocation and interconnection space.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1147,7 +1147,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Submarine cable landing station (Apollo trans-Atlantic system) \u2014 network/telecom infrastructure terminating an undersea fiber cable.",
+    "summary": "Submarine cable landing station (Apollo trans-Atlantic system) — network/telecom infrastructure terminating an undersea fiber cable.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1156,7 +1156,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Cable & Wireless submarine cable landing station at Shirley, NY \u2014 coastal telecom landing point for trans-Atlantic fiber.",
+    "summary": "Cable & Wireless submarine cable landing station at Shirley, NY — coastal telecom landing point for trans-Atlantic fiber.",
     "source": "claude",
     "classified_on": "2026-06-04"
   },
@@ -1237,7 +1237,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Submarine cable landing station for the Unity cable system near Lynnwood, WA \u2014 telecom landing/network infrastructure.",
+    "summary": "Submarine cable landing station for the Unity cable system near Lynnwood, WA — telecom landing/network infrastructure.",
     "source": "claude",
     "classified_on": "2026-06-05"
   },
@@ -1291,7 +1291,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Private data center for AngelTrax (mobile video surveillance) in Dothan, AL \u2014 enterprise self-use.",
+    "summary": "Private data center for AngelTrax (mobile video surveillance) in Dothan, AL — enterprise self-use.",
     "source": "claude",
     "classified_on": "2026-06-05"
   },
@@ -1363,7 +1363,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Operated by CSS Communications (CSSNW) in Bellingham, WA \u2014 telecom/communications facility.",
+    "summary": "Operated by CSS Communications (CSSNW) in Bellingham, WA — telecom/communications facility.",
     "source": "claude",
     "classified_on": "2026-06-05"
   },
@@ -1426,7 +1426,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "HP/HPE Cherokee Data Center in the Cherokee Industrial Park, Tulsa \u2014 a hardened (Force-5 tornado-rated) enterprise facility built in 2009 and operated by Hewlett-Packard Enterprise for its own and managed operations.",
+    "summary": "HP/HPE Cherokee Data Center in the Cherokee Industrial Park, Tulsa — a hardened (Force-5 tornado-rated) enterprise facility built in 2009 and operated by Hewlett-Packard Enterprise for its own and managed operations.",
     "source": "claude",
     "classified_on": "2026-06-06"
   },
@@ -1435,7 +1435,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "high",
-    "summary": "Leased data center at 1650 Union Hill Road, Alpharetta, owned by Strategic Datasphere (Strategic Capital Fund Management) \u2014 a ~165,000 sq ft, ~5-8 MW facility fully leased to investment-grade enterprise tenants (originally E*TRADE).",
+    "summary": "Leased data center at 1650 Union Hill Road, Alpharetta, owned by Strategic Datasphere (Strategic Capital Fund Management) — a ~165,000 sq ft, ~5-8 MW facility fully leased to investment-grade enterprise tenants (originally E*TRADE).",
     "source": "claude",
     "classified_on": "2026-06-06"
   },
@@ -1444,7 +1444,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Compugen New Albany data center at 7000 Souder Road (Franklin County, OH) \u2014 a Tier III facility acquired in 2022 by Canadian IT-solutions provider Compugen, offering secured, redundant data center floor space.",
+    "summary": "Compugen New Albany data center at 7000 Souder Road (Franklin County, OH) — a Tier III facility acquired in 2022 by Canadian IT-solutions provider Compugen, offering secured, redundant data center floor space.",
     "source": "claude",
     "classified_on": "2026-06-06"
   },
@@ -1453,7 +1453,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building on the Compugen New Albany data center campus (7000 Souder Road, Franklin County, OH) \u2014 a Tier III facility owned by Canadian IT-solutions provider Compugen offering secured, redundant data center floor space.",
+    "summary": "Building on the Compugen New Albany data center campus (7000 Souder Road, Franklin County, OH) — a Tier III facility owned by Canadian IT-solutions provider Compugen offering secured, redundant data center floor space.",
     "source": "claude",
     "classified_on": "2026-06-06"
   },
@@ -1462,7 +1462,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Encompass (Digital Media) satellite teleport in Lino Lakes, MN \u2014 a captive broadcast uplink/transmission facility for the company's media-distribution operations rather than a general-purpose compute data center.",
+    "summary": "Encompass (Digital Media) satellite teleport in Lino Lakes, MN — a captive broadcast uplink/transmission facility for the company's media-distribution operations rather than a general-purpose compute data center.",
     "source": "claude",
     "classified_on": "2026-06-06"
   },
@@ -1480,7 +1480,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "low",
-    "summary": "Arcola Tech Park, in the Arcola area of Loudoun County's 'Data Center Alley' (Northern Virginia) \u2014 a tech/commercial park amid major multi-tenant data center development; specific operator of this parcel is not firmly identified.",
+    "summary": "Arcola Tech Park, in the Arcola area of Loudoun County's 'Data Center Alley' (Northern Virginia) — a tech/commercial park amid major multi-tenant data center development; specific operator of this parcel is not firmly identified.",
     "source": "claude",
     "classified_on": "2026-06-06"
   },
@@ -1489,7 +1489,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "BNY Mellon's Tennessee Processing Center in Nashville \u2014 a captive financial-services back-office and data-processing facility supporting the bank's global operations and technology infrastructure, not a leased data center.",
+    "summary": "BNY Mellon's Tennessee Processing Center in Nashville — a captive financial-services back-office and data-processing facility supporting the bank's global operations and technology infrastructure, not a leased data center.",
     "source": "claude",
     "classified_on": "2026-06-08"
   },
@@ -1498,7 +1498,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "The Open Computing Facility (OCF) at UC Berkeley \u2014 a student-run, volunteer-operated computing co-op providing free hosting, compute and lab services to the campus community.",
+    "summary": "The Open Computing Facility (OCF) at UC Berkeley — a student-run, volunteer-operated computing co-op providing free hosting, compute and lab services to the campus community.",
     "source": "claude",
     "classified_on": "2026-06-08"
   },
@@ -1525,7 +1525,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "high",
-    "summary": "505 Marquette Ave NW is H5 Data Centers' downtown Albuquerque carrier hotel \u2014 a ~225,000 sq ft, network-neutral colocation building with access to ~20 MW and 25+ carriers (Cogent, Hurricane Electric, CityLink). Acquired by H5 in 2022.",
+    "summary": "505 Marquette Ave NW is H5 Data Centers' downtown Albuquerque carrier hotel — a ~225,000 sq ft, network-neutral colocation building with access to ~20 MW and 25+ carriers (Cogent, Hurricane Electric, CityLink). Acquired by H5 in 2022.",
     "source": "claude",
     "classified_on": "2026-06-09"
   },
@@ -1534,7 +1534,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "high",
-    "summary": "D\u0101STOR's King of Prussia data center at 3400 Horizon Drive \u2014 a ~22,000 sq ft, network-neutral Tier III colocation facility serving the Philadelphia market. D\u0101STOR (founded by ex-Crown Castle colo head Kevin Mulqueen) acquired the site, formerly operated by DataBridge Sites.",
+    "summary": "DāSTOR's King of Prussia data center at 3400 Horizon Drive — a ~22,000 sq ft, network-neutral Tier III colocation facility serving the Philadelphia market. DāSTOR (founded by ex-Crown Castle colo head Kevin Mulqueen) acquired the site, formerly operated by DataBridge Sites.",
     "source": "claude",
     "classified_on": "2026-06-09"
   },
@@ -1543,7 +1543,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Google's data center campus in northwest Omaha (around 11110 State St, Douglas County), a ~378-460 acre site that began operating in 2024 \u2014 general cloud plus AI compute, built and operated by Google for its own services. The large OSM polygon reflects the campus landuse boundary, not building floor area.",
+    "summary": "Google's data center campus in northwest Omaha (around 11110 State St, Douglas County), a ~378-460 acre site that began operating in 2024 — general cloud plus AI compute, built and operated by Google for its own services. The large OSM polygon reflects the campus landuse boundary, not building floor area.",
     "source": "claude",
     "classified_on": "2026-06-10"
   },
@@ -1642,7 +1642,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Local LDS Church Family History Center (genealogy research facility) in southeast Idaho; mis-tagged in OSM \u2014 not a server facility.",
+    "summary": "Local LDS Church Family History Center (genealogy research facility) in southeast Idaho; mis-tagged in OSM — not a server facility.",
     "source": "claude",
     "classified_on": "2026-06-12"
   },
@@ -1768,7 +1768,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Duke University Libraries' Brandaleone Lab for Data and Visualization \u2014 an academic data/visualization lab, not a data center.",
+    "summary": "Duke University Libraries' Brandaleone Lab for Data and Visualization — an academic data/visualization lab, not a data center.",
     "source": "claude",
     "classified_on": "2026-06-12"
   },
@@ -1777,7 +1777,7 @@
     "purpose": "unknown",
     "workload": "general",
     "confidence": "low",
-    "summary": "Chick-fil-A hiring center storefront; mis-tagged in OSM \u2014 not a data center.",
+    "summary": "Chick-fil-A hiring center storefront; mis-tagged in OSM — not a data center.",
     "source": "claude",
     "classified_on": "2026-06-12"
   },
@@ -1786,7 +1786,7 @@
     "purpose": "unknown",
     "workload": "general",
     "confidence": "low",
-    "summary": "Process-serving business storefront in Chandler, AZ; mis-tagged in OSM \u2014 not a data center.",
+    "summary": "Process-serving business storefront in Chandler, AZ; mis-tagged in OSM — not a data center.",
     "source": "claude",
     "classified_on": "2026-06-12"
   },
@@ -1795,7 +1795,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "high",
-    "summary": "Unnamed OSM polygon in Mount Pleasant, Racine County, WI \u2014 part of Microsoft's 'Fairwater' AI datacenter campus on the former Foxconn (Wisconn Valley) site. Purpose-built for large-scale AI training on NVIDIA GB200 hardware; a separate curated record tracks the full ~3.3 GW campus.",
+    "summary": "Unnamed OSM polygon in Mount Pleasant, Racine County, WI — part of Microsoft's 'Fairwater' AI datacenter campus on the former Foxconn (Wisconn Valley) site. Purpose-built for large-scale AI training on NVIDIA GB200 hardware; a separate curated record tracks the full ~3.3 GW campus.",
     "source": "claude",
     "classified_on": "2026-06-13"
   },
@@ -1804,7 +1804,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed data-center polygon in Eagle Mountain, Utah County, UT \u2014 within Meta's multi-million-sq-ft Eagle Mountain hyperscale campus (the only data-center operator in Eagle Mountain). Self-operated hyperscale compute, not for lease.",
+    "summary": "Unnamed data-center polygon in Eagle Mountain, Utah County, UT — within Meta's multi-million-sq-ft Eagle Mountain hyperscale campus (the only data-center operator in Eagle Mountain). Self-operated hyperscale compute, not for lease.",
     "source": "claude",
     "classified_on": "2026-06-13"
   },
@@ -1813,7 +1813,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed data-center polygon in Eagle Mountain, Utah County, UT \u2014 within Meta's multi-million-sq-ft Eagle Mountain hyperscale campus (the only data-center operator in Eagle Mountain). Self-operated hyperscale compute, not for lease.",
+    "summary": "Unnamed data-center polygon in Eagle Mountain, Utah County, UT — within Meta's multi-million-sq-ft Eagle Mountain hyperscale campus (the only data-center operator in Eagle Mountain). Self-operated hyperscale compute, not for lease.",
     "source": "claude",
     "classified_on": "2026-06-13"
   },
@@ -1822,7 +1822,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed data-center polygon in Kuna, Ada County, ID \u2014 Meta's ~$800M Kuna hyperscale campus (Meta is the only data-center operator in Kuna). Self-operated hyperscale compute, not for lease.",
+    "summary": "Unnamed data-center polygon in Kuna, Ada County, ID — Meta's ~$800M Kuna hyperscale campus (Meta is the only data-center operator in Kuna). Self-operated hyperscale compute, not for lease.",
     "source": "claude",
     "classified_on": "2026-06-13"
   },
@@ -1831,7 +1831,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed data-center polygon in Kuna, Ada County, ID \u2014 Meta's ~$800M Kuna hyperscale campus (Meta is the only data-center operator in Kuna). Self-operated hyperscale compute, not for lease.",
+    "summary": "Unnamed data-center polygon in Kuna, Ada County, ID — Meta's ~$800M Kuna hyperscale campus (Meta is the only data-center operator in Kuna). Self-operated hyperscale compute, not for lease.",
     "source": "claude",
     "classified_on": "2026-06-13"
   },
@@ -1840,7 +1840,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Apple's Mesa, Arizona data center (3740 S Signal Butte Rd) \u2014 a captive enterprise facility supporting iCloud and Apple online services, not leased space.",
+    "summary": "Apple's Mesa, Arizona data center (3740 S Signal Butte Rd) — a captive enterprise facility supporting iCloud and Apple online services, not leased space.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1849,7 +1849,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Amazon Web Services facility 'IAD52' in Manassas, Virginia (Prince William County) \u2014 part of AWS's us-east-1 cloud region.",
+    "summary": "Amazon Web Services facility 'IAD52' in Manassas, Virginia (Prince William County) — part of AWS's us-east-1 cloud region.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1858,7 +1858,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Meta (Facebook) data center building in Mesa, Arizona (Elliot Rd / Eastmark area) \u2014 hyperscale compute and storage for Meta's apps and AI workloads.",
+    "summary": "Meta (Facebook) data center building in Mesa, Arizona (Elliot Rd / Eastmark area) — hyperscale compute and storage for Meta's apps and AI workloads.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1867,7 +1867,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Meta's Mesa, Arizona data center campus (adjacent to the labeled Meta facility on Elliot Rd) \u2014 hyperscale compute for Meta's apps and AI.",
+    "summary": "Building on Meta's Mesa, Arizona data center campus (adjacent to the labeled Meta facility on Elliot Rd) — hyperscale compute for Meta's apps and AI.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1876,7 +1876,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Meta's Mesa, Arizona data center campus (S Eastmark Pkwy, contiguous with the labeled Meta facility) \u2014 hyperscale compute for Meta's apps and AI.",
+    "summary": "Building on Meta's Mesa, Arizona data center campus (S Eastmark Pkwy, contiguous with the labeled Meta facility) — hyperscale compute for Meta's apps and AI.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1885,7 +1885,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Apple's iCloud data center in Maiden, North Carolina (Startown Rd, Catawba County) \u2014 a captive enterprise facility for Apple's online services.",
+    "summary": "Apple's iCloud data center in Maiden, North Carolina (Startown Rd, Catawba County) — a captive enterprise facility for Apple's online services.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1921,7 +1921,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Meta (Facebook) Kansas City data center in Kansas City, Missouri (Clay County, NW 128th St) \u2014 hyperscale compute for Meta's apps and AI workloads.",
+    "summary": "Meta (Facebook) Kansas City data center in Kansas City, Missouri (Clay County, NW 128th St) — hyperscale compute for Meta's apps and AI workloads.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1930,7 +1930,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Data center under construction along US-78 in rural Dorchester County, South Carolina (St. George area) \u2014 consistent with Google's 'Project Dawson' campus, part of Google's multi-billion-dollar SC cloud/AI expansion.",
+    "summary": "Data center under construction along US-78 in rural Dorchester County, South Carolina (St. George area) — consistent with Google's 'Project Dawson' campus, part of Google's multi-billion-dollar SC cloud/AI expansion.",
     "source": "claude",
     "classified_on": "2026-06-15"
   },
@@ -1966,7 +1966,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "low",
-    "summary": "Large (~2.2M sq ft) data center under construction in the Bristow/Gainesville area of Prince William County, VA \u2014 the heart of Northern Virginia's 'Data Center Alley.' OSM tags the general contractor as HITT (a leading mission-critical builder), so the end operator/tenant is not yet confirmed; the scale and location are consistent with hyperscale/wholesale development in this corridor (e.g., Amazon's nearby Devlin Technology Park).",
+    "summary": "Large (~2.2M sq ft) data center under construction in the Bristow/Gainesville area of Prince William County, VA — the heart of Northern Virginia's 'Data Center Alley.' OSM tags the general contractor as HITT (a leading mission-critical builder), so the end operator/tenant is not yet confirmed; the scale and location are consistent with hyperscale/wholesale development in this corridor (e.g., Amazon's nearby Devlin Technology Park).",
     "source": "claude",
     "classified_on": "2026-06-21"
   },
@@ -1993,7 +1993,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Compass Datacenters' Goodyear campus at 850 S Bullard Ave, Goodyear, AZ \u2014 a ~225-acre, multi-building wholesale colocation development (up to ~1.8M sq ft / 350 MW at full build-out) leasing dedicated capacity to hyperscale and enterprise tenants in the Phoenix West Valley.",
+    "summary": "Compass Datacenters' Goodyear campus at 850 S Bullard Ave, Goodyear, AZ — a ~225-acre, multi-building wholesale colocation development (up to ~1.8M sq ft / 350 MW at full build-out) leasing dedicated capacity to hyperscale and enterprise tenants in the Phoenix West Valley.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2002,7 +2002,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "STACK Infrastructure facility NVA02D at 9590 Hornbaker Rd, Manassas, VA \u2014 a wholesale colocation data center (~182 MW, operational since 2023) leasing capacity to hyperscale tenants in the Northern Virginia market.",
+    "summary": "STACK Infrastructure facility NVA02D at 9590 Hornbaker Rd, Manassas, VA — a wholesale colocation data center (~182 MW, operational since 2023) leasing capacity to hyperscale tenants in the Northern Virginia market.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2011,7 +2011,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Microsoft (Azure) data center at 41720 Inclusion Lane SE, Leesburg, VA, part of Microsoft's Compass Creek campus in Loudoun County \u2014 self-operated cloud/AI compute rather than for lease.",
+    "summary": "Microsoft (Azure) data center at 41720 Inclusion Lane SE, Leesburg, VA, part of Microsoft's Compass Creek campus in Loudoun County — self-operated cloud/AI compute rather than for lease.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2020,7 +2020,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Microsoft Azure data center at 41730 Inclusion Lane SE, Leesburg, VA \u2014 adjacent to confirmed Microsoft buildings on the same Compass Creek campus; attributed to Microsoft by location.",
+    "summary": "Microsoft Azure data center at 41730 Inclusion Lane SE, Leesburg, VA — adjacent to confirmed Microsoft buildings on the same Compass Creek campus; attributed to Microsoft by location.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2029,7 +2029,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Microsoft Azure data center at 41679 Inclusion Lane SE, Leesburg, VA \u2014 part of Microsoft's Compass Creek campus alongside the confirmed 41700/41720 Inclusion Lane buildings; attributed to Microsoft by location.",
+    "summary": "Microsoft Azure data center at 41679 Inclusion Lane SE, Leesburg, VA — part of Microsoft's Compass Creek campus alongside the confirmed 41700/41720 Inclusion Lane buildings; attributed to Microsoft by location.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2038,7 +2038,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Citigroup (Citi) Midwest Data Center at 306 Greif Pkwy, Delaware, OH \u2014 a captive enterprise facility (~272k sq ft, ~21 MW) supporting the bank's own IT operations rather than for lease.",
+    "summary": "Citigroup (Citi) Midwest Data Center at 306 Greif Pkwy, Delaware, OH — a captive enterprise facility (~272k sq ft, ~21 MW) supporting the bank's own IT operations rather than for lease.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2047,7 +2047,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "JPMorgan Chase enterprise data center at 23505 E 6th Ave, Aurora, CO \u2014 a ~250k sq ft purpose-built facility (opened ~2019) supporting the bank's own operations, not leased.",
+    "summary": "JPMorgan Chase enterprise data center at 23505 E 6th Ave, Aurora, CO — a ~250k sq ft purpose-built facility (opened ~2019) supporting the bank's own operations, not leased.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2056,7 +2056,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "high",
-    "summary": "Equinix NY11 carrier-neutral colocation data center at 1400 Federal Blvd, Carteret, NJ (formerly Verizon EWR1, acquired by Equinix in 2017) \u2014 retail/interconnection colocation serving the New York metro market.",
+    "summary": "Equinix NY11 carrier-neutral colocation data center at 1400 Federal Blvd, Carteret, NJ (formerly Verizon EWR1, acquired by Equinix in 2017) — retail/interconnection colocation serving the New York metro market.",
     "source": "claude",
     "classified_on": "2026-06-29"
   },
@@ -2065,7 +2065,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "JPMorgan Chase's corporate data center at 65 3rd Avenue in Orangeburg, NY (Rockland County) \u2014 a purpose-built ~260k sqft bank facility in the Orangeburg data center cluster (which also includes DataBank LGA3 and 1547 CSR's ORNY1); a 2026 expansion there drew attention for a ~$77M state tax break.",
+    "summary": "JPMorgan Chase's corporate data center at 65 3rd Avenue in Orangeburg, NY (Rockland County) — a purpose-built ~260k sqft bank facility in the Orangeburg data center cluster (which also includes DataBank LGA3 and 1547 CSR's ORNY1); a 2026 expansion there drew attention for a ~$77M state tax break.",
     "source": "claude",
     "classified_on": "2026-07-03"
   },
@@ -2389,7 +2389,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2398,7 +2398,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2407,7 +2407,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2416,7 +2416,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2425,7 +2425,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2434,7 +2434,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2443,7 +2443,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2452,7 +2452,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2461,7 +2461,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2470,7 +2470,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2479,7 +2479,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2488,7 +2488,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2497,7 +2497,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2506,7 +2506,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2515,7 +2515,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2524,7 +2524,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2533,7 +2533,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2542,7 +2542,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2551,7 +2551,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2560,7 +2560,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2569,7 +2569,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2578,7 +2578,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2587,7 +2587,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2596,7 +2596,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2605,7 +2605,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2614,7 +2614,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2623,7 +2623,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2632,7 +2632,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2641,7 +2641,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2650,7 +2650,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2659,7 +2659,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2668,7 +2668,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2677,7 +2677,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2686,7 +2686,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2695,7 +2695,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2704,7 +2704,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2713,7 +2713,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2722,7 +2722,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2731,7 +2731,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2740,7 +2740,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) \u2014 the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on the Stargate Site 1 / Lancium Clean Campus on the north side of Abilene, TX (near FM 2404 / Spinks Rd) — the Crusoe-built flagship OpenAI/Oracle Stargate AI campus. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2749,7 +2749,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2758,7 +2758,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2767,7 +2767,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2776,7 +2776,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2785,7 +2785,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2794,7 +2794,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2803,7 +2803,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2812,7 +2812,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2821,7 +2821,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2830,7 +2830,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2839,7 +2839,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2848,7 +2848,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2857,7 +2857,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2866,7 +2866,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2875,7 +2875,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2884,7 +2884,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2893,7 +2893,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA \u2014 one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
+    "summary": "Building on Microsoft's Boydton campus along US-58 in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2902,7 +2902,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) \u2014 the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
+    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) — the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2911,7 +2911,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) \u2014 the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
+    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) — the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2920,7 +2920,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) \u2014 the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
+    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) — the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2929,7 +2929,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) \u2014 the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
+    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) — the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2938,7 +2938,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) \u2014 the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
+    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) — the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2947,7 +2947,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) \u2014 the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
+    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) — the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2956,7 +2956,7 @@
     "purpose": "purpose_built",
     "workload": "ai",
     "confidence": "medium",
-    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) \u2014 the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
+    "summary": "Building on AWS's New Carlisle, IN campus (Project Rainier) — the Trainium supercluster used for Anthropic's Claude training; fully operational at Phase 1 with further buildings under construction in 2026. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2965,7 +2965,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne \u2014 OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
+    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne — OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2974,7 +2974,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne \u2014 OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
+    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne — OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2983,7 +2983,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne \u2014 OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
+    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne — OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -2992,7 +2992,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne \u2014 OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
+    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne — OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3001,7 +3001,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne \u2014 OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
+    "summary": "Building on Microsoft's Cheyenne, WY (CYS) data center campus in the North Range Business Park west of Cheyenne — OSM reverse lookup resolves the site as 'Microsoft CYS Datacenter'.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3010,7 +3010,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) \u2014 a long-running Azure South Central US data center campus. Identified by location.",
+    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) — a long-running Azure South Central US data center campus. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3019,7 +3019,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) \u2014 a long-running Azure South Central US data center campus. Identified by location.",
+    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) — a long-running Azure South Central US data center campus. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3028,7 +3028,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) \u2014 a long-running Azure South Central US data center campus. Identified by location.",
+    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) — a long-running Azure South Central US data center campus. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3037,7 +3037,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3046,7 +3046,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3055,7 +3055,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3064,7 +3064,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3073,7 +3073,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3082,7 +3082,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3091,7 +3091,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3100,7 +3100,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3109,7 +3109,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3118,7 +3118,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) \u2014 rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
+    "summary": "Building cluster at Apple's Reno data center campus in Reno Technology Park (Patrick, Washoe County, NV) — rows of modular data center 'clusters' serving iCloud and Apple services. Identified by location.",
     "source": "claude",
     "classified_on": "2026-07-17"
   },
@@ -3172,7 +3172,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "TSYS East Data Center at 8 Corporate Ridge Parkway, Columbus, GA \u2014 a ~112k sq ft captive facility of payment processor TSYS (now Global Payments) supporting card-processing operations.",
+    "summary": "TSYS East Data Center at 8 Corporate Ridge Parkway, Columbus, GA — a ~112k sq ft captive facility of payment processor TSYS (now Global Payments) supporting card-processing operations.",
     "source": "claude",
     "classified_on": "2026-07-19"
   },
@@ -3181,7 +3181,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Sabey Data Centers' Intergate.Columbia (SDC Columbia) campus at 4405 Grant Road, East Wenatchee, WA \u2014 hydro-powered multi-tenant colocation with ~70 MW under power.",
+    "summary": "Building on Sabey Data Centers' Intergate.Columbia (SDC Columbia) campus at 4405 Grant Road, East Wenatchee, WA — hydro-powered multi-tenant colocation with ~70 MW under power.",
     "source": "claude",
     "classified_on": "2026-07-19"
   },
@@ -3460,7 +3460,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Google's Lenoir, NC data center campus (reverse-geocodes to 'Google Lenoir Data Center', Caldwell County) \u2014 one of Google's longest-running US data center sites, operating since 2008.",
+    "summary": "Building on Google's Lenoir, NC data center campus (reverse-geocodes to 'Google Lenoir Data Center', Caldwell County) — one of Google's longest-running US data center sites, operating since 2008.",
     "source": "claude",
     "classified_on": "2026-07-25"
   },
@@ -3469,7 +3469,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "~150k sq ft facility on Uunet Drive on the Verizon Business campus in Ashburn, VA \u2014 the former UUNET/MCI complex on Loudoun County Parkway, a major Verizon network and data center site.",
+    "summary": "~150k sq ft facility on Uunet Drive on the Verizon Business campus in Ashburn, VA — the former UUNET/MCI complex on Loudoun County Parkway, a major Verizon network and data center site.",
     "source": "claude",
     "classified_on": "2026-07-25"
   },
@@ -3478,7 +3478,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Meta's Huntsville, AL data center campus in the North Huntsville Industrial Park off Monroe Road \u2014 a $1.5B+ campus opened from 2018 onward and expanding toward ~3.5M sq ft.",
+    "summary": "Building on Meta's Huntsville, AL data center campus in the North Huntsville Industrial Park off Monroe Road — a $1.5B+ campus opened from 2018 onward and expanding toward ~3.5M sq ft.",
     "source": "claude",
     "classified_on": "2026-07-25"
   },
@@ -3487,7 +3487,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building on Meta's Huntsville, AL data center campus in the North Huntsville Industrial Park off Monroe Road \u2014 a $1.5B+ campus opened from 2018 onward and expanding toward ~3.5M sq ft.",
+    "summary": "Building on Meta's Huntsville, AL data center campus in the North Huntsville Industrial Park off Monroe Road — a $1.5B+ campus opened from 2018 onward and expanding toward ~3.5M sq ft.",
     "source": "claude",
     "classified_on": "2026-07-25"
   },
@@ -3496,7 +3496,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Large data center building on Road 11 NW in Quincy, WA at the corner matching Sabey Data Centers' Intergate.Quincy multi-tenant campus (built 2011\u20132014 on cheap Grant County hydro power).",
+    "summary": "Large data center building on Road 11 NW in Quincy, WA at the corner matching Sabey Data Centers' Intergate.Quincy multi-tenant campus (built 2011–2014 on cheap Grant County hydro power).",
     "source": "claude",
     "classified_on": "2026-07-25"
   },
@@ -3505,7 +3505,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Large data center building on Road 11 NW in Quincy, WA at the corner matching Sabey Data Centers' Intergate.Quincy multi-tenant campus (built 2011\u20132014 on cheap Grant County hydro power).",
+    "summary": "Large data center building on Road 11 NW in Quincy, WA at the corner matching Sabey Data Centers' Intergate.Quincy multi-tenant campus (built 2011–2014 on cheap Grant County hydro power).",
     "source": "claude",
     "classified_on": "2026-07-25"
   },
@@ -3514,7 +3514,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "high",
-    "summary": "Stream Data Centers' Chaska, MN campus (Minneapolis I/II, 1706\u20131708 West Creek Lane) \u2014 Tier III-design multi-tenant and build-to-suit colocation facilities; OSM's 'StreamData Center' matches Stream's MSPA1 site.",
+    "summary": "Stream Data Centers' Chaska, MN campus (Minneapolis I/II, 1706–1708 West Creek Lane) — Tier III-design multi-tenant and build-to-suit colocation facilities; OSM's 'StreamData Center' matches Stream's MSPA1 site.",
     "source": "claude",
     "classified_on": "2026-07-25"
   },
@@ -3523,7 +3523,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "low",
-    "summary": "Very large polygon traced over the Wilson Pike Circle business-park area of Brentwood, TN \u2014 a corridor where several colocation providers (Flexential, TierPoint, H5) operate Nashville-area facilities. The footprint likely over-traces an office/flex park; the specific operator is not firmly identified.",
+    "summary": "Very large polygon traced over the Wilson Pike Circle business-park area of Brentwood, TN — a corridor where several colocation providers (Flexential, TierPoint, H5) operate Nashville-area facilities. The footprint likely over-traces an office/flex park; the specific operator is not firmly identified.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3550,7 +3550,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed ~163k sq ft hall on Lockridge Road in Loudoun County, VA, ~260 m from a QTS facility \u2014 classified as part of QTS's Lockridge Road campus.",
+    "summary": "Unnamed ~163k sq ft hall on Lockridge Road in Loudoun County, VA, ~260 m from a QTS facility — classified as part of QTS's Lockridge Road campus.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3559,7 +3559,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed ~82k sq ft hall on Lockridge Road in Loudoun County, VA, ~210 m from a QTS facility \u2014 classified as part of QTS's Lockridge Road campus.",
+    "summary": "Unnamed ~82k sq ft hall on Lockridge Road in Loudoun County, VA, ~210 m from a QTS facility — classified as part of QTS's Lockridge Road campus.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3568,7 +3568,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Unnamed ~151k sq ft building off Turner McDonald Parkway in Alpharetta, GA, ~440 m from Ascent's facility \u2014 classified as part of the Alpharetta colocation cluster (likely Ascent).",
+    "summary": "Unnamed ~151k sq ft building off Turner McDonald Parkway in Alpharetta, GA, ~440 m from Ascent's facility — classified as part of the Alpharetta colocation cluster (likely Ascent).",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3577,7 +3577,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "low",
-    "summary": "Unnamed ~150k sq ft hall on Arcola Mills Drive in Loudoun County, VA, in a corridor anchored by Amazon Data Services buildings ~1.2 km away \u2014 tentatively AWS (location-based inference).",
+    "summary": "Unnamed ~150k sq ft hall on Arcola Mills Drive in Loudoun County, VA, in a corridor anchored by Amazon Data Services buildings ~1.2 km away — tentatively AWS (location-based inference).",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3586,7 +3586,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "low",
-    "summary": "Unnamed ~149k sq ft hall on Arcola Mills Drive in Loudoun County, VA, in a corridor anchored by Amazon Data Services buildings ~1.4 km away \u2014 tentatively AWS (location-based inference).",
+    "summary": "Unnamed ~149k sq ft hall on Arcola Mills Drive in Loudoun County, VA, in a corridor anchored by Amazon Data Services buildings ~1.4 km away — tentatively AWS (location-based inference).",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3595,7 +3595,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed ~136k sq ft building in the Texas Research Park / SH-211 data-center cluster in far-west Bexar County (San Antonio), ~240 m from a Vantage Data Centers building \u2014 classified as part of Vantage's San Antonio campus.",
+    "summary": "Unnamed ~136k sq ft building in the Texas Research Park / SH-211 data-center cluster in far-west Bexar County (San Antonio), ~240 m from a Vantage Data Centers building — classified as part of Vantage's San Antonio campus.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3604,7 +3604,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Unnamed ~110k sq ft building ~80 m from a CyrusOne facility in the far-west San Antonio (Texas Research Park / SH-211) cluster \u2014 part of CyrusOne's San Antonio campus.",
+    "summary": "Unnamed ~110k sq ft building ~80 m from a CyrusOne facility in the far-west San Antonio (Texas Research Park / SH-211) cluster — part of CyrusOne's San Antonio campus.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3613,7 +3613,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "low",
-    "summary": "Unnamed ~130k sq ft hall in Stone Ridge, Loudoun County, VA, ~130 m from an Amazon Web Services building \u2014 tentatively AWS (location-based inference).",
+    "summary": "Unnamed ~130k sq ft hall in Stone Ridge, Loudoun County, VA, ~130 m from an Amazon Web Services building — tentatively AWS (location-based inference).",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3622,7 +3622,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "low",
-    "summary": "Unnamed ~130k sq ft hall in Stone Ridge, Loudoun County, VA, ~110 m from a Microsoft building \u2014 tentatively Microsoft (location-based inference).",
+    "summary": "Unnamed ~130k sq ft hall in Stone Ridge, Loudoun County, VA, ~110 m from a Microsoft building — tentatively Microsoft (location-based inference).",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3631,7 +3631,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~260 m from Digital Realty buildings \u2014 classified as part of the Digital Realty Loudoun build-out.",
+    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~260 m from Digital Realty buildings — classified as part of the Digital Realty Loudoun build-out.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3640,7 +3640,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~330 m from Digital Realty buildings \u2014 classified as part of the Digital Realty Loudoun build-out.",
+    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~330 m from Digital Realty buildings — classified as part of the Digital Realty Loudoun build-out.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3649,7 +3649,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~270 m from Digital Realty buildings \u2014 classified as part of the Digital Realty Loudoun build-out.",
+    "summary": "Hall under construction on Broderick Drive in Sterling (Loudoun County), VA, ~270 m from Digital Realty buildings — classified as part of the Digital Realty Loudoun build-out.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3658,7 +3658,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed ~124k sq ft building in Santa Clara, CA's data-center district, ~210 m from a Digital Realty facility \u2014 classified as part of the Santa Clara colocation cluster.",
+    "summary": "Unnamed ~124k sq ft building in Santa Clara, CA's data-center district, ~210 m from a Digital Realty facility — classified as part of the Santa Clara colocation cluster.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3667,7 +3667,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed ~109k sq ft building in Santa Clara, CA's data-center district, ~160 m from a Digital Realty facility \u2014 classified as part of the Santa Clara colocation cluster.",
+    "summary": "Unnamed ~109k sq ft building in Santa Clara, CA's data-center district, ~160 m from a Digital Realty facility — classified as part of the Santa Clara colocation cluster.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3676,7 +3676,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Unnamed ~122k sq ft building in Allen, TX, ~230 m from Centersquare's (former Cyxtera) facility \u2014 classified as part of the Allen data-center cluster.",
+    "summary": "Unnamed ~122k sq ft building in Allen, TX, ~230 m from Centersquare's (former Cyxtera) facility — classified as part of the Allen data-center cluster.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3685,7 +3685,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed ~110k sq ft building on Oakton Street in the Elk Grove Village, IL data-center cluster near T5 Chicago \u2014 classified as part of the Elk Grove Village colocation cluster.",
+    "summary": "Unnamed ~110k sq ft building on Oakton Street in the Elk Grove Village, IL data-center cluster near T5 Chicago — classified as part of the Elk Grove Village colocation cluster.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3694,7 +3694,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Unnamed ~109k sq ft building in Centennial, CO, ~130 m from zColo by Zayo \u2014 classified as part of the zColo/Zayo Denver-area campus.",
+    "summary": "Unnamed ~109k sq ft building in Centennial, CO, ~130 m from zColo by Zayo — classified as part of the zColo/Zayo Denver-area campus.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3703,7 +3703,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "~107k sq ft data center off Bear Wallow Road in Warrenton, VA \u2014 matches the contested Amazon Web Services Warrenton data center approved in 2023.",
+    "summary": "~107k sq ft data center off Bear Wallow Road in Warrenton, VA — matches the contested Amazon Web Services Warrenton data center approved in 2023.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3712,7 +3712,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "low",
-    "summary": "Unnamed building on Sycolin Road near Google's Leesburg, VA (Stonewall Creek) campus, adjacent to a sibling building classified the same way \u2014 tentatively Google (location-based inference).",
+    "summary": "Unnamed building on Sycolin Road near Google's Leesburg, VA (Stonewall Creek) campus, adjacent to a sibling building classified the same way — tentatively Google (location-based inference).",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3721,7 +3721,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "Unnamed ~102k sq ft building in downtown San Jose, CA's carrier/interconnection district, ~320 m from CoreSite \u2014 operator not firmly identified; classified as multi-tenant colocation.",
+    "summary": "Unnamed ~102k sq ft building in downtown San Jose, CA's carrier/interconnection district, ~320 m from CoreSite — operator not firmly identified; classified as multi-tenant colocation.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3730,7 +3730,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "low",
-    "summary": "Unnamed ~96k sq ft building off Godwin Drive in Manassas, VA, ~380 m from an Amazon Web Services building \u2014 tentatively AWS (location-based inference).",
+    "summary": "Unnamed ~96k sq ft building off Godwin Drive in Manassas, VA, ~380 m from an Amazon Web Services building — tentatively AWS (location-based inference).",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3739,7 +3739,7 @@
     "purpose": "purpose_built",
     "workload": "mixed",
     "confidence": "high",
-    "summary": "Building within Google's New Albany, OH data center campus \u2014 reverse-geocodes to 'Google New Albany Data Center' and sits ~150 m from tagged Google buildings.",
+    "summary": "Building within Google's New Albany, OH data center campus — reverse-geocodes to 'Google New Albany Data Center' and sits ~150 m from tagged Google buildings.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3748,7 +3748,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "high",
-    "summary": "Sibling building ~20 m from HCA Healthcare's IT & Services data center on Old Franklin Road, Nashville, TN \u2014 part of the same captive HCA campus.",
+    "summary": "Sibling building ~20 m from HCA Healthcare's IT & Services data center on Old Franklin Road, Nashville, TN — part of the same captive HCA campus.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3757,7 +3757,7 @@
     "purpose": "multi_tenant",
     "workload": "mixed",
     "confidence": "medium",
-    "summary": "Unnamed ~82k sq ft hall on Old Ox Road in Sterling (Loudoun County), VA, ~270 m from a CyrusOne facility \u2014 classified as part of CyrusOne's Sterling campus.",
+    "summary": "Unnamed ~82k sq ft hall on Old Ox Road in Sterling (Loudoun County), VA, ~270 m from a CyrusOne facility — classified as part of CyrusOne's Sterling campus.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3775,7 +3775,7 @@
     "purpose": "multi_tenant",
     "workload": "general",
     "confidence": "medium",
-    "summary": "1GServers \u2014 a small dedicated-server and colocation hosting provider \u2014 facility in Phoenix, AZ.",
+    "summary": "1GServers — a small dedicated-server and colocation hosting provider — facility in Phoenix, AZ.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3784,7 +3784,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "low",
-    "summary": "Tagged at the E-Foam (foam fabrication company) site in Winter Garden, FL \u2014 likely the company's on-site server room, not a commercial data center.",
+    "summary": "Tagged at the E-Foam (foam fabrication company) site in Winter Garden, FL — likely the company's on-site server room, not a commercial data center.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3793,7 +3793,7 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "low",
-    "summary": "Small building tagged ForceAmp.com (database tools software company) in Coralville, IA \u2014 captive company server space.",
+    "summary": "Small building tagged ForceAmp.com (database tools software company) in Coralville, IA — captive company server space.",
     "source": "claude",
     "classified_on": "2026-07-28"
   },
@@ -3802,8 +3802,17 @@
     "purpose": "purpose_built",
     "workload": "general",
     "confidence": "low",
-    "summary": "Small QES Computers (IT services) building in Pleasanton, CA \u2014 not a commercial-scale data center.",
+    "summary": "Small QES Computers (IT services) building in Pleasanton, CA — not a commercial-scale data center.",
     "source": "claude",
     "classified_on": "2026-07-28"
+  },
+  "osm/way/1545814424": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Atlas Power's ~1.4M sqft flexible-load campus in Williston, ND — a $1.9B project announced in 2022, phased toward ~700 MW (roughly 240 MW in use), hosting Bitcoin mining and GPU-as-a-Service/HPC workloads.",
+    "source": "claude",
+    "classified_on": "2026-07-30"
   }
 }
