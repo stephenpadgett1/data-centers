@@ -929,22 +929,26 @@
     },
     {
       "id": "curated/news/bessemer-al-63",
-      "name": "Proposed data center campus — Bessemer",
+      "name": "QTS 'Project Marvel' data center campus — Bessemer",
       "operator": "QTS",
       "lat": 33.40178,
       "lng": -86.95444,
       "city": "Bessemer",
       "state": "AL",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 1200,
       "operator_type": "colocation",
-      "purpose": "speculative",
+      "purpose": "multi_tenant",
       "workload": "general",
-      "confidence": "medium",
-      "summary": "A proposed QTS data center campus in Bessemer, Alabama (Birmingham metro) that grew in scope through 2026; QTS confirmed its plans for the campus in July 2026. Early-stage.",
+      "confidence": "high",
+      "summary": "'Project Marvel' — a ~$14.5B, 18-building QTS campus on roughly 700 acres of former timberland near Bessemer (Jefferson County), AL, approved 5-2 by the Bessemer City Council amid fierce opposition after the developer's identity had been withheld since the project first surfaced in March 2025. QTS publicly identified itself as the company behind it on July 2, 2026. A later rezoning request for about 900 more acres would take the site to ~1,600 acres and up to ~1.2 GW across 18 buildings, on a roughly seven-year build. Alabama Power's filed service contract for the campus redacts nearly every major business term — project size, pricing, contract length, financial guarantees — which has driven a statewide push (July 2026) for more oversight of large data center power deals.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDAyeE5nZFVRbGxxcDlFXzVJRHdkREw3T2RZVXQzRkNXYWdxZ1VPSEZVRm1nNHM1clZVbUZTQ1lONTNhajJQTXNfNXM1RjdldS1TZ09FQXZldDYxLWx2WDB1Y05tNXhnM3NzNWpSWEd5WnFLQXVPeWdnaTBzTUV1S0Q5dVJtRndhRE0xcFdZV0lWM3NWSnE4REF0OVlsMUUwUTFn0gG3AUFVX3lxTE50Ti1PanVpZHZwN1kzSFVwYWhnMzc0LVVUY1JkWmQ3b3lUSmlscGdwRVZMYTRBX1N2dHhaM1R0eHBJbGttb3ZaSDF6UDJ3Wk1rOFRmSFQ0SldRTF96X1dKTDk1TTlwLVlVZF85RFJwSW04dmY1bElqNWZGQVlDbGRxTlVKa3ZzYnJFRmU0MHpRSGd3LWRTT01pa2R5VkZRMjVjSF90MjE4T2ZqNkNPQml3Ym81TXF5WQ?oc=5"
+        "https://www.datacenterdynamics.com/en/news/14bn-project-marvel-data-center-approved-by-bessemer-city-council-amidst-fierce-opposition/",
+        "https://abc3340.com/news/local/qts-data-centers-behind-bessemer-project-marvel-plans",
+        "https://www.wbrc.com/2026/07/02/qts-confirms-plans-proposed-data-center-campus-bessemer/",
+        "https://www.wbrc.com/2026/07/30/public-can-read-alabama-powers-data-center-contract-just-not-parts-that-could-affect-bill/",
+        "https://insideclimatenews.org/news/11052025/bessemer-alabama-proposed-data-center/"
       ]
     },
     {
@@ -4139,22 +4143,24 @@
     },
     {
       "id": "curated/news/oregon-oh-215",
-      "name": "Proposed data center — Oregon (near Toledo)",
-      "operator": null,
-      "lat": 41.64366,
-      "lng": -83.48688,
+      "name": "Vantage Data Centers proposed campus — Oregon (near Toledo)",
+      "operator": "Vantage Data Centers",
+      "lat": 41.65874,
+      "lng": -83.47425,
       "city": "Oregon",
       "state": "OH",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
+      "operator_type": "colocation",
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A proposed data center in Oregon, OH (Toledo suburb) that residents are seeking to halt via a city-charter amendment effort (July 2026). Early-stage and contested; coordinates are the city center (approximate).",
+      "summary": "A proposed three-building data center campus near Wynn and Corduroy roads in Oregon, OH (Toledo suburb). City officials named Vantage Data Centers as the prospective developer on July 28–29, 2026, after the project's end user had been withheld for months; the site plan allows for multiple end users per building. The developer had earlier won a six-month extension (February 2026) to finalize the project. Residents are pursuing a city-charter amendment and petition drive to force a public vote. Contested; coordinates approximate (Wynn/Corduroy area).",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaG81emoyYWxtUnNraF95cEpKckxLNnhJVTdjWTVyVGtLd1NQZUlaYjY3SU5hUHVhcWVvMDJ2dzdXUC1LMHhmb3VuMkpMRTllcDNTcHlOUzhoLTVaR3pweVFZUWpQRUszbzMyUHh1M1ZqM1A3VGZ6TE8zWl9NaDdFMUhZc0l6WmxuTnFPbkVXMDd5SElPZk5mMURiZmNSOW1oZ0NHVHI4bzIwNFhWSWZaSWZvaFVvRkVCVlFBZTdheS02M1FHV0N0WTVDRGlsNW1XQkk1Q3Q1b0U4TWNkZE9ZVDlrUmY0RDJ6Zk1FQ3F4cnkwZW9IZGozRTlJdjViQlRIYmc?oc=5"
+        "https://www.wtol.com/article/news/local/oregon-identifies-vantage-data-centers-as-developer-vying-for-wynn-road-location/512-e33a297c-6481-476f-b388-aadac211612f",
+        "https://www.13abc.com/2026/07/29/oregon-officials-eye-vantage-data-centers-proposed-development-near-wynn-corduroy-roads/",
+        "https://www.toledoblade.com/local/suburbs/2026/07/28/mayor-names-end-user-proposed-oregon-data-center/stories/20260728110"
       ]
     },
     {
@@ -4199,11 +4205,11 @@
     },
     {
       "id": "curated/news/lorain-county-oh-219",
-      "name": "Proposed data center campus — Lorain County (industrial conversion)",
-      "operator": null,
-      "lat": 41.36732,
-      "lng": -82.10736,
-      "city": "Lorain County",
+      "name": "Cervenka Development Partners data center — former Nordson campus, Amherst",
+      "operator": "Cervenka Development Partners",
+      "lat": 41.39212,
+      "lng": -82.21238,
+      "city": "Amherst",
       "state": "OH",
       "status": "planned",
       "capacity_mw": null,
@@ -4211,10 +4217,12 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A developer proposes converting three Lorain County, OH industrial buildings into a data center campus (July 2026). Early-stage; coordinates approximate (Elyria area).",
+      "summary": "A proposal by Cervenka Development Partners to convert three industrial buildings on the 36.58-acre former Nordson Corporation campus at 100–300 Nordson Drive in Amherst (Lorain County), OH into a data center campus. More than 100 residents packed the July 29, 2026 Amherst Board of Zoning Appeals hearing, and the board rejected the requested use variance less than 24 hours later; the developer must now decide whether to walk away or appeal to Lorain County Common Pleas Court. Blocked as of Aug 1, 2026.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUmx5eGUyOXFyVmhLVjZVN2NkWGVacEVVemVmcWFoTzFnTUtnU2ZtQXozeWVfSUNhRzV0TVEyWXIwQ1RvR29abEg4Mjc2d3VVSnJ5U0JYQll0SDd2TWRIQkoxLVNscWRvSGwwQlV4RWl0eUpVb1ptazZRNWU2ZWpOSUFMZk0zR1FUYV9Vd192TWQzaFhubnhHY0tycEE4N094RU5QeHRDUWJhbVZIS043N3ZwWXZMamUyVmp2b1k5U2dGTG5YQ2ROOUhUbHJLVmxfMTZ5UThn?oc=5"
+        "https://www.news5cleveland.com/news/local-news/amherst-zoning-board-rejects-variance-for-data-center-project-on-longtime-nordson-campus",
+        "https://www.cleveland19.com/2026/07/30/capacity-limits-push-amherst-residents-outside-zoning-board-hears-data-center-proposal/",
+        "https://www.news5cleveland.com/news/local-news/a-developer-wants-to-turn-three-lorain-county-industrial-buildings-into-a-data-center-campus"
       ]
     },
     {
@@ -4465,6 +4473,120 @@
         "https://www.kwtx.com/2026/05/28/illegal-under-texas-law-data-center-developer-files-lawsuit-against-hill-county-moratorium/",
         "https://www.texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers/",
         "https://www.fox4news.com/news/willie-nelson-slams-water-thieving-data-centers-texas"
+      ]
+    },
+    {
+      "id": "curated/news/westlake-tx-circle-t-232",
+      "name": "Circle T Data Center — Westlake (Keller/Southlake line)",
+      "operator": null,
+      "lat": 32.99123,
+      "lng": -97.19437,
+      "city": "Westlake",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 3830000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~3.83 million sq ft data center campus proposed on about 88 acres in the Circle T development near US 377 and Westport Parkway in Westlake, TX, announced by town officials in July 2026. The site backs onto Keller, whose mayor and council say they learned of the project only after it was made public; neighbors cite noise, health and property-value concerns, and the campus is projected to use roughly 54 million gallons of water a year. Westlake's Planning & Zoning Commission was set to take up site plans on Aug 4, 2026. End user undisclosed; coordinates approximate (Westlake).",
+      "website": null,
+      "sources": [
+        "https://www.nbcdfw.com/news/local/westlakes-planned-data-center-sparks-concerns-keller/4057023/",
+        "https://communityimpact.com/keller-roanoke-northeast-fort-worth/development/westlake-officials-announce-construction-of-data-center-near-keller-southlake/"
+      ]
+    },
+    {
+      "id": "curated/news/ashburn-va-aws-bridgefield-233",
+      "name": "AWS 'Bridgefield Tech Center' — former GWU Ashburn campus",
+      "operator": "Amazon Web Services",
+      "lat": 39.02978,
+      "lng": -77.47441,
+      "city": "Ashburn",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 800000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "Amazon filed a site plan application with Loudoun County on July 28, 2026 seeking by-right approval for four two-story data centers totaling about 800,000 sq ft — branded the Bridgefield Tech Center — on the 122-acre former George Washington University Virginia Science & Technology Campus in Ashburn. An Amazon subsidiary bought the campus for $427M in March 2026; under the sale agreement GWU may keep using the property for up to five years while it relocates operations. Coordinates approximate (Ashburn).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/aws-looks-to-build-800000-sq-ft-data-center-campus-at-gwu-site-in-ashburn-virginia/",
+        "https://www.loudountimes.com/news/business_and_economy/real_estate_and_development/amazon-proposes-4-data-centers-on-gwus-loudoun-campus/article_2413712d-48d3-4f70-b3d4-cd08a18b1e2b.html",
+        "https://virginiabusiness.com/gw-sells-ashburn-campus-to-amazon-subsidiary-for-427m/"
+      ]
+    },
+    {
+      "id": "curated/news/hubbard-tx-nexus-235",
+      "name": "Nexus Hubbard Campus (Anthropic anchor tenant)",
+      "operator": "Nexus Data Centers",
+      "lat": 31.84755,
+      "lng": -96.79631,
+      "city": "Hubbard",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 612,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "A ~2,000-acre AI campus in Hubbard, Hill County, being developed by Nexus Data Centers with Anthropic as anchor tenant — part of Anthropic's shift toward leasing data centers directly rather than renting cloud capacity. A permit for the first building ('Nexus - Apex DFW HB1', 491,380 sq ft, ~$400M construction value) runs from January 2026 to October 2027, and Nexus has filed for a second building. In late July 2026 a Morgan Stanley-led bank group was in advanced talks on roughly $15B of debt (a ~$14B bridge loan plus a revolver) covering the campus and a co-located 1.6 GW gas-fired power plant; Google agreed to guarantee billions of Anthropic's lease and power commitments and supply chips in exchange for roughly 20% equity in the data center and power project. Financing was not closed as of Aug 1, 2026. Distinct from RCM's 'Project Aquila' elsewhere in Hill County. Coordinates approximate (Hubbard).",
+      "website": null,
+      "sources": [
+        "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+        "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid",
+        "https://www.datacenterdynamics.com/en/news/nexus-dc-files-to-develop-second-data-center-outside-dallas-texas/",
+        "https://www.datacentermap.com/usa/texas/dallas/nexus-hubbard-campus/"
+      ]
+    },
+    {
+      "id": "curated/news/minneapolis-mn-legacy-heritage-234",
+      "name": "Legacy Investing data center — former Star Tribune Heritage printing plant",
+      "operator": "Legacy Investing",
+      "lat": 44.99066,
+      "lng": -93.27664,
+      "city": "Minneapolis",
+      "state": "MN",
+      "status": "planned",
+      "capacity_mw": 20,
+      "area_sqft": 500000,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "Arlington, VA-based Legacy Investing signed a purchase agreement in July 2026 to buy the Minnesota Star Tribune's shuttered Heritage printing plant at 800 N 1st St in the North Loop of downtown Minneapolis — a 1986-built, 500,000+ sq ft plant on 13 acres just west of the Mississippi — and convert it into a roughly 20 MW data center anchoring a larger mixed-use redevelopment that may also include housing and retail. The sale is expected to close in Q4 2026. No tenant announced.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/legacy-investing-buys-printing-press-in-minneapolis-minnesota-for-data-center-development/",
+        "https://www.startribune.com/data-center-developer-signs-deal-to-buy-minnesota-star-tribunes-shuttered-north-loop-printing-plant/601872895",
+        "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+      ]
+    },
+    {
+      "id": "curated/news/kansas-city-mo-central-236",
+      "name": "Proposed 20-story data center tower — 934 Central St, Kansas City",
+      "operator": "Revitalization Unlimited",
+      "lat": 39.1032,
+      "lng": -94.58699,
+      "city": "Kansas City",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 142085,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Miami developer Revitalization Unlimited, with architect Skidmore, Owings & Merrill, filed plans with Kansas City in June 2026 for a 20-story, 384-ft tower at 934 Central St in the Quality Hill neighborhood of downtown — roughly 141,000–142,000 sq ft, mostly data center and supporting infrastructure, reportedly powered by natural gas fuel cells. The project would demolish the 1900 Western Newspaper Union Building, on the National Register of Historic Places since 2007. Two 4th District council members oppose it, and residents have questioned whether the data center framing is a pretext for another use. A City Plan Commission public hearing was set for Aug 5, 2026. Early-stage and contested.",
+      "website": null,
+      "sources": [
+        "https://www.kcur.org/housing-development-section/2026-07-29/kansas-city-downtown-data-center-revitalization-unlimited-historic-building",
+        "https://www.datacenterdynamics.com/en/news/former-newspaper-building-in-kansas-city-eyed-for-20-story-data-center-development/",
+        "https://www.kctv5.com/2026/07/27/two-kansas-city-councilmembers-oppose-proposed-downtown-kansas-city-data-center/"
       ]
     }
   ]

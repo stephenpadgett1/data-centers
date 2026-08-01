@@ -1,11 +1,20 @@
 {
+  "20101 academic way, ashburn, va": null,
   "301 virginia street, seattle, wa": {
     "lat": 47.61235,
     "lng": -122.34043
   },
+  "800 north 1st street, minneapolis, mn": {
+    "lat": 44.99066,
+    "lng": -93.27664
+  },
   "853 kenwood avenue, slingerlands, ny": {
     "lat": 42.62911,
     "lng": -73.8652
+  },
+  "934 central street, kansas city, mo": {
+    "lat": 39.1032,
+    "lng": -94.58699
   },
   "abbott, tx": {
     "lat": 31.88993,
@@ -62,6 +71,10 @@
   "arney, tx": {
     "lat": 34.68729,
     "lng": -102.10297
+  },
+  "ashburn, va": {
+    "lat": 39.02978,
+    "lng": -77.47441
   },
   "ashland, ky": {
     "lat": 38.47841,
@@ -239,6 +252,10 @@
     "lat": 35.08919,
     "lng": -92.43984
   },
+  "corduroy road, oregon, oh": {
+    "lat": 41.65874,
+    "lng": -83.47425
+  },
   "corpus christi, tx": {
     "lat": 27.76353,
     "lng": -97.40332
@@ -406,6 +423,10 @@
   "hood county, tx": {
     "lat": 32.41076,
     "lng": -97.82828
+  },
+  "hubbard, tx": {
+    "lat": 31.84755,
+    "lng": -96.79631
   },
   "hutto, tx": {
     "lat": 30.54276,
@@ -630,6 +651,10 @@
   "nodaway county, mo": {
     "lat": 40.34834,
     "lng": -94.87237
+  },
+  "nordson drive, amherst, oh": {
+    "lat": 41.39212,
+    "lng": -82.21238
   },
   "north slope borough, alaska": {
     "lat": 69.53351,
@@ -926,6 +951,10 @@
   "westfield, ma": {
     "lat": 42.12054,
     "lng": -72.74892
+  },
+  "westlake, tx": {
+    "lat": 32.99123,
+    "lng": -97.19437
   },
   "wheatfield, in": {
     "lat": 41.19294,
