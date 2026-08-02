@@ -2775,13 +2775,16 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Verrus's 'Oakline at Mill Creek' - a proposed ~$5.1B, three-building data center campus plus utility substation on ~75 acres in the Mill Creek Corporate Center in southeast Salem, OR, designed for cloud/AI workloads with battery storage, closed-loop cooling and grid-flexible demand. Disclosed publicly in mid-July 2026 after the city was released from an NDA; city council heard mixed public testimony on July 20, 2026 and the project is in early review (staff project ~$9M/yr to the general fund and ~75 permanent jobs). Not yet approved.",
+      "summary": "Verrus's 'Oakline at Mill Creek' - a proposed ~$5.1B, three-building data center campus plus utility substation on ~75 acres in the Mill Creek Corporate Center in southeast Salem, OR, designed for cloud/AI workloads with battery storage, closed-loop cooling and grid-flexible demand; local reporting describes the project as Google-funded. Disclosed publicly in mid-July 2026 after the city was released from an NDA (staff project ~$9M/yr to the general fund and ~75 permanent jobs). Opposition escalated sharply in late July: hundreds packed the July 27, 2026 council meeting and Verrus representatives left before their scheduled presentation after repeated audience outbursts. The council voted 8-0 to create a data center task force and to explore banning NDAs with data center companies, but did not approve, reject or pause the project; on July 28 the planning commission voted to recommend the council amend city code to make data centers a conditional use. Still in early review and not approved.",
       "website": null,
       "sources": [
         "https://www.salemreporter.com/2026/07/14/salem-discloses-proposed-mill-creek-data-center-project-after-city-released-from-nda/",
         "https://www.cityofsalem.net/Home/Components/News/News/2169/15",
         "https://www.kptv.com/2026/07/16/75-acre-data-center-proposed-salem/",
-        "https://www.salemreporter.com/2026/07/16/salem-data-center-project-likely-to-proceed/"
+        "https://www.salemreporter.com/2026/07/16/salem-data-center-project-likely-to-proceed/",
+        "https://www.salemreporter.com/2026/07/28/proposed-data-center-draws-tremendous-blowback-at-monday-nights-council-meeting/",
+        "https://www.salemreporter.com/2026/07/29/planning-commission-recommends-council-change-code-to-make-data-centers-conditional/",
+        "https://salembusinessjournal.org/2026/07/28/salem-data-center-council-votes-task-force/"
       ]
     },
     {
