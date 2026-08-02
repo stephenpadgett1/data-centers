@@ -15,6 +15,14 @@ data/facilities.raw.json
 data/unclassified.json
 data/discovery-candidates.json
 
+# Published data store. Rebuilt from scratch every refresh and served from the
+# gh-pages branch (scripts/publish-data.sh) — not versioned here, because a
+# 1.4 MB minified blob rewritten daily is history bloat with an unreadable diff.
+# The editorial sources it is built FROM (data/curated.json,
+# data/classifications.json, ...) stay tracked.
+site/public/data/data-centers.json
+site/public/data/build-meta.json
+
 # Refresh logs
 logs/
 

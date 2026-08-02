@@ -42,6 +42,15 @@ def load_json(path, default):
     return default
 
 
+def load_seen(path) -> set[str]:
+    """Seen-keys loader. Canonical shape is {"keys": [...]}, but tolerate a bare
+    list so a malformed write by the editorial pass degrades to a no-op rather
+    than crashing the harvest (see the 2026-06-20 regression)."""
+    raw = load_json(path, {"keys": []})
+    keys = raw.get("keys", []) if isinstance(raw, dict) else raw
+    return {k for k in keys if k not in ("_comment", "keys")}
+
+
 def fetch(url: str) -> bytes | None:
     try:
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -56,9 +65,24 @@ def _strip_ns(tag: str) -> str:
     return tag.split("}", 1)[-1]
 
 
+def clamp(s: str, limit: int) -> str:
+    """Feed text is copied verbatim into the candidate worklist, which the
+    unattended editorial pass then reads. Strip control characters (which can
+    hide framing/escape sequences in a terminal or log) and cap the length, so a
+    hostile feed can't smuggle in a wall of text pretending to be instructions."""
+    return re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", " ", s).strip()[:limit]
+
+
 def parse_feed(raw: bytes) -> list[dict]:
     """Parse RSS <item> or Atom <entry> into {title, link, summary, published}."""
     out: list[dict] = []
+    # xml.etree is documented as vulnerable to entity-expansion ("billion
+    # laughs") DoS, and these feeds are third-party. A well-formed RSS/Atom feed
+    # has no need of a DTD, so refuse one outright rather than take a dependency
+    # on defusedxml — the daily pipeline is deliberately stdlib-only.
+    if re.search(rb"<!\s*(DOCTYPE|ENTITY)", raw[:8192], re.IGNORECASE):
+        print("  WARN: feed declares a DTD/entity; refusing to parse")
+        return out
     try:
         root = ET.fromstring(raw)
     except ET.ParseError:
@@ -70,14 +94,14 @@ def parse_feed(raw: bytes) -> list[dict]:
         for child in el:
             name = _strip_ns(child.tag)
             if name == "title":
-                rec["title"] = (child.text or "").strip()
+                rec["title"] = clamp(child.text or "", 300)
             elif name == "link":
                 # RSS: text; Atom: href attribute
-                rec["link"] = (child.text or child.get("href") or "").strip()
+                rec["link"] = clamp(child.text or child.get("href") or "", 500)
             elif name in ("description", "summary", "content"):
-                rec["summary"] = re.sub(r"<[^>]+>", " ", child.text or "")[:500].strip()
+                rec["summary"] = clamp(re.sub(r"<[^>]+>", " ", child.text or ""), 500)
             elif name in ("pubDate", "published", "updated"):
-                rec["published"] = (child.text or "").strip()
+                rec["published"] = clamp(child.text or "", 100)
         if rec["title"]:
             out.append(rec)
     return out
@@ -109,7 +133,7 @@ def curated_keys(curated: list[dict]) -> list[tuple[str, str]]:
 def main():
     cfg = load_json(SOURCES, {})
     curated = load_json(CURATED, {"facilities": []}).get("facilities", [])
-    seen = set(load_json(SEEN, {"keys": []}).get("keys", []))
+    seen = load_seen(SEEN)
     cur_pairs = curated_keys(curated)
 
     include = cfg.get("include_keywords", [])

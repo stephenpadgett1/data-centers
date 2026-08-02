@@ -1,8 +1,16 @@
 # Daily refresh checklist (for the scheduled Claude Code agent)
 
 This is the prompt/checklist the daily scheduled agent follows. It keeps both the
-facility data and the editorial judgment calls fresh, then publishes by pushing to
-`main` (which triggers the GitHub Pages deploy).
+facility data and the editorial judgment calls fresh, then publishes.
+
+**Two different things get published, and they are separate:**
+
+- the **editorial sources** you edit (`data/curated.json`,
+  `data/classifications.json`, …) are committed to `main`;
+- the **built data store** (`site/public/data/data-centers.json` +
+  `build-meta.json`) is *not* committed at all — it is pushed straight to the
+  `gh-pages` branch by `scripts/publish-data.sh`, and the site fetches it from
+  there at runtime.
 
 ## Steps
 
@@ -71,23 +79,33 @@ facility data and the editorial judgment calls fresh, then publishes by pushing 
 
    ```bash
    python3 pipeline/build.py
-   python3 pipeline/validate.py   # must exit 0 before committing
+   python3 pipeline/validate.py   # must exit 0 before publishing
    ```
 
 7. **Publish**
 
    ```bash
+   # (a) the editorial sources -> main. NOT the built JSON; it is untracked.
    git add pipeline/operators.json data/classifications.json data/curated.json \
-           data/discovery-seen.json data/geocode-cache.json \
-           site/public/data/data-centers.json site/public/data/build-meta.json
-   git commit -m "data refresh $(date +%F)"
+           data/discovery-seen.json data/geocode-cache.json
+   git commit -m "editorial refresh $(date +%F)"
    git push origin main
-   ./scripts/deploy.sh            # build + publish to gh-pages
+
+   # (b) the built data store -> gh-pages. Re-validates, then confirms the
+   #     bytes actually went live before reporting success.
+   ./scripts/publish-data.sh
    ```
+
+   `./scripts/deploy.sh` is **not** part of the daily run — it rebuilds and
+   republishes the site shell, and is only needed when the front-end changes.
 
 ## Guardrails
 
-- **Never commit if `validate.py` fails** (it exits non-zero on bad data).
+- **Never publish if `validate.py` fails** (it exits non-zero on bad data).
+  `publish-data.sh` runs it again itself, so a bad payload cannot go live.
+- `publish-data.sh` verifies the live URL after pushing. If it reports
+  `WARN: … still serving …`, the publish did **not** take effect — say so in the
+  run summary rather than reporting success.
 - If the OSM fetch fails, `fetch.py` keeps the previous data — that's fine; the
   build still runs against the last good pull.
 - Keep per-run editorial effort bounded (top ~30 unclassified + the announcement
@@ -98,4 +116,5 @@ facility data and the editorial judgment calls fresh, then publishes by pushing 
 - The **power-generation layer** (`site/public/data/power-plants.json`, EIA Form
   860M) is **not** part of this daily run. Refresh it ~monthly on its own:
   `pip install -r pipeline/requirements.txt && python3 pipeline/fetch_power.py`,
-  then rebuild/commit. (Keeps the daily refresh dependency-free.)
+  then commit it and run `./scripts/deploy.sh` — it ships with the site shell,
+  not with the daily data store. (Keeps the daily refresh dependency-free.)

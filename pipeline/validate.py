@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Sanity-check the published data store. Exits non-zero on any failure so the
-daily refresh agent can abort before committing bad data."""
+"""Sanity-check the built data store. Exits non-zero on any failure so the daily
+refresh aborts before publishing bad data (see scripts/publish-data.sh, which
+gates on this)."""
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import sys
@@ -17,6 +19,7 @@ TYPES = {"hyperscaler", "colocation", "enterprise", "crypto", "telecom",
          "government", "education", "unknown"}
 PURPOSES = {"purpose_built", "speculative", "multi_tenant", "unknown"}
 WORKLOADS = {"ai", "general", "mixed", "unknown"}
+CONFIDENCES = {"high", "medium", "low"}
 # Generous continental + AK/HI/territories bounding box.
 LAT_RANGE = (15.0, 72.0)
 LNG_RANGE = (-180.0, -64.0)
@@ -67,6 +70,15 @@ def main() -> int:
             errors.append(f"{tag}: bad purpose '{cls.get('purpose')}'")
         if cls.get("workload") not in WORKLOADS:
             errors.append(f"{tag}: bad workload '{cls.get('workload')}'")
+        # confidence is rendered into the detail panel, and the editorial pass
+        # that writes it reads untrusted news text — keep it to a fixed vocabulary.
+        if cls.get("confidence") not in CONFIDENCES:
+            errors.append(f"{tag}: bad confidence '{cls.get('confidence')}'")
+
+        # Nothing but http(s) should ever reach an href in the site.
+        for key, url in (r.get("links") or {}).items():
+            if isinstance(url, str) and not url.lower().startswith(("http://", "https://")):
+                errors.append(f"{tag}: non-http(s) link {key}={url[:60]!r}")
 
         cap = r.get("capacity_mw")
         if cap is not None and (not isinstance(cap, (int, float)) or cap < 0 or cap > 20000):
@@ -78,6 +90,19 @@ def main() -> int:
             meta = json.load(f)
         if meta.get("total") != len(records):
             errors.append(f"meta.total {meta.get('total')} != record count {len(records)}")
+
+        # The manifest fingerprint must describe the file sitting next to it —
+        # otherwise the two halves of the data store are from different builds
+        # and publish-data.sh would verify the wrong digest against the live URL.
+        if meta.get("sha256"):
+            with open(DATA, "rb") as f:
+                actual = hashlib.sha256(f.read()).hexdigest()
+            if actual != meta["sha256"]:
+                errors.append(
+                    f"meta.sha256 {meta['sha256'][:12]}… does not match "
+                    f"data-centers.json {actual[:12]}… (stale build-meta.json?)")
+        else:
+            warnings.append("build-meta.json has no sha256; re-run pipeline/build.py")
 
     for w in warnings:
         print(f"WARN: {w}")

@@ -10,6 +10,7 @@ Outputs:
 from __future__ import annotations
 
 import datetime
+import hashlib
 import json
 import math
 import os
@@ -119,10 +120,20 @@ def classification_for(facility, cache):
     return cls, make_summary(facility.get("operator"), facility["status"], cls), True
 
 
+def safe_url(u):
+    """Only http(s) links get published. The OSM `website` tag is world-editable,
+    so a `javascript:` value there would otherwise land in the site's detail
+    panel as a live link. The front-end allowlists the scheme too — this just
+    keeps the bad value out of the published data in the first place."""
+    if not isinstance(u, str):
+        return None
+    return u if u.lower().startswith(("http://", "https://")) else None
+
+
 def build_osm_record(f, cache, prev_first_seen):
     cls, summary, needs_review = classification_for(f, cache)
     links = {
-        "website": f.get("website"),
+        "website": safe_url(f.get("website")),
         "osm": osm_url(f["osm_type"], f["osm_id"]),
         "wikidata": (f"https://www.wikidata.org/wiki/{f['wikidata']}" if f.get("wikidata")
                      else (f"https://www.wikidata.org/wiki/{f['operator_wikidata']}"
@@ -160,7 +171,7 @@ def build_curated_record(c, prev_first_seen):
         "workload": c.get("workload", "unknown"),
         "confidence": c.get("confidence", "medium"),
     }
-    links = {"website": c.get("website")}
+    links = {"website": safe_url(c.get("website"))}
     return {
         "id": c["id"],
         "source": "curated",
@@ -258,6 +269,13 @@ def main():
     with open(OUT_DATA, "w") as f:
         json.dump(records, f, ensure_ascii=False, separators=(",", ":"))
 
+    # Fingerprint the payload. The published data store lives on the gh-pages
+    # branch rather than in this repo, so this is what lets validate.py and
+    # scripts/publish-data.sh confirm that what went live is what we built.
+    with open(OUT_DATA, "rb") as f:
+        payload = f.read()
+    digest = hashlib.sha256(payload).hexdigest()
+
     by_status, by_type = {}, {}
     total_mw = 0
     for r in records:
@@ -278,6 +296,8 @@ def main():
         "total_capacity_mw": total_mw,
         "total_capacity_gw": round(total_mw / 1000, 1),
         "unclassified": len(worklist),
+        "sha256": digest,
+        "bytes": len(payload),
         "attribution": "© OpenStreetMap contributors (ODbL) · curated megacampus data from public announcements",
     }
     with open(OUT_META, "w") as f:
@@ -295,7 +315,7 @@ def main():
     print(f"  state backfilled: {backfilled} (point-in-polygon) | states geojson: {n_states} features")
     print(f"  total capacity: {meta['total_capacity_gw']} GW (from {sum(1 for r in records if r['capacity_mw'])} records)")
     print(f"  unclassified worklist: {len(worklist)} -> {os.path.relpath(OUT_WORKLIST, ROOT)}")
-    print(f"  wrote -> {os.path.relpath(OUT_DATA, ROOT)} ({os.path.getsize(OUT_DATA)//1024} KB)")
+    print(f"  wrote -> {os.path.relpath(OUT_DATA, ROOT)} ({len(payload)//1024} KB, sha256 {digest[:12]}…)")
 
 
 if __name__ == "__main__":

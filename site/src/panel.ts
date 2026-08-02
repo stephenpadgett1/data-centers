@@ -11,6 +11,19 @@ import {
 const esc = (s: string): string =>
   s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
 
+// Link targets come from the OSM `website` tag, which anyone with a free OSM
+// account can edit. esc() stops an attribute breakout but leaves the URL scheme
+// alone, so `javascript:…` would survive it intact and run on click. Allowlist
+// the scheme separately; a relative or unparseable value drops the link.
+const safeUrl = (u: string): string | null => {
+  try {
+    const { protocol, href } = new URL(u);
+    return protocol === "http:" || protocol === "https:" ? href : null;
+  } catch {
+    return null;
+  }
+};
+
 function fmtArea(sqft: number | null): string | null {
   if (!sqft) return null;
   if (sqft >= 1_000_000) return `${(sqft / 1_000_000).toFixed(1)}M ft²`;
@@ -52,11 +65,15 @@ export function renderDetail(d: DataCenter): string {
   metaRows.push(
     `<div class="row"><span>Source</span><span>${d.source === "curated" ? "Curated" : "OpenStreetMap"}</span></div>`,
   );
-  metaRows.push(`<div class="row"><span>First seen</span><span>${d.first_seen}</span></div>`);
+  metaRows.push(`<div class="row"><span>First seen</span><span>${esc(d.first_seen)}</span></div>`);
 
   const links = Object.entries(d.links)
-    .filter(([, v]) => v)
-    .map(([k, v]) => `<a href="${esc(v!)}" target="_blank" rel="noopener">${LINK_LABELS[k] ?? k}</a>`)
+    .map(([k, v]) => [k, v ? safeUrl(v) : null] as const)
+    .filter(([, href]) => href)
+    .map(
+      ([k, href]) =>
+        `<a href="${esc(href!)}" target="_blank" rel="noopener noreferrer">${esc(LINK_LABELS[k] ?? k)}</a>`,
+    )
     .join("");
 
   return `
@@ -70,7 +87,7 @@ export function renderDetail(d: DataCenter): string {
     ${metrics.length ? `<div class="d-metrics">${metrics.join("")}</div>` : ""}
     <div class="d-meta">${metaRows.join("")}</div>
     ${links ? `<div class="d-links">${links}</div>` : ""}
-    <div class="d-confidence">Classification confidence: ${cls.confidence}${
+    <div class="d-confidence">Classification confidence: ${esc(cls.confidence)}${
       cls.confidence === "low" ? " — editorial estimate, may be refined" : ""
     }</div>
   `;

@@ -2,9 +2,9 @@
 <!--
   Daily refresh LaunchAgent template.
 
-  Install:
-    cp scripts/launchd-refresh.plist ~/Library/LaunchAgents/com.datacenters.refresh.plist
-    # edit the paths below to match your checkout, then:
+  Install (substitutes your checkout path for __REPO_ROOT__):
+    sed "s|__REPO_ROOT__|$PWD|g" scripts/launchd-refresh.plist \
+      > ~/Library/LaunchAgents/com.datacenters.refresh.plist
     launchctl load -w ~/Library/LaunchAgents/com.datacenters.refresh.plist
 
   Disable:
@@ -20,7 +20,7 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/bash</string>
-    <string>/Users/stephenpadgett/Projects/data-centers/scripts/refresh-cron.sh</string>
+    <string>__REPO_ROOT__/scripts/refresh-cron.sh</string>
   </array>
   <key>StartCalendarInterval</key>
   <dict>
@@ -32,8 +32,8 @@
   <key>RunAtLoad</key>
   <false/>
   <key>StandardOutPath</key>
-  <string>/Users/stephenpadgett/Projects/data-centers/logs/launchd.out.log</string>
+  <string>__REPO_ROOT__/logs/launchd.out.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/stephenpadgett/Projects/data-centers/logs/launchd.err.log</string>
+  <string>__REPO_ROOT__/logs/launchd.err.log</string>
 </dict>
 </plist>
