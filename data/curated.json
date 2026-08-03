@@ -4591,6 +4591,71 @@
         "https://www.datacenterdynamics.com/en/news/former-newspaper-building-in-kansas-city-eyed-for-20-story-data-center-development/",
         "https://www.kctv5.com/2026/07/27/two-kansas-city-councilmembers-oppose-proposed-downtown-kansas-city-data-center/"
       ]
+    },
+    {
+      "id": "curated/news/manassas-va-yondr-cerberus-237",
+      "name": "Yondr / Cerberus Manassas campus",
+      "operator": "Yondr Group / Cerberus Capital Management",
+      "lat": 38.75095,
+      "lng": -77.47527,
+      "city": "Manassas",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": 72,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "Yondr Group, in partnership with Cerberus Capital Management, acquired a 40-acre site in Manassas, Northern Virginia in August 2026 to develop a 72 MW hyperscale data center campus, reported as expected to go live in 2029. It expands Yondr's North American footprint beyond its existing 96 MW Loudoun County campus. Coordinates are the Manassas city centroid (approximate — the exact parcel was not disclosed).",
+      "website": "https://www.yondrgroup.com/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/yondr-group-and-cerberus-acquire-40-acres-for-data-center-campus-in-manassas-virginia/",
+        "https://www.telecompaper.com/news/yondr-buys-40-acre-virginia-site-for-new-72mw-data-centre-campus--1578892"
+      ]
+    },
+    {
+      "id": "curated/news/dallas-tx-crow-cleanarc-238",
+      "name": "Crow Holdings / CleanArc Dallas Market Center campus",
+      "operator": "Crow Holdings / CleanArc Data Centers",
+      "lat": 32.80397,
+      "lng": -96.83213,
+      "city": "Dallas",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": 245,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "A planned 245 MW multi-building campus on a 40-acre urban infill site at 2222 N Stemmons Freeway in central Dallas, long held by Crow Holdings and currently occupied by Dallas Market Hall and the Renaissance Dallas Hotel. First announced in January 2026, with CleanArc Data Centers selected to lead master-planning, development and leasing; the first 70 MW building is targeted for late 2027, supported by a dedicated on-site substation. The site is close to the Infomart interconnection hub. As of August 2026 the Market Hall building looks set to be replaced, and Market Hall bookings have been stopped while redevelopment plans are evaluated.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/crow-and-cleanarc-target-245mw-data-center-at-dallas-market-center-in-texas/",
+        "https://www.crowholdings.com/insights/crow-holdings-announces-245mw-flagship-data-center-campus-in-central-dallas/",
+        "https://www.wfaa.com/article/money/business/dallas-market-hall-center-crow-holding-data-center-campus/287-00c0455b-f41e-4b64-a28d-c3cfc416bc3c"
+      ]
+    },
+    {
+      "id": "curated/news/north-port-fl-239",
+      "name": "Proposed data center — North Port",
+      "operator": null,
+      "lat": 27.04422,
+      "lng": -82.23593,
+      "city": "North Port",
+      "state": "FL",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "An application for a data center was filed with the City of North Port on July 20, 2026, one night before the City Commission discussed a citywide moratorium. No project name or developer has been disclosed — the city says the application is \"exempt from public records disclosure at this time.\" Local reporting places the likely site on roughly 103 acres across three parcels on the east side of the city near Yorkshire Street, close to the Orange Hammock Wildlife Management Area. Commissioners voted to pursue a retroactive 18-month moratorium that would halt data center development including applications already in the system, and Sarasota County separately blocked hyperscale data centers for at least a year in July 2026. Highly contested and may not proceed; coordinates are the North Port city centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.yoursun.com/northport/news/proposed-north-port-data-center-location-found/article_0526ec19-4ab2-4f57-96a6-a8707b7de5d3.html",
+        "https://wslr.org/north-port-schedules-data-center-moratorium-vote/",
+        "https://www.mysuncoast.com/2026/07/09/sarasota-county-blocks-hyperscale-data-centers-least-one-year/"
+      ]
     }
   ]
 }
