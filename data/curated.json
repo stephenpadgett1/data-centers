@@ -343,22 +343,24 @@
     },
     {
       "id": "curated/news/colorado-springs-co-29",
-      "name": "Proposed AI data center — Colorado Springs",
-      "operator": null,
+      "name": "Project Taurus (Raeden) — Colorado Springs",
+      "operator": "Raeden",
       "lat": 38.83396,
       "lng": -104.82535,
       "city": "Colorado Springs",
       "state": "CO",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 50,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "ai",
-      "confidence": "low",
-      "summary": "A proposed AI data center in Colorado Springs, Colorado, spurring debate over its merits. Early-stage.",
+      "confidence": "medium",
+      "summary": "Tech and real-estate company Raeden's proposed AI data center — dubbed 'Project Taurus' — would repurpose the former Intel chip plant near Garden of the Gods Road and Centennial Boulevard, the city's first AI data center. City staff administratively approved it in June 2026; after a ~14-hour hearing on July 23–24 the Planning Commission voted 6–2 to deny neighborhood appeals while capping power draw at 50 MW, requiring Raeden to publicly report utility usage for its first 10 years, and broadening noise monitoring. In early August 2026 two new appeals sent the decision to City Council, the final local authority. Coordinates approximate (city centroid).",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkZ2QWw5eWNrWlRGOGJua1NXN3lodmIwcEZKRUtuQURFbDl0Sk1jTjlLTjdtLUhqVG9oNjBSY1dGQ1dLR2ZJTFNEMndLMXFHb3lMYm9yRUtyZ19pUVBPNDAyWDRXc1lPMG9KNXFYQVdqclk2X3U1bEVnc01FTmNLQ3JkSWlaQVFCeS05bWFQSFVNR3RaV0Y1ZnhVWmd3cWtCdTd3cnE0M195WnNHcVdYVFBaTzQ?oc=5"
+        "https://www.kktv.com/2026/07/24/colorado-springs-planning-commission-denies-appeal-proposed-data-center-project-taurus/",
+        "https://gazette.com/2026/08/03/appeals-filed-to-send-project-taurus-decision-to-the-colorado-springs-city-council/",
+        "https://www.koaa.com/news/local-news/project-taurus-data-center/city-of-colorado-springs-receives-two-appeals-regarding-project-taurus-decision"
       ]
     },
     {
@@ -2237,23 +2239,25 @@
     },
     {
       "id": "curated/news/taylor-tx-126",
-      "name": "Proposed data center — Taylor (former parkland site)",
-      "operator": null,
+      "name": "Blueprint Projects data center — Taylor (former parkland site)",
+      "operator": "Blueprint Projects",
       "lat": 30.57289,
       "lng": -97.41411,
       "city": "Taylor",
       "state": "TX",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 60,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
-      "confidence": "low",
-      "summary": "A three-phase, ~$1B data center proposed in Taylor (Williamson County), starting with a ~135,000 sq ft facility on an 87-acre site the city sold to an undisclosed developer for $10M — land originally donated for use as parkland, fueling strong community opposition and a petition drive for siting restrictions. Coordinates approximate (city center).",
+      "confidence": "medium",
+      "summary": "Blueprint Projects' three-phase, up-to-$1B data center on a 52-acre parcel at 1601 Martin Luther King Jr Drive in Taylor (Williamson County), reaching ~135,000 sq ft at buildout — land the city sold to the developer for $10M that was originally donated for use as parkland, fueling community opposition and a petition drive for siting restrictions. The city council nonetheless approved the campus unanimously on July 24, 2026. Blueprint says it holds letters of intent for full capacity and a 30 MW power agreement with Oncor, targeting ~60 MW ultimately, with 20–30 permanent jobs expected. Coordinates approximate (city center).",
       "website": null,
       "sources": [
         "https://www.fox7austin.com/news/proposed-data-center-taylor-draws-pushback-from-community",
-        "https://www.kvue.com/article/news/local/taylor-texas-residents-push-data-center-restrictions/269-46b7210e-ad8a-41b3-9abc-bfb373fdd66a"
+        "https://www.kvue.com/article/news/local/taylor-texas-residents-push-data-center-restrictions/269-46b7210e-ad8a-41b3-9abc-bfb373fdd66a",
+        "https://www.datacenterdynamics.com/en/news/blueprint-projects-gets-greenlight-for-data-center-in-taylor-texas/",
+        "https://taylortx.gov/1293/Blueprint-Projects-Data-Center"
       ]
     },
     {
@@ -4655,6 +4659,95 @@
         "https://www.yoursun.com/northport/news/proposed-north-port-data-center-location-found/article_0526ec19-4ab2-4f57-96a6-a8707b7de5d3.html",
         "https://wslr.org/north-port-schedules-data-center-moratorium-vote/",
         "https://www.mysuncoast.com/2026/07/09/sarasota-county-blocks-hyperscale-data-centers-least-one-year/"
+      ]
+    },
+    {
+      "id": "curated/news/grayslake-il-t5-240",
+      "name": "T5 @ Chicago IV — Grayslake campus",
+      "operator": "T5 Data Centers",
+      "lat": 42.34335,
+      "lng": -88.04122,
+      "city": "Grayslake",
+      "state": "IL",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 10000000,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Atlanta-based T5 Data Centers' ~$18B AI-ready campus on ~472 acres in Grayslake, Lake County — up to 10 million sq ft across 18 buildings, which would be the largest development in county history. Village approvals were granted between late 2024 and mid-2025, and a foundation permit has been issued for the first building, with the first phase slated to come online in 2027. In late July 2026 T5 voluntarily suspended its US Army Corps application to fill ~15.75 acres of wetlands after community pushback, though an opposition coalition still plans a lawsuit challenging the village approvals. No tenant announced. Coordinates approximate (Grayslake).",
+      "website": null,
+      "sources": [
+        "https://www.dailyherald.com/20260731/construction/t-5-suspends-wetland-permit-application-in-light-of-community-concern/",
+        "https://therealdeal.com/chicago/2026/08/03/t5-pauses-grayslake-wetland-permit-amid-lawsuit-threat/",
+        "https://www.villageofgrayslake.com/881/Approved-T5-Data-Center-Campus-Informati"
+      ]
+    },
+    {
+      "id": "curated/news/taylor-tx-kdc-comal-241",
+      "name": "KDC 'Project Comal' — Taylor (next to Samsung fab)",
+      "operator": "KDC",
+      "lat": 30.57289,
+      "lng": -97.41411,
+      "city": "Taylor",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Dallas-based developer KDC is proposing a data center campus dubbed 'Project Comal' on a ~220-acre parcel at 1051 County Road 401, directly northeast of Samsung's semiconductor fab in Taylor (Williamson County). An employment-center plan for the site was set to go before the Taylor Planning & Zoning Commission in August 2026. End user undisclosed; separate from Blueprint Projects' approved campus elsewhere in Taylor. Coordinates approximate (Taylor city center).",
+      "website": null,
+      "sources": [
+        "https://www.kxan.com/news/local/taylor/big-data-center-campus-planned-next-to-samsung-factory-in-taylor/",
+        "https://taylortx.gov/1395/Data-Centers-in-Taylor"
+      ]
+    },
+    {
+      "id": "curated/news/salix-ia-midamerican-google-242",
+      "name": "MidAmerican data center site — Salix (Google prospective)",
+      "operator": "MidAmerican Energy",
+      "lat": 42.30844,
+      "lng": -96.28774,
+      "city": "Salix",
+      "state": "IA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "MidAmerican Energy proposed in June 2026 developing a ~900-acre data center site on recently annexed land bounded by Old Highway 75, 260th Street and Charles Avenue in Salix (Woodbury County); on Aug 3, 2026 Google said it had finalized an agreement with MidAmerican for a possible data center development there. No rezoning request or development application has been filed yet; Woodbury County passed a data-center moratorium in June 2026 and a resident petition against the project has drawn 540+ signatures. Coordinates approximate (Salix).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/google-possible-customer-of-midamerican-data-center-in-salix-county-iowa/",
+        "https://www.ktiv.com/2026/08/03/google-considering-data-center-salix-iowa-according-midamerican-energy/",
+        "https://siouxcityjournal.com/news/local/article_9a4ebdc5-df41-438a-9a55-efc901d7344d.html"
+      ]
+    },
+    {
+      "id": "curated/news/louisa-va-edgecore-243",
+      "name": "EdgeCore Shannon Hill campus — Louisa County",
+      "operator": "EdgeCore Digital Infrastructure",
+      "lat": 37.88181,
+      "lng": -78.03833,
+      "city": "Shannon Hill",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": 1100,
+      "area_sqft": 3100000,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "EdgeCore Digital Infrastructure's $17B+, 1.1+ GW data center campus in the 697-acre Shannon Hill Regional Business Park in Louisa County — ~3.1 million sq ft across six buildings, first announced in June 2025. In August 2026 EdgeCore subsidiary EDI Louisa 1, LLC filed with the US Army Corps of Engineers for Phase II: three buildings plus on-site substations on 187 acres west of Shannon Hill Road (SR 605), with the filing noting impacts to ~4.2 acres of non-tidal wetlands and ~6,300 ft of stream channel. Coordinates approximate (Shannon Hill).",
+      "website": "https://edgecore.com/locations/louisa-county-va/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/edgecore-files-to-develop-second-phase-of-louisa-county-campus-virginia/",
+        "https://virginiabusiness.com/17b-louisa-county-data-center-edgecore/",
+        "https://edgecore.com/new-louisa-county-virginia-data-center-campus/"
       ]
     }
   ]
