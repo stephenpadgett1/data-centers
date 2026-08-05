@@ -3792,12 +3792,13 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center.",
+      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center. The Effingham County IDA finalized a 50%, 15-year property-tax abatement on July 21, 2026 (reported publicly in late July); the project next enters the state evaluation process.",
       "website": null,
       "sources": [
         "https://www.gpb.org/news/2026/07/22/openai-plans-build-20b-data-center-campus-in-effingham-county-it-could-be-georgias",
         "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/",
-        "https://www.effinghamherald.net/local/openai-plans-20b-data-center-in-effingham-county-rincon-georgia/"
+        "https://www.effinghamherald.net/local/openai-plans-20b-data-center-in-effingham-county-rincon-georgia/",
+        "https://www.wtoc.com/2026/07/30/records-show-effingham-county-leaders-finalized-massive-tax-break-20b-openai-data-center-day-before-public-announcement/"
       ]
     },
     {
