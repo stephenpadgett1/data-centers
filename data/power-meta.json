@@ -1,0 +1,40 @@
+{
+  "built_at": "2026-05-30T14:07:41-07:00",
+  "source": "U.S. EIA Form 860M (april_generator2026.xlsx)",
+  "min_mw": 25,
+  "total_plants": 6175,
+  "by_status": {
+    "planned": 777,
+    "operational": 4674,
+    "under_construction": 724
+  },
+  "by_fuel": {
+    "gas": 1355,
+    "hydro": 475,
+    "nuclear": 58,
+    "coal": 182,
+    "wind": 1073,
+    "solar": 2037,
+    "battery": 559,
+    "petroleum": 173,
+    "geothermal": 48,
+    "other": 42,
+    "biomass": 173
+  },
+  "gw_by_fuel": {
+    "gas": 641.4,
+    "hydro": 96.6,
+    "nuclear": 109.8,
+    "coal": 179.6,
+    "wind": 188.2,
+    "solar": 276.2,
+    "battery": 87.3,
+    "petroleum": 25.9,
+    "geothermal": 3.7,
+    "other": 3.0,
+    "biomass": 10.1
+  },
+  "total_gw": 1630.5,
+  "operating_gw": 1342.1,
+  "pipeline_gw": 288.4
+}
