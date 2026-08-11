@@ -52,6 +52,10 @@
     "lat": 37.42605,
     "lng": -121.97524
   },
+  "amber, ok": {
+    "lat": 35.16034,
+    "lng": -97.87921
+  },
   "ames, ia": {
     "lat": 42.02676,
     "lng": -93.61704
@@ -155,6 +159,10 @@
   "broken arrow, oklahoma": {
     "lat": 36.0526,
     "lng": -95.79082
+  },
+  "brookwood, al": {
+    "lat": 33.25567,
+    "lng": -87.32083
   },
   "brownsville, tx": {
     "lat": 25.90243,
@@ -360,6 +368,10 @@
     "lat": 43.6648,
     "lng": -93.95105
   },
+  "floydada, tx": {
+    "lat": 33.98397,
+    "lng": -101.33446
+  },
   "fort bliss, el paso, texas": {
     "lat": 32.24638,
     "lng": -106.37426
@@ -367,6 +379,10 @@
   "fort chiswell, va": {
     "lat": 36.9424,
     "lng": -80.96231
+  },
+  "fort stockton, tx": {
+    "lat": 30.8919,
+    "lng": -102.88366
   },
   "frackville, pa": {
     "lat": 40.78382,
@@ -764,6 +780,10 @@
     "lat": 30.7388,
     "lng": -88.07889
   },
+  "prosper, tx": {
+    "lat": 33.23716,
+    "lng": -96.7977
+  },
   "ransom, pa": {
     "lat": 41.39425,
     "lng": -75.82186
@@ -891,6 +911,10 @@
   "stafford, va": {
     "lat": 38.41673,
     "lng": -77.45798
+  },
+  "statesboro, ga": {
+    "lat": 32.44901,
+    "lng": -81.78329
   },
   "strasburg, va": {
     "lat": 38.98873,

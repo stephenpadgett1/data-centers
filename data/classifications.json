@@ -3814,5 +3814,14 @@
     "summary": "Atlas Power's ~1.4M sqft flexible-load campus in Williston, ND — a $1.9B project announced in 2022, phased toward ~700 MW (roughly 240 MW in use), hosting Bitcoin mining and GPU-as-a-Service/HPC workloads.",
     "source": "claude",
     "classified_on": "2026-07-30"
+  },
+  "osm/node/14086231277": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "In-house facility tagged with operator UNMH — the University of New Mexico Hospital (Albuquerque) — serving the health system's own clinical and administrative IT rather than commercial lease.",
+    "source": "claude",
+    "classified_on": "2026-08-11"
   }
 }

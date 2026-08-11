@@ -657,7 +657,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A ~$105M data center proposed in Charlestown, Indiana (Louisville metro); neighbors have raised noise and traffic concerns. Early-stage.",
+      "summary": "A ~$105M data center in Charlestown, Indiana (Louisville metro); neighbors have raised noise and traffic concerns. Approved by the city, but the mayor said in late July 2026 that several hurdles (utility and infrastructure agreements) remain before construction can begin.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcmpLbzl1amJJM0dFYWl2ZzdpeG1hTE5ROXJRd2RVNFVGdWhpOUpIaW4xREgzV2VCWEpEV3p3bEJnQWF4M2JnRGZnVUJVNGlXQkRMLXh3aXdwbjcwS21EWDFyVXJmWjNqRm9ScVZxZjNyS0VxT2FtOVhqcEFmX0NMcV9tS2hFWG9TaEdKUTFBbTR6bVMySS10OHl5b3hWSE1KOTkzbjFyYjdKYmlNR0hXYjJjTVRCWjFETHFTTEdoc1podXBtQmU1SHUzejZXdENZemh3Zk92NlZBZWZUTERGWjdyTlpJN2FZSHRpeUtsZURsY1YyUG8w?oc=5"
@@ -1293,7 +1293,7 @@
       "purpose": "purpose_built",
       "workload": "general",
       "confidence": "low",
-      "summary": "Southeast colocation operator DC Blox's proposed data center next to the Nashville Zoo in south Nashville, TN. Revised mid-2026 site plans show the ~24-acre first building could be joined by a larger second building and an on-site substation. Heavy community pushback continues (150,000+ petition signatures, zoo opposition), and Metro Council members are weighing zoning tools to block it. Early-stage; coordinates approximate.",
+      "summary": "Southeast colocation operator DC Blox's proposed data center next to the Nashville Zoo in south Nashville, TN. Revised mid-2026 site plans show the ~24-acre first building could be joined by a larger second building and an on-site substation. Heavy community pushback continues (150,000+ petition signatures, zoo opposition); on Aug 5, 2026 Metro Council approved using eminent domain to buy the proposed site, moving to block the project outright. Early-stage and now in serious doubt; coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/dc-bloxs-proposed-24-acre-data-center-near-nashville-zoo-could-be-blocked-by-moratorium/",
@@ -2083,11 +2083,12 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Denver-based data center land developer Tract has filed for Tuckahoe Technology Park, a multi-phase campus of roughly 12 data center buildings on nearly 900 acres just west of West Creek Business Park in eastern Goochland County — the first project proposed under the county's new technology overlay district. In late June 2026 Tract filed a formal permit request covering ~871 acres. Tract typically prepares land/power then sells to operators. Early-stage and contested; coordinates approximate (county seat). Reported at ~900 MW planned capacity in July 2026 coverage of community concerns.",
+      "summary": "Denver-based data center land developer Tract has filed for Tuckahoe Technology Park, a multi-phase campus of roughly 12 data center buildings on nearly 900 acres just west of West Creek Business Park in eastern Goochland County — the first project proposed under the county's new technology overlay district. The formal permit application for the campus was filed with the county in August 2026 (first reported Aug 11). Tract typically prepares land/power then sells to operators. Early-stage and contested; coordinates approximate (county seat). Reported at ~900 MW planned capacity in July 2026 coverage of community concerns.",
       "website": null,
       "sources": [
         "https://richmondbizsense.com/2026/06/11/tuckahoe-tech-park-data-center-campus-planned-on-900-acre-tract-in-goochland/",
-        "https://www.wtvr.com/news/local-news/data-center-goochland-june-11-2026"
+        "https://www.wtvr.com/news/local-news/data-center-goochland-june-11-2026",
+        "https://richmondbizsense.com/2026/08/11/formal-permit-application-filed-for-tuckahoe-tech-park-data-center-campus-in-goochland/"
       ]
     },
     {
@@ -2779,7 +2780,7 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Verrus's 'Oakline at Mill Creek' - a proposed ~$5.1B, three-building data center campus plus utility substation on ~75 acres in the Mill Creek Corporate Center in southeast Salem, OR, designed for cloud/AI workloads with battery storage, closed-loop cooling and grid-flexible demand; local reporting describes the project as Google-funded. Disclosed publicly in mid-July 2026 after the city was released from an NDA (staff project ~$9M/yr to the general fund and ~75 permanent jobs). Opposition escalated sharply in late July: hundreds packed the July 27, 2026 council meeting and Verrus representatives left before their scheduled presentation after repeated audience outbursts. The council voted 8-0 to create a data center task force and to explore banning NDAs with data center companies, but did not approve, reject or pause the project; on July 28 the planning commission voted to recommend the council amend city code to make data centers a conditional use. Still in early review and not approved.",
+      "summary": "Verrus's 'Oakline at Mill Creek' - a proposed ~$5.1B, three-building data center campus plus utility substation on ~75 acres in the Mill Creek Corporate Center in southeast Salem, OR, designed for cloud/AI workloads with battery storage, closed-loop cooling and grid-flexible demand; local reporting describes the project as Google-funded. Disclosed publicly in mid-July 2026 after the city was released from an NDA (staff project ~$9M/yr to the general fund and ~75 permanent jobs). Opposition escalated sharply in late July: hundreds packed the July 27, 2026 council meeting and Verrus representatives left before their scheduled presentation after repeated audience outbursts. The council voted 8-0 to create a data center task force and to explore banning NDAs with data center companies, but did not approve, reject or pause the project; on July 28 the planning commission voted to recommend the council amend city code to make data centers a conditional use. As of Aug 11, 2026 local reporting describes the project as stalled amid the review and backlash. Still in early review and not approved.",
       "website": null,
       "sources": [
         "https://www.salemreporter.com/2026/07/14/salem-discloses-proposed-mill-creek-data-center-project-after-city-released-from-nda/",
@@ -3906,22 +3907,24 @@
     },
     {
       "id": "curated/news/fairfield-al-203",
-      "name": "Proposed data center — Fairfield",
-      "operator": null,
+      "name": "Patmos tech campus — Fairfield",
+      "operator": "Patmos",
       "lat": 33.49168,
       "lng": -86.91503,
       "city": "Fairfield",
       "state": "AL",
       "status": "planned",
       "capacity_mw": null,
-      "operator_type": "unknown",
-      "purpose": "speculative",
-      "workload": "general",
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "mixed",
       "confidence": "low",
-      "summary": "A data center proposed in Fairfield, Alabama (Birmingham metro), where a city councilor has urged residents to keep an open mind amid regional data-center controversy. Early-stage; distinct from the Nebius Oxmoor Valley and QTS Bessemer projects nearby.",
+      "summary": "A colocation data center / mixed-use 'tech campus' proposed in Fairfield, Alabama (Birmingham metro) by Missouri-based AI infrastructure company Patmos, named as the developer in July 2026 after public pressure on the mayor. Patmos points to its Kansas City Star building conversion as the model; size and exact site are still undisclosed, planning is in its infancy, and residents and environmental groups organized ahead of an Aug 11, 2026 town hall. Distinct from the Nebius Oxmoor Valley and QTS Bessemer projects nearby.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcU5PSjVCUzFKQy0tVC1wcXhSRlhPYmlocER4RmdqYUQ2NXdMNkl4bE9VUkJiVktmT0tWbnhuR3dsZFB6TXRCaGl2dVpsdVRTbmVRZVVNNVBIR0UzSEl1NXktVU9HTl9DdW9RSkJ1aVJZOVE3ZDV4cS11aVU0S2hqU1ZEZU5QNEJuMG53OW45a05zWUtqb1plem1SaVM5WldwMHRlS1VSZDdnODk5dl9zNktqbzd5RUJrZDhERERLNmpBY2s3VWhVR0dB?oc=5"
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcU5PSjVCUzFKQy0tVC1wcXhSRlhPYmlocER4RmdqYUQ2NXdMNkl4bE9VUkJiVktmT0tWbnhuR3dsZFB6TXRCaGl2dVpsdVRTbmVRZVVNNVBIR0UzSEl1NXktVU9HTl9DdW9RSkJ1aVJZOVE3ZDV4cS11aVU0S2hqU1ZEZU5QNEJuMG53OW45a05zWUtqb1plem1SaVM5WldwMHRlS1VSZDdnODk5dl9zNktqbzd5RUJrZDhERERLNmpBY2s3VWhVR0dB?oc=5",
+        "https://www.wbrc.com/2026/07/24/patmos-tech-campus-what-fairfield-could-expect-proposed-data-center/",
+        "https://www.wbrc.com/2026/07/22/fairfield-mayor-patmos-proposes-colocation-data-center-city-hosts-town-hall/"
       ]
     },
     {
@@ -4309,7 +4312,7 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "A ~$100B AI data center campus announced July 29, 2026 at the DOE's former Paducah Gaseous Diffusion Plant site in western Kentucky. Brookfield will develop and operate the campus (selected via DOE's November 2025 Request for Offers); NextEra will build up to 2 GW of natural-gas generation and up to 2.6 GW of battery storage, alongside Big Rivers Electric, Jackson Purchase Energy and Paducah Power System. More than 1.2 GW of compute capacity planned, with up to 1.8 GW of utility capacity by 2032; construction expected to complete around 2031. No compute tenant announced yet.",
+      "summary": "A ~$100B AI data center campus announced July 29, 2026 at the DOE's former Paducah Gaseous Diffusion Plant site in western Kentucky. Brookfield will develop and operate the campus (selected via DOE's November 2025 Request for Offers); NextEra will build up to 2 GW of natural-gas generation and up to 2.6 GW of battery storage, alongside Big Rivers Electric, Jackson Purchase Energy and Paducah Power System. More than 1.2 GW of compute capacity planned, with up to 1.8 GW of utility capacity by 2032; construction expected to complete around 2031. No compute tenant announced yet. Politically contested: a proposed federal land-transfer ban targeting the DOE site put the project in Democrats' crosshairs in early August 2026.",
       "website": null,
       "sources": [
         "https://www.bloomberg.com/news/articles/2026-07-29/nextera-brookfield-to-build-100-billion-kentucky-data-campus",
@@ -4589,7 +4592,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "Miami developer Revitalization Unlimited, with architect Skidmore, Owings & Merrill, filed plans with Kansas City in June 2026 for a 20-story, 384-ft tower at 934 Central St in the Quality Hill neighborhood of downtown — roughly 141,000–142,000 sq ft, mostly data center and supporting infrastructure, reportedly powered by natural gas fuel cells. The project would demolish the 1900 Western Newspaper Union Building, on the National Register of Historic Places since 2007. Two 4th District council members oppose it, and residents have questioned whether the data center framing is a pretext for another use. A City Plan Commission public hearing was set for Aug 5, 2026. Early-stage and contested.",
+      "summary": "Miami developer Revitalization Unlimited, with architect Skidmore, Owings & Merrill, filed plans with Kansas City in June 2026 for a 20-story, 384-ft tower at 934 Central St in the Quality Hill neighborhood of downtown — roughly 141,000–142,000 sq ft, mostly data center and supporting infrastructure, reportedly powered by natural gas fuel cells. The project would demolish the 1900 Western Newspaper Union Building, on the National Register of Historic Places since 2007. Two 4th District council members oppose it, and residents have questioned whether the data center framing is a pretext for another use. On Aug 5, 2026 the City Plan Commission voted to deny the application; the proposal would need City Council action to advance. Contested and now unlikely in its current form.",
       "website": null,
       "sources": [
         "https://www.kcur.org/housing-development-section/2026-07-29/kansas-city-downtown-data-center-revitalization-unlimited-historic-building",
@@ -4749,6 +4752,138 @@
         "https://www.datacenterdynamics.com/en/news/edgecore-files-to-develop-second-phase-of-louisa-county-campus-virginia/",
         "https://virginiabusiness.com/17b-louisa-county-data-center-edgecore/",
         "https://edgecore.com/new-louisa-county-virginia-data-center-campus/"
+      ]
+    },
+    {
+      "id": "curated/news/pecos-county-tx-amazon-gw-ranch-244",
+      "name": "Amazon 'GW Ranch' AI campus — Pecos County (north of Fort Stockton)",
+      "operator": "Amazon Web Services",
+      "lat": 30.8919,
+      "lng": -102.88366,
+      "city": "Fort Stockton",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Amazon's confirmed AI data center campus on the ~8,400-acre GW Ranch site along Highway 18 roughly 11–17 miles north of Fort Stockton in Pecos County, West Texas (distinct from Microsoft's 'Project Kilby' near the town of Pecos in neighboring Reeves County). Pacifico Energy is developing a behind-the-meter, 35-turbine natural gas plant of ~7.65 GW — which would be the largest US gas plant, permitted for up to ~33 million tons of CO2 a year — taking the campus off the ERCOT grid; up to 750 MW of solar and 1.8 GWh-scale battery storage are also planned. Amazon filed with TDLR in August 2026 for the first three ~189,000 sq ft buildings (~$300M each), with construction from August 2026 and first completions in early 2027. Coordinates approximate (Fort Stockton; site is north of town).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
+        "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the",
+        "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/",
+        "https://www.datacenterdynamics.com/en/news/amazon-files-to-develop-two-new-data-center-campuses-in-texas/"
+      ]
+    },
+    {
+      "id": "curated/news/floydada-tx-amazon-horizon-junction-245",
+      "name": "Amazon 'Horizon Junction' — Floydada (Floyd County)",
+      "operator": "Amazon Web Services",
+      "lat": 33.98397,
+      "lng": -101.33446,
+      "city": "Floydada",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Amazon Data Services' 'Horizon Junction' campus filed with TDLR in August 2026 on County Road 241 in Floydada, Floyd County, ~45 miles northeast of Lubbock, on land that currently hosts the Floydada Country Club golf course. Initial filings cover three ~189,000 sq ft buildings (~$300M each, construction August 2026 – April 2027); county commissioners describe a $1B+ project that could grow to seven buildings on ~485 acres, and are weighing a Chapter 312 tax abatement with conditions requiring air cooling and self-supplied power. Coordinates approximate (Floydada).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/amazon-files-to-develop-two-new-data-center-campuses-in-texas/",
+        "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites",
+        "https://finance.yahoo.com/technology/articles/amazon-seemingly-plans-nearly-1b-230200275.html"
+      ]
+    },
+    {
+      "id": "curated/news/brookwood-al-applied-digital-246",
+      "name": "Applied Digital AI campus — Brookwood (Tuscaloosa County)",
+      "operator": "Applied Digital",
+      "lat": 33.25567,
+      "lng": -87.32083,
+      "city": "Brookwood",
+      "state": "AL",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 2000000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "A ~2 million sq ft hyperscale data center planned on Brookwood Industrial Parkway in Brookwood, Alabama (Tuscaloosa County). An ADEM stormwater permit effective July 20, 2026 was issued to APLD BHM-01 LLC — linked in public records to Dallas-based AI data center developer Applied Digital, which has assembled just under 1,300 acres in the town — with initial land disturbance of ~137 acres and construction authorized through March 2031. Residents have raised transparency and Hurricane Creek watershed concerns. Early-stage; coordinates approximate (Brookwood).",
+      "website": null,
+      "sources": [
+        "https://tuscaloosathread.com/applied-digital-brookwood-data-center/",
+        "https://abc3340.com/news/local/2-million-square-foot-brookwood-project-appears-linked-to-applied-digital-ai-campus",
+        "https://www.fox10tv.com/2026/08/07/adem-approved-permit-massive-hyperscale-data-center-brookwood/"
+      ]
+    },
+    {
+      "id": "curated/news/prosper-tx-tomahawk-247",
+      "name": "'Project Tomahawk' data center — Prosper",
+      "operator": "White Rose Partners",
+      "lat": 33.23716,
+      "lng": -96.7977,
+      "city": "Prosper",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "'Project Tomahawk' — a data center proposed by developer White Rose Partners on 39.3 acres near the southeast corner of FM 1385 and Parvin Road in Prosper (Dallas–Fort Worth metro), adjacent to a Brazos Electric Power Cooperative substation whose upgrades the developer would fund. The town's Planning and Zoning Commission was set to consider it on Aug 18, 2026; staff concerns center on power, water and noise. Early-stage; coordinates approximate (Prosper).",
+      "website": null,
+      "sources": [
+        "https://communityimpact.com/prosper-celina/development/developer-seeks-to-build-data-center-in-prosper/"
+      ]
+    },
+    {
+      "id": "curated/news/statesboro-ga-4am-burkhalter-248",
+      "name": "4AM Development data center — Burkhalter Road, Statesboro",
+      "operator": "4AM Development",
+      "lat": 32.44901,
+      "lng": -81.78329,
+      "city": "Statesboro",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 230000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed two-story, ~230,000 sq ft data center with a ~32,000 sq ft electrical substation on ~26.5 acres at 6539 Burkhalter Road in Statesboro, Georgia, requested by 4AM Development, LLC. The city Planning Commission voted 5-1 on Aug 4, 2026 to recommend rezoning from high-density residential to Office/Business District; City Council was to take it up Aug 18 amid resident protests, and a separate special-use permit would still be required. Early-stage; coordinates approximate (Statesboro).",
+      "website": null,
+      "sources": [
+        "https://www.wtoc.com/2026/08/04/statesboro-planning-commission-backs-proposed-data-center-rezoning-5-1-vote/",
+        "https://www.griceconnect.com/local-government/statesboro-planning-commission-recommends-rezoning-for-burkhalter-road-data-center-12628324",
+        "https://www.statesboroherald.com/local/statesboro-city-planning-board-recommends-zoning-change-for-burkhalter-rd-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/amber-ok-grady-county-249",
+      "name": "Proposed data center — Amber (Grady County)",
+      "operator": null,
+      "lat": 35.16034,
+      "lng": -97.87921,
+      "city": "Amber",
+      "state": "OK",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed near Amber in rural Grady County, Oklahoma (southwest of Oklahoma City). Neighboring landowners say they were caught off guard and met with project representatives on Aug 10, 2026 seeking details on water, power and land impacts; developer and scale have not been disclosed publicly. Early-stage; coordinates approximate (Amber).",
+      "website": null,
+      "sources": [
+        "https://www.news9.com/grady-county-landowners-raise-concerns-over-proposed-data-center",
+        "https://www.newson6.com/tulsa-oklahoma-news/landowners-in-grady-county-raise-concerns-over-proposed-data-center"
       ]
     }
   ]
