@@ -1,4 +1,31 @@
 {
+  "osm/way/1469988846": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of the buildings of Meta's Temple, TX campus — a $1.2B, three-building, 750,000+ sq ft, ~198 MW site off Industrial Boulevard that went live in July 2026 as Meta's first AI-optimized US data center. Identified by location; the OSM footprint is unnamed.",
+    "source": "claude",
+    "classified_on": "2026-08-12"
+  },
+  "osm/way/1469988847": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of the buildings of Meta's Temple, TX campus — a $1.2B, three-building, 750,000+ sq ft, ~198 MW site off Industrial Boulevard that went live in July 2026 as Meta's first AI-optimized US data center. Identified by location; the OSM footprint is unnamed.",
+    "source": "claude",
+    "classified_on": "2026-08-12"
+  },
+  "osm/way/1545590995": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Hyperscale Data's Dowagiac, MI facility (415 E Prairie Ronde St, Cass County) — a ~617,000 sq ft, ~340 MW site being converted from bitcoin mining toward HPC/AI hosting, with an announced ~48.5-acre expansion. Identified by location; the OSM footprint is unnamed.",
+    "source": "claude",
+    "classified_on": "2026-08-12"
+  },
   "osm/way/1504463315": {
     "operator_type": "colocation",
     "purpose": "multi_tenant",
