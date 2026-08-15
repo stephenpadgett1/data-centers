@@ -41,14 +41,15 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish, powered by Meta-funded gas plants plus committed renewables, transmission and storage, supported by a ~7.5 GW Entergy Louisiana utility expansion. On July 13, 2026 Meta confirmed the full 5 GW build-out and lifted planned investment above $50B (up from an original ~$10B); it expects ~2 GW by 2030 and the full 5 GW around 2032. Construction began in earnest in early 2026 with more than $1.6B in contracts to Louisiana businesses so far; in May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment.",
+      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish, powered by Meta-funded gas plants plus committed renewables, transmission and storage, supported by a ~7.5 GW Entergy Louisiana utility expansion. On July 13, 2026 Meta confirmed the full 5 GW build-out and lifted planned investment above $50B (up from an original ~$10B); it expects ~2 GW by 2030 and the full 5 GW around 2032. Construction began in earnest in early 2026 with more than $1.6B in contracts to Louisiana businesses so far; in May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment. In August 2026 Meta was before the Louisiana PSC seeking to keep project records confidential, as environmental and consumer groups pressed for firmer figures ahead of approval of Entergy's supporting power build-out.",
       "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
       "sources": [
         "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
         "https://www.datacenterdynamics.com/en/news/meta-purchases-additional-1400-acres-for-hyperion-mega-data-center-expansion/",
         "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
         "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
-        "https://www.datacenterdynamics.com/en/news/meta-expands-data-center-campus-in-richland-parish-louisiana-to-5gw-will-invest-50bn/"
+        "https://www.datacenterdynamics.com/en/news/meta-expands-data-center-campus-in-richland-parish-louisiana-to-5gw-will-invest-50bn/",
+        "https://lailluminator.com/2026/08/11/meta-wants-details-secret/"
       ]
     },
     {
@@ -65,11 +66,12 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 and Colossus 2 came online in January 2026; xAI has since purchased a third building, pushing the complex toward ~2 GW and a reported ~555,000 NVIDIA GPUs (~$18B) — the largest single-site AI training installation in the world, with further expansion still under construction. Notable for on-site gas turbines drawing local controversy.",
+      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 and Colossus 2 came online in January 2026; xAI has since purchased a third building, pushing the complex toward ~2 GW and a reported ~555,000 NVIDIA GPUs (~$18B) — the largest single-site AI training installation in the world, with further expansion still under construction. Notable for on-site gas turbines drawing local controversy: the NAACP's Clean Air Act suit over the turbines was set for a preliminary-injunction hearing on Aug 24, 2026, after the DOJ intervened on xAI's behalf in June 2026 seeking dismissal.",
       "website": "https://x.ai/colossus",
       "sources": [
         "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
-        "https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts"
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts",
+        "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/"
       ]
     },
     {
@@ -4762,19 +4764,20 @@
       "lng": -102.88366,
       "city": "Fort Stockton",
       "state": "TX",
-      "status": "planned",
+      "status": "under_construction",
       "capacity_mw": null,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "Amazon's confirmed AI data center campus on the ~8,400-acre GW Ranch site along Highway 18 roughly 11–17 miles north of Fort Stockton in Pecos County, West Texas (distinct from Microsoft's 'Project Kilby' near the town of Pecos in neighboring Reeves County). Pacifico Energy is developing a behind-the-meter, 35-turbine natural gas plant of ~7.65 GW — which would be the largest US gas plant, permitted for up to ~33 million tons of CO2 a year — taking the campus off the ERCOT grid; up to 750 MW of solar and 1.8 GWh-scale battery storage are also planned. Amazon filed with TDLR in August 2026 for the first three ~189,000 sq ft buildings (~$300M each), with construction from August 2026 and first completions in early 2027. Coordinates approximate (Fort Stockton; site is north of town).",
+      "summary": "Amazon's confirmed AI data center campus on the ~8,400-acre GW Ranch site along Highway 18 roughly 11–17 miles north of Fort Stockton in Pecos County, West Texas (distinct from Microsoft's 'Project Kilby' near the town of Pecos in neighboring Reeves County). Pacifico Energy is developing a behind-the-meter, 35-turbine natural gas plant of ~7.65 GW — which would be the largest US gas plant, permitted for up to ~33 million tons of CO2 a year — taking the campus off the ERCOT grid; up to 750 MW of solar and 1.8 GWh-scale battery storage are also planned. Amazon filed with TDLR in August 2026 for the first three ~189,000 sq ft buildings (~$300M each), with construction from August 2026 and first completions in early 2027; satellite imagery showed active site clearing by late July 2026, and the campus targets first power in Q1 2027. Coordinates approximate (Fort Stockton; site is north of town).",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
         "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the",
         "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/",
-        "https://www.datacenterdynamics.com/en/news/amazon-files-to-develop-two-new-data-center-campuses-in-texas/"
+        "https://www.datacenterdynamics.com/en/news/amazon-files-to-develop-two-new-data-center-campuses-in-texas/",
+        "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases"
       ]
     },
     {
@@ -4884,6 +4887,72 @@
       "sources": [
         "https://www.news9.com/grady-county-landowners-raise-concerns-over-proposed-data-center",
         "https://www.newson6.com/tulsa-oklahoma-news/landowners-in-grady-county-raise-concerns-over-proposed-data-center"
+      ]
+    },
+    {
+      "id": "curated/news/oakland-ca-behring-250",
+      "name": "Behring AI data center — 415 20th St, downtown Oakland",
+      "operator": "Behring Companies",
+      "lat": 37.80446,
+      "lng": -122.27136,
+      "city": "Oakland",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Real-estate developer Behring Companies plans to convert ~20,000 sq ft of the former Lawrence Berkeley National Laboratory supercomputer building at 415 20th Street (above the 19th Street BART station) into a dense AI compute facility anchoring a downtown 'innovation campus'. Behring bought the 83,000 sq ft building in December 2025 for $6.8M; it was originally built to support up to 20 MW. The city said in August 2026 it had received no formal proposals yet, and the announcement drew immediate local debate. Early-stage; coordinates approximate (downtown Oakland).",
+      "website": null,
+      "sources": [
+        "https://therealdeal.com/san-francisco/2026/08/11/behring-plots-data-center-in-oakland-office-building/",
+        "https://www.cbsnews.com/sanfrancisco/news/oakland-real-estate-developer-downtown-data-center-plan/",
+        "https://sfist.com/2026/08/12/plans-for-an-ai-data-center-in-downtown-oakland-announced/"
+      ]
+    },
+    {
+      "id": "curated/news/tonganoxie-ks-bluestem-251",
+      "name": "Project BlueStem — Cloverleaf Infrastructure (Tonganoxie)",
+      "operator": "Cloverleaf Infrastructure",
+      "lat": 39.10972,
+      "lng": -95.08775,
+      "city": "Tonganoxie",
+      "state": "KS",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "'Project BlueStem' — a proposed hyperscale AI data center campus by Cloverleaf Infrastructure on ~1,000 acres of the former Tailgate Ranch south of Tonganoxie in Leavenworth County, Kansas. Heavily contested: a 90-day county moratorium on data center applications lapsed in August 2026 after commissioners declined to extend it, then officials reversed course days later and moved to slow the project until a new commission is seated in January 2027; opposition group Citizens Against BlueStem has retained counsel and is preparing a legal challenge. Early-stage and strongly contested; coordinates approximate (Tonganoxie).",
+      "website": null,
+      "sources": [
+        "https://www2.ljworld.com/news/general-news/2026/aug/13/leavenworth-co-officials-reverse-course-slow-down-on-data-center-proposed-for-site-near-tonganoxie/",
+        "https://www.tonganoxiemirror.com/news/2026/aug/12/leavenworth-county-commission-lifts-moratorium-on-data-center-by-3-2-vote/",
+        "https://www.kcur.org/politics-elections-and-government/2026-08-14/leavenworth-county-kansas-data-center"
+      ]
+    },
+    {
+      "id": "curated/news/raleigh-nc-radius-252",
+      "name": "Radius DC Raleigh 1 — Jones Sausage Road (Southeast Raleigh)",
+      "operator": "Beacon Partners",
+      "lat": 35.7804,
+      "lng": -78.6391,
+      "city": "Raleigh",
+      "state": "NC",
+      "status": "planned",
+      "capacity_mw": 12,
+      "area_sqft": 100000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "'Radius DC Raleigh 1' — a proposed ~100,000 sq ft, ~12 MW data center on ~14 acres off Jones Sausage Road in Southeast Raleigh, brought by property owner B3-SFRE JSR LLC with Charlotte-based Beacon Partners and valued at ~$180M at full build-out. The developer is seeking annexation into Raleigh, with a City Council vote scheduled for Aug 18, 2026; plans call for closed-loop air cooling rather than evaporative municipal-water cooling. City staff describe it as mid-scale. Early-stage; coordinates approximate (Raleigh).",
+      "website": null,
+      "sources": [
+        "https://hoodline.com/2026/08/southeast-raleigh-data-center-bid-sparks-fight-over-water-power-and-secrecy/",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnVqRWlkdncwcEt0S0J1T2QyOEttWi1Zc1k1N1RTdlRYNG85ZllCLUtZOE13TVJXWTdVVFppRnhyTjhmaVYwQVZRSzRfV2VBSXVsTVY3cmJmaXNNWDhxT0U3Nk1NdjJwNHVKWlRwc190aC1LUmhyNGw0VFVIZ3RiODNqXzNuSklGMHfSAYoBQVVfeXFMT2k1U01EQjktZ0ljZmt3NjU4YjJZQmJoWmpfdEZfT3NVVzJZWldxOF96RkxtNmlaZzhWNkwzMF9FNi1xOHZqSGxwWlp4cm1iZnBjb1R4NVJSY21LOTdXWWxEZ1NPdWE5ZkIzN1N4M0JMTTIteGZOeVNwczZnYU5icFR1NlQtVnZkMzVB?oc=5"
       ]
     }
   ]

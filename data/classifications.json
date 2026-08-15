@@ -1,4 +1,31 @@
 {
+  "osm/way/1498670679": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "Appears to be another building of Meta's Temple, TX campus — this ~145,000 sq ft footprint sits at the same Industrial Boulevard site as the two previously classified buildings of the $1.2B, ~198 MW campus that went live in July 2026 as Meta's first AI-optimized US data center. Identified by location; the OSM footprint is unnamed.",
+    "source": "claude",
+    "classified_on": "2026-08-14"
+  },
+  "osm/way/1143804764": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of two hyperscale powered-shell data centers owned by GI Partners at 9800 South Eternal Rings Drive in North Laurel, MD — a ~218,000 sq ft development on 95 acres marketed for cloud and computing contracts, near the Fort Meade / Annapolis Junction corridor. Identified by location and matching zip code; the OSM footprint is unnamed.",
+    "source": "claude",
+    "classified_on": "2026-08-14"
+  },
+  "osm/way/936368014": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Large (~282,000 sq ft) building in the Somerset / Franklin Township, NJ colocation cluster around Campus Drive and Belmont Drive, home to Rackspace's (former Datapipe) Somerset data centers and CyrusOne Somerset. Identified by location only; the exact operator is uncertain because the OSM footprint is unnamed.",
+    "source": "claude",
+    "classified_on": "2026-08-14"
+  },
   "osm/way/1469988846": {
     "operator_type": "hyperscaler",
     "purpose": "purpose_built",
