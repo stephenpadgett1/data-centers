@@ -997,8 +997,8 @@
     },
     {
       "id": "curated/news/texarkana-tx-bigpine-66",
-      "name": "Project Big Pine — 500-acre data center campus, Texarkana region",
-      "operator": null,
+      "name": "Project Big Pine — TexAmericas Center campus, Bowie County",
+      "operator": "Potentia Development / TexAmericas Center",
       "lat": 33.44667,
       "lng": -94.07715,
       "city": "Texarkana",
@@ -1009,10 +1009,12 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "\"Project Big Pine,\" a 500-acre data center campus planned for the Texarkana region on the Texas/Arkansas border. Developer not yet confirmed; early-stage.",
+      "summary": "\"Project Big Pine,\" a ~450–500 acre data center and AI campus at the TexAmericas Center in Bowie County, on the Texas side of the Texarkana border. Developer Potentia Development is building the site around a behind-the-meter prime-power strategy paired with battery storage, targeting 24–30 months to energize; a 345 kV transmission line already borders the property and a long-term transmission study with SWEPCO is underway. Estimated at ~$3.5B at full build-out with ~120 permanent jobs. As of August 2026 Potentia was still seeking an anchor offtaker, so the end user remains unknown; nearby homeowners have protested over noise and water use.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3FDUk0xMTJGVzBxdjJyUmlCMUE0OExrbGdqYnlLTW5MenRqcy03U1VpcXZodFlxX1U5dV9ERnBrZHVqUDlGd0xaVnlKbkE1VVgyemR3SkVnYVpEa1FHdEVYeU50VWU3UWx5Ukd0WHlCVTRJblNJeHo2SWxnTDNQWjV2cmxDc2ZIYXFKMFhlazVIYUlqMUpQUjI1Y2lLWVNRUGc?oc=5"
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3FDUk0xMTJGVzBxdjJyUmlCMUE0OExrbGdqYnlLTW5MenRqcy03U1VpcXZodFlxX1U5dV9ERnBrZHVqUDlGd0xaVnlKbkE1VVgyemR3SkVnYVpEa1FHdEVYeU50VWU3UWx5Ukd0WHlCVTRJblNJeHo2SWxnTDNQWjV2cmxDc2ZIYXFKMFhlazVIYUlqMUpQUjI1Y2lLWVNRUGc?oc=5",
+        "https://www.datacenterdynamics.com/en/news/potentia-plans-450-acre-behind-the-meter-site-in-bowie-county-texas-for-potential-data-center/",
+        "https://texarkanafyi.com/texamericas-center-unveils-3-5-billion-ai-and-data-campus-in-bowie-county/"
       ]
     },
     {
@@ -1914,11 +1916,14 @@
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
-      "confidence": "medium",
-      "summary": "A ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. DOE announced the partnership in March 2026 and ground was broken that month; SB Energy has committed to ~10 GW of new on-site generation (at least 9.2 GW natural gas), with a first ~800 MW data center phase targeted for early 2028 at a reported $30–40B initial cost. OpenAI is reportedly close to finalizing a lease of the campus as anchor tenant — a commitment reported at ~$500B over its term — with Nvidia in talks to guarantee ~$250B of the financing (WSJ/NYT, late July 2026). Full 10 GW build-out targeted around 2030. Coordinates approximate.",
+      "confidence": "high",
+      "summary": "A ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. DOE announced the partnership in March 2026 and ground was broken that month; SB Energy has committed to ~10 GW of new on-site generation (at least 9.2 GW natural gas), with a first ~800 MW data center phase targeted for early 2028 at a reported $30–40B initial cost. The anchor lease was confirmed on Aug 17, 2026: an Nvidia securities filing disclosed a guarantee of up to $105B in conditional lease and power-payment obligations to SB Energy, which will build and operate the campus under a 20-year lease to OpenAI. The credit supports an initial 4.25 GW with an option for a further 3.75 GW, and Nvidia is the exclusive chip supplier, with capacity phasing in from 2028. The guarantee was scaled back from an earlier ~$250B/10 GW backstop discussed in July 2026 (reported cut to under $120B before landing at $105B). Nvidia is separately in talks to invest ~$1.5–3B in SB Energy. Full 10 GW build-out targeted around 2030. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/openai-in-talks-to-lease-10gw-data-center-from-sb-energy-in-ohio/",
+        "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+        "https://www.axios.com/2026/08/17/openai-nvidia-ohio-data-center-sb-energy",
+        "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-up-to-3bn-in-sb-energy-report/",
         "https://www.networkworld.com/article/4183513/openai-weighs-nvidia-backed-lease-for-10-gw-ohio-data-center-campus.html",
         "https://www.energy.gov/em/articles/partnership-ensures-affordable-energy-powers-ai-future-portsmouth-site",
         "https://sciotovalleyguardian.com/2026/03/20/piketon-set-to-become-ground-zero-for-new-energy-megasite/",
@@ -4503,7 +4508,7 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A ~3.83 million sq ft data center campus proposed on about 88 acres in the Circle T development near US 377 and Westport Parkway in Westlake, TX, announced by town officials in July 2026. The site backs onto Keller, whose mayor and council say they learned of the project only after it was made public; neighbors cite noise, health and property-value concerns, and the campus is projected to use roughly 54 million gallons of water a year. Westlake's Planning & Zoning Commission was set to take up site plans on Aug 4, 2026. End user undisclosed; coordinates approximate (Westlake).",
+      "summary": "A ~3.83 million sq ft data center campus proposed on about 88 acres in the Circle T development near US 377 and Westport Parkway in Westlake, TX, announced by town officials in July 2026. The site backs onto Keller, whose mayor and council say they learned of the project only after it was made public; neighbors cite noise, health and property-value concerns, and the campus is projected to use roughly 54 million gallons of water a year. Westlake's Planning & Zoning Commission was set to take up site plans on Aug 4, 2026. On Aug 13, 2026 the City of Keller said it would pursue legal action over the project. End user undisclosed; coordinates approximate (Westlake).",
       "website": null,
       "sources": [
         "https://www.nbcdfw.com/news/local/westlakes-planned-data-center-sparks-concerns-keller/4057023/",
@@ -4935,24 +4940,133 @@
     },
     {
       "id": "curated/news/raleigh-nc-radius-252",
-      "name": "Radius DC Raleigh 1 — Jones Sausage Road (Southeast Raleigh)",
+      "name": "Radius DC Raleigh 1 — Jones Sausage Road (withdrawn)",
       "operator": "Beacon Partners",
       "lat": 35.7804,
       "lng": -78.6391,
       "city": "Raleigh",
       "state": "NC",
-      "status": "planned",
+      "status": "unknown",
       "capacity_mw": 12,
       "area_sqft": 100000,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "'Radius DC Raleigh 1' — a proposed ~100,000 sq ft, ~12 MW data center on ~14 acres off Jones Sausage Road in Southeast Raleigh, brought by property owner B3-SFRE JSR LLC with Charlotte-based Beacon Partners and valued at ~$180M at full build-out. The developer is seeking annexation into Raleigh, with a City Council vote scheduled for Aug 18, 2026; plans call for closed-loop air cooling rather than evaporative municipal-water cooling. City staff describe it as mid-scale. Early-stage; coordinates approximate (Raleigh).",
+      "summary": "WITHDRAWN. 'Radius DC Raleigh 1' was a proposed ~100,000 sq ft, ~12 MW data center on ~14 acres off Jones Sausage Road in Southeast Raleigh, brought by property owner B3-SFRE JSR LLC with Charlotte-based Beacon Partners and valued at ~$180M at full build-out. Ahead of an Aug 18, 2026 City Council vote on annexation, dozens of residents signed up to comment and the developer withdrew the plans on Aug 15, 2026; the mayor confirmed the withdrawal and Raleigh's related data center proposals were dropped. Retained as a record of a project that is no longer proceeding — status is marked unknown rather than planned. Coordinates approximate (Raleigh).",
       "website": null,
       "sources": [
         "https://hoodline.com/2026/08/southeast-raleigh-data-center-bid-sparks-fight-over-water-power-and-secrecy/",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnVqRWlkdncwcEt0S0J1T2QyOEttWi1Zc1k1N1RTdlRYNG85ZllCLUtZOE13TVJXWTdVVFppRnhyTjhmaVYwQVZRSzRfV2VBSXVsTVY3cmJmaXNNWDhxT0U3Nk1NdjJwNHVKWlRwc190aC1LUmhyNGw0VFVIZ3RiODNqXzNuSklGMHfSAYoBQVVfeXFMT2k1U01EQjktZ0ljZmt3NjU4YjJZQmJoWmpfdEZfT3NVVzJZWldxOF96RkxtNmlaZzhWNkwzMF9FNi1xOHZqSGxwWlp4cm1iZnBjb1R4NVJSY21LOTdXWWxEZ1NPdWE5ZkIzN1N4M0JMTTIteGZOeVNwczZnYU5icFR1NlQtVnZkMzVB?oc=5"
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnVqRWlkdncwcEt0S0J1T2QyOEttWi1Zc1k1N1RTdlRYNG85ZllCLUtZOE13TVJXWTdVVFppRnhyTjhmaVYwQVZRSzRfV2VBSXVsTVY3cmJmaXNNWDhxT0U3Nk1NdjJwNHVKWlRwc190aC1LUmhyNGw0VFVIZ3RiODNqXzNuSklGMHfSAYoBQVVfeXFMT2k1U01EQjktZ0ljZmt3NjU4YjJZQmJoWmpfdEZfT3NVVzJZWldxOF96RkxtNmlaZzhWNkwzMF9FNi1xOHZqSGxwWlp4cm1iZnBjb1R4NVJSY21LOTdXWWxEZ1NPdWE5ZkIzN1N4M0JMTTIteGZOeVNwczZnYU5icFR1NlQtVnZkMzVB?oc=5",
+        "https://www.datacenterdynamics.com/en/news/data-center-proposals-withdrawn-in-raleigh-north-carolina/"
+      ]
+    },
+    {
+      "id": "curated/news/sullivan-county-in-fluidstack-253",
+      "name": "Fluidstack Sullivan County AI campus — Heartland Industrial Park",
+      "operator": "Fluidstack",
+      "lat": 39.04088,
+      "lng": -87.47113,
+      "city": "New Lebanon",
+      "state": "IN",
+      "status": "planned",
+      "capacity_mw": 2100,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "A 2.1 GW, reportedly ~$65B AI campus planned by Fluidstack on the ~1,000-acre Heartland Industrial Park outside New Lebanon in Sullivan County, Indiana, between County Road 400 West and Hallador Energy's 1 GW coal-fired Merom Generating Station. The land was acquired from Hoosier Energy in 2022; data center start-up Potentia originated the project, which is now backed by Fluidstack and Google. Fluidstack held a public open house in August 2026 and detailed a closed-loop cooling system with no draw on local water availability and a voluntary 55 dB noise limit at the nearest dwelling. It sought no tax incentives for Phase I and committed $50M to Sullivan County under an enhancement agreement. Operations are targeted to begin in 2027, with 2,500+ construction jobs expected. Coordinates approximate (New Lebanon).",
+      "website": "https://www.sullivanfluidstack.io/",
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/fluidstack-shares-details-of-planned-data-center-in-sullivan-county-indiana/",
+        "https://www.wthitv.com/2026/08/06/fluidstack-hosts-open-house-sullivan-county-data-center-campus/",
+        "https://newprojectmedia.com/financingorigination-data-center-start-up-potentia-behind-2-1-gw-indiana-project-now-backed-by-fluidstack-and-google/"
+      ]
+    },
+    {
+      "id": "curated/news/yadkin-county-nc-whitefiber-254",
+      "name": "WhiteFiber NC-2 / NC-3 — Yadkin County (former Unifi plants)",
+      "operator": "WhiteFiber (Bit Digital) / Enovum Data Centers",
+      "lat": 36.13458,
+      "lng": -80.65951,
+      "city": "Yadkinville",
+      "state": "NC",
+      "status": "planned",
+      "capacity_mw": 200,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "On Aug 16, 2026 WhiteFiber — Bit Digital's AI infrastructure unit — agreed to buy two industrial properties in Yadkin County, North Carolina from Unifi Manufacturing for $60M cash through its Enovum Data Centers subsidiary, with closing targeted for Q4 2026. The former textile plants are to be retrofitted into HPC data center campuses designated NC-2 and NC-3, roughly 55 miles from WhiteFiber's existing NC-1 campus in Madison, NC. Combined initial gross utility capacity is a minimum of 60 MW with potential to reach ~200 MW over time; initial ready-for-service is targeted for Q3 2027, subject to closing and development conditions. Two sites are represented by a single record; coordinates approximate (Yadkinville).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/whitefiber-acquires-two-sites-in-north-carolina-plans-data-center-developments/",
+        "https://finance.yahoo.com/technology/articles/whitefiber-agrees-buy-two-north-142635562.html"
+      ]
+    },
+    {
+      "id": "curated/news/miller-county-ar-bentaus-255",
+      "name": "Bentaus / Chadbourn AI data center — Miller County (north of Texarkana)",
+      "operator": "Bentaus / Chadbourn Infrastructure Partners",
+      "lat": 33.42543,
+      "lng": -94.04309,
+      "city": "Texarkana",
+      "state": "AR",
+      "status": "planned",
+      "capacity_mw": 200,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "In February 2026 development firm Bentaus announced a partnership with Chadbourn Infrastructure Partners to build an AI data center at Texarkana, Arkansas supporting 200 MW of power capacity across up to 3,000 acres of developable land. The project then went quiet; Miller County public records reported in August 2026 identified the site as more than 2,700 acres owned by Fort Chadbourne Farm LLC north of Texarkana, with Bradley, Arkansas businessman Michael 'Jacques' Davison as sole corporate officer of both Fort Chadbourne Farm and Chadbourn Infrastructure Partners. Distinct from Project Big Pine, which is on the Texas side in Bowie County. Early-stage and developed with little public disclosure; coordinates approximate (Texarkana, AR — the site lies north of the city).",
+      "website": null,
+      "sources": [
+        "https://www.texarkanagazette.com/news/2026/aug/15/public-records-reveal-site-of-planned-ai-data/",
+        "https://www.nwaonline.com/news/2026/aug/16/records-reveal-planned-data-center-site-in-miller/"
+      ]
+    },
+    {
+      "id": "curated/news/gilroy-ca-aws-256",
+      "name": "AWS Gilroy data center",
+      "operator": "Amazon Web Services",
+      "lat": 37.00651,
+      "lng": -121.56317,
+      "city": "Gilroy",
+      "state": "CA",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "area_sqft": 438500,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "A ~$2B, 438,500 sq ft AWS data center on a 56-acre site in Gilroy, California. AWS bought the land in 2020 and Gilroy's community development director approved the first phase on July 3, 2023 through a staff-level Architectural and Site Review Permit under the city's 45-year-old M2 General Industrial zoning, which treats 'data processing establishments' as permitted — so the project cleared without a City Council vote or public hearing. Reporting in August 2026 found many residents learned of it only after site work began or after the 2024 environmental comment window closed; criticism has centered on the use of potable rather than recycled water for cooling in a drought-prone area, and on electricity demand. Gilroy officials are weighing rules requiring Planning Commission review and neighbor notice for future proposals. Construction underway; coordinates approximate (Gilroy).",
+      "website": null,
+      "sources": [
+        "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/",
+        "https://www.thecooldown.com/green-tech/amazon-data-center-gilroy-approval-public-notice/"
+      ]
+    },
+    {
+      "id": "curated/news/east-whiteland-pa-sentinel-257",
+      "name": "Sentinel Data Centers — East Whiteland (former Foote Mineral Superfund site)",
+      "operator": "Sentinel Data Centers / Green Fig LLC",
+      "lat": 40.03233,
+      "lng": -75.55604,
+      "city": "East Whiteland Township",
+      "state": "PA",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "area_sqft": 1500000,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "general",
+      "confidence": "medium",
+      "summary": "A 1.5 million sq ft data center by Green Fig LLC and Sentinel Data Centers on the 79-acre former Cyprus Foote Mineral Co. Superfund site in East Whiteland Township, Chester County, Pennsylvania. East Whiteland approved the project in 2024. Early construction began in July 2026 but was halted by a township stop-work order while officials reviewed the developers' soil and health safety plans; work resumed on July 29, 2026 after the township issued an erosion and sedimentation control permit carrying conditions on soil monitoring and reporting, dust control, and protection of the existing Superfund remedy. Coordinates approximate (Frazer / East Whiteland Township).",
+      "website": null,
+      "sources": [
+        "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-project-20260730.html",
+        "https://vista.today/2026/08/east-whiteland-data-center-excavation/"
       ]
     }
   ]

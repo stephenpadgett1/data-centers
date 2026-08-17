@@ -1,4 +1,94 @@
 {
+  "osm/way/1116775094": {
+    "operator_type": "colocation",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A very large (~630,000 sq ft) hall inside the Tahoe-Reno Industrial Center (TRIC) in Storey County, NV — a 107,000-acre park east of Reno that hosts Google, Switch, Tract, EdgeCore, Novva, Vantage and PowerHouse. Identified by location only; the OSM footprint is unnamed and the specific operator could not be confirmed, so the type reflects the wholesale/colocation use that dominates the park rather than a verified tenant.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1320683840": {
+    "operator_type": "colocation",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of large data halls (~391,000 sq ft) along the western side of the Tahoe-Reno Industrial Center in Storey County, NV, home to Google, Switch, Tract, EdgeCore, Novva, Vantage and PowerHouse. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1494498032": {
+    "operator_type": "colocation",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of near-identical ~307,000 sq ft data halls in the Tahoe-Reno Industrial Center, Storey County, NV — paired with way/1494498031 immediately to the north, suggesting a phased multi-building campus. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1494498031": {
+    "operator_type": "colocation",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of near-identical ~307,000 sq ft data halls in the Tahoe-Reno Industrial Center, Storey County, NV — paired with way/1494498032 immediately to the south, suggesting a phased multi-building campus. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1116775095": {
+    "operator_type": "colocation",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~297,000 sq ft data hall in the Tahoe-Reno Industrial Center, Storey County, NV, at the northern end of the same cluster as way/1320683840 and the two way/14944980xx buildings. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1344901569": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~190,000 sq ft building in the Ashburn/Sterling stretch of Loudoun County's 'Data Center Alley' — the densest concentration of multi-tenant data centers in the world, anchored by Equinix, Digital Realty, CyrusOne, Aligned and AWS. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1188715510": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~158,000 sq ft building in Ashburn, VA, inside Loudoun County's 'Data Center Alley' colocation corridor. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1188691867": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~91,000 sq ft building in Ashburn, VA, roughly a mile west of way/1188715510 in the same Loudoun County colocation corridor. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/1426663253": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~132,000 sq ft building in the Chantilly / Westfields corridor of Fairfax County, VA — the southern extension of Northern Virginia's data center market. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
+  "osm/way/45583050": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~53,000 sq ft building in Manassas / Prince William County, VA, the second major Northern Virginia data center cluster after Loudoun, where AWS, QTS and Compass operate campuses around Innovation Park. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-17"
+  },
   "osm/way/1498670679": {
     "operator_type": "hyperscaler",
     "purpose": "purpose_built",
