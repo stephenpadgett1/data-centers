@@ -5068,6 +5068,90 @@
         "https://www.inquirer.com/news/pennsylvania/east-whiteland-data-center-project-20260730.html",
         "https://vista.today/2026/08/east-whiteland-data-center-excavation/"
       ]
+    },
+    {
+      "id": "curated/news/shreveport-la-aws-resilient-258",
+      "name": "AWS third northwest Louisiana campus — Resilient Technology Park (Shreveport)",
+      "operator": "Amazon Web Services",
+      "lat": 32.51354,
+      "lng": -93.74778,
+      "city": "Shreveport",
+      "state": "LA",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 1000000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Amazon's third planned data center campus in northwest Louisiana, at the Resilient Technology Park in Shreveport, announced Aug 18–19, 2026 as part of an investment expanded from $12B to $18B across Caddo and Bossier parishes. Plans call for five buildings totaling over 1M sq ft plus a ~104,000 sq ft office building, with the first building targeted for mid-2027 and all five by 2028; ~210 direct jobs expected. Coordinates approximate (Shreveport).",
+      "website": null,
+      "sources": [
+        "https://www.opportunitylouisiana.gov/news/amazon-grows-northwest-louisiana-planned-investment-to-18-billion-with-new-shreveport-campus",
+        "https://www.wbrz.com/news/third-amazon-data-center-campus-part-of-amazon-s-18-billion-louisiana-investment/",
+        "https://www.shreveportbossieradvocate.com/business/amazon-web-services-third-data-center-in-northwest-louisiana-shreveport/article_2ee6697d-2d82-4814-98a8-903a488c3eb9.html"
+      ]
+    },
+    {
+      "id": "curated/news/vineland-nj-dataone-nebius-259",
+      "name": "DataOne / Nebius AI campus — Vineland",
+      "operator": "DataOne (Nebius)",
+      "lat": 39.48628,
+      "lng": -75.02543,
+      "city": "Vineland",
+      "state": "NJ",
+      "status": "under_construction",
+      "capacity_mw": 300,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "A ~300 MW AI data center campus in Vineland, New Jersey developed by DataOne for AI-cloud provider Nebius, supporting Nebius's ~$17B capacity deal with Microsoft. Phase 1 is under construction, and on Aug 17, 2026 the city Planning Board approved a ~600,000 sq ft Phase 2 expansion toward a planned ~2.6M sq ft total, after contentious hearings over noise, water use and emissions. The site plan relies on on-site Bloom Energy fuel cells fed by an existing gas pipeline, with a 1.5M-gallon LNG backup tank. Coordinates approximate (Vineland).",
+      "website": null,
+      "sources": [
+        "https://whyy.org/articles/vineland-planning-board-approves-data-center-plan/",
+        "https://www.nbcphiladelphia.com/news/local/vineland-planning-board-votes-to-approve-phase-2-of-controversial-data-center/4449653/"
+      ]
+    },
+    {
+      "id": "curated/news/fairfield-ca-canon-northpoint-260",
+      "name": "Proposed 150 MW data center — northeast Fairfield industrial campus",
+      "operator": "Canon Partners / NorthPoint Development",
+      "lat": 38.24936,
+      "lng": -122.03997,
+      "city": "Fairfield",
+      "state": "CA",
+      "status": "planned",
+      "capacity_mw": 150,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed ~300-acre industrial campus in northeast Fairfield, California (Solano County) that would include a 150 MW data center with room for expansion. Landowner Canon Partners, broker JLL and Kansas City developer NorthPoint Development were pitching the site to investors and data center clients as of Aug 2026; no end user has been named and no application has been approved. Early-stage. Coordinates approximate (Fairfield).",
+      "website": null,
+      "sources": [
+        "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+      ]
+    },
+    {
+      "id": "curated/news/greenfield-in-261",
+      "name": "Proposed 130-acre data center campus — Greenfield (Hancock County)",
+      "operator": null,
+      "lat": 39.78551,
+      "lng": -85.7682,
+      "city": "Greenfield",
+      "state": "IN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A developer filed a letter of intent for a ~130-acre, multi-billion-dollar data center campus in the Greenfield area of Hancock County, Indiana (east of Indianapolis), reported Aug 14–15, 2026. Letter-of-intent stage; the developer, end user and power arrangements have not been made public. Coordinates approximate (Greenfield).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWNIMm53RTVpMmg5MzNTcFR4ZElQZjJqczZLTmh3M3BmVVVDYVRySmdhbk1HbHE5TWpUbzFXVzI0UWNGZmNhcTNrVjc2MVlBTmNSTlRhTXlGVmhEWk8zY3lzM1pfTkxsNFA5dXpxbWw3ZF84S2diM2Fxbm9ZYzRZLUpBQ181WjlzOGY1SllldG5tZ3Z4Q2FUREFYeElacGRLRlh4eEROazhIbFh2Q2J3aHd5Um41VlpURWpFQUFKYmFLalZoRVVjTERmYTQ?oc=5"
+      ]
     }
   ]
 }

@@ -3967,5 +3967,86 @@
     "summary": "In-house facility tagged with operator UNMH — the University of New Mexico Hospital (Albuquerque) — serving the health system's own clinical and administrative IT rather than commercial lease.",
     "source": "claude",
     "classified_on": "2026-08-11"
+  },
+  "osm/way/808909814": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Tata Communications' Wall Township, NJ cable landing station, the US landing point for the TGN-Atlantic transatlantic subsea cable system. Subsea-cable/telecom infrastructure with associated equipment space rather than a conventional compute data center.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/way/1250867182": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "GlobeNet's Tuckerton, NJ cable landing station, the US landing point of GlobeNet's subsea cable ring linking the US with Bermuda and South America. Telecom landing-station infrastructure rather than a conventional compute data center.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/way/1189437032": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "The Manasquan, NJ cable landing station, tagged to Sprint and historically the landing point for transatlantic systems including TAT-14 (retired 2020). Telecom landing-station infrastructure rather than a conventional compute data center.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/relation/2744301": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "Chirisa Technology Parks' Piscataway, NJ campus — a redeveloped enterprise/telecom site operated as wholesale data center space, best known for hosting large-scale GPU deployments for CoreWeave under Chirisa's AI infrastructure partnerships.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/way/1509985717": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~98,000 sq ft building near Gainesville / Innovation Park in Prince William County, VA — Northern Virginia's second data center corridor after Loudoun, home to Compass, Iron Mountain, QTS and Yondr campuses. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/way/1344369111": {
+    "operator_type": "colocation",
+    "purpose": "unknown",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~64,000 sq ft building in the Westover Hills district of far-west San Antonio, TX — the city's established data center corridor hosting Microsoft, Frost Bank, Chevron and CyrusOne facilities. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/way/209105766": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~19,000 sq ft building in Santa Clara, CA's dense data center district near Central Expressway — a submarket packed with Equinix, Digital Realty, CoreSite and Vantage facilities. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/way/597876723": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~63,000 sq ft building in Richardson, TX's 'Telecom Corridor,' a Dallas-area data center submarket with Digital Realty, DataBank, Aligned and carrier facilities. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
+  },
+  "osm/way/1189426328": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~59,000 sq ft unnamed facility in Wall Township, NJ, close to the Tata (TGN-Atlantic) cable landing campus in an area dense with subsea-cable and telecom infrastructure. Identified by location only; the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-19"
   }
 }
