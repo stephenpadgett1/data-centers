@@ -920,15 +920,17 @@
       "city": "St. Louis",
       "state": "MO",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 120,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A ~$3B data center planned within the redeveloped Armory 'Innovation District' in midtown St. Louis, Missouri; the city cleared a data center permit for the project in April 2026. Early-stage redevelopment.",
+      "summary": "A ~$3B, ~120 MW data center planned at 3728 Market St within the redeveloped Armory 'Innovation District' in midtown St. Louis, Missouri. The Board of Public Service approved a conditional use permit in April 2026; on July 30, 2026 the city Board of Adjustment denied a resident appeal after a nearly 11-hour hearing, upholding the permit while attaching additional conditions. Opponents can still appeal to Missouri Circuit Court.",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHk3UjNUVkhPSTRoLVNXVXRsWENwblJCbTVtcmRLR3V6enlaTXpfX2VhZW5nSWtZbUhJcjJ2WkJZMGNSdkR5NU5YXzVFaEhSMW1pbUZIODYyZ1lzelZVdGRpcW02ZW9uRlF6VUNIbDdzV2p4OENQMmxBTG45VzlWYnQ1YUZpdkU3YkZXZW9KZEtIZnA5QVQxMnVrdHJmQ21iZXpudVBtRTFvRVlKOXVwVXBPV3VXaGJoZVc4WWdSR01uUjRLb09aWkNRTURJWUw4R1l1d2JET0hMZw?oc=5"
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHk3UjNUVkhPSTRoLVNXVXRsWENwblJCbTVtcmRLR3V6enlaTXpfX2VhZW5nSWtZbUhJcjJ2WkJZMGNSdkR5NU5YXzVFaEhSMW1pbUZIODYyZ1lzelZVdGRpcW02ZW9uRlF6VUNIbDdzV2p4OENQMmxBTG45VzlWYnQ1YUZpdkU3YkZXZW9KZEtIZnA5QVQxMnVrdHJmQ21iZXpudVBtRTFvRVlKOXVwVXBPV3VXaGJoZVc4WWdSR01uUjRLb09aWkNRTURJWUw4R1l1d2JET0hMZw?oc=5",
+        "https://fox2now.com/news/missouri/3b-midtown-data-center-permit-upheld-after-long-hearing/",
+        "https://www.stlpr.org/health-science-environment/2026-07-30/st-louis-board-allows-data-center-near-armory-to-move-forward-with-new-rules"
       ]
     },
     {
@@ -1917,7 +1919,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "A ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. DOE announced the partnership in March 2026 and ground was broken that month; SB Energy has committed to ~10 GW of new on-site generation (at least 9.2 GW natural gas), with a first ~800 MW data center phase targeted for early 2028 at a reported $30–40B initial cost. The anchor lease was confirmed on Aug 17, 2026: an Nvidia securities filing disclosed a guarantee of up to $105B in conditional lease and power-payment obligations to SB Energy, which will build and operate the campus under a 20-year lease to OpenAI. The credit supports an initial 4.25 GW with an option for a further 3.75 GW, and Nvidia is the exclusive chip supplier, with capacity phasing in from 2028. The guarantee was scaled back from an earlier ~$250B/10 GW backstop discussed in July 2026 (reported cut to under $120B before landing at $105B). Nvidia is separately in talks to invest ~$1.5–3B in SB Energy. Full 10 GW build-out targeted around 2030. Coordinates approximate.",
+      "summary": "A ~10 GW AI data center campus being developed by SoftBank's SB Energy on DOE-owned land at the Portsmouth Site (former Portsmouth Gaseous Diffusion Plant) near Piketon, Pike County, in south-central Ohio. DOE announced the partnership in March 2026 and ground was broken that month; SB Energy has committed to ~10 GW of new on-site generation (at least 9.2 GW natural gas), with a first ~800 MW data center phase targeted for early 2028 at a reported $30–40B initial cost. The anchor lease was confirmed on Aug 17, 2026: an Nvidia securities filing disclosed a guarantee of up to $105B in conditional lease and power-payment obligations to SB Energy, which will build and operate the campus under a 20-year lease to OpenAI. The credit supports an initial 4.25 GW with an option for a further 3.75 GW, and Nvidia is the exclusive chip supplier, with capacity phasing in from 2028. The guarantee was scaled back from an earlier ~$250B/10 GW backstop discussed in July 2026 (reported cut to under $120B before landing at $105B). Nvidia is separately reported (Aug 17, 2026) to be investing ~$1.5B in SB Energy, after earlier reports of talks up to $3B. Full 10 GW build-out targeted around 2030. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/openai-in-talks-to-lease-10gw-data-center-from-sb-energy-in-ohio/",
@@ -3262,11 +3264,13 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "medium",
-      "summary": "Amazon Data Services has filed 'Project Eagle' — a $1.2B, four-building data center campus on ~2,700 acres near FM 1301/FM 442 in Boling, Wharton County, TX (southwest of Houston). Construction is slated to begin August 2026, with the first two buildings targeted for January 2027. Amazon has not publicly announced the project.",
+      "summary": "Amazon Data Services' 'Project Eagle' — a data center campus on a nearly 3,000-acre site near FM 1301/FM 442 in Boling, Wharton County, TX (southwest of Houston). Initially filed as a $1.2B four-building campus; by August 2026 reporting put the build-out at ~$10B with up to 10 buildings (first building ~189,000 sq ft, targeted for 2027). Site preparation is underway but the project still needs additional Wharton County permits, and Amazon has kept the project quiet (county officials signed NDAs).",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/aws-files-for-12bn-data-center-campus-outside-houston-texas/",
-        "https://whartonpost.com/2026/06/25/amazon-data-center-boling/"
+        "https://whartonpost.com/2026/06/25/amazon-data-center-boling/",
+        "https://www.houstonchronicle.com/business/real-estate/article/amazon-data-center-houston-wharton-aws-project-22358969.php",
+        "https://therealdeal.com/texas/2026/08/17/amazons-10b-data-center-plans-near-houston-meet-headwinds/"
       ]
     },
     {
@@ -3921,14 +3925,16 @@
       "city": "Fairfield",
       "state": "AL",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 20,
       "operator_type": "colocation",
       "purpose": "multi_tenant",
       "workload": "mixed",
       "confidence": "low",
-      "summary": "A colocation data center / mixed-use 'tech campus' proposed in Fairfield, Alabama (Birmingham metro) by Missouri-based AI infrastructure company Patmos, named as the developer in July 2026 after public pressure on the mayor. Patmos points to its Kansas City Star building conversion as the model; size and exact site are still undisclosed, planning is in its infancy, and residents and environmental groups organized ahead of an Aug 11, 2026 town hall. Distinct from the Nebius Oxmoor Valley and QTS Bessemer projects nearby.",
+      "summary": "A colocation data center / 'tech campus' proposed in Fairfield, Alabama (Birmingham metro) by Missouri-based AI infrastructure company Patmos. At a packed Aug 12, 2026 town hall Patmos revealed the site — the former Walmart Supercenter, vacant for about a decade — described a ~20 MW AI-oriented colocation facility, and said it hopes to break ground as soon as September 2026 (~50 permanent jobs, ~120 construction workers). Residents raised concerns about health risks, utility bills and community benefit. Distinct from the Nebius Oxmoor Valley and QTS Bessemer projects nearby.",
       "website": null,
       "sources": [
+        "https://www.wbrc.com/2026/08/13/hundreds-pack-fairfield-town-hall-over-proposed-data-center-inside-former-walmart/",
+        "https://www.wbhm.org/local-news/2026-08-14/new-data-center-plans-to-move-quickly-in-fairfield-residents-have-questions",
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcU5PSjVCUzFKQy0tVC1wcXhSRlhPYmlocER4RmdqYUQ2NXdMNkl4bE9VUkJiVktmT0tWbnhuR3dsZFB6TXRCaGl2dVpsdVRTbmVRZVVNNVBIR0UzSEl1NXktVU9HTl9DdW9RSkJ1aVJZOVE3ZDV4cS11aVU0S2hqU1ZEZU5QNEJuMG53OW45a05zWUtqb1plem1SaVM5WldwMHRlS1VSZDdnODk5dl9zNktqbzd5RUJrZDhERERLNmpBY2s3VWhVR0dB?oc=5",
         "https://www.wbrc.com/2026/07/24/patmos-tech-campus-what-fairfield-could-expect-proposed-data-center/",
         "https://www.wbrc.com/2026/07/22/fairfield-mayor-patmos-proposes-colocation-data-center-city-hosts-town-hall/"
@@ -5084,9 +5090,10 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "medium",
-      "summary": "Amazon's third planned data center campus in northwest Louisiana, at the Resilient Technology Park in Shreveport, announced Aug 18–19, 2026 as part of an investment expanded from $12B to $18B across Caddo and Bossier parishes. Plans call for five buildings totaling over 1M sq ft plus a ~104,000 sq ft office building, with the first building targeted for mid-2027 and all five by 2028; ~210 direct jobs expected. Coordinates approximate (Shreveport).",
+      "summary": "Amazon's third planned data center campus in northwest Louisiana, at the Resilient Technology Park in Shreveport, announced Aug 18–19, 2026 as part of an investment expanded from $12B to $18B across Caddo and Bossier parishes (~$6B for the Shreveport campus itself). Plans call for five buildings totaling over 1M sq ft plus a ~104,000 sq ft office building, with the first building targeted for mid-2027 and all five by 2028; ~210 direct jobs expected. Coordinates approximate (Shreveport).",
       "website": null,
       "sources": [
+        "https://www.datacenterdynamics.com/en/news/aws-pledges-6bn-investment-in-data-center-campus-in-shreveport-louisiana/",
         "https://www.opportunitylouisiana.gov/news/amazon-grows-northwest-louisiana-planned-investment-to-18-billion-with-new-shreveport-campus",
         "https://www.wbrz.com/news/third-amazon-data-center-campus-part-of-amazon-s-18-billion-louisiana-investment/",
         "https://www.shreveportbossieradvocate.com/business/amazon-web-services-third-data-center-in-northwest-louisiana-shreveport/article_2ee6697d-2d82-4814-98a8-903a488c3eb9.html"
@@ -5151,6 +5158,89 @@
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWNIMm53RTVpMmg5MzNTcFR4ZElQZjJqczZLTmh3M3BmVVVDYVRySmdhbk1HbHE5TWpUbzFXVzI0UWNGZmNhcTNrVjc2MVlBTmNSTlRhTXlGVmhEWk8zY3lzM1pfTkxsNFA5dXpxbWw3ZF84S2diM2Fxbm9ZYzRZLUpBQ181WjlzOGY1SllldG5tZ3Z4Q2FUREFYeElacGRLRlh4eEROazhIbFh2Q2J3aHd5Um41VlpURWpFQUFKYmFLalZoRVVjTERmYTQ?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/carson-county-tx-infratech-262",
+      "name": "InfraTech $2.7B data center campus — Carson County",
+      "operator": "InfraTech",
+      "lat": 35.34546,
+      "lng": -101.38066,
+      "city": "Panhandle",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~$2.7B data center campus announced Aug 18–20, 2026 for Carson County in the Texas Panhandle (east of Amarillo) by developer InfraTech. Officials say further details — exact site, power arrangements and any end user — will be revealed when the deal is completed. Early-stage. Coordinates approximate (Panhandle, the county seat).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/infratech-to-invest-27bn-to-develop-data-center-campus-in-carson-county-texas/",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxORHJsSndZUjUweDVwb2RIczRxcE5hbTd6bDYtWlRxUTA5MU5haG5UUVNWNXNyN2xXTWFENE1iM1Q5cVAxcFIwQUtKeEVxTmZfSlB4UWx4TUR5TjBCZXFFSWx3bVE3bDE3czFrU005Q1Bpc1lsallERjZKNEw1bkhoVmpod0tQS2xCelpHc194UWFwXy1Fb1JvR3FiVTdlUdIBsgFBVV95cUxOQXVHVEhMX1BHa25jQTBtUVYySENsRG84ZE41YUxmVlhZTldLdC1PYkVvY3l3NjhsMTZieE90eEFCLW1DWENYdWgtYXhLZ3VNWHI3OGRBWWlJZDFwTnc3anhPNjBRZVFBVzFhdlNFUFYzZTUyT2dubFEtWDF3bThzanVzQk1BOU9wOTRiMHBxRG1DQWhlSHBOdFM3MWEtQkJtdmxza21LN3lrYjl1dU9zZ21B?oc"
+      ]
+    },
+    {
+      "id": "curated/news/canton-oh-project-shelby-263",
+      "name": "Panattoni 'Project Shelby' — Canton (former Ford site)",
+      "operator": "Panattoni Development",
+      "lat": 40.79855,
+      "lng": -81.37495,
+      "city": "Canton",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": 324,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "'Project Shelby' — a proposed ~324 MW hyperscale data center by Panattoni Development on ~100 acres of the former Ford forging plant site (vacant since the late 1980s) southeast of Marietta Ave NE and Georgetown Rd NE in Canton, Ohio, to be operated by an unnamed major US technology company for cloud and machine-learning workloads. Developers held a community open house on Aug 18, 2026; construction is targeted for 2027 (~670 construction jobs). Residents have raised health, environmental and property-value concerns. Coordinates approximate (Canton).",
+      "website": null,
+      "sources": [
+        "https://www.ideastream.org/environment-energy/2026-08-19/canton-residents-worry-a-massive-data-center-will-ruin-their-neighborhood",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTXBUcjZJaWNINV9uODBjdndkQmZxVWVYenNyaTZJWS1iVjhsdnB3WVFrUlIzUWxsblV0UG1wTU0yNjZMOHM1UGxMVzJOTzFQU3l0NWtGcHpWZXV6aTlZM2N2eUR3cGtXbE5TZ0swQldkRU91MmhyaXVXeW12Q3JiMGNXUVljcmdqa1huTTJKVmFzVzRxSktMQWdiVzhDZ3RweDNvZzR3OEd0TUl6UUhTTnZTNlE0cC1TVElkdXI5enZKWkp6UEVR?oc=5"
+      ]
+    },
+    {
+      "id": "curated/news/cook-inlet-ak-deepgreen-264",
+      "name": "DeepGreen Cook Inlet underwater AI data center — off Nikiski",
+      "operator": "DeepGreen (Cook Inlet SPV)",
+      "lat": 60.72106,
+      "lng": -151.24621,
+      "city": "Nikiski",
+      "state": "AK",
+      "status": "planned",
+      "capacity_mw": 100,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A proposed ~100 MW tidal-powered underwater AI data center in Upper Cook Inlet off Nikiski, Alaska, by DeepGreen Cook Inlet SPV LLC — the same Massachusetts developer behind the DeepGreen Western Passage proposal in Eastport, Maine. FERC preliminary-permit filings describe ~330–350 marine hydrokinetic turbines and ~66 submerged server 'hives' across a ~1,650-acre operational envelope, with the inlet's tides both powering and cooling the servers. Highly speculative: FERC faulted the filing for incomplete notice to the City of Kenai and affected tribes/Alaska Native corporations, the concept is unproven at scale, and local resistance has emerged. Coordinates approximate (Nikiski; the project would sit offshore).",
+      "website": null,
+      "sources": [
+        "https://www.adn.com/business-economy/2026/08/19/underwater-data-center-proposed-for-alaskas-cook-inlet-by-east-coast-company/"
+      ]
+    },
+    {
+      "id": "curated/news/allentown-pa-petrucci-265",
+      "name": "J.G. Petrucci 100 MW data center — East Allentown (Flex Center site)",
+      "operator": "J.G. Petrucci",
+      "lat": 40.60226,
+      "lng": -75.47161,
+      "city": "Allentown",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": 100,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A ~100 MW, ~146,000 sq ft data center with an on-site substation proposed by developer J.G. Petrucci at 1024 N. Bradford Street in east Allentown, PA — a pivot of the previously approved 'Allentown Flex Center' warehouse project near Coca-Cola Park. Plans were submitted in Aug 2026; the developer is in talks with a potential end user and construction could start in early 2027, though it is unclear whether the city's new zoning rules (Bill 52, restricting data centers to the Industrial-Manufacturing district) will apply. Allentown's second data center proposal, distinct from the earlier south Allentown project. Coordinates approximate (Allentown).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/100mw-data-center-proposed-in-allentown-pennsylvania/",
+        "https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/new-details-emerge-about-second-data-center-proposal-in-allentown/article_dcaca0c9-9d56-4980-8de7-03efc0bf1a1b.html"
       ]
     }
   ]

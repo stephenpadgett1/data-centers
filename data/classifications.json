@@ -4048,5 +4048,644 @@
     "summary": "A ~59,000 sq ft unnamed facility in Wall Township, NJ, close to the Tata (TGN-Atlantic) cable landing campus in an area dense with subsea-cable and telecom infrastructure. Identified by location only; the operator is unconfirmed.",
     "source": "claude",
     "classified_on": "2026-08-19"
+  },
+  "osm/way/1177975782": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of three unnamed buildings in the North Range Business Park west of Cheyenne, WY — the park hosting Microsoft's Cheyenne data center campus and the NCAR-Wyoming Supercomputing Center. Most likely part of the Microsoft campus, but identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1177975783": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of three unnamed buildings in the North Range Business Park west of Cheyenne, WY — the park hosting Microsoft's Cheyenne data center campus and the NCAR-Wyoming Supercomputing Center. Most likely part of the Microsoft campus, but identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1177975784": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of three unnamed buildings in the North Range Business Park west of Cheyenne, WY — the park hosting Microsoft's Cheyenne data center campus and the NCAR-Wyoming Supercomputing Center. Most likely part of the Microsoft campus, but identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191468": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191469": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191470": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191471": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191472": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191473": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191474": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191475": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191476": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1422191477": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "One of a cluster of ten near-identical ~7–16,000 sq ft structures on the edge of Ellendale, ND — the small town hosting Applied Digital's Ellendale campus (its original ~180 MW hosting site plus the multi-building 'Polaris Forge 1' AI/HPC campus leased to CoreWeave). Very likely part of that campus; identified by location only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/337127832": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of several unnamed buildings on the west side of Quincy, WA — a hydro-powered data center town whose western industrial quarter is dominated by Microsoft's Columbia campus, with Yahoo, Sabey, Vantage and H5 also in town. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/337127833": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of several unnamed buildings on the west side of Quincy, WA — a hydro-powered data center town whose western industrial quarter is dominated by Microsoft's Columbia campus, with Yahoo, Sabey, Vantage and H5 also in town. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/410408067": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of several unnamed buildings on the west side of Quincy, WA — a hydro-powered data center town whose western industrial quarter is dominated by Microsoft's Columbia campus, with Yahoo, Sabey, Vantage and H5 also in town. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/410408079": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of several unnamed buildings on the west side of Quincy, WA — a hydro-powered data center town whose western industrial quarter is dominated by Microsoft's Columbia campus, with Yahoo, Sabey, Vantage and H5 also in town. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/499403698": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of several unnamed buildings on the west side of Quincy, WA — a hydro-powered data center town whose western industrial quarter is dominated by Microsoft's Columbia campus, with Yahoo, Sabey, Vantage and H5 also in town. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/283051481": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of five unnamed buildings on the northeast side of Quincy, WA — a hydro-powered data center hub hosting Microsoft, Yahoo, Sabey, Vantage and H5 campuses. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/283051482": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of five unnamed buildings on the northeast side of Quincy, WA — a hydro-powered data center hub hosting Microsoft, Yahoo, Sabey, Vantage and H5 campuses. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/283051483": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of five unnamed buildings on the northeast side of Quincy, WA — a hydro-powered data center hub hosting Microsoft, Yahoo, Sabey, Vantage and H5 campuses. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/283051484": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of five unnamed buildings on the northeast side of Quincy, WA — a hydro-powered data center hub hosting Microsoft, Yahoo, Sabey, Vantage and H5 campuses. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/283051485": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a row of five unnamed buildings on the northeast side of Quincy, WA — a hydro-powered data center hub hosting Microsoft, Yahoo, Sabey, Vantage and H5 campuses. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/814061068": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of four small unnamed structures near Pangborn Memorial Airport in East Wenatchee, WA — an area known for cheap-hydro bitcoin mining (the former Giga Watt pod site and successor miners operated here). The small identical footprints match mining pods; identified by location and building pattern only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/814061069": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of four small unnamed structures near Pangborn Memorial Airport in East Wenatchee, WA — an area known for cheap-hydro bitcoin mining (the former Giga Watt pod site and successor miners operated here). The small identical footprints match mining pods; identified by location and building pattern only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/814061070": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of four small unnamed structures near Pangborn Memorial Airport in East Wenatchee, WA — an area known for cheap-hydro bitcoin mining (the former Giga Watt pod site and successor miners operated here). The small identical footprints match mining pods; identified by location and building pattern only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/814061071": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of four small unnamed structures near Pangborn Memorial Airport in East Wenatchee, WA — an area known for cheap-hydro bitcoin mining (the former Giga Watt pod site and successor miners operated here). The small identical footprints match mining pods; identified by location and building pattern only, operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/251716311": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~51,000 sq ft building in the Chantilly (zip 20151) data center corridor of Fairfax County, VA — the southern extension of Northern Virginia's data center market. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/258520532": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~18,000 sq ft building in the Chantilly (zip 20151) data center corridor of Fairfax County, VA, a few hundred meters from way/251716311. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/696978351": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~49,000 sq ft building in Ashburn, VA, inside Loudoun County's 'Data Center Alley' — the densest concentration of multi-tenant data centers in the world, anchored by Equinix, Digital Realty, CyrusOne, Aligned and AWS. Identified by location only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/260996040": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A ~56,000 sq ft unnamed building in the Lorton/Newington pocket of southern Fairfax County, VA, where AWS operates several unmarked facilities. Identified by location only; the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1511639842": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a set of near-identical ~57,000 sq ft halls northwest of Pecos in Reeves County, TX (Permian Basin) — a layout typical of the region's gas-powered bitcoin-mining / modular compute sites. Identified by location and building pattern only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1511639843": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a set of near-identical ~57,000 sq ft halls northwest of Pecos in Reeves County, TX (Permian Basin) — a layout typical of the region's gas-powered bitcoin-mining / modular compute sites. Identified by location and building pattern only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1511639844": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a set of near-identical ~57,000 sq ft halls northwest of Pecos in Reeves County, TX (Permian Basin) — a layout typical of the region's gas-powered bitcoin-mining / modular compute sites. Identified by location and building pattern only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1511639845": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "A smaller (~12,000 sq ft) structure at the same site as the three ~57,000 sq ft halls northwest of Pecos in Reeves County, TX (Permian Basin) — a layout typical of the region's gas-powered bitcoin-mining / modular compute sites. Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1536086683": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a pair of near-identical ~57,000 sq ft halls just north of Pecos in Reeves County, TX (Permian Basin) — a layout typical of the region's gas-powered bitcoin-mining / modular compute sites. Identified by location and building pattern only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1536086684": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a pair of near-identical ~57,000 sq ft halls just north of Pecos in Reeves County, TX (Permian Basin) — a layout typical of the region's gas-powered bitcoin-mining / modular compute sites. Identified by location and building pattern only; the OSM footprint is unnamed and the operator is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1547829413": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a pair of unnamed structures southeast of Pecos (toward Fort Stockton) in the Permian Basin of West Texas — an area dotted with gas-powered bitcoin-mining and modular compute sites. Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1547829414": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of a pair of unnamed structures southeast of Pecos (toward Fort Stockton) in the Permian Basin of West Texas — an area dotted with gas-powered bitcoin-mining and modular compute sites. Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600946": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600947": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600948": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600949": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600950": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600951": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600952": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600953": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600954": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600955": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600956": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600957": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600958": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600959": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600960": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600961": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600962": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600963": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600964": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600965": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600966": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600967": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600968": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600969": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600971": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539600972": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539603377": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539603378": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539603379": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539603380": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539603381": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
+  },
+  "osm/way/1539603382": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-08-20"
   }
 }
