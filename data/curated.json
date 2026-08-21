@@ -5242,6 +5242,48 @@
         "https://www.datacenterdynamics.com/en/news/100mw-data-center-proposed-in-allentown-pennsylvania/",
         "https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/new-details-emerge-about-second-data-center-proposal-in-allentown/article_dcaca0c9-9d56-4980-8de7-03efc0bf1a1b.html"
       ]
+    },
+    {
+      "id": "curated/news/taylor-tx-mustang-266",
+      "name": "'Project Mustang' data center campus — Taylor (Big Watt / PowerHouse)",
+      "operator": "Big Watt Digital / PowerHouse Data Centers",
+      "lat": 30.57289,
+      "lng": -97.41411,
+      "city": "Taylor",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": 477,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A proposed ~665-acre data center campus dubbed 'Project Mustang' between FM 112 and US 79 immediately east of Taylor's city limits (Williamson County) — Taylor's fourth proposed data center, from South Dakota-based Big Watt Digital and Virginia-based PowerHouse Data Centers, separate from the Blueprint Projects and KDC 'Project Comal' sites. Plans include at least two data center buildings and a ~477 MW on-site gas-fired generation plant; the city is negotiating voluntary annexation so it can impose binding noise, setback, air-quality and water rules. Facing organized resident pushback, Taylor's Planning & Zoning Commission postponed action ~90 days in August 2026 while the city drafts data-center-specific zoning. Coordinates approximate (Taylor city center).",
+      "website": null,
+      "sources": [
+        "https://www.kvue.com/article/news/local/williamson-county/data-center-taylor-residents-push-back-proposed-665-acre-project-mustang/269-8285111e-fa2a-4808-bc56-d40fe3645125",
+        "https://taylortx.gov/CivicAlerts.aspx?AID=2077",
+        "https://austinfreepress.org/corralling-mustang/"
+      ]
+    },
+    {
+      "id": "curated/news/pecos-tx-prometheus-istmo-267",
+      "name": "Prometheus Hyperscale / Istmo campus — Pecos (Reeves County)",
+      "operator": "Prometheus Hyperscale / Istmo Energy",
+      "lat": 31.42541,
+      "lng": -103.49529,
+      "city": "Pecos",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": 2500,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Prometheus Hyperscale and Permian/Delaware Basin energy-infrastructure firm Istmo Energy announced (Aug 2026) an up-to-2.5 GW gas-powered, behind-the-meter AI data center campus near Pecos in Reeves County, TX — 1.5 GW planned in Phase 1 with first power slated for 2027, pairing on-site generation with co-located gas fractionation assets for dual-fuel capability. Early-stage announcement; separate from Prometheus's Evanston, WY flagship and from Microsoft's 'Project Kilby' elsewhere in Reeves County. Coordinates approximate (Pecos).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/prometheus-hyperscale-partners-with-istmo-to-develop-up-to-25gw-gas-powered-data-center-in-reeves-county-texas/"
+      ]
     }
   ]
 }
