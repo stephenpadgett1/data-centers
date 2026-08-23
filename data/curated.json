@@ -9,13 +9,13 @@
       "lng": -99.784,
       "city": "Abilene",
       "state": "TX",
-      "status": "under_construction",
+      "status": "operational",
       "capacity_mw": 1200,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). By spring 2026 roughly four of the eight buildings were operational (~0.6 GW live by mid-2026, with the remaining buildings running behind their original schedule) and Crusoe topped out the final building, with construction of the remaining buildings now expected to run into early 2027; in June 2026 Crusoe declared the campus officially live serving Oracle and OpenAI. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. The most prominent purpose-built AI training campus in the US. In March 2026 OpenAI scrapped a planned ~600 MW expansion (to avoid mixing Blackwell with the forthcoming Vera Rubin generation on one site), capping the campus at ~1.2 GW; roughly half of the eight buildings were operational by mid-2026.",
+      "summary": "Flagship site of the $500B Stargate project (OpenAI, Oracle, SoftBank), built by Crusoe on the Lancium Clean Campus. ~1.2 GW planned across eight buildings; the first went live on NVIDIA GB200 Blackwell racks in Sept 2025 (used by Oracle/OCI for OpenAI). Crusoe topped out the final building and in June 2026 declared the campus officially live serving Oracle and OpenAI. As of August 2026 roughly four to five of the eight buildings are operational, carrying an estimated ~420 MW of IT load; the remaining buildings run behind their original schedule, with completion expected into early 2027, so the site is live but still building out toward its ~1.2 GW cap. OpenAI/Oracle declined to expand beyond 1.2 GW; Nvidia secured the surplus and Microsoft agreed to lease ~700 MW of adjacent Crusoe capacity. In March 2026 OpenAI scrapped a planned ~600 MW expansion (to avoid mixing Blackwell with the forthcoming Vera Rubin generation on one site), capping the campus at ~1.2 GW. The most prominent purpose-built AI training campus in the US.",
       "website": "https://openai.com/index/announcing-the-stargate-project/",
       "sources": [
         "https://openai.com/index/five-new-stargate-sites/",
@@ -24,7 +24,8 @@
         "https://www.datacenterdynamics.com/en/news/crusoe-tops-out-final-building-at-openai-stargate-data-center-campus-in-abilene-texas/",
         "https://www.datacenterdynamics.com/en/news/crusoes-abilene-data-center-officially-live-serving-oracle-and-openais-stargate/",
         "https://www.datacenterknowledge.com/ai-data-centers/stargate-update-ai-s-biggest-data-center-buildout-meets-reality",
-        "https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion"
+        "https://www.tomshardware.com/tech-industry/oracle-and-openai-scrap-planned-600mw-abilene-expansion",
+        "https://epoch.ai/data/ai-data-centers/directory/openai-stargate-abilene"
       ]
     },
     {

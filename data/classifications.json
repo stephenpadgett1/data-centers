@@ -4687,5 +4687,68 @@
     "summary": "One of ~30 identical container-scale (~720 sq ft) units in rural Venango County, PA — a footprint pattern characteristic of modular bitcoin-mining containers; the area's mines run on local waste-coal/gas generation (Stronghold Digital's Scrubgrass plant is nearby). Identified by location and building pattern only; operator unconfirmed.",
     "source": "claude",
     "classified_on": "2026-08-20"
+  },
+  "osm/way/1549253250": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "unknown",
+    "confidence": "low",
+    "summary": "A ~161-acre parcel in the northern Manchester Township redevelopment area, Ocean County, NJ — the OSM way carries note=\"Lote 31\" and matches Block 62, Lot 31.01 on the township tax maps, where data centers are a permitted use. A former mining quarry; the developer holds warehouse approvals and is exploring converting the site to an AI data center, but as of August 2026 no project has been formally proposed and no operator is named. Facing organized local opposition (a \"No Data Centers in Manchester\" petition seeking to repeal the redevelopment plan). NOTE: the OSM way is tagged proposed=yes, but the build reports status \"operational\" because derive_status() only matches proposed=data_center, not a bare proposed=yes.",
+    "source": "claude",
+    "classified_on": "2026-08-23"
+  },
+  "osm/way/1549253249": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "unknown",
+    "confidence": "low",
+    "summary": "A ~68-acre parcel adjoining way/1549253250 in the northern Manchester Township redevelopment area, Ocean County, NJ — the OSM way carries note=\"Lot 30\" and matches Block 62, Lot 30 on the township tax maps. Same former-quarry redevelopment area where data centers are a permitted use; no formal project proposed and no operator named as of August 2026. NOTE: tagged proposed=yes in OSM but reported as \"operational\" by the build (see way/1549253250).",
+    "source": "claude",
+    "classified_on": "2026-08-23"
+  },
+  "osm/way/1392657385": {
+    "operator_type": "colocation",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Data center at 23800 W Valley Parkway, Olathe, KS (~87,000 sq ft footprint; reported as a ~90,000 sq ft building). Developed and owned by Oppidan Investment Company's Connect Data Centers and operated by T5, approved by the city in 2024. Built for a single undisclosed end user, so it is build-to-suit rather than multi-tenant. One of three data centers clustered near Cedar Creek in northwest Olathe, alongside State Farm (24400 W Valley Pkwy) and US Bank (24101 W Valley Pkwy).",
+    "source": "claude",
+    "classified_on": "2026-08-23"
+  },
+  "osm/relation/10132610": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "SES's Hawley Earth Station near Lake Wallenpaupack in Wayne County, PA — a satellite teleport operated by SES, the Luxembourg-based fixed-satellite operator. Named and operator-tagged in OSM. Teleport/ground-station infrastructure rather than a commercial compute hall, so the capacity is uplink/downlink and broadcast distribution rather than IT load.",
+    "source": "claude",
+    "classified_on": "2026-08-23"
+  },
+  "osm/way/476609221": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "A ~43,000 sq ft data center building on Schriever Space Force Base, about 10 miles east of Colorado Springs, CO — the OSM footprint sits essentially on the published base coordinates (38.8033, -104.5256). Schriever hosts the 310th Space Wing, the National Space Defense Center and Missile Defense Agency elements, and commands DoD satellite constellations including GPS. Identified by location; the specific building and its mission are not named in OSM.",
+    "source": "claude",
+    "classified_on": "2026-08-23"
+  },
+  "osm/way/706081342": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "A ~43,000 sq ft data center building in the Sandia National Laboratories / Kirtland Air Force Base complex in southeast Albuquerque, NM. Sandia is a DOE/NNSA laboratory whose Albuquerque campus hosts large scientific HPC installations (historically ASCI Red and Red Storm; the 725E data center serves current computing needs). Identified by location; the individual building is unnamed in OSM.",
+    "source": "claude",
+    "classified_on": "2026-08-23"
+  },
+  "osm/way/1307454847": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Building on Microsoft's Boydton campus in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses, spanning over 1 million sq ft across 14 buildings on ~360 acres, first announced in 2010. Identified by location; individual building unnamed in OSM.",
+    "source": "claude",
+    "classified_on": "2026-08-23"
   }
 }
