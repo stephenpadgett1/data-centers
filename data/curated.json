@@ -3265,13 +3265,14 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "medium",
-      "summary": "Amazon Data Services' 'Project Eagle' — a data center campus on a nearly 3,000-acre site near FM 1301/FM 442 in Boling, Wharton County, TX (southwest of Houston). Initially filed as a $1.2B four-building campus; by August 2026 reporting put the build-out at ~$10B with up to 10 buildings (first building ~189,000 sq ft, targeted for 2027). Site preparation is underway but the project still needs additional Wharton County permits, and Amazon has kept the project quiet (county officials signed NDAs).",
+      "summary": "Amazon Data Services' 'Project Eagle' — a data center campus on a nearly 3,000-acre site near FM 1301/FM 442 in Boling, Wharton County, TX (southwest of Houston). Initially filed as a $1.2B four-building campus; state filings in early August 2026 expanded it to 10 registered buildings of ~189,060 sq ft each at roughly $300M apiece, with total build-out reported at ~$10B. Construction was scheduled to begin 1 Aug 2026, the first three buildings due early 2027 and a fourth by August 2027. Site preparation is underway but the project still needs additional Wharton County permits, and Amazon has kept the project quiet (county officials signed NDAs). Reported power figures remain ambiguous — coverage cites 'up to 75 MW' without making clear whether that is per building or campus-wide — so capacity is left unset. Gov. Abbott's new state audit requirement for large data center power hookups adds schedule risk across the Texas pipeline.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/aws-files-for-12bn-data-center-campus-outside-houston-texas/",
         "https://whartonpost.com/2026/06/25/amazon-data-center-boling/",
         "https://www.houstonchronicle.com/business/real-estate/article/amazon-data-center-houston-wharton-aws-project-22358969.php",
-        "https://therealdeal.com/texas/2026/08/17/amazons-10b-data-center-plans-near-houston-meet-headwinds/"
+        "https://therealdeal.com/texas/2026/08/17/amazons-10b-data-center-plans-near-houston-meet-headwinds/",
+        "https://whartonpost.com/2026/08/06/project-eagle-expands-10-data-centers-boling/"
       ]
     },
     {
