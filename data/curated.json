@@ -3243,12 +3243,14 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "TeraWulf's ~750-acre 'Justified' AI/HPC data campus at the former Century Aluminum smelter in Hawesville (Hancock County), KY — a ~$3.7B project targeting ~401 MW of critical IT load using the smelter's large existing substation, with first power expected in H2 2027. In July 2026 Anthropic signed a 20-year lease for the entire campus (~$19B in contracted revenue); Fluor is engaged for preconstruction.",
+      "summary": "TeraWulf's ~750-acre 'Justified' AI/HPC data campus at the former Century Aluminum smelter in Hawesville (Hancock County), KY — targeting ~401 MW of critical IT load using the smelter's large existing substation, with first power expected in H2 2027. In July 2026 Anthropic signed a 20-year lease for the entire campus (~$19B in contracted revenue); Fluor is engaged for preconstruction. On Aug 21, 2026 the Kentucky PSC approved the Retail Electric Service Agreement with Big Rivers Electric / Kenergy for up to 482 MW of service — roughly the transmission capacity freed by the smelter's closure — finding the rates just and reasonable and the risk allocation protective of existing customers. TeraWulf now estimates ~$4.0–4.5B of investment in site development and initial data halls, at ~$10–12M per MW of critical IT load.",
       "website": null,
       "sources": [
         "https://investors.terawulf.com/news-events/press-releases/detail/129/terawulf-expands-digital-and-power-infrastructure-portfolio-with-strategic-acquisitions-in-kentucky-and-maryland",
         "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
-        "https://www.datacenterdynamics.com/en/news/former-aluminum-site-in-hawesville-kentucky-to-be-repurposed-into-data-center/"
+        "https://www.datacenterdynamics.com/en/news/former-aluminum-site-in-hawesville-kentucky-to-be-repurposed-into-data-center/",
+        "https://investors.terawulf.com/news-events/press-releases/detail/145/kentucky-psc-approves-482-mw-power-agreement-for-terawulfs-justified-data-campus",
+        "https://www.datacenterdynamics.com/en/news/terawulf-secures-482mw-electrical-service-agreement-for-planned-data-center-campus-in-kentucky/"
       ]
     },
     {
@@ -5285,6 +5287,50 @@
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/prometheus-hyperscale-partners-with-istmo-to-develop-up-to-25gw-gas-powered-data-center-in-reeves-county-texas/"
+      ]
+    },
+    {
+      "id": "curated/news/mandan-nd-stark-power-268",
+      "name": "Stark Power data center — north of Mandan",
+      "operator": "Stark Power Ltd",
+      "lat": 46.82641,
+      "lng": -100.8897,
+      "city": "Mandan",
+      "state": "ND",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Stark Power Ltd's proposed first data center, on land about five miles north of downtown Mandan, ND — north of I-94 between Highway 1806 and Old Red Trail. The developer signed land purchase deals in mid-2026 and held its first public open house on Aug 21, 2026; Morton County has said it has no jurisdiction over the site. Public comment has centered on noise, water use, setbacks and the site's proximity to Red Trail Elementary and Mandan Middle and High Schools, each under a mile away. Mandan's Planning and Zoning Commission recommended a data-center ordinance with amendments on Aug 25, 2026. The developer describes the project as early-stage; no capacity, operator or tenant has been disclosed. Coordinates approximate (Mandan city center).",
+      "website": null,
+      "sources": [
+        "https://www.kfyrtv.com/2026/08/21/proposed-data-center-near-mandan-draws-concern-over-school-proximity/",
+        "https://northdakotamonitor.com/2026/08/21/residents-voice-concerns-over-mandan-data-center-during-town-hall/",
+        "https://www.inforum.com/news/north-dakota/data-center-developer-signs-mandan-land-purchase-deals-county-says-it-has-no-jurisdiction",
+        "https://www.kfyrtv.com/2026/08/25/mandan-planning-zoning-recommends-data-center-ordinance-after-adding-amendments/"
+      ]
+    },
+    {
+      "id": "curated/news/hopkinsville-ky-north-campbell-269",
+      "name": "North Campbell Land Co 50 MW data center — Hopkinsville",
+      "operator": "North Campbell Land Co (Sphere 3D)",
+      "lat": 36.86579,
+      "lng": -87.48941,
+      "city": "Hopkinsville",
+      "state": "KY",
+      "status": "planned",
+      "capacity_mw": 50,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "North Campbell Land Co — a wholly owned subsidiary of Sphere 3D since its June 2026 acquisition of Cathedra Bitcoin — proposes a 50 MW AI/HPC data center in Hopkinsville, KY, alongside converting its existing ~15 MW Bitcoin mine at Hopkinsville Electric System's Holland Substation to AI and HPC workloads. NCLC would fund an estimated $8–10M 65 MW substation, with 50 MW for the data center and 15 MW left for other HES customers. Residents at an August 2026 hearing raised noise, water, backup-generator and emissions concerns, and the city is weighing data-center zoning limits. Coordinates approximate (Hopkinsville city center); the second site's exact location has not been disclosed.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/residents-raise-concerns-over-proposed-50mw-data-center-in-hopkinsville-kentucky/",
+        "https://hoptownchronicle.org/hopkinsville-weighs-limits-on-data-centers-as-crypto-mine-proposes-expansion/"
       ]
     }
   ]

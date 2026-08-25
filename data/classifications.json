@@ -4750,5 +4750,14 @@
     "summary": "Building on Microsoft's Boydton campus in Mecklenburg County, VA — one of Microsoft's largest Azure (East US) data center campuses, spanning over 1 million sq ft across 14 buildings on ~360 acres, first announced in 2010. Identified by location; individual building unnamed in OSM.",
     "source": "claude",
     "classified_on": "2026-08-23"
+  },
+  "osm/way/440666998": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "XO Communications' Santa Ana colocation facility (~11,600 sq ft) on East Deere Avenue in Orange County, CA, offering cabinet and cage space with carrier network access. XO's fiber and colocation business was acquired by Verizon in 2017 for ~$1.8B, so the site now sits under Verizon's enterprise footprint despite the retained XO name in OSM. Traditional retail/carrier-neutral colocation rather than AI-oriented capacity.",
+    "source": "claude",
+    "classified_on": "2026-08-25"
   }
 }
