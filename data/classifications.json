@@ -1,4 +1,22 @@
 {
+  "osm/node/14124835505": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "DartPoints AVL01 in Asheville, NC — a regional edge colocation facility operated by DartPoints (the OSM node lacks an operator tag but the name and linked dartpoints.com location page identify it). DartPoints runs a network of small multi-tenant edge data centers across secondary US markets.",
+    "source": "claude",
+    "classified_on": "2026-08-29"
+  },
+  "osm/way/1552427895": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "A tiny (~130 sq ft) on-campus server room at The Putney School, a boarding high school in Putney, VT — an institutional IT closet mapped as a data center, not a commercial facility.",
+    "source": "claude",
+    "classified_on": "2026-08-29"
+  },
   "osm/way/1116775094": {
     "operator_type": "colocation",
     "purpose": "unknown",
@@ -3150,31 +3168,31 @@
     "classified_on": "2026-07-17"
   },
   "osm/way/254742608": {
-    "operator_type": "hyperscaler",
+    "operator_type": "government",
     "purpose": "purpose_built",
-    "workload": "mixed",
+    "workload": "general",
     "confidence": "medium",
-    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) — a long-running Azure South Central US data center campus. Identified by location.",
+    "summary": "Building immediately adjacent to the named Texas Cryptologic Center (NSA/CSS Texas) footprint on the former Sony plant site off W Military Drive in San Antonio — part of the NSA Texas complex, not Microsoft's Westover Hills campus ~4 km west as previously assumed. Identified by location.",
     "source": "claude",
-    "classified_on": "2026-07-17"
+    "classified_on": "2026-08-31"
   },
   "osm/way/254742609": {
-    "operator_type": "hyperscaler",
+    "operator_type": "government",
     "purpose": "purpose_built",
-    "workload": "mixed",
+    "workload": "general",
     "confidence": "medium",
-    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) — a long-running Azure South Central US data center campus. Identified by location.",
+    "summary": "Building immediately adjacent to the named Texas Cryptologic Center (NSA/CSS Texas) footprint on the former Sony plant site off W Military Drive in San Antonio — part of the NSA Texas complex, not Microsoft's Westover Hills campus ~4 km west as previously assumed. Identified by location.",
     "source": "claude",
-    "classified_on": "2026-07-17"
+    "classified_on": "2026-08-31"
   },
   "osm/way/254742610": {
-    "operator_type": "hyperscaler",
+    "operator_type": "government",
     "purpose": "purpose_built",
-    "workload": "mixed",
+    "workload": "general",
     "confidence": "medium",
-    "summary": "Building on Microsoft's San Antonio, TX campus in Westover Hills (Micron Drive area) — a long-running Azure South Central US data center campus. Identified by location.",
+    "summary": "Building immediately adjacent to the named Texas Cryptologic Center (NSA/CSS Texas) footprint on the former Sony plant site off W Military Drive in San Antonio — part of the NSA Texas complex, not Microsoft's Westover Hills campus ~4 km west as previously assumed. Identified by location.",
     "source": "claude",
-    "classified_on": "2026-07-17"
+    "classified_on": "2026-08-31"
   },
   "osm/way/775412066": {
     "operator_type": "hyperscaler",
@@ -4759,5 +4777,383 @@
     "summary": "XO Communications' Santa Ana colocation facility (~11,600 sq ft) on East Deere Avenue in Orange County, CA, offering cabinet and cage space with carrier network access. XO's fiber and colocation business was acquired by Verizon in 2017 for ~$1.8B, so the site now sits under Verizon's enterprise footprint despite the retained XO name in OSM. Traditional retail/carrier-neutral colocation rather than AI-oriented capacity.",
     "source": "claude",
     "classified_on": "2026-08-25"
+  },
+  "osm/way/1537390734": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390735": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390736": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390737": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390738": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390739": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390740": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390741": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390742": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390743": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390744": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390745": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390746": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390747": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390748": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390749": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390750": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1537390751": {
+    "operator_type": "government",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "One of ~18 identical small modular structures (~4,300–9,300 sq ft each) in tight rows ~300 m southwest of the named Texas Cryptologic Center (NSA/CSS Texas) building on the former Sony plant site off W Military Drive, San Antonio — support/expansion infrastructure of the NSA Texas complex. Identified by location.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/195165330": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~59,000 sq ft data center in the KCI-corridor cluster at I-435 & US-169 in Kansas City's Northland (Platte County, MO), mapped in the same early-2010s OSM batch as the neighboring 'Black Rock Financial Management' facility — suggesting an enterprise/financial-services captive site. The area now also hosts Golden Plains Technology Park (Meta's KC hyperscale campus). Operator unconfirmed; identified by location only.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/195169261": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~51,000 sq ft data center in the KCI-corridor cluster at I-435 & US-169 in Kansas City's Northland (Platte County, MO), mapped in the same early-2010s OSM batch as the neighboring 'Black Rock Financial Management' facility — suggesting an enterprise/financial-services captive site. The area now also hosts Golden Plains Technology Park (Meta's KC hyperscale campus). Operator unconfirmed; identified by location only.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/288909509": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~31,000 sq ft data center in the KCI-corridor cluster at I-435 & US-169 in Kansas City's Northland (Platte County, MO), near the 'Black Rock Financial Management' facility and the Golden Plains Technology Park (Meta's KC hyperscale campus). Operator unconfirmed; identified by location only.",
+    "source": "claude",
+    "classified_on": "2026-08-31"
+  },
+  "osm/way/1374729776": {
+    "operator_type": "education",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "The University of Alabama's new High Performance Computing and Data Center, under construction on the east side of the Tuscaloosa campus (~196,000 sq ft footprint) — an institutional research-computing and campus IT facility, not a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/724554643": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "A very large (~1.23M sq ft) data center footprint under construction near Touhy Ave and Elmhurst Rd on the northeast edge of Elk Grove Village, IL — the self-styled 'data center capital of the Midwest', where Prime Data Centers' ~270 MW, three-building Prime ORD campus (1600 E Higgins Rd) and Stream Data Centers' 1.2M sq ft, three-building ORDC campus are both being built for hyperscale/AI tenants. Identified by location only; the OSM footprint is unnamed and the specific developer is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/1540963138": {
+    "operator_type": "colocation",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "Unnamed ~482,000 sq ft data hall under construction south of E 181st Ave east of Clay St in Eagle Creek Township, rural Lake County, IN — matching Sentinel Data Centers' ~$5B 'Project Shirley', a four-building campus on ~160 largely agricultural acres (plus a nearby battery storage site) whose rezoning the Lake County Council approved 6-0 on June 9, 2026 over local opposition. Sentinel builds wholesale capacity for hyperscale/AI tenants; the end user is undisclosed.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/345650474": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~61,000 sq ft data center in the Possumtown Road / Corporate Place office park in Piscataway, NJ — a wholesale/colocation cluster that includes QTS Piscataway (101 Possumtown Rd, a ~360,000 sq ft former Sun Microsystems site) and Digital Realty's NJ1 (ex-DuPont Fabros, 3 Corporate Place). Identified by location only; specific operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/354590432": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~34,000 sq ft data center near Meadowlands Parkway / Enterprise Avenue in Secaucus, NJ — one of the densest colocation clusters in the New York metro, home to Equinix's NY2/NY4/NY5/NY6 campus and Centersquare (ex-Cyxtera/CenturyLink) EWR2/EWR3. Identified by location only; specific operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/495115494": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "~25,600 sq ft tower footprint at Grand Ave / 7th St in downtown Los Angeles matching One Wilshire (624 S Grand Ave) — the West Coast's premier carrier hotel and trans-Pacific interconnection hub (Digital Realty / CoreSite LA1), immediately beside Equinix LA1 at 600 W 7th St. A multi-tenant carrier hotel rather than a purpose-built campus.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/609126465": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "HostDime's ~100,000 sq ft flagship data center and corporate headquarters at 440 W Kennedy Blvd in Eatonville, FL, beside I-4 just north of Orlando — a ~$100M, Tier IV-designed colocation and managed-hosting facility completed in 2025 (the ~108,000 sq ft OSM footprint is unnamed but matches the site).",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/944024851": {
+    "operator_type": "telecom",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~17,000 sq ft data center off Carlisle Road / US-65 in Pleasant Hill (southeast Des Moines metro), IA — matching the listed address of Lumen's 'Des Moines 1' colocation site (4550 Carlisle Rd), a small carrier facility with raised-floor colocation. Identified by location only; paired with the adjacent way/944024849.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/944024849": {
+    "operator_type": "telecom",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~7,000 sq ft data center building off Carlisle Road / US-65 in Pleasant Hill (southeast Des Moines metro), IA, adjacent to way/944024851 — together matching the listed address of Lumen's 'Des Moines 1' colocation site (4550 Carlisle Rd). Identified by location only.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/1534758773": {
+    "operator_type": "colocation",
+    "purpose": "unknown",
+    "workload": "ai",
+    "confidence": "low",
+    "summary": "Small (~8,300 sq ft) building tagged 'Datacenter' at the Loring Commerce Centre — the former Loring Air Force Base in Limestone (Aroostook County), ME — where Green 4 Maine is redeveloping ~450 acres as a data center campus fed by ~50 MW of New Brunswick hydropower. Tenants so far are Eternal Mind Inc's AI/quantum computing data center (opened 2025-26) and the planned 115,000 sq ft Loring LiquidCool immersion-cooled AI facility; which one this footprint represents is unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/1462886682": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed ~100,000 sq ft data center on Scherers Court off Huntley Road in the Worthington / north Columbus, OH corridor (43085) — the location of Cologix's Columbus interconnection campus (COL2 at 535 Scherers Ct, alongside COL1/COL3), a carrier-neutral colocation hub with AWS Direct Connect. Identified by location; paired with the smaller way/551387747 next door.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/551387747": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed ~56,000 sq ft data center on Scherers Court off Huntley Road in the Worthington / north Columbus, OH corridor (43085), adjacent to way/1462886682 — part of Cologix's Columbus interconnection campus (COL1/COL2/COL3), a carrier-neutral colocation hub. Identified by location only.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/587103676": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~98,500 sq ft data center near Brittmoore Road and Kempwood Drive in west Houston, TX — the Clay Road / Beltway 8 corridor that hosts CyrusOne's Houston West campus (Westway Park), Skybox, Stream and other wholesale/colocation providers. Identified by location only; specific operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/1380114462": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~60,000 sq ft data center footprint at the northern edge of Warrenton (Fauquier County), VA, near Blackwell Road and the US-15/17/29 bypass — the area of Amazon Web Services' contested 220,000 sq ft Warrenton data center at 719 Blackwell Rd (special-use permit approved 4-3 in Feb 2023, site plan approved April 2024, upheld after litigation), AWS's third facility in Fauquier County. Identified by location only; the footprint is smaller than AWS's planned building, so it may be an earlier or adjacent structure.",
+    "source": "claude",
+    "classified_on": "2026-09-02"
+  },
+  "osm/way/778989332": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Unnamed ~28,000 sq ft data center at 8675 Concord Center Drive, Englewood, CO (Inverness / Denver Tech Center area) — the address of the OneNeck IT Solutions Denver data center (first 35,000 sq ft phase opened June 2015, master-planned to ~160,000 sq ft), now marketed as US Signal's Denver CO01 colocation facility after US Signal acquired OneNeck's data centers. Tier III+ multi-tenant colocation and cloud; identified by the OSM address tags.",
+    "source": "claude",
+    "classified_on": "2026-09-03"
+  },
+  "osm/way/755540694": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Unnamed ~37,000 sq ft data center at 5225 Exchange Drive, Flint, MI — Otava's (formerly Online Tech) Mid-Michigan data center, a single-story ~32,500 sq ft facility with ~22,500 sq ft of raised floor near the I-69/I-75 interchange, originally built by EDS as General Motors' disaster-recovery data center and now owned by Mapletree Industrial Trust. Multi-tenant colocation, private cloud and backup/DR; identified by the OSM address tags.",
+    "source": "claude",
+    "classified_on": "2026-09-03"
+  },
+  "osm/way/916148870": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Unnamed ~42,000 sq ft building tagged as a data center at 350 CrossPoint Parkway in the CrossPoint Business Park, Getzville (Amherst), NY — BlackRock's Buffalo-area data center, which received Amherst IDA tax breaks and was later folded into the Start-Up NY program (with an Erie Community College 'on campus' designation) in exchange for job commitments. Corporate financial-services data center; identified by the OSM address tags.",
+    "source": "claude",
+    "classified_on": "2026-09-03"
+  },
+  "osm/way/747985149": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "Unnamed ~39,000 sq ft building tagged as a data center at 2236 Airport Drive on the north side of Wichita Falls, TX — DataNovaX's 'Pioneer Park' facility, a ~37,000 sq ft former grocery store / call center being converted into a ~$100M colocation data center (Phase I 6 MW, up to ~12 MW, air-cooled by city requirement). Wichita Falls Planning & Zoning approved the conversion in Aug 2026, so the OSM 'operational' status is premature; DataNovaX (founded 2024) pitches the city as a DFW alternative and plans a much larger 550,000 sq ft / 150 MW Phase II elsewhere in town. Identified by the OSM address tags.",
+    "source": "claude",
+    "classified_on": "2026-09-03"
+  },
+  "osm/way/959969621": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Unnamed ~54,000 sq ft building tagged as a data center at 20 Alexander Drive, Wallingford, CT — a Verizon Wireless (Cellco Partnership) facility per Connecticut Siting Council records and Chamber of Commerce listings, i.e. a carrier mobile switching center rather than a commercial colocation site. Identified by the OSM address tags; the operator is not tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-03"
+  },
+  "osm/way/156468497": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Five-story building tagged as a data center at 8100 Boone Boulevard in Tysons (Vienna), VA — historically the home of MAE-East, the first major commercial Internet exchange point on the East Coast (Metropolitan Fiber Systems, 1992). The site is primarily a Class A office building with a ~11,000 sq ft carrier/colocation data center inside; Digital Realty took it over in 2006 and has since exited, and the current colocation operator is not tagged. Identified by the OSM address tags.",
+    "source": "claude",
+    "classified_on": "2026-09-03"
+  },
+  "osm/way/1034230196": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~23,000 sq ft flat-roofed building tagged as a data center at 16182 Commonwealth Avenue North, Polk City (Polk County), FL — property records class the 1967 structure (~30,000 sq ft) as a utility / telephone-and-telegraph property, suggesting a telephone central office or switching facility rather than a commercial data center. Identified by the OSM address tags only; operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-03"
   }
 }

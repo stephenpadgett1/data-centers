@@ -128,6 +128,10 @@
     "lat": 33.40178,
     "lng": -86.95444
   },
+  "bethlehem, pa": {
+    "lat": 40.61789,
+    "lng": -75.37865
+  },
   "big beaver, pa": {
     "lat": 40.82451,
     "lng": -80.36284
@@ -164,6 +168,7 @@
     "lat": 36.0526,
     "lng": -95.79082
   },
+  "brookwood middle school, brookwood, al": null,
   "brookwood, al": {
     "lat": 33.25567,
     "lng": -87.32083
@@ -172,9 +177,21 @@
     "lat": 25.90243,
     "lng": -97.49817
   },
+  "burgettstown, pa": {
+    "lat": 40.38201,
+    "lng": -80.39284
+  },
+  "burgin, ky": {
+    "lat": 37.75228,
+    "lng": -84.7611
+  },
   "calvert, al": {
     "lat": 31.15654,
     "lng": -88.02031
+  },
+  "camby, in": {
+    "lat": 39.66147,
+    "lng": -86.31202
   },
   "canton, oh": {
     "lat": 40.79855,
@@ -228,6 +245,7 @@
     "lat": 38.44286,
     "lng": -85.66203
   },
+  "cherokee industrial park, tulsa county, ok": null,
   "chesterfield, va": {
     "lat": 37.386,
     "lng": -77.57851
@@ -247,6 +265,10 @@
   "cleveland, ohio": {
     "lat": 41.49966,
     "lng": -81.69368
+  },
+  "clifton township, lackawanna county, pa": {
+    "lat": 41.22286,
+    "lng": -75.54769
   },
   "clinton, ia": {
     "lat": 41.90547,
@@ -280,9 +302,17 @@
     "lat": 27.76353,
     "lng": -97.40332
   },
+  "daleville, va": {
+    "lat": 37.40934,
+    "lng": -79.92048
+  },
   "dallas, tx": {
     "lat": 32.77627,
     "lng": -96.79686
+  },
+  "dallesport, wa": {
+    "lat": 45.64141,
+    "lng": -121.17477
   },
   "dalton, ga": {
     "lat": 34.76919,
@@ -384,6 +414,10 @@
     "lat": 33.98397,
     "lng": -101.33446
   },
+  "forest hill, tx": {
+    "lat": 32.67208,
+    "lng": -97.26918
+  },
   "fort bliss, el paso, texas": {
     "lat": 32.24638,
     "lng": -106.37426
@@ -392,9 +426,17 @@
     "lat": 36.9424,
     "lng": -80.96231
   },
+  "fort pierce, fl": {
+    "lat": 27.44671,
+    "lng": -80.32561
+  },
   "fort stockton, tx": {
     "lat": 30.8919,
     "lng": -102.88366
+  },
+  "fort wayne, in": {
+    "lat": 41.07999,
+    "lng": -85.1386
   },
   "frackville, pa": {
     "lat": 40.78382,
@@ -408,6 +450,10 @@
     "lat": 38.84671,
     "lng": -91.94796
   },
+  "garner, ia": {
+    "lat": 43.10215,
+    "lng": -93.60201
+  },
   "gilroy, ca": {
     "lat": 37.00651,
     "lng": -121.56317
@@ -415,6 +461,10 @@
   "goochland, va": {
     "lat": 37.72043,
     "lng": -77.8838
+  },
+  "gouldsboro, pa": {
+    "lat": 41.24596,
+    "lng": -75.45551
   },
   "graham, tx": {
     "lat": 33.10643,
@@ -427,6 +477,10 @@
   "grayslake, il": {
     "lat": 42.34335,
     "lng": -88.04122
+  },
+  "greeley, co": {
+    "lat": 40.42331,
+    "lng": -104.70913
   },
   "greenfield, in": {
     "lat": 39.78551,
@@ -452,6 +506,10 @@
     "lat": 37.90006,
     "lng": -86.75499
   },
+  "hazle township, pa": {
+    "lat": 40.95719,
+    "lng": -76.06007
+  },
   "henderson county, tx": {
     "lat": 32.1826,
     "lng": -95.78932
@@ -467,6 +525,10 @@
   "hillsboro, tx": {
     "lat": 32.01085,
     "lng": -97.13037
+  },
+  "holmdel, nj": {
+    "lat": 40.34511,
+    "lng": -74.18403
   },
   "holyoke, ma": {
     "lat": 42.20712,
@@ -512,6 +574,10 @@
     "lat": 35.65205,
     "lng": -117.81766
   },
+  "ione, ca": {
+    "lat": 38.35269,
+    "lng": -120.93272
+  },
   "jenkins, ky": {
     "lat": 37.17344,
     "lng": -82.63099
@@ -531,6 +597,10 @@
   "kenilworth, nj": {
     "lat": 40.67714,
     "lng": -74.28707
+  },
+  "kenosha, wi": {
+    "lat": 42.58468,
+    "lng": -87.82123
   },
   "kiowa, ok": {
     "lat": 34.94251,
@@ -596,6 +666,10 @@
     "lat": 34.74651,
     "lng": -92.28963
   },
+  "louisville, ky": {
+    "lat": 38.25424,
+    "lng": -85.75941
+  },
   "lovejoy, ga": {
     "lat": 33.43622,
     "lng": -84.31437
@@ -623,6 +697,10 @@
   "mabank, tx": {
     "lat": 32.36653,
     "lng": -96.10081
+  },
+  "madison heights, va": {
+    "lat": 37.44631,
+    "lng": -79.09356
   },
   "madison, in": {
     "lat": 40.16245,
@@ -656,6 +734,14 @@
     "lat": 40.34605,
     "lng": -94.87239
   },
+  "mason, ingham county, mi": {
+    "lat": 42.57971,
+    "lng": -84.44228
+  },
+  "mason, mi": {
+    "lat": 43.97788,
+    "lng": -86.24629
+  },
   "mcalester, ok": {
     "lat": 34.9335,
     "lng": -95.76979
@@ -664,9 +750,17 @@
     "lat": 33.87953,
     "lng": -82.27977
   },
+  "mcgregor, tx": {
+    "lat": 31.4367,
+    "lng": -97.40809
+  },
   "mcminnville, tn": {
     "lat": 35.6834,
     "lng": -85.76998
+  },
+  "midland, pa": {
+    "lat": 40.63257,
+    "lng": -80.44645
   },
   "mill creek corporate center, salem, or": {
     "lat": 44.88315,
@@ -675,6 +769,14 @@
   "moncure, nc": {
     "lat": 35.6225,
     "lng": -79.07831
+  },
+  "montgomery, al": {
+    "lat": 32.37771,
+    "lng": -86.30908
+  },
+  "morley, mi": {
+    "lat": 43.49086,
+    "lng": -85.44393
   },
   "mount shasta, ca": {
     "lat": 41.4092,
@@ -755,6 +857,10 @@
   "osawatomie, ks": {
     "lat": 38.50161,
     "lng": -94.95219
+  },
+  "owasso, ok": {
+    "lat": 36.26597,
+    "lng": -95.85486
   },
   "pahrump, nv": {
     "lat": 36.20418,
@@ -868,6 +974,10 @@
     "lat": 32.29603,
     "lng": -81.23539
   },
+  "riverbank, ca": {
+    "lat": 37.73604,
+    "lng": -120.93549
+  },
   "rochester hills, mi": {
     "lat": 42.65837,
     "lng": -83.14993
@@ -875,6 +985,14 @@
   "rockford, il": {
     "lat": 42.27139,
     "lng": -89.09397
+  },
+  "rockingham, nc": {
+    "lat": 36.39268,
+    "lng": -79.74414
+  },
+  "rockingham, richmond county, nc": {
+    "lat": 34.93932,
+    "lng": -79.77395
   },
   "ross, tx": {
     "lat": 31.7185,
@@ -887,6 +1005,10 @@
   "russell, ky": {
     "lat": 38.5173,
     "lng": -82.69766
+  },
+  "salem township, luzerne county, pa": {
+    "lat": 41.10782,
+    "lng": -76.17912
   },
   "salem, or": {
     "lat": 44.93916,
@@ -924,6 +1046,10 @@
     "lat": 47.60383,
     "lng": -122.33006
   },
+  "shackelford county, tx": {
+    "lat": 32.70888,
+    "lng": -99.33076
+  },
   "shalersville, oh": {
     "lat": 41.23894,
     "lng": -81.23121
@@ -932,9 +1058,17 @@
     "lat": 37.88181,
     "lng": -78.03833
   },
+  "shively, ky": {
+    "lat": 38.20007,
+    "lng": -85.82274
+  },
   "shreveport, la": {
     "lat": 32.51354,
     "lng": -93.74778
+  },
+  "skiatook, ok": {
+    "lat": 36.36852,
+    "lng": -96.00134
   },
   "slingerlands, ny": {
     "lat": 42.62925,
@@ -955,6 +1089,10 @@
   "south whitehall township, pa": {
     "lat": 40.61001,
     "lng": -75.55559
+  },
+  "spartanburg, sc": {
+    "lat": 34.9498,
+    "lng": -81.93202
   },
   "spokane, wa": {
     "lat": 47.65719,
@@ -1020,6 +1158,10 @@
     "lat": 42.98085,
     "lng": -78.86522
   },
+  "trenton, oh": {
+    "lat": 39.48089,
+    "lng": -84.45772
+  },
   "tupman, ca": {
     "lat": 35.29919,
     "lng": -119.3584
@@ -1083,6 +1225,10 @@
   "westlake, tx": {
     "lat": 32.99123,
     "lng": -97.19437
+  },
+  "westover, al": {
+    "lat": 33.34955,
+    "lng": -86.53582
   },
   "wheatfield, in": {
     "lat": 41.19294,

@@ -30,6 +30,7 @@
     { "name": "Iron Mountain", "aliases": ["iron mountain"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "EdgeConneX", "aliases": ["edgeconnex", "edge connex"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
     { "name": "DataBank", "aliases": ["databank"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
+    { "name": "DartPoints", "aliases": ["dartpoints", "dart points"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "TierPoint", "aliases": ["tierpoint", "tier point"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "Sabey", "aliases": ["sabey", "intergate"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "Aligned", "aliases": ["aligned"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
