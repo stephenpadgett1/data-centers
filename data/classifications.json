@@ -5155,5 +5155,230 @@
     "summary": "Unnamed ~23,000 sq ft flat-roofed building tagged as a data center at 16182 Commonwealth Avenue North, Polk City (Polk County), FL — property records class the 1967 structure (~30,000 sq ft) as a utility / telephone-and-telegraph property, suggesting a telephone central office or switching facility rather than a commercial data center. Identified by the OSM address tags only; operator unconfirmed.",
     "source": "claude",
     "classified_on": "2026-09-03"
+  },
+  "osm/way/1483070129": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~1.07M sq ft, the largest) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road (south of Baseline Road, east of Ashe Road) in Yorkville, Kendall County, IL. The annexed PUD approved by the Yorkville City Council calls for 14 two-story buildings totaling ~17M sq ft, two on-site substations and a switchyard, and ~1.8 GW at full build, phased with a first-phase target of 2029; no end tenant has been announced. Identified by location — the OSM ways carry no name or operator.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070130": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~1.07M sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070118": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~983,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070132": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~750,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070133": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~750,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070128": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~706,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070127": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~706,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070126": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~706,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070119": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~699,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070120": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~699,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070123": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~699,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070122": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~699,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070124": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~699,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070125": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~699,000 sq ft) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved by the Yorkville City Council for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070131": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~362,000 sq ft — possibly a substation/support pad rather than a data hall) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1483070121": {
+    "operator_type": "unknown",
+    "purpose": "speculative",
+    "workload": "ai",
+    "confidence": "medium",
+    "summary": "One of 16 building footprints (~354,000 sq ft — possibly a substation/support pad rather than a data hall) mapped under construction on 'Project Cardinal', Pioneer Development's ~1,000-acre data center campus northwest of Route 47 and Galena Road in Yorkville, Kendall County, IL — approved for 14 two-story buildings (~17M sq ft), two substations and a switchyard, ~1.8 GW at full build, first phase targeted for 2029. No end tenant announced. Identified by location; no name or operator tagged.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1553894888": {
+    "operator_type": "hyperscaler",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "high",
+    "summary": "DataOne's ~300 MW AI campus in Vineland (Cumberland County), NJ, built for AI-cloud provider Nebius, which is filling a ~$17B GPU-capacity contract with Microsoft. Phase 1 is still under construction and the city Planning Board approved a ~600,000 sq ft Phase 2 in Aug 2026 toward ~2.6M sq ft total, powered by on-site Bloom Energy fuel cells with an LNG backup tank — so the OSM 'operational' status is premature. Also tracked as curated/news/vineland-nj-dataone-nebius-259.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/415686896": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "Scott Data Center at 6801 Pine Street on the Scott Technology Center campus in Omaha, NE — a Tier III-designed colocation, cloud and managed-services facility (~110,000 sq ft, opened 2012) operated by Scott Data and affiliated with the Suzanne and Walter Scott Foundation, serving regional enterprise, healthcare and public-sector tenants.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/435531451": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "2115 NW 22nd Street, Miami, FL (CLLI MIASFLVR) — CoreSite's MI1, a ~50,000 sq ft Tier III, hurricane-hardened carrier-neutral colocation facility and one of Miami's main interconnection buildings (~25 carriers, cloud on-ramps, direct Latin America connectivity and cross-connects to the NAP of the Americas); LeaseWeb (MIA-11) and QuadraNet also operate in the building. Identified by the OSM address tags.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/node/14076988553": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "high",
+    "summary": "80 State Street in downtown Albany, NY (CLLI ALBYNY80) — the Capital Region's main carrier hotel, home to INOC's ALB1 colocation data center, Crown Castle Fiber's ALB02 (~1.2 MW) and Fibertech/regional carrier points of presence. A multi-operator interconnection building rather than a single-tenant facility. Identified by the OSM address and CLLI tags.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1498005255": {
+    "operator_type": "telecom",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "Tiny (~460 sq ft) industrial building tagged as a data center at 215 South Iliff Street, Medicine Lodge (Barber County), KS, with operator 'SC' — very likely SCTelcom (South Central Telcom), the rural telephone and fiber cooperative headquartered in Medicine Lodge. A telecom equipment hut / remote switch rather than a commercial data center.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/919948160": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "The domed ~9,000 sq ft 'globe' building at Foxconn's Wisconn Valley Science and Technology Park in Mount Pleasant (Racine County), WI — built around 2020 as Foxconn's high-performance-computing / network operations data center on the largely unrealized LCD-fab campus. Enterprise-owned, small and of uncertain utilization; much of the surrounding park land was later sold to Microsoft for its own hyperscale campus (mapped separately). Identified via the OSM wikidata tag.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1457383500": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~13,000 sq ft building near Diboll (Angelina County), TX, south of Lufkin, tagged in OSM as a crypto data center (data_centre=crypto) — a bitcoin-mining shed. Operator not tagged and not identified.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/1387080629": {
+    "operator_type": "crypto",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~113,000 sq ft building ~4 km southwest of Oktaha (Muskogee County), OK, with no OSM address or operator tags. Location and scale are consistent with the 50 MW crypto-mining data center YZY Capital announced in 2022 for a 15-acre tract near Oktaha (one of two $100M Muskogee County sites, the other at the John T. Griffin Industrial Park in Muskogee). Operator unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
+  },
+  "osm/way/178331621": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "general",
+    "confidence": "low",
+    "summary": "Unnamed ~64,000 sq ft building (traced from Bing imagery, no address tags) on Buckeystown Pike / MD-85 south of Frederick, MD, near Crestwood Boulevard. The location appears to match 5301 Buckeystown Pike, where Frederick IT firm Swift Systems operates a colocation data center; Rowan Digital Infrastructure's much larger Bauxite III hyperscale campus at Mountville Road and Ballenger Creek Pike lies just to the west. Identity unconfirmed.",
+    "source": "claude",
+    "classified_on": "2026-09-04"
   }
 }

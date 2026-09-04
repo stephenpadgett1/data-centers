@@ -42,7 +42,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish, powered by Meta-funded gas plants plus committed renewables, transmission and storage, supported by a ~7.5 GW Entergy Louisiana utility expansion. On July 13, 2026 Meta confirmed the full 5 GW build-out and lifted planned investment above $50B (up from an original ~$10B); it expects ~2 GW by 2030 and the full 5 GW around 2032. Construction began in earnest in early 2026 with more than $1.6B in contracts to Louisiana businesses so far; in May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment. In August 2026 Meta was before the Louisiana PSC seeking to keep project records confidential, as environmental and consumer groups pressed for firmer figures ahead of approval of Entergy's supporting power build-out.",
+      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish, powered by Meta-funded gas plants plus committed renewables, transmission and storage, supported by a ~7.5 GW Entergy Louisiana utility expansion. On July 13, 2026 Meta confirmed the full 5 GW build-out and lifted planned investment above $50B (up from an original ~$10B); it expects ~2 GW by 2030 and the full 5 GW around 2032. Construction began in earnest in early 2026 with more than $1.6B in contracts to Louisiana businesses so far; in May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment. In August 2026 Meta was before the Louisiana PSC seeking to keep project records confidential, as environmental and consumer groups pressed for firmer figures ahead of approval of Entergy's supporting power build-out. Mid-August 2026 reporting (Bloomberg-sourced) put Hyperion's eventual all-in cost at as much as ~$250B, though Meta has publicly confirmed only the >$50B figure; the ~10M sq ft campus is expected to support ~1,000 permanent on-site jobs at full build-out versus 5,000+ trade workers at peak construction, with first capacity online in 2028 and build-out continuing into the 2030s.",
       "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
       "sources": [
         "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
@@ -50,7 +50,9 @@
         "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
         "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
         "https://www.datacenterdynamics.com/en/news/meta-expands-data-center-campus-in-richland-parish-louisiana-to-5gw-will-invest-50bn/",
-        "https://lailluminator.com/2026/08/11/meta-wants-details-secret/"
+        "https://lailluminator.com/2026/08/11/meta-wants-details-secret/",
+        "https://247wallst.com/investing/2026/08/14/zuckerbergs-250-billion-louisiana-data-center-will-create-just-1000-jobs-thats-250-million-spent-per-job/",
+        "https://sherwood.news/tech/hyperion/"
       ]
     },
     {
@@ -1101,11 +1103,13 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "'Project Red Clay' — a proposed ~800-acre AI data-center campus at the intersection of US-80 and Route 21 in rural Lowndes County, AL, developed by Cloverleaf Infrastructure. Plans call for four 720,000 sq ft buildings, a 100,000 sq ft warehouse and a 30,000 sq ft office; Cloverleaf has requested ~1,500 MW from Alabama Power and up to 100,000 gallons/day of water from the Pintlala system. The site sits just over a mile from the Robert Gardner farm on the historic Selma-to-Montgomery trail (US-80 here is the Robert Mants Memorial Highway), drawing significant community and civil-rights opposition. Packed a county meeting in April 2026; early-stage / speculative.",
+      "summary": "'Project Red Clay' — a proposed ~800-acre AI data-center campus at the intersection of US-80 and Route 21 in rural Lowndes County, AL, developed by Cloverleaf Infrastructure. Plans call for four 720,000 sq ft buildings, a 100,000 sq ft warehouse and a 30,000 sq ft office; Cloverleaf has requested ~1,500 MW from Alabama Power and up to 100,000 gallons/day of water from the Pintlala system. The site sits just over a mile from the Robert Gardner farm on the historic Selma-to-Montgomery trail (US-80 here is the Robert Mants Memorial Highway), drawing significant community and civil-rights opposition. Packed a county meeting in April 2026; early-stage / speculative. Opposition escalated in August 2026: 150+ residents filled the county courthouse on Aug 24 demanding transparency from the county commission (a ~350-signature petition), the site is now described in coverage as ~1,050 acres, and Democratic gubernatorial nominee Doug Jones called for a one-year statewide freeze on new data center construction, making the project a state election issue.",
       "website": null,
       "sources": [
         "https://www.route-fifty.com/artificial-intelligence/2026/06/historic-route-selma-montgomery-ai-cloud-looms/414145/",
         "https://insideclimatenews.org/news/10062026/rural-alabama-community-opposes-hyperscale-data-center/",
+        "https://alabamareflector.com/2026/08/25/lowndes-county-residents-demand-transparency-in-hyperscale-data-center-development/",
+        "https://www.wsfa.com/2026/08/25/lowndes-county-residents-intensify-fight-against-project-red-clay-data-center/",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmYtdlVKNkZoNndrZFl3aWlVLS1jWHpXQWw3ZkFLQTkxSzYtUVFwUE14cENmd1lRT0VkT3ZwbnUzM1FuTUxnUlJCNnBzLTNKUFBpQWF6TW5ZV2F0Y3J6OGtVSXZSRWJvSjBtY3dHSGJmcVQ3d2NiOW5PRXlYaDhheXdPQ2lKdTdOQ2FXejA2UmdjN1FWd25vWlZCN0nSAbABQVVfeXFMTUhSWHlaSktWY0lZUVJ6dV9KOEJKbWliRHh4LTY1VWZYZFM2bS1qaTFVcG1TZWZSWXk1SXdzQzBmOFRKQThFYzFWSFNZVnA1TlNMZWhBemJnSjJhd0dCbHljUEs5V1U1dUF1MGZjQ0Q0TEMtMFFXWHdCWGU3TVJiT1JYRFkwWW10cVdJMTYtQUEwenlhR2xLZ0pFZDRtRTdhcm9wZldkbE5mZ0JYaERGc0Q?oc=5"
       ]
     },
@@ -3477,11 +3481,13 @@
       "purpose": "purpose_built",
       "workload": "mixed",
       "confidence": "high",
-      "summary": "Amazon's $10B cloud computing and AI 'innovation campus' in Hamlet, Richmond County, NC — announced June 2025 as one of the largest investments in state history (~500 jobs, ~800 acres, up to ~20 buildings). Amazon broke ground in 2026; July 2026 coverage examined why Richmond County welcomed the project while 30+ NC communities have adopted data-center moratoriums or restrictions.",
+      "summary": "Amazon's $10B cloud computing and AI 'innovation campus' in Hamlet, Richmond County, NC — announced June 2025 as one of the largest investments in state history (~500 jobs, ~800 acres, up to ~20 buildings). Amazon broke ground in 2026; July 2026 coverage examined why Richmond County welcomed the project while 30+ NC communities have adopted data-center moratoriums or restrictions. In late August 2026 NC DEQ approved two air-quality permits for the campus — 592 emergency diesel generators for Amazon (588 critical backup plus four ancillary) and 57 temporary non-emergency 'bridge power' engines for Duke Energy to supply the site until grid interconnection, 649 diesel units in all — over objections from environmental groups; DEQ said the permits cap annual emissions but acknowledged limits on what it could weigh, such as siting and the two permits' combined emissions.",
       "website": null,
       "sources": [
         "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/",
-        "https://www.datacenterdynamics.com/en/news/amazon-breaks-ground-on-10bn-data-center-complex-in-richmond-county-north-carolina/"
+        "https://www.datacenterdynamics.com/en/news/amazon-breaks-ground-on-10bn-data-center-complex-in-richmond-county-north-carolina/",
+        "https://www.wral.com/business/technology/north-carolina-diesel-generators-amazon-data-center-september-2026/",
+        "https://www.publicradioeast.org/2026-08-29/amazons-richmond-county-data-center-gets-green-light-on-air-quality-permits"
       ]
     },
     {
@@ -3827,13 +3833,15 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center. The Effingham County IDA finalized a 50%, 15-year property-tax abatement on July 21, 2026 (reported publicly in late July); the project next enters the state evaluation process.",
+      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center. The Effingham County IDA finalized a 50%, 15-year property-tax abatement on July 21, 2026 (reported publicly in late July); the project next enters the state evaluation process. On Aug 27, 2026 the Georgia PSC let Georgia Power's contract with OpenAI take effect without a public vote after commission staff declined to object: up to 3,200 MW delivered in phases 2028–2032, OpenAI paying the full cost of the new infrastructure, up to 1,000 MW of curtailable demand response, and safeguards Georgia Power calls the 'strictest contract in data center history' (critics note the contract itself remains confidential). County public meetings on Aug 26 and 29 drew packed crowds.",
       "website": null,
       "sources": [
         "https://www.gpb.org/news/2026/07/22/openai-plans-build-20b-data-center-campus-in-effingham-county-it-could-be-georgias",
         "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/",
         "https://www.effinghamherald.net/local/openai-plans-20b-data-center-in-effingham-county-rincon-georgia/",
-        "https://www.wtoc.com/2026/07/30/records-show-effingham-county-leaders-finalized-massive-tax-break-20b-openai-data-center-day-before-public-announcement/"
+        "https://www.wtoc.com/2026/07/30/records-show-effingham-county-leaders-finalized-massive-tax-break-20b-openai-data-center-day-before-public-announcement/",
+        "https://www.ajc.com/business/2026/08/georgia-power-deal-to-power-openai-data-center-near-savannah-is-approved/",
+        "https://thecurrentga.org/2026/08/27/psc-boosts-safeguards-in-georgia-powers-massive-contract-with-openai/"
       ]
     },
     {
@@ -6076,6 +6084,28 @@
         "https://www.madeinalabama.com/2025/09/meta-to-expand-montgomery-data-hub-pushing-total-investment-to-1-5-billion/",
         "https://alabamareflector.com/2026/08/04/alabama-public-service-commission-approves-solar-project-supporting-data-center/",
         "https://www.wsfa.com/2026/08/04/solar-battery-plant-clears-hurdle-come-macon-bullock-counties/"
+      ]
+    },
+    {
+      "id": "curated/news/ferguson-mo-emerson-project-butterfly-302",
+      "name": "Ferguson Tech Hub / 'Project Butterfly' — former Emerson campus (SSL Investments)",
+      "operator": "SSL Investments (developer)",
+      "lat": 38.74471,
+      "lng": -90.3039,
+      "city": "Ferguson",
+      "state": "MO",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "unknown",
+      "confidence": "low",
+      "summary": "'Project Butterfly' — attorney Jim Onder's SSL Investments proposes a ~$1.8–2B 'Ferguson Tech Hub' anchored by a data center on the 217-acre former Emerson Electric headquarters campus at 8000 West Florissant Avenue in Ferguson (St. Louis County), MO, pitched as a mixed-use innovation hub with offices, labs and advanced manufacturing. After two months of contentious debate the city council deadlocked 3–3 in May 2026 on the industrial-revenue-bond / PILOT incentive package (the school district projected ~$71M in forgone revenue over 15 years) and the city called for new ideas for the campus; in early September 2026 a council member moved to revive the incentives. No tenant, capacity or timeline has been disclosed; highly contested and early-stage. Coordinates are the Ferguson centroid (approximate — the campus is on the city's east side).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1A3T1A3LWNXQVdOb1RrbV9ubVNvZDFVZXhUU3VkZW9kYi1idzdDM3BlZUFVb3ZVcDFIc0xfNEdzM1d3UFZrM19RX04xSVotS0VZT01oU1NGOVE5LU5md1Q1ZUhwUUE5OV9GQ2xMR1dUUFUxOE5DT3hOXzMtYy1TZTBXekk4eDRWUExnTjhkTUZaLURSUWpfZnctYnVEQXgtbVI0c0JIcGo?oc=5",
+        "https://www.stlpr.org/economy-business/2026-05-05/ferguson-rejects-tax-breaks-for-emerson-redevelopment-and-data-center",
+        "https://www.ksdk.com/article/news/local/ferguson-faces-critical-reset-in-1-point-8-billion-data-center-debate/63-379e8314-7f14-42a9-a395-4679def97f7c"
       ]
     }
   ]
