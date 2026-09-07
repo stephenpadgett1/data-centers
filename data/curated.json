@@ -2003,11 +2003,13 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "low",
-      "summary": "QTS Data Centers has proposed a multi-billion-dollar AI data center campus north of US Hwy 30 and west of Mill Creek Parkway in Clinton, Clinton County, Iowa. The city council rejected a temporary moratorium on June 9, 2026 and is drafting permitting rules, so the project is active and proceeding. Coordinates approximate.",
+      "summary": "QTS Data Centers has proposed a multi-billion-dollar AI data center campus north of US Hwy 30 and west of Mill Creek Parkway in Clinton, Clinton County, Iowa. The city council rejected a temporary moratorium on June 9, 2026 and is drafting permitting rules, so the project is active and proceeding. Local reporting puts the proposal at ~$10B on ~1,100 acres between Clinton Municipal Airport, Valley Oaks Golf Course and the Branden Hills neighborhood. Opposition grew through summer 2026: Clintonians Against Data Centers (endorsed by Erin Brockovich) packed a July planning meeting, the city took up a data center ordinance on Sept 1, 2026, and a free 'No Data Center' protest concert is set for Sept 13, 2026 at the Riverview Bandshell. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://quadcitiesbusiness.com/multibillion-dollar-data-center-proposed-for-clinton/",
-        "https://www.kwqc.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton/"
+        "https://www.kwqc.com/2026/06/09/city-council-turns-down-temporary-halt-ai-data-centers-clinton/",
+        "https://www.radioiowa.com/2026/07/16/clinton-residents-swarm-meeting-to-protest-possible-10b-data-center/",
+        "https://www.clintonherald.com/news/local_news/local-musicians-to-protest-data-centers-with-performance-september-13/article_17687500-cef4-4ce0-8985-ec6fe5337668.html"
       ]
     },
     {
@@ -3813,10 +3815,11 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "Hyperscale Data's (formerly Ault Alliance, via subsidiary Sentinum) Dowagiac, Michigan facility — a former bitcoin-mining site being converted and expanded for AI/HPC hosting. In June 2026 the company outlined a 52 MW Michigan buildout with 20 MW contracted, and on Sept 1, 2026 it switched off all bitcoin miners at the site to prepare it for a master services agreement with a California-based neocloud: 20 MW over an initial 10-year term with two five-year extension options (more than $1.2B in revenue if fully extended), plus a customer option on a further 32 MW within two years (~$3B potential). The site is therefore in conversion rather than operating; the expansion has drawn neighbor concerns and an active lawsuit, and Hyperscale continues mining in Montana.",
+      "summary": "Hyperscale Data's (formerly Ault Alliance, via subsidiary Sentinum) Dowagiac, Michigan facility — a former bitcoin-mining site being converted and expanded for AI/HPC hosting. In June 2026 the company outlined a 52 MW Michigan buildout with 20 MW contracted, and on Sept 1, 2026 it switched off all bitcoin miners at the site to prepare it for a master services agreement with a California-based neocloud: 20 MW over an initial 10-year term with two five-year extension options (more than $1.2B in revenue if fully extended), plus a customer option on a further 32 MW within two years (~$3B potential). To fund the buildout the company 'repurposed' its bitcoin treasury strategy in July 2026 and liquidated most of its holdings (from ~1,106 BTC in late July to ~215 BTC by Aug 30, 2026). The site is therefore in conversion rather than operating; the expansion has drawn neighbor concerns and an active lawsuit, and Hyperscale continues mining in Montana.",
       "website": null,
       "sources": [
         "https://www.prnewswire.com/news-releases/hyperscale-data-has-ceased-bitcoin-mining-operations-in-michigan-as-it-fulfills-the-requirements-of-the-ai-data-center-master-services-agreement-expected-to-be-worth-approximately-1-2-billion-302867149.html",
+        "https://www.prnewswire.com/news-releases/hyperscale-data-repurposes-bitcoin-treasury-strategy-to-accelerate-development-of-michigan-ai-data-center-302838654.html",
         "https://seekingalpha.com/news/4639367-hyperscale-data-halts-michigan-bitcoin-mining-to-prepare-site-for-12b-ai-deal",
         "https://wwmt.com/news/local/dowagiac-data-center-neighbor-concerns-grow-alongside-announced-expansion-active-lawsuit-cass-county-michigan",
         "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSlZiU19mbXlMRDRJTTJLSmdyMW5sc2d2ZmhGcG9DS2IyT1ZzSTlSWl9JN1RGYWhmLUFZWmlFTUd6OFk1VlF0a3hhUi1TZGw1dmpIRVFqWHhRTmFvSWFNa09GQ3JpWFBrdVluR2RwdmJnWWVlVk1xVzJDRl85UTRyMk1YSlItTlNfOHVhRWF6RXhNYnpUQXVORkdtQ3pQVFlaSXY4TE1zTElxRzgxYXpQdzdZYTE1WG1MeFFYTHNhbmdlcVdMQ0U4LTNsSTNSdDVQR1VPTkVlbFVGN2F0anBsYVpnRXE1QnRk?oc=5"
@@ -4917,10 +4920,12 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "'Project Tomahawk' — a data center proposed by developer White Rose Partners on 39.3 acres near the southeast corner of FM 1385 and Parvin Road in Prosper (Dallas–Fort Worth metro), adjacent to a Brazos Electric Power Cooperative substation whose upgrades the developer would fund. The town's Planning and Zoning Commission was set to consider it on Aug 18, 2026; staff concerns center on power, water and noise. Early-stage; coordinates approximate (Prosper).",
+      "summary": "'Project Tomahawk' — a ~$580M, ~225,000 sq ft data center proposed by Dallas developer White Rose Partners on ~37–39 acres near the southeast corner of FM 1385 and Parvin Road in Prosper (Dallas–Fort Worth metro), adjacent to the Brazos Electric Parvin substation whose upgrades the developer would fund. After a postponement from Aug 18, the town's Planning and Zoning Commission voted 7-0 on Sept 1, 2026 to recommend denial of the agricultural-to-planned-development rezoning, following more than an hour of opposition (including the mayor speaking as a private citizen) over homes ~1,000 ft away, grid draw, water allocation and HVAC noise. The binding decision rests with the Prosper Town Council at an upcoming public hearing, so the project is in serious doubt. Coordinates approximate (Prosper).",
       "website": null,
       "sources": [
-        "https://communityimpact.com/prosper-celina/development/developer-seeks-to-build-data-center-in-prosper/"
+        "https://communityimpact.com/prosper-celina/development/developer-seeks-to-build-data-center-in-prosper/",
+        "https://communityimpact.com/prosper-celina/development/prosper-commission-recommends-denial-of-580-million-data-center/",
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeW9waWpHbjZaRml4cUppYVJkaUkzc2VXdmtiMm80X0xqc1otU3FLS2NvZTh0azRYM3Z3LWpMQzdTUkhaWDNaUU8wZUF2QUNtOVU5VFNFU0Q1djI5SnNtTUViOENsc0IySlJLVmtMWWQxVzAxT1JSOUR3OTlLX0ctYzA5Q2lPUlUxWW5LLVo3MlBTdVVFYXpLeUJNU214TmF3WG1IOTBmb0ZhR2hFcmpZcTBtdC1GSndhRUNmMGlWNFBjcjNocWFkYzdBY21RZUxiajczZTVrT0lfaExHODJ3XzdsZy0zSlRzZWJUWDZPVFZZMGV5MVhzcEw3Y2k0ZHRpZV9tUGZxYXlCOXc?oc=5"
       ]
     },
     {
@@ -5305,11 +5310,12 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A ~100 MW, ~146,000 sq ft data center with an on-site substation proposed by developer J.G. Petrucci at 1024 N. Bradford Street in east Allentown, PA — a pivot of the previously approved 'Allentown Flex Center' warehouse project near Coca-Cola Park. Plans were submitted in Aug 2026; the developer is in talks with a potential end user and construction could start in early 2027, though it is unclear whether the city's new zoning rules (Bill 52, restricting data centers to the Industrial-Manufacturing district) will apply. Allentown's second data center proposal, distinct from the earlier south Allentown project. Coordinates approximate (Allentown).",
+      "summary": "A ~100 MW, ~146,000 sq ft data center with an on-site substation proposed by developer J.G. Petrucci at 1024 N. Bradford Street in east Allentown, PA — a pivot of the previously approved 'Allentown Flex Center' warehouse project near Coca-Cola Park. Plans were submitted in Aug 2026; the developer is in talks with a potential end user and construction could start in early 2027, though it is unclear whether the city's new zoning rules (Bill 52, restricting data centers to the Industrial-Manufacturing district) will apply. Allentown's second data center proposal, distinct from the earlier south Allentown project. The parcel sits across Bradford Street from Executive Education Academy Charter School and near Coca-Cola Park — inside the 500-ft 'sensitive receptor' setback of the city's amended ordinance (raised from 200 ft), and in late Aug 2026 the planning department was still deciding which ordinance version governs the review. Coordinates approximate (Allentown).",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/100mw-data-center-proposed-in-allentown-pennsylvania/",
-        "https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/new-details-emerge-about-second-data-center-proposal-in-allentown/article_dcaca0c9-9d56-4980-8de7-03efc0bf1a1b.html"
+        "https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/new-details-emerge-about-second-data-center-proposal-in-allentown/article_dcaca0c9-9d56-4980-8de7-03efc0bf1a1b.html",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDRNeXozZW1oUHYzSWlKek03bjhxRUo4Z0F1cW5WSjdpbXBmeXMtNUdHMFlMOEtZNzc3Z1hoMU5wdUY1MGszeVlMN0dvTHdNTkU5WmtmTmpUUVpNSkRwOGE1VGhlLXN3VUk0ZXBHaEFZMk5ldjB5bmZwY25qNW0yNHBiS0tQT3J3X2g0?oc=5"
       ]
     },
     {
@@ -6109,6 +6115,73 @@
         "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1A3T1A3LWNXQVdOb1RrbV9ubVNvZDFVZXhUU3VkZW9kYi1idzdDM3BlZUFVb3ZVcDFIc0xfNEdzM1d3UFZrM19RX04xSVotS0VZT01oU1NGOVE5LU5md1Q1ZUhwUUE5OV9GQ2xMR1dUUFUxOE5DT3hOXzMtYy1TZTBXekk4eDRWUExnTjhkTUZaLURSUWpfZnctYnVEQXgtbVI0c0JIcGo?oc=5",
         "https://www.stlpr.org/economy-business/2026-05-05/ferguson-rejects-tax-breaks-for-emerson-redevelopment-and-data-center",
         "https://www.ksdk.com/article/news/local/ferguson-faces-critical-reset-in-1-point-8-billion-data-center-debate/63-379e8314-7f14-42a9-a395-4679def97f7c"
+      ]
+    },
+    {
+      "id": "curated/news/sharon-ks-google-project-helium-303",
+      "name": "Google 'Project Helium' data center — Barber County (north of Sharon)",
+      "operator": "Google",
+      "lat": 37.24863,
+      "lng": -98.42063,
+      "city": "Sharon",
+      "state": "KS",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 1700000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "'Project Helium' — a ~1.7M sq ft Google data center planned north of Sharon in rural Barber County, south-central Kansas. The Barber County Commission approved the development agreement 2-0 (one abstention) at a special meeting on Aug 31, 2026 after months of divided public comment. Under the agreement the facility would not use water cooling and must meet strict noise limits; Google says it will create up to 500 mostly on-site, full-time jobs, and the county projects nearly $10M/yr in property taxes despite Kansas's up-to-20-year exemption for large data centers. Power capacity and timeline not yet disclosed. Coordinates are the Sharon centroid (approximate — the site is north of town).",
+      "website": "https://www.barbercountydatacenter.com/",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW9ha29rbDJyTVE3Rkx6OXJ4dnc2SnBpcjQxcFQtaDdaSm9YWWdkekQwYlc2OE01WnU1ci1vTWR1Ulk2UFk0MlJteURYM01SaUExalVOS3BPRFFWZDVhdkoybDhicE1WR3hrb3hXWnVnT3ZmVjljbkhRRlVNRFRwb1N0U0FDaVJnamZkTHFR0gGTAUFVX3lxTE1pSDBhcDA4dlphQjR5SEpvWTdpRzE3UmRGZTdwR3AtTXlPbFZZbWFTM1FVVGx1Vlg3UVFoandzdHFwdE1SUkZXcFk0eDl2TnpLN0VnMGNNSC02bmZodzRzY2hza05hWlNnSUdzUlB5Mkl3SEZNRWdaZnhuWERSX2t2M0g0Q3ZMaXNfa3VIdHhNa2Nlcw?oc=5",
+        "https://www.ksn.com/news/state-regional/google-data-center-approved-in-barber-county/",
+        "https://www.kwch.com/2026/08/31/barber-county-commission-approves-agreement-google-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/wisconsin-rapids-wi-pnk-304",
+      "name": "PNK Group data center campus — former paper mill, Wisconsin Rapids",
+      "operator": "PNK Group USA / PCH WI Holdings",
+      "lat": 44.39176,
+      "lng": -89.82288,
+      "city": "Wisconsin Rapids",
+      "state": "WI",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "workload": "general",
+      "purpose": "speculative",
+      "confidence": "low",
+      "summary": "A phased data center campus proposed by industrial developer PNK Group USA (with PCH WI Holdings LLC) on ~209 acres of the former paper/pulp mill at 950 Fourth Avenue N in Wisconsin Rapids (Wood County), WI — the north side of the mill property, where the pulp mill was demolished. The April 2026 conditional-use application describes purpose-built data center buildings totaling ~670,000 sq ft (about 1.2M sq ft of total construction). The project faces organized local opposition over environmental impacts and over PNK's Russian origins (the brand operated in Russia from ~2003 and says it withdrew in 2024; its owner faces fraud and racketeering suits in Pennsylvania and Utah). No tenant, power capacity or timeline disclosed. Coordinates are the city centroid (approximate — the mill is just north of downtown).",
+      "website": "https://wisconsinrapids.pnk.group/",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlo3Sl9xTTdTcWZjMTNUWUJKOXhmd3hSaDR0a3E0ay0tbXNPVWRxMU9yTXpBRUhGdW5rci1xTlJpOVU3V01HaENGTU9fS1VoVXBOV1RPOTAzR3A2SmhjVFJmZzAwaGo0N21uSmliMTd3Y3U5akpmNW1DRnZtTXozSk9tQy1uNUNjNjg3UDdITXRKcEN1c19hYkRPWEZwSkhIX1dVeFlzeEs0dw?oc=5",
+        "https://wisconsinwatch.org/2026/08/wisconsin-rapids-data-center-objections-developers-russian-connections/",
+        "https://wausaupilotandreview.com/2026/05/17/who-is-the-developer-of-the-proposed-wisconsin-rapids-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/dallas-tx-northampton-provident-305",
+      "name": "Northampton Capital / Provident Data Centers 54 MW data center — North Dallas",
+      "operator": "Northampton Capital Partners / Provident Data Centers (JV)",
+      "lat": 32.77627,
+      "lng": -96.79686,
+      "city": "Dallas",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": 54,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A 54 MW 'AI-ready' data center announced Sept 2026 as the first project of a joint venture between New York-based Northampton Capital Partners (founded 2023 by ex-Apollo infrastructure co-head Geoffrey Strong) and Dallas-based Provident Data Centers (Provident Realty Advisors' platform, which claims 50+ sites and 6+ GW of planned/committed power nationally). The building sits on a 74 MW site in the North Dallas corridor, uses an effectively water-free, low-noise design, and is slated to open in late 2027; the partners also agreed a framework to develop further US sites. Exact address undisclosed — coordinates are the Dallas centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/jv-plans-54mw-data-center-in-dallas-texas/",
+        "https://www.commercialsearch.com/news/jv-to-build-54-mw-data-center-near-dallas/",
+        "https://hoodline.com/2026/09/north-dallas-corridor-lands-54-megawatt-data-center-as-dfw-vacancy-hits-2-8/"
       ]
     }
   ]

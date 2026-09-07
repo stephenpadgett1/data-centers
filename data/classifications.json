@@ -5380,5 +5380,41 @@
     "summary": "Unnamed ~64,000 sq ft building (traced from Bing imagery, no address tags) on Buckeystown Pike / MD-85 south of Frederick, MD, near Crestwood Boulevard. The location appears to match 5301 Buckeystown Pike, where Frederick IT firm Swift Systems operates a colocation data center; Rowan Digital Infrastructure's much larger Bauxite III hyperscale campus at Mountville Road and Ballenger Creek Pike lies just to the west. Identity unconfirmed.",
     "source": "claude",
     "classified_on": "2026-09-04"
+  },
+  "osm/way/1556702081": {
+    "operator_type": "colocation",
+    "purpose": "purpose_built",
+    "workload": "ai",
+    "confidence": "high",
+    "summary": "Coravel's Dallas–Fort Worth campus at 10059–10197 Hicks Field Road in far-north Fort Worth, TX (~4.3M sq ft construction footprint). Coravel is the 50/50 data center joint venture of Spain's ACS Group and BlackRock's Global Infrastructure Partners, launched Nov 2025 and branded July 2026; its first hyperscale lease covers ~140 MW of critical IT load across three purpose-built buildings here, with rights to ~100 MW more in two further buildings. Turner (an ACS company) is building it in phases with service dates staggered through 2028.",
+    "source": "claude",
+    "classified_on": "2026-09-07"
+  },
+  "osm/way/460182330": {
+    "operator_type": "enterprise",
+    "purpose": "purpose_built",
+    "workload": "general",
+    "confidence": "medium",
+    "summary": "The Morgan Stanley data center at 665 Howard Avenue in Somerset (Franklin Township, Somerset County), NJ — a ~330,000 sq ft facility on ~17–22 acres approved in 2006 with $106M of NJEDA structured financing, built as a bank-owned financial-services data center (~205,000 sq ft footprint). The OSM mapper recorded Morgan Stanley as 'old_operator', implying a change of hands, but no public sale or new operator was found, so it is classified as enterprise/financial.",
+    "source": "claude",
+    "classified_on": "2026-09-07"
+  },
+  "osm/way/1555352690": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "EdgeCore Digital Infrastructure's Ashburn AS01 wholesale data center at 45865 Maries Road, Sterling (Loudoun County), VA — ~142,000 sq ft footprint tagged with 72 MW of IT power on a 126 MW utility feed, leasing large blocks of capacity to hyperscale and enterprise tenants in the Northern Virginia market.",
+    "source": "claude",
+    "classified_on": "2026-09-07"
+  },
+  "osm/node/14152612201": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "EdgeCore Digital Infrastructure's Ashburn AS02 wholesale data center at 1501 Moran Road, Sterling (Loudoun County), VA — tagged with 42 MW of IT power, the second building of EdgeCore's Ashburn campus leasing capacity to hyperscale and enterprise tenants.",
+    "source": "claude",
+    "classified_on": "2026-09-07"
   }
 }
