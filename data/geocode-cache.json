@@ -144,6 +144,10 @@
     "lat": 29.26249,
     "lng": -95.9398
   },
+  "bow, merrimack county, nh": {
+    "lat": 43.13306,
+    "lng": -71.54915
+  },
   "box elder county, utah": {
     "lat": 41.35861,
     "lng": -113.21121
@@ -261,6 +265,10 @@
   "city of umatilla, umatilla county, or": {
     "lat": 45.9163,
     "lng": -119.34824
+  },
+  "cleveland, bradley county, tn": {
+    "lat": 35.15952,
+    "lng": -84.87661
   },
   "cleveland, ohio": {
     "lat": 41.49966,
@@ -1209,6 +1217,10 @@
   "walla walla county, wa": {
     "lat": 46.20552,
     "lng": -118.51743
+  },
+  "west columbia, mason county, wv": {
+    "lat": 38.98313,
+    "lng": -82.06348
   },
   "west feliciana parish, la": {
     "lat": 30.88427,
