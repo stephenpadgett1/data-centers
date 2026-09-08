@@ -69,10 +69,11 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 and Colossus 2 came online in January 2026; xAI has since purchased a third building, and by mid-2026 the complex reached its ~2 GW target with a reported ~555,000 NVIDIA GPUs — the largest single-site AI training installation in the world. Notable for on-site gas turbines drawing local controversy: the NAACP's Clean Air Act suit over the unpermitted turbines at the Southaven, MS power plant feeding Colossus 2 had a preliminary-injunction hearing set for Aug 24, 2026 (after the DOJ intervened on xAI's behalf in June 2026 seeking dismissal), but the hearing was postponed by a notice filed Aug 21, 2026 and had not been rescheduled as of early Sept 2026.",
+      "summary": "Elon Musk's xAI training supercomputer on a former Electrolux site in South Memphis. Colossus 1 went live in 2024 and Colossus 2 came online in January 2026; xAI has since purchased a third building, making Colossus a three-building, ~2.6M sq ft cluster straddling the Tennessee–Mississippi line. As of spring 2026 the cluster carried roughly 1 GW of IT load (~770,000 GPUs per Wikipedia's tally); the ~2 GW / ~555,000-GPU figure announced in January 2026 is the full build-out target that Musk projects will be reached over the coming years. Still the largest single-site AI training installation in the world. Notable for on-site gas turbines drawing local controversy: the NAACP's Clean Air Act suit over the unpermitted turbines at the Southaven, MS power plant feeding Colossus 2 had a preliminary-injunction hearing set for Aug 24, 2026 (after the DOJ intervened on xAI's behalf in June 2026 seeking dismissal), but the hearing was postponed by a notice filed Aug 21, 2026 and had not been rescheduled as of early Sept 2026.",
       "website": "https://x.ai/colossus",
       "sources": [
         "https://en.wikipedia.org/wiki/Colossus_(supercomputer)",
+        "https://en.wikipedia.org/wiki/Colossus_(data_center)",
         "https://www.tomshardware.com/tech-industry/artificial-intelligence/musk-purchases-third-building-at-memphis-site-to-expand-xais-training-capacity-to-a-monstrous-2-gigawatts",
         "https://www.selc.org/news/xai-built-an-illegal-power-plant-to-power-its-data-center/"
       ]
@@ -1682,11 +1683,13 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Fleet Data Centers, a subsidiary of Tract Capital Management, broke ground in mid-2026 on two adjacent build-to-suit campuses — South Valley and Peru Ridge — along USA Parkway in the Tahoe Reno Industrial Center (Storey County), east of Reno, Nevada. Combined ~400 MW of critical compute, part of a reported ~$10B program; the capacity is 100% pre-leased to an unnamed AA-rated, $3T+ market-cap tenant on a long-term triple-net lease. Coordinates approximate.",
+      "summary": "Fleet Data Centers, a subsidiary of Tract Capital Management, broke ground in mid-2026 on two adjacent build-to-suit campuses — South Valley and Peru Ridge — along USA Parkway in the Tahoe Reno Industrial Center (Storey County), east of Reno, Nevada. Combined ~400 MW of critical compute, part of a reported ~$10B program; the capacity is 100% pre-leased to an unnamed AA-rated, $3T+ market-cap tenant on a long-term triple-net lease. In Sept 2026 Fleet asked the Public Utilities Commission of Nevada to approve two on-site methane-gas generation projects — a temporary ~144 MW plant for South Valley and the ~218 MW Peru Ridge Self-Generation Project (>360 MW combined) — which would be the first gas supply approved specifically for data-center use in Nevada; a PUCN decision was expected around Sept 8, 2026 amid objections that the plants sidestep the state's renewable portfolio standard. Coordinates approximate.",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/fleet-breaks-ground-on-data-center-outside-reno-nevada/",
-        "https://www.nnbw.com/news/2026/jun/02/fleet-data-centers-breaks-ground-on-2-facilities/"
+        "https://www.nnbw.com/news/2026/jun/02/fleet-data-centers-breaks-ground-on-2-facilities/",
+        "https://www.datacenterdynamics.com/en/news/fleet-seeks-approval-to-build-two-methane-power-plants-to-power-data-centers-in-nevada-report/",
+        "https://nevadacurrent.com/2026/09/01/private-gas-plants-to-power-data-centers-would-skirt-states-renewable-energy-law/"
       ]
     },
     {
@@ -2175,11 +2178,12 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "Lawrence, KS-based Alcove Development is partnering with the City of Osawatomie on 'Project Catalyst,' a ~$1B, 500+ MW air-cooled data center campus on a 283-acre site within city limits in Miami County, KS. Officials call it the county's largest-ever economic development project; announced May 2026 and still in early permitting amid resident debate.",
+      "summary": "Lawrence, KS-based Alcove Development is partnering with the City of Osawatomie on 'Project Catalyst,' a ~$1B, 500+ MW air-cooled data center campus on a 283-acre site within city limits in Miami County, KS. Officials call it the county's largest-ever economic development project; announced May 2026 and still in early permitting amid resident debate. In Sept 2026 a former employee of the adjacent Osawatomie State Hospital (a state psychiatric facility a few hundred yards from the site) raised patient-safety and noise concerns; the city said a briefing for hospital staff still had to be rescheduled.",
       "website": null,
       "sources": [
         "https://www.kshb.com/news/local-news/kansas/miami-county/project-catalyst-data-center-developer-in-osawatomie-offers-update-touting-economic-opportunity",
-        "https://www.kctv5.com/2026/05/29/osawatomie-moves-forward-with-500-megawatt-data-center-campus/"
+        "https://www.kctv5.com/2026/05/29/osawatomie-moves-forward-with-500-megawatt-data-center-campus/",
+        "https://www.kshb.com/news/local-news/kansas/miami-county/proposed-kansas-data-center-sits-hundreds-of-yards-from-psychiatric-hospital-raising-safety-concerns"
       ]
     },
     {
@@ -2771,10 +2775,11 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Microsoft AI data center campus planned on 2,000+ acres near Pecos in Reeves County, West Texas (~2 GW IT capacity). Announced June 2026 alongside a 20-year power agreement with Chevron, whose subsidiary Energy Forge One (with Engine No. 1) will build an off-grid natural gas plant scaling to ~2.67 GW using GE Vernova and Solar Turbines equipment, fueled by Chevron's Permian Basin production. First power expected late 2028, with development extending through the 2030s.",
-      "website": null,
+      "summary": "Microsoft AI data center campus planned on 2,000+ acres near Pecos in Reeves County, West Texas (~2 GW IT capacity). Announced June 2026 alongside a 20-year power agreement with Chevron, whose subsidiary Energy Forge One (with Engine No. 1) will build an off-grid natural gas plant scaling to ~2.67 GW using GE Vernova and Solar Turbines equipment, fueled by Chevron's Permian Basin production. The ~$7–9B power project runs fully behind the meter with no ERCOT interconnection; Chevron plans a final investment decision before year-end 2026, with first power expected in 2028 and development extending through the 2030s.",
+      "website": "https://kilby.com/project/",
       "sources": [
         "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+        "https://kilby.com/project/",
         "https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html"
       ]
     },
@@ -6182,6 +6187,27 @@
         "https://www.datacenterdynamics.com/en/news/jv-plans-54mw-data-center-in-dallas-texas/",
         "https://www.commercialsearch.com/news/jv-to-build-54-mw-data-center-near-dallas/",
         "https://hoodline.com/2026/09/north-dallas-corridor-lands-54-megawatt-data-center-as-dfw-vacancy-hits-2-8/"
+      ]
+    },
+    {
+      "id": "curated/news/manning-sc-ram-bay-306",
+      "name": "Proposed data center — Ram Bay Industrial Park (Clarendon County)",
+      "operator": null,
+      "lat": 33.69523,
+      "lng": -80.21078,
+      "city": "Manning",
+      "state": "SC",
+      "status": "planned",
+      "capacity_mw": 15,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "An unnamed developer holds a contract with Santee Electric Cooperative to secure a building for a proposed ~15 MW data center at the Ram Bay Industrial Park, about a mile from I-95 (exit 115) near Manning in Clarendon County, SC. In Aug 2026 the county administration said the plan is not yet official, that it has no power to block it, and projected ~$4.5M/yr in tax revenue; residents have petitioned against it and County Council gave first reading to a data-center moratorium on Aug 10, 2026. Coordinates are the Manning centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.wistv.com/2026/08/19/clarendon-county-administration-responds-pushback-proposed-data-center/",
+        "http://manninglive.com/stories/data-center-moratorium-advances-amid-questions-about-public-notice,196495"
       ]
     }
   ]
