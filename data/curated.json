@@ -2832,23 +2832,26 @@
     },
     {
       "id": "curated/news/nye-county-nv-blackjack-149",
-      "name": "Proposed Blackjack Data Center — Nye County",
-      "operator": null,
+      "name": "Manse Technology Campus (formerly Project Blackjack) — Nye County",
+      "operator": "Gigawatt Development",
       "lat": 36.20418,
       "lng": -116.02603,
       "city": "Pahrump",
       "state": "NV",
-      "status": "planned",
+      "status": "unknown",
       "capacity_mw": null,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A proposed ~900-acre, ~800,000 sq ft data center campus east of Pahrump in Nye County, Nevada. Application predates the county's 2026 data center moratorium; residents have mobilized against it over Basin 162 aquifer water use, and commissioners weigh further restrictions at an August 2026 vote. A second proposal (Osprey Data Center) is also pending in the valley. Coordinates approximate (Pahrump).",
+      "summary": "Gigawatt Development's proposed ~$18B, ~900-acre, ~800,000 sq ft 'Manse Technology Campus' (formerly Project Blackjack) along the Manse Road corridor east of Pahrump in Nye County, Nevada. Residents mobilized against it over water draw from the over-appropriated Basin 162 aquifer, and on Aug 18, 2026 county commissioners voted unanimously to ban data centers in the Pahrump Valley / Basin 162, which covers this site. The county is drafting a development-agreement framework (special meeting Sept 14, 2026) for data centers elsewhere in Nye County. A second proposal (Osprey Data Center) had also been pending in the valley. Status set to unknown pending any relocation or legal challenge. Coordinates approximate (Pahrump).",
       "website": null,
       "sources": [
         "https://www.8newsnow.com/news/local-news/nye-county-residents-mobilize-against-proposed-blackjack-data-center-ahead-of-august-vote/",
-        "https://pvtimes.com/news/data-centers-generating-community-angst-187770/"
+        "https://pvtimes.com/news/data-centers-generating-community-angst-187770/",
+        "https://www.ktnv.com/news/nye-county-approves-data-center-ban-working-on-development-agreement-for-future",
+        "https://nevadacurrent.com/2026/08/20/nye-county-totally-bans-data-centers-in-over-appropriated-water-basin/",
+        "https://pvtimes.com/news/data-centers-banned-in-pahrump-189671/"
       ]
     },
     {
@@ -2874,22 +2877,25 @@
     },
     {
       "id": "curated/news/san-jose-ca-silvercreek-151",
-      "name": "Proposed data center — 5977 Silver Creek Valley Road, San Jose",
-      "operator": null,
+      "name": "Prologis proposed data center — 5977 Silver Creek Valley Road, San Jose",
+      "operator": "Prologis",
       "lat": 37.33617,
       "lng": -121.89059,
       "city": "San Jose",
       "state": "CA",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 99,
+      "area_sqft": 516000,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
-      "confidence": "low",
-      "summary": "A large data center proposed to fill a vacant site at 5977 Silver Creek Valley Road in southeast San Jose, per July 2026 planning filings. Early-stage; operator undisclosed. Coordinates approximate (city center).",
+      "confidence": "medium",
+      "summary": "Prologis has filed plans with San Jose (reported late Aug 2026) for a three-story, ~516,000 sq ft, 99 MW data center on a 15-acre vacant parcel at 5977 Silver Creek Valley Road in an established industrial corridor of southeast San Jose, with an on-site substation, a dedicated backup-generation facility and ~30,000 sq ft of office space. The site is ~2.5 miles from a PG&E substation on Santa Teresa Blvd recently upgraded to 80 MW. Tenant undisclosed. Coordinates approximate (city center).",
       "website": null,
       "sources": [
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzlUeDBfM0ZFSVZweFZfWktjcHZNQUVlRXhhbDh1ZUJlVElpM19mNVJ0UTRlcGJfWmFaUlJfc3A1QmR5d0dib2xhRkRCczVodV9jeVdKV0wwbTNtTC1jeS03S05xRWpSMm1aSmdveExhS0lkM05iZDNwNmIzVjJrR1BKMzdTMXVhaHl4VGdXTlpfSkFlTlZOcUJITmUyTy1HNzlvRk9wbnViLU1CSnV6RjlQNF91VFI1clB3TkxXdkVEZw?oc=5"
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzlUeDBfM0ZFSVZweFZfWktjcHZNQUVlRXhhbDh1ZUJlVElpM19mNVJ0UTRlcGJfWmFaUlJfc3A1QmR5d0dib2xhRkRCczVodV9jeVdKV0wwbTNtTC1jeS03S05xRWpSMm1aSmdveExhS0lkM05iZDNwNmIzVjJrR1BKMzdTMXVhaHl4VGdXTlpfSkFlTlZOcUJITmUyTy1HNzlvRk9wbnViLU1CSnV6RjlQNF91VFI1clB3TkxXdkVEZw?oc=5",
+        "https://www.datacenterdynamics.com/en/news/prologis-files-to-build-99mw-data-center-in-san-jose-california/",
+        "https://www.marketscale.com/industries/engineering-and-construction/prologis-files-plans-for-516000-sq-ft-99-megawatt-data-center-in-south-san-jose"
       ]
     },
     {
@@ -3339,14 +3345,16 @@
       "city": "Port Washington",
       "state": "WI",
       "status": "under_construction",
-      "capacity_mw": null,
+      "capacity_mw": 902,
       "operator_type": "hyperscaler",
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "Vantage Data Centers' 'Lighthouse' campus in Port Washington, WI, north of Milwaukee — a $15B+ AI data center built for Oracle and OpenAI as part of the Stargate initiative, targeted for completion in 2028. Developers assembled 1,500+ acres of farmland (at least $125M in land purchases), a buying spree that made local farmers millionaires and displaced some homeowners.",
+      "summary": "Vantage Data Centers' 'Lighthouse' campus in Port Washington, WI, north of Milwaukee — a $15B+ AI data center built for Oracle and OpenAI as part of the Stargate initiative, targeted for completion in 2028. Developers assembled 1,500+ acres of farmland (at least $125M in land purchases), a buying spree that made local farmers millionaires and displaced some homeowners. Construction is well underway following a ceremonial groundbreaking: the ~672-acre campus (about a mile inland from Lake Michigan) is planned as four single-story data centers totaling ~902 MW across ~2.5M sq ft, with closed-loop cooling, a peak construction workforce of ~5,000 in 2027 and ~1,000 permanent jobs.",
       "website": null,
       "sources": [
+        "https://biztimes.com/groundbreaking-held-as-construction-begins-on-15b-port-washington-data-center/",
+        "https://www.datacenterknowledge.com/data-center-construction/vantage-breaks-ground-on-15b-stargate-campus-in-wisconsin",
         "https://dailyreporter.com/2025/10/23/oracle-openai-ai-data-center-port-washington/",
         "https://www.constructiondive.com/news/openai-oracle-stargate-data-center-site-wisconsin/804031/",
         "https://wisconsinwatch.org/2026/07/wisconsin-land-rush-data-centers-millionaires-port-washington-properties/"
@@ -5805,11 +5813,13 @@
       "purpose": "purpose_built",
       "workload": "general",
       "confidence": "low",
-      "summary": "Amazon is reported (Aug 2026) to be pursuing a ~$5B data center campus on a ~601-acre, largely undeveloped site in Madison and St. Clair townships just south of Trenton in Butler County, northwest of Cincinnati, along Wayne Madison and Hawkins roads near the Great Miami River — 18 buildings of ~220,000 sq ft each (~3.96M sq ft total), close to a Duke Energy substation and the 692 MW Madison gas plant. Complicated by a six-month county data center moratorium adopted in June 2026 at the request of six townships including Madison. Amazon has not publicly confirmed the plan. Coordinates are the Trenton centroid (approximate).",
+      "summary": "Amazon is reported (Aug 2026) to be pursuing a ~$5B data center campus on a ~601-acre, largely undeveloped site in Madison and St. Clair townships just south of Trenton in Butler County, northwest of Cincinnati, along Wayne Madison and Hawkins roads near the Great Miami River — 18 buildings of ~220,000 sq ft each (~3.96M sq ft total), close to a Duke Energy substation and the 692 MW Madison gas plant. Complicated by a six-month county data center moratorium adopted in June 2026 at the request of six townships including Madison. Amazon has not publicly confirmed the plan. On Sept 1, 2026 the Ohio Supreme Court ordered the City of Trenton to let residents vote on a citizen charter amendment banning data centers (council had refused to certify the petition), and council then placed the ban on the Nov 3, 2026 ballot; the measure targets this campus, which is being negotiated with the city and has an unresolved annexation dispute, as well as a separate Prologis plan for a ~141-acre data center inside Trenton. Coordinates are the Trenton centroid (approximate).",
       "website": null,
       "sources": [
         "https://www.datacenterdynamics.com/en/news/amazon-plans-18-building-campus-outside-cincinnati-ohio/",
-        "https://local12.com/news/local/amazon-eyes-greater-cincinnati-suburb-5-billion-dollar-data-center-trenton-butler-county"
+        "https://local12.com/news/local/amazon-eyes-greater-cincinnati-suburb-5-billion-dollar-data-center-trenton-butler-county",
+        "https://www.wvxu.org/environment/2026-09-01/ohio-supreme-court-trenton-vote-data-center-ban",
+        "https://www.wcpo.com/news/local-news/trenton-passes-data-center-ban-to-november-ballot-for-voters-to-decide"
       ]
     },
     {
@@ -6208,6 +6218,96 @@
       "sources": [
         "https://www.wistv.com/2026/08/19/clarendon-county-administration-responds-pushback-proposed-data-center/",
         "http://manninglive.com/stories/data-center-moratorium-advances-amid-questions-about-public-notice,196495"
+      ]
+    },
+    {
+      "id": "curated/news/enid-ok-project-thunderbird-307",
+      "name": "'Project Thunderbird' four-campus data center corridor — Enid",
+      "operator": "Plainsmen Holdings",
+      "lat": 36.39676,
+      "lng": -97.87913,
+      "city": "Enid",
+      "state": "OK",
+      "status": "planned",
+      "capacity_mw": 3300,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Plainsmen Holdings — a group of four Enid natives (Jason and Aaron Singer, Chad Dillingham and Troy Phillips) — unveiled 'Project Thunderbird' in Sept 2026: four data center campuses along a single corridor on ~1,750 acres in and around Enid (Garfield County), Oklahoma, pitched as a ~$35B investment serving AI, cloud, banking and national-security workloads, with up to 3.3 GW of on-site power generation (capacity_mw reflects that generation figure, not a confirmed IT load). Backers promise up to 4,000 construction jobs and 600+ permanent jobs and no rate or tax increases for residents. Goes before the Enid Planning Commission on Sept 28 and the City Commission on Oct 6, 2026. Early-stage; no tenant named. Coordinates are the Enid centroid (approximate).",
+      "website": "https://projectthunderbird.com/",
+      "sources": [
+        "https://www.news9.com/oklahoma-city-news/enid-oklahoma-proposed-thunderbird-data-center",
+        "https://kfor.com/news/project-thunderbird-proposes-1700-acre-data-center-in-enid/",
+        "https://okcfox.com/news/local/project-thunderbird-data-center-proposal-promises-600-jobs-and-self-generated-power"
+      ]
+    },
+    {
+      "id": "curated/news/boulder-city-nv-townsite-solar-2-308",
+      "name": "Townsite Solar 2 data center (BLM public land) — Boulder City",
+      "operator": "Townsite Solar 2 LLC (Skylar Capital Management / Arevon Energy)",
+      "lat": 35.97876,
+      "lng": -114.83376,
+      "city": "Boulder City",
+      "state": "NV",
+      "status": "planned",
+      "capacity_mw": 167,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "A ~167 MW data center that Townsite Solar 2 LLC — a joint venture of TS2 Investments (an affiliate of Houston hedge-fund manager Skylar Capital Management) and Arevon Energy — won BLM approval to build on federal public land near Boulder City (Clark County), Nevada, by amending a right-of-way originally granted for a solar farm. Billed as the first data center approved on BLM land in the US; its demand is roughly three times Boulder City's entire electrical load. Boulder City and environmental groups appealed, and on about Sept 1, 2026 the Interior Board of Land Appeals issued a stay halting construction while the appeal proceeds, finding the BLM likely violated NEPA by reusing the 2023 solar-project environmental review instead of studying the data center. Coordinates are the Boulder City centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://knpr.org/2026-09-08/in-nevada-a-data-center-planned-on-public-land-is-temporarily-halted",
+        "https://lasvegassun.com/news/2026/sep/01/environmental-groups-win-stay-in-fight-over-data-c/",
+        "https://www.enr.com/articles/63613-federal-board-halts-167-mw-nevada-data-center-approval",
+        "https://nevadacurrent.com/2026/09/01/judge-halts-data-center-construction-on-public-land/"
+      ]
+    },
+    {
+      "id": "curated/news/mona-ut-nebo-north-309",
+      "name": "'Nebo North' proposed data center campus — Mona (Juab County)",
+      "operator": "Nebo North LLC",
+      "lat": 39.81607,
+      "lng": -111.85549,
+      "city": "Mona",
+      "state": "UT",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 3000000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A reported ~$10B, ~3M sq ft data center campus proposed under the entity name Nebo North LLC on land near Mona in Juab County, Utah — described by residents as the largest project in the county's history. Juab County planning officials approved a zone change and conditional use permit after a four-minute public hearing on April 15, 2026 that residents and Mona's town council say they were never notified of; opposition surfaced in Aug–Sept 2026, with residents demanding a public hearing before any further decision. Developer and tenant undisclosed. Coordinates are the Mona centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.abc4.com/news/central-utah/mona-residents-against-data-center/",
+        "https://www.ksl.com/article/51621507/mona-residents-question-approval-process-for-proposed-10b-data-center",
+        "https://www.deseret.com/environment/2026/09/08/mona-citizens-revolt-against-local-data-centers/"
+      ]
+    },
+    {
+      "id": "curated/news/page-az-huntley-horseshoe-bend-310",
+      "name": "Huntley LLC 1 GW data center near Horseshoe Bend — Page",
+      "operator": "Huntley LLC",
+      "lat": 36.91483,
+      "lng": -111.45729,
+      "city": "Page",
+      "state": "AZ",
+      "status": "planned",
+      "capacity_mw": 1000,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "The City of Page, Arizona (Coconino County, near Glen Canyon Dam) approved a land-sale agreement in fall 2025 conveying a ~500-acre parcel about a mile from the Colorado River's Horseshoe Bend to Huntley LLC for $7M, with the buyer stating its intent to build a 1 GW AI data center. The site borders the LeChee Chapter of the Navajo Nation; chapter leaders and residents launched a petition against it in early 2026 and in Sept 2026 raised alarms over water use in the drought-stricken region and a lack of transparency on environmental impacts. Early-stage; no tenant or timeline disclosed. Coordinates are the Page centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.tucsonsentinel.com/local/report/090826_horseshoe_bend_ai/navajo-leaders-raise-alarms-planned-ai-data-center-near-horseshoe-bend",
+        "https://cornerpost.org/2026/05/06/navajo-nation-leaders-oppose-data-center-in-page-arizona/",
+        "https://www.spokesman.com/stories/2026/sep/08/developers-eye-native-nations-tribal-communities-f/"
       ]
     }
   ]

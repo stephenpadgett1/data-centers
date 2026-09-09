@@ -144,6 +144,10 @@
     "lat": 29.26249,
     "lng": -95.9398
   },
+  "boulder city, clark county, nv": {
+    "lat": 35.97876,
+    "lng": -114.83376
+  },
   "bow, merrimack county, nh": {
     "lat": 43.13306,
     "lng": -71.54915
@@ -397,6 +401,10 @@
   "emporia, ks": {
     "lat": 38.40401,
     "lng": -96.18162
+  },
+  "enid, garfield county, ok": {
+    "lat": 36.39676,
+    "lng": -97.87913
   },
   "evanston, wy": {
     "lat": 41.26825,
@@ -782,6 +790,10 @@
     "lat": 44.88315,
     "lng": -122.96941
   },
+  "mona, juab county, ut": {
+    "lat": 39.81607,
+    "lng": -111.85549
+  },
   "moncure, nc": {
     "lat": 35.6225,
     "lng": -79.07831
@@ -877,6 +889,10 @@
   "owasso, ok": {
     "lat": 36.26597,
     "lng": -95.85486
+  },
+  "page, coconino county, az": {
+    "lat": 36.91483,
+    "lng": -111.45729
   },
   "pahrump, nv": {
     "lat": 36.20418,
