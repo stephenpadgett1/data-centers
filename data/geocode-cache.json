@@ -1,8 +1,20 @@
 {
+  "145 chubb way, branchburg, nj": {
+    "lat": 40.55662,
+    "lng": -74.70468
+  },
   "20101 academic way, ashburn, va": null,
   "2222 n stemmons freeway, dallas, tx": {
     "lat": 32.80397,
     "lng": -96.83213
+  },
+  "2401 innovation blvd, hutto, tx": {
+    "lat": 30.5488,
+    "lng": -97.5726
+  },
+  "2800 summit avenue, plano, tx": {
+    "lat": 33.00918,
+    "lng": -96.67656
   },
   "301 virginia street, seattle, wa": {
     "lat": 47.61235,
@@ -542,6 +554,10 @@
     "lat": 46.80689,
     "lng": -92.23825
   },
+  "hermantown, st. louis county, mn": {
+    "lat": 46.80689,
+    "lng": -92.23825
+  },
   "hillsboro, tx": {
     "lat": 32.01085,
     "lng": -97.13037
@@ -781,6 +797,10 @@
   "mcminnville, tn": {
     "lat": 35.6834,
     "lng": -85.76998
+  },
+  "merck, branchburg, nj": {
+    "lat": 40.60186,
+    "lng": -74.68511
   },
   "midland, pa": {
     "lat": 40.63257,
@@ -1110,6 +1130,10 @@
     "lat": 42.62925,
     "lng": -73.86457
   },
+  "smarr, monroe county, ga": {
+    "lat": 32.98893,
+    "lng": -83.88758
+  },
   "snyder, tx": {
     "lat": 32.71808,
     "lng": -100.91823
@@ -1182,6 +1206,10 @@
     "lat": 33.44667,
     "lng": -94.07715
   },
+  "tioga county, pa": {
+    "lat": 41.77417,
+    "lng": -77.25426
+  },
   "tonganoxie, ks": {
     "lat": 39.10972,
     "lng": -95.08775
@@ -1229,6 +1257,10 @@
   "van wert, oh": {
     "lat": 40.80147,
     "lng": -84.60099
+  },
+  "verizon wireless, branchburg, nj": {
+    "lat": 40.5556,
+    "lng": -74.70588
   },
   "vineland, nj": {
     "lat": 39.48628,

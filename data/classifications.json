@@ -5416,5 +5416,23 @@
     "summary": "EdgeCore Digital Infrastructure's Ashburn AS02 wholesale data center at 1501 Moran Road, Sterling (Loudoun County), VA — tagged with 42 MW of IT power, the second building of EdgeCore's Ashburn campus leasing capacity to hyperscale and enterprise tenants.",
     "source": "claude",
     "classified_on": "2026-09-07"
+  },
+  "osm/way/483286527": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "high",
+    "summary": "Aligned Data Centers' Plano campus at 2800 Summit Avenue, Plano (Collin County), TX — this ~108,700 sq ft footprint geocodes to within ~10 m of the address of Aligned's DFW-01 (60 MW) and DFW-02 (36 MW, ~220,000 sq ft) wholesale colocation buildings on a 19-acre site that also serves as the company's North American headquarters.",
+    "source": "claude",
+    "classified_on": "2026-09-10"
+  },
+  "osm/way/300970761": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "low",
+    "summary": "OSM still carries the old 'Golds Gym Ashburn' name, but the ~55,000 sq ft footprint at 21625 Red Rum Drive, Ashburn (Loudoun County), VA is the former Gold's Gym (closed 2021, demolished April 2024) that owner GI Partners (GI TC Ashburn LLC, which also owns the adjoining 21631 and 21635 Red Rum Drive buildings on the same street as DataBank's Ashburn campus) rebuilt and markets as the 'Red Rum Data Center' — a ~70,000 sq ft powered shell with 20 MW of critical IT load and 19 on-site carriers. No operator or tenant has been publicly announced.",
+    "source": "claude",
+    "classified_on": "2026-09-10"
   }
 }

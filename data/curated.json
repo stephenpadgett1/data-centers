@@ -4557,7 +4557,7 @@
     {
       "id": "curated/news/westlake-tx-circle-t-232",
       "name": "Circle T Data Center — Westlake (Keller/Southlake line)",
-      "operator": null,
+      "operator": "PowerHouse Data Centers",
       "lat": 32.99123,
       "lng": -97.19437,
       "city": "Westlake",
@@ -4569,9 +4569,12 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A ~3.83 million sq ft data center campus proposed on about 88 acres in the Circle T development near US 377 and Westport Parkway in Westlake, TX, announced by town officials in July 2026. The site backs onto Keller, whose mayor and council say they learned of the project only after it was made public; neighbors cite noise, health and property-value concerns, and the campus is projected to use roughly 54 million gallons of water a year. Westlake's Planning & Zoning Commission was set to take up site plans on Aug 4, 2026. On Aug 13, 2026 the City of Keller said it would pursue legal action over the project. End user undisclosed; coordinates approximate (Westlake).",
+      "summary": "A data center campus proposed by PowerHouse Data Centers on about 88 acres in the Circle T development along US 377 just south of Alliance Gateway Freeway in Westlake, TX, bordering Keller — announced by town officials in July 2026 as ~3.83 million sq ft; later reporting describes a four-building, ~1.1 million sq ft campus. The nearest Keller backyards are ~506 ft away, and Keller's mayor and council say they learned of the project only after it was made public; neighbors cite noise, health and property-value concerns, and the campus is projected to use roughly 54 million gallons of water a year. On Aug 19, 2026 the Keller City Council unanimously authorized legal action against Westlake, and in late Aug 2026 a judge granted a temporary restraining order (in a suit by the Lakes at Marshall Ridge HOA and several Westlake residents) requiring Westlake to pause its vote on the development agreement. End user undisclosed; coordinates approximate (Westlake).",
       "website": null,
       "sources": [
+        "https://www.nbcdfw.com/news/local/judge-blocks-westlake-data-center-amid-lawsuit-from-keller-residents/4063764/",
+        "https://candysdirt.com/2026/08/19/keller-authorizes-legal-action-against-westlake-over-data-center-project/",
+        "https://www.cbsnews.com/texas/news/westlake-data-center-lawsuit-homeowners-zoning-dispute-august-2026/",
         "https://www.nbcdfw.com/news/local/westlakes-planned-data-center-sparks-concerns-keller/4057023/",
         "https://communityimpact.com/keller-roanoke-northeast-fort-worth/development/westlake-officials-announce-construction-of-data-center-near-keller-southlake/"
       ]
@@ -4927,15 +4930,17 @@
       "lng": -96.7977,
       "city": "Prosper",
       "state": "TX",
-      "status": "planned",
+      "status": "unknown",
       "capacity_mw": null,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "'Project Tomahawk' — a ~$580M, ~225,000 sq ft data center proposed by Dallas developer White Rose Partners on ~37–39 acres near the southeast corner of FM 1385 and Parvin Road in Prosper (Dallas–Fort Worth metro), adjacent to the Brazos Electric Parvin substation whose upgrades the developer would fund. After a postponement from Aug 18, the town's Planning and Zoning Commission voted 7-0 on Sept 1, 2026 to recommend denial of the agricultural-to-planned-development rezoning, following more than an hour of opposition (including the mayor speaking as a private citizen) over homes ~1,000 ft away, grid draw, water allocation and HVAC noise. The binding decision rests with the Prosper Town Council at an upcoming public hearing, so the project is in serious doubt. Coordinates approximate (Prosper).",
+      "summary": "WITHDRAWN. 'Project Tomahawk' — a ~$580M, ~225,000 sq ft data center proposed by Dallas developer White Rose Partners on ~37–39 acres near the southeast corner of FM 1385 and Parvin Road in Prosper (Dallas–Fort Worth metro), adjacent to the Brazos Electric Parvin substation whose upgrades the developer would fund. After the town's Planning and Zoning Commission voted 7-0 on Sept 1, 2026 to recommend denial of the rezoning amid opposition over homes ~1,000 ft away, grid draw, water allocation and HVAC noise, White Rose Partners pulled both items from the Town Council agenda hours before the Sept 8, 2026 hearing, with managing partner Jeff Eigenbrood saying the firm does not want to build 'in communities where we're not wanted.' Status is 'unknown' because the proposal has been withdrawn (this dataset has no cancelled status). Coordinates approximate (Prosper).",
       "website": null,
       "sources": [
+        "https://www.cbsnews.com/texas/news/prosper-tx-project-tomahawk-pulled-9-8-2026/",
+        "https://communityimpact.com/prosper-celina/government/project-tomahawk-developer-scraps-plans-for-prosper-data-center/",
         "https://communityimpact.com/prosper-celina/development/developer-seeks-to-build-data-center-in-prosper/",
         "https://communityimpact.com/prosper-celina/development/prosper-commission-recommends-denial-of-580-million-data-center/",
         "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeW9waWpHbjZaRml4cUppYVJkaUkzc2VXdmtiMm80X0xqc1otU3FLS2NvZTh0azRYM3Z3LWpMQzdTUkhaWDNaUU8wZUF2QUNtOVU5VFNFU0Q1djI5SnNtTUViOENsc0IySlJLVmtMWWQxVzAxT1JSOUR3OTlLX0ctYzA5Q2lPUlUxWW5LLVo3MlBTdVVFYXpLeUJNU214TmF3WG1IOTBmb0ZhR2hFcmpZcTBtdC1GSndhRUNmMGlWNFBjcjNocWFkYzdBY21RZUxiajczZTVrT0lfaExHODJ3XzdsZy0zSlRzZWJUWDZPVFZZMGV5MVhzcEw3Y2k0ZHRpZV9tUGZxYXlCOXc?oc=5"
@@ -5945,9 +5950,10 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "National developer Panattoni's 'Project Bluegrass' — a four-building hyperscale data center campus on ~950 acres of farmland northwest of Burgin in Mercer County, KY (about 28 miles southwest of Lexington), with less than half the site to be built on. The land is unincorporated and would be annexed into the tiny City of Burgin: the council passed the first reading of an annexation ordinance 3–2 on July 9, 2026, but the second reading was delayed after the developer filed a new annexation petition. On Aug 11, 2026 Mercer County Fiscal Court unanimously adopted a one-year data center moratorium for unincorporated areas, which would not apply if the land is annexed. Organized opposition ('We Are Mercer County') cites environment, property values and electric rates. No end user, capacity or timeline disclosed; coordinates are the Burgin centroid (approximate).",
+      "summary": "National developer Panattoni's 'Project Bluegrass' — a four-building hyperscale data center campus on ~950 acres of farmland northwest of Burgin in Mercer County, KY (about 28 miles southwest of Lexington), with less than half the site to be built on. The land is unincorporated and would be annexed into the tiny City of Burgin: the council passed the first reading of an annexation ordinance 3–2 on July 9, 2026, but the second reading was delayed after the developer filed a new annexation petition. On Aug 11, 2026 Mercer County Fiscal Court unanimously adopted a one-year data center moratorium for unincorporated areas, which would not apply if the land is annexed. Organized opposition ('We Are Mercer County') cites environment, property values and electric rates. The July annexation was subsequently declared null and void; at a Sept 8, 2026 special meeting the council first voted to rejoin the Harrodsburg–Mercer County Planning and Zoning Commission (which would review the project if the land is annexed), then lost its quorum when council member Melinda Wofford walked out, blocking a vote to have the city attorney draft a fresh annexation ordinance. No end user, capacity or timeline disclosed; coordinates are the Burgin centroid (approximate).",
       "website": null,
       "sources": [
+        "https://kentuckylantern.com/2026/09/09/burgin-city-council-member-walks-out-to-stop-a-vote-for-a-proposed-data-center-project/",
         "https://spectrumnews1.com/ky/louisville/news/2026/08/12/burgin-data-center-debate",
         "https://www.lpm.org/news/2026-08-12/a-kentucky-county-passes-a-data-center-moratorium-with-a-city-sized-hole",
         "https://spectrumnews1.com/ky/louisville/news/2026/08/24/data-center-mercer-county"
@@ -5989,9 +5995,11 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "low",
-      "summary": "New York-based GlobalAI Cloud Inc. (locally GlobalAI (Colorado) LLC) bought a ~41-acre parcel of the former Kodak/Carestream Health campus at 2000 Howard Smith Avenue W in unincorporated Weld County between Windsor and Greeley in Nov 2025 and on April 14, 2026 — a day after Weld's new data center ordinance took effect — filed a use-by-special-review application for a 35 MW AI data center in a vacant existing building. The county issued three stop-work orders in Aug 2026 for unpermitted site work; the Planning Commission nevertheless recommended approval on Sept 1–2, 2026, with the Board of County Commissioners' final vote set for Sept 9, 2026. Greeley supplies the site's water under a legacy Kodak agreement only through March 2027 and has threatened to cut it off unless GlobalAI accepts annexation. Coordinates are the Greeley centroid (approximate — the site is on the city's western edge).",
+      "summary": "New York-based GlobalAI Cloud Inc. (locally GlobalAI (Colorado) LLC) bought a ~41-acre parcel of the former Kodak/Carestream Health campus at 2000 Howard Smith Avenue W in unincorporated Weld County between Windsor and Greeley in Nov 2025 and on April 14, 2026 — a day after Weld's new data center ordinance took effect — filed a use-by-special-review application for a 35 MW AI data center in a vacant existing building. The county issued three stop-work orders in Aug 2026 for unpermitted site work; the Planning Commission nevertheless recommended approval on Sept 1–2, 2026, and on Sept 9, 2026 the Board of County Commissioners approved the use-by-special-review permit 5–0 after a public hearing where residents raised water, noise, grid and community-outreach concerns (local coverage calls it potentially the largest data center in Colorado). Greeley supplies the site's water under a legacy Kodak agreement only through March 2027 and has threatened to cut it off unless GlobalAI accepts annexation, which remains unresolved. Coordinates are the Greeley centroid (approximate — the site is on the city's western edge).",
       "website": null,
       "sources": [
+        "https://www.denver7.com/news/local-news/in-your-community/northern-colorado/weld-county-commissioners-approve-proposed-41-acre-data-center",
+        "https://www.longmontleader.com/local-news/weld-county-approves-global-ai-data-center-near-windsor-despite-water-power-concerns-12762809",
         "https://bizwest.com/2026/09/02/planners-urge-weld-to-ok-globalais-data-center-permit/",
         "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/",
         "https://bizwest.com/2026/08/03/weld-cites-globalai-for-unpermitted-work-at-data-center-site/"
@@ -6308,6 +6316,95 @@
         "https://www.tucsonsentinel.com/local/report/090826_horseshoe_bend_ai/navajo-leaders-raise-alarms-planned-ai-data-center-near-horseshoe-bend",
         "https://cornerpost.org/2026/05/06/navajo-nation-leaders-oppose-data-center-in-page-arizona/",
         "https://www.spokesman.com/stories/2026/sep/08/developers-eye-native-nations-tribal-communities-f/"
+      ]
+    },
+    {
+      "id": "curated/news/monroe-county-ga-google-311",
+      "name": "Google data center — Rumble Road / I-75, Monroe County",
+      "operator": "Google",
+      "lat": 32.98893,
+      "lng": -83.88758,
+      "city": "Smarr",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Google's proposed ~$1B-plus data center on about 950 acres off I-75 and Rumble Road in Monroe County, GA (between Forsyth and Macon), bought for ~$42M at the end of September 2025 after county commissioners had rejected an earlier $1B data-center rezoning in Aug 2025. On Sept 8, 2026 the county commission approved a plan for splitting more than $1.2B in payments Google has offered over the construction period plus 20 years of operation: the Monroe County Development Authority would own the site and lease it back to Google, replacing property tax with contractual payments (~$31M in year 1 rising to ~$77M in year 20, shared among the county, the school district and the authority). Capacity not disclosed; coordinates are the Smarr / Rumble Road area (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaXUydVIyMmFFMzViU2Y3R2tLZC0tUFo0bnhyQk1yNVFrQXFDWHRGY3o2S1dXYmtZUU5SYVkteVlrYjJ1NTJhRVhOMFNuV1dNdEhDdDV4OVdOeElFNnE4NGVxajZ1MkYyX2dhd2E2Q2FDejJsOWVrdGdFdERSNFI3dXBTWDJjN20tTkppb3B0SVlGMXYtei04eXNjUl9HcHVlaktrRVZWLVZQcG9VT2RyamRMTXRkeGJoTEp4cnpVWk1LLXBkMnlra1F2d2Z1ZGJtZEo4c1RGMzZSblJVMjVxN3ZmYW1YVnUxOEozWmQyZzByS29BNllPTlFnZm5CclpJRWFTSmQ3RlZvMFdJNG8zOXJn?oc=5",
+        "https://www.gpb.org/news/2025/10/14/google-drops-42-million-on-monroe-county-land-for-data-center-what-we-know",
+        "https://www.datacenterdynamics.com/en/news/google-purchases-950-acres-for-potential-data-center-in-monroe-county-georgia/"
+      ]
+    },
+    {
+      "id": "curated/news/hermantown-mn-google-312",
+      "name": "Google data center campus — Hermantown (St. Louis County)",
+      "operator": "Google",
+      "lat": 46.80689,
+      "lng": -92.23825,
+      "city": "Hermantown",
+      "state": "MN",
+      "status": "planned",
+      "capacity_mw": 600,
+      "area_sqft": 1660000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Google's proposed data center campus in Hermantown, MN (a city of ~10,000 next to Duluth), kept confidential by city officials for about a year until a Minnesota Star Tribune public-records request revealed the tenant. Power demand is expected to range from 300 to 600 MW. In Aug 2026 Google scaled the plan back from ~1.8M sq ft in four buildings to ~1.66M sq ft in three, reducing wetland and land disturbance in response to community concerns; the project has drawn a lawsuit, an organized grassroots opposition group and objections over tax subsidies and nondisclosure agreements, and the state DNR and others filed comments on the environmental review in early Sept 2026. Coordinates are the Hermantown centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.startribune.com/google-hermantown-data-center/601880694",
+        "https://www.startribune.com/google-is-behind-northeast-minnesota-data-center-thats-been-cloaked-in-secrecy/601591408",
+        "https://blandinonbroadband.org/2026/09/05/googles-proposal-for-data-enter-in-hermantown-gets-feedback-from-dnr-and-others-st-louis-county/"
+      ]
+    },
+    {
+      "id": "curated/news/tioga-county-pa-alpha-compute-313",
+      "name": "Alpha Compute gas-powered AI campus — northern Pennsylvania (county unconfirmed)",
+      "operator": "Alpha Compute",
+      "lat": 41.77417,
+      "lng": -77.25426,
+      "city": "Tioga County",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": 200,
+      "operator_type": "unknown",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Alpha Compute Corp., a small publicly listed AI-infrastructure company, announced on Aug 11, 2026 a binding term sheet to buy ~1,800 acres of Marcellus mineral, surface and pore-space rights in northern Pennsylvania for $55M and develop a greenfield, behind-the-meter data center campus fueled by on-site gas (twelve wells from two pads), with an initial 200 MW and potential expansion to 1 GW plus optional grid interconnection via nearby 115 kV lines. On Sept 10, 2026 it reported $47M of seller financing toward the purchase. The company has not named the county; Marcellus Drilling News' analysis points to Tioga County, so the pin is the Tioga County centroid (approximate). Conditional on diligence, permits, financing and definitive agreements.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR3NaX1JKLUFDMlQ2TmxKazd0UFhjb216czJuTWJIVGU1RVdxaVl6TUhkblk5c0p5X29XREtoUVB5TTRPLUdmcm1saUhOS3BZQlMwZXZBcUpoZG9pYlU3SlpCZDJQTl8xdlk5Z2N1VHdnVndleDE1YUpTZTBCV19GVUQyUnJhS3JPaER1eWRMc1hXMVRPT2pkSWpYWUd2aHZEMDNrWUZ5ZjEyWTF3ZmhOWE1VcmNTTjZIN1VLUm9OTjllaXo2VTdtbi1xWjJuUTNYa1pWeWQ1RG51SU5pdThTQjVfN25vVGdYRW9IZHFLakR0VVhRQi1EdTRsd3NjbVRoQ1ZhbGRBQXBDT03SAZACQVVfeXFMTzVranZxN1diNktRVVR5UjZReDNQWFJpaFBZNlRwQUpiWlc4ZXRYRjlZYnBOVFFiMzg2bjBrc2VVOFZGUzJMdDN",
+        "https://www.globenewswire.com/news-release/2026/08/11/3343083/0/en/alpha-compute-signs-binding-term-sheet-for-planned-200-mw-natural-gas-powered-data-center-campus-in-pennsylvania-with-potential-expansion-to-1-gw.html",
+        "https://marcellusdrilling.com/2026/08/mdn-sleuths-out-location-of-new-200-mw-pa-gas-data-center-project/"
+      ]
+    },
+    {
+      "id": "curated/news/hutto-tx-colovore-314",
+      "name": "Colovore Hutto — 2401 Innovation Blvd",
+      "operator": "Colovore",
+      "lat": 30.5488,
+      "lng": -97.5726,
+      "city": "Hutto",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 200000,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "A ~$280M, ~200,000 sq ft high-density, liquid-cooled colocation data center that California-based Colovore plans at 2401 Innovation Blvd in Hutto, TX (Williamson County, ~27 miles northeast of Austin). State TDLR filings put the construction start at Dec 1, 2026 and completion in Dec 2028. Distinct from the unidentified AI data center reported under construction elsewhere in Hutto. Capacity not disclosed.",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTElpQ2wxblRRQ0M2TndVRHRoZmxmY3BuamFzWjJZUFJ5ajJVaTkxSmpIRkQyMUtjbE15b082a25pZHktUUlWVDZOMS1EN3pZazBnM1Y5UGpLNUo1WEJEU1gwSTdNV2FMSTA0aTBfLVhVbFJnc0FrZ1FLM0ZMNm1XbU5aMVV0QQ?oc=5",
+        "https://www.yahoo.com/news/articles/massive-280m-data-center-break-200200055.html"
       ]
     }
   ]
