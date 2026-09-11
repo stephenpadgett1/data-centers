@@ -20,6 +20,18 @@
     "lat": 47.61235,
     "lng": -122.34043
   },
+  "650 south harrisburg street, harrisburg, pa": {
+    "lat": 40.25148,
+    "lng": -76.86441
+  },
+  "707 sw washington street, portland, or": {
+    "lat": 45.52117,
+    "lng": -122.67928
+  },
+  "711 north edgewood avenue, wood dale, il": {
+    "lat": 41.97572,
+    "lng": -87.96466
+  },
   "800 north 1st street, minneapolis, mn": {
     "lat": 44.99066,
     "lng": -93.27664
@@ -270,6 +282,10 @@
     "lat": 37.386,
     "lng": -77.57851
   },
+  "cheyenne, laramie county, wy": {
+    "lat": 41.13998,
+    "lng": -104.82025
+  },
   "childress, tx": {
     "lat": 34.51966,
     "lng": -100.20677
@@ -346,6 +362,7 @@
     "lat": 36.58799,
     "lng": -79.39167
   },
+  "dauphin highlands golf course, harrisburg, pa": null,
   "davis, wv": {
     "lat": 39.12873,
     "lng": -79.46476
@@ -826,6 +843,10 @@
     "lat": 43.49086,
     "lng": -85.44393
   },
+  "moss bluff, calcasieu parish, la": {
+    "lat": 30.30379,
+    "lng": -93.2075
+  },
   "mount shasta, ca": {
     "lat": 41.4092,
     "lng": -122.19486
@@ -950,6 +971,10 @@
     "lat": 35.642,
     "lng": -97.74643
   },
+  "pierce township, clermont county, oh": {
+    "lat": 39.02022,
+    "lng": -84.26261
+  },
   "piketon, oh": {
     "lat": 39.06813,
     "lng": -83.01434
@@ -1025,6 +1050,10 @@
   "rincon, ga": {
     "lat": 32.29603,
     "lng": -81.23539
+  },
+  "rio hondo, cameron county, tx": {
+    "lat": 26.23535,
+    "lng": -97.58193
   },
   "riverbank, ca": {
     "lat": 37.73604,
@@ -1114,6 +1143,10 @@
     "lat": 37.24863,
     "lng": -98.42063
   },
+  "shippingport, beaver county, pa": {
+    "lat": 40.63201,
+    "lng": -80.41395
+  },
   "shively, ky": {
     "lat": 38.20007,
     "lng": -85.82274
@@ -1178,6 +1211,11 @@
     "lat": 38.98873,
     "lng": -78.36228
   },
+  "swatara township, dauphin county, pa": {
+    "lat": 40.23858,
+    "lng": -76.81275
+  },
+  "switchgrass industrial park, laramie county, wy": null,
   "tahoe reno industrial center, nv": {
     "lat": 39.55602,
     "lng": -119.49028

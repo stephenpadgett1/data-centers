@@ -3852,7 +3852,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center. The Effingham County IDA finalized a 50%, 15-year property-tax abatement on July 21, 2026 (reported publicly in late July); the project next enters the state evaluation process. On Aug 27, 2026 the Georgia PSC let Georgia Power's contract with OpenAI take effect without a public vote after commission staff declined to object: up to 3,200 MW delivered in phases 2028–2032, OpenAI paying the full cost of the new infrastructure, up to 1,000 MW of curtailable demand response, and safeguards Georgia Power calls the 'strictest contract in data center history' (critics note the contract itself remains confidential). County public meetings on Aug 26 and 29 drew packed crowds.",
+      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center. The Effingham County IDA finalized a 50%, 15-year property-tax abatement on July 21, 2026 (reported publicly in late July); the project next enters the state evaluation process. On Aug 27, 2026 the Georgia PSC let Georgia Power's contract with OpenAI take effect without a public vote after commission staff declined to object: up to 3,200 MW delivered in phases 2028–2032, OpenAI paying the full cost of the new infrastructure, up to 1,000 MW of curtailable demand response, and safeguards Georgia Power calls the 'strictest contract in data center history' (critics note the contract itself remains confidential). County public meetings on Aug 26 and 29 drew packed crowds, and on Aug 28 Sen. Raphael Warnock called for a statewide data center moratorium in response to the approval.",
       "website": null,
       "sources": [
         "https://www.gpb.org/news/2026/07/22/openai-plans-build-20b-data-center-campus-in-effingham-county-it-could-be-georgias",
@@ -3860,6 +3860,7 @@
         "https://www.effinghamherald.net/local/openai-plans-20b-data-center-in-effingham-county-rincon-georgia/",
         "https://www.wtoc.com/2026/07/30/records-show-effingham-county-leaders-finalized-massive-tax-break-20b-openai-data-center-day-before-public-announcement/",
         "https://www.ajc.com/business/2026/08/georgia-power-deal-to-power-openai-data-center-near-savannah-is-approved/",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFpkTjdrdV9KMGVYU191Y093ZzRzY3p4X1Z2YW1IVmxzdFB6Q3ZnZUV4NjRXQW93S19xc2RtZmp1RldHbzdHRUtHYkc2TXVxUUFqYXJUNW5UVkZqdmdBaVhwajROWDBFNDhRQVBmQWNvZll3dnhYUHZxNHdHZDNJRHAxV293bDBUSWdQdzNjLUhuckdSY3h6U2NjQ25XMm56ZnU2ZldiWXE1M3ItUktxTVFPVVRBN015bFBmaXBJdnBvQWhiaFZQMy13ODVCc290Z3d4bm16aFZtUQ?oc=5",
         "https://thecurrentga.org/2026/08/27/psc-boosts-safeguards-in-georgia-powers-massive-contract-with-openai/"
       ]
     },
@@ -5519,15 +5520,16 @@
       "city": "Bethlehem",
       "state": "PA",
       "status": "planned",
-      "capacity_mw": null,
+      "capacity_mw": 120,
       "operator_type": "unknown",
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A two-story data center with a ~65,000 sq ft footprint proposed at 2184 Industrial Drive, a six-acre former Crowder Service Center site in the LVIP industrial park off Route 22 in Bethlehem. The development group pairs Lehigh Valley firms Boyle Construction and Paxos with Newark, DE data-center developer Tensor IQ, which touts the 'double-decker' design. Advanced by the city planning commission in late Aug 2026; a Bethlehem City Council public hearing is set for Oct 6, 2026, with planning/zoning, engineering, water/sewer and Lehigh Valley Planning Commission reviews to follow. Coordinates approximate (Bethlehem centroid).",
+      "summary": "A two-story, ~120 MW data center with a ~65,000 sq ft footprint proposed at 2184 Industrial Drive, a six-acre former Crowder Service Center site in the LVIP I industrial park adjacent to Route 22 in Bethlehem, using closed-loop cooling. The development group pairs Lehigh Valley firms Boyle Construction and Paxos with Newark, DE data-center developer Tensor IQ, which touts the 'double-decker' design. Advanced by the city planning commission in late Aug 2026; a Bethlehem City Council public hearing is set for Oct 6, 2026, with planning/zoning, engineering, water/sewer and Lehigh Valley Planning Commission reviews to follow. In Sept 2026 West Bethlehem residents raised concerns about power and water demand, utility costs, waterways and air quality. Coordinates approximate (Bethlehem centroid).",
       "website": null,
       "sources": [
-        "https://www.wfmz.com/business/developers-tout-industry-changing-double-decker-data-center-proposed-for-bethlehem/article_a646309b-3fc4-46e0-b374-fd4149a305c1.html"
+        "https://www.wfmz.com/business/developers-tout-industry-changing-double-decker-data-center-proposed-for-bethlehem/article_a646309b-3fc4-46e0-b374-fd4149a305c1.html",
+        "https://thebrownandwhite.com/2026/09/10/bethlehem-residents-voice-concerns-over-proposed-route-22-data-center/"
       ]
     },
     {
@@ -6405,6 +6407,184 @@
       "sources": [
         "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTElpQ2wxblRRQ0M2TndVRHRoZmxmY3BuamFzWjJZUFJ5ajJVaTkxSmpIRkQyMUtjbE15b082a25pZHktUUlWVDZOMS1EN3pZazBnM1Y5UGpLNUo1WEJEU1gwSTdNV2FMSTA0aTBfLVhVbFJnc0FrZ1FLM0ZMNm1XbU5aMVV0QQ?oc=5",
         "https://www.yahoo.com/news/articles/massive-280m-data-center-break-200200055.html"
+      ]
+    },
+    {
+      "id": "curated/news/rio-hondo-tx-fluidstack-315",
+      "name": "Fluidstack $4B AI data center campus — Cameron County (Harlingen / Rio Hondo)",
+      "operator": "Fluidstack",
+      "lat": 26.23535,
+      "lng": -97.58193,
+      "city": "Rio Hondo",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "A ~$4B AI data center campus by New York-based AI-cloud firm Fluidstack on 1,100+ acres in unincorporated Cameron County, east of Harlingen's Valley International Airport and west of the Port of Harlingen near Rio Hondo. Site work began / groundbreaking was reported Sept 10-11, 2026 after a county site-work permit; phase one is targeted for mid-2028. The company promises 2,500+ construction jobs and several hundred permanent jobs, closed-loop water cooling, and says it will pay for its own energy and infrastructure with no local tax abatements or county incentives, in line with Gov. Abbott / ERCOT / PUCT directives and the Cameron County data-center resolution. Distinct from the separate unnamed Brownsville permit. Capacity not disclosed. Coordinates are the Rio Hondo centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkdLRWU4N1VWRWlGMXEtY2lrekp3dlU0UmRGOElRMEZIeUVIYXNNNGRaMFdMUW93MFRTOHN2VEtVLTZqeE9BMWM1Rzl1OWlSMGV3V1RiSFdMUUt3U3h1TkFtdnB3NnplTUNLR2lBZU5nMTNtT3FDdTA0MDZ6WDkwc1hHNXNRUUN6dXZaZVRJUnVuRmptTS1ZLUY0VnhzLVI1VVl3?oc=5",
+        "https://www.krgv.com/news/fluidstack-breaks-ground-on-4-billion-data-center-campus-in-cameron-county/",
+        "https://www.rgvbusinessjournal.com/news/10/09/2026/fluidstack-4-billion-ai-data-center-cameron-county/",
+        "https://www.valleycentral.com/news/local-news/fluidstack-begins-4-billion-data-center-construction-in-cameron-county/"
+      ]
+    },
+    {
+      "id": "curated/news/pierce-township-oh-crane-316",
+      "name": "Crane Data Centers 300 MW proposal — Pierce Township (near former Beckjord plant)",
+      "operator": "Crane Data Centers",
+      "lat": 39.02022,
+      "lng": -84.26261,
+      "city": "Pierce Township",
+      "state": "OH",
+      "status": "unknown",
+      "capacity_mw": 300,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "San Francisco-based Crane Data Centers pitched a 300 MW campus — three 200,000-300,000 sq ft buildings on ~300 acres of wooded hillside across the street from the closed Walter C. Beckjord coal plant — to the Pierce Township (Clermont County) Zoning Commission in early Sept 2026, despite a township data-center moratorium. On Sept 9-10, 2026 the trustees extended the moratorium through May 31, 2027 and the board president said the township is 'not considering a data center at any site', so no zoning permit can be issued; status set to unknown unless the proposal is revived. Coordinates are the township centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYWxJdGZ1LU5lXzZiekZmMVRNZFhRdjV3TXZsY3FtbDAzNUNJMndjLTlKZXpmbjJRQzk4bGZJUUpmNWpZUlRCZWNvMHZpVGc2YTdFU3NwWVJLN1NqSFc3QVI3emFYeWhwcTNyOGVaM3hJdzQ0b0g2Z2R0cmxVWFZmMlhtVlRCZDRCY1d4UmNQZDdKci1CN2REV1FOUkZ6RkxUekNqUV96VFR4ZlJUU1JYc084LTJZV3pmNjBVRWozck8?oc=5",
+        "https://www.wcpo.com/news/local-news/i-team/300mw-data-center-proposed-for-pierce-township-near-beckjord-despite-moratorium",
+        "https://www.wvxu.org/local-news/2026-09-09/pierce-township-data-center-moratorium-surprise-pitch",
+        "https://www.fox19.com/2026/09/10/pierce-township-trustees-rule-out-data-center-extend-zoning-moratorium/"
+      ]
+    },
+    {
+      "id": "curated/news/moss-bluff-la-azimuth-317",
+      "name": "Azimuth Renewables exploratory data center site — north of Moss Bluff",
+      "operator": "Azimuth Renewables",
+      "lat": 30.30379,
+      "lng": -93.2075,
+      "city": "Moss Bluff",
+      "state": "LA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Azimuth Renewables holds an option on 1,100+ acres north of Moss Bluff in Calcasieu Parish (north of Coffey Road, between Paul White and North Perkins Ferry roads) and is evaluating a data center there; on Sept 10, 2026 the company said it is still in the exploration stage with no final decision, and that any facilities would occupy only a fraction of the land. The property is zoned agricultural (a variance or rezoning would be needed) and the parish has no ordinance defining a data center, which would have to be adopted before one could be permitted. Residents have raised noise, traffic, water, power and property-value concerns. Coordinates are the Moss Bluff centroid (approximate; the site lies north of the community).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHJqMlBaUXEyZWhLclp5ajVVR19zanhSQW9ta3VxUlFNdVZuLUdDb0I4SDF1cmszeEdER0FpUXFXS3daVDRFMkw2TWtjcVl1RGxZY1diUy1GQkhxQnB2bmRWd0hCdi15cXpJZ010N1F2YXhMbWV4TkhDaVdFRG9tLWVleHdDRm1oQ3dBNWdLRGktN3dEMHlJcE10Q2s4STc1cU1Sd0hnOGszeFotalHSAcIBQVVfeXFMUFlxMFFWOENkM1R6REEyVWxNVkVDZHRhbVdhQnVKTzVOSjIyN0NLR0RvZm1aa1N0aGVONFRTLTlvay1UQ3YtSjJieC1MSy1aekRIWHhrYXREZkdxb1lxcS1aM09fTDFqZTlyYUpQOU1UazVZRFpONEkzZ0x2T1lYRWFrd1NZS1RhOFdRSmhGQjRNSGc3WkVWZEZVZDE3ZzdjdkVHaDF",
+        "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/",
+        "https://www.theadvocate.com/lake_charles/is-a-data-center-coming-to-moss-bluff-here-s-what-we-know/article_ad6f97c0-ed97-4609-99a5-eac05731915e.html"
+      ]
+    },
+    {
+      "id": "curated/news/swatara-township-pa-corscale-319",
+      "name": "Corscale Data Centers ~157-acre campus — Highland Street, Swatara Township",
+      "operator": "Corscale Data Centers",
+      "lat": 40.23858,
+      "lng": -76.81275,
+      "city": "Swatara Township",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Texas-based hyperscale developer Corscale Data Centers presented a 121-page development plan in Sept 2026 for a ~$10B, ~157-acre data center campus along Highland Street in Swatara Township (Dauphin County), in a field less than two miles from the Dauphin Highlands golf course site that Provident Realty is separately converting to a data center. The plan calls for two one-story data center buildings with closed-loop cooling (~7,500 gallons of water) and a company-funded substation and switch station. Early-stage; capacity not disclosed. Coordinates are the township centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.fox43.com/article/life/announcements/developer-introduces-plans-to-build-10-billion-data-center-project-in-swatara-township/521-407caab8-89bd-4d5f-9643-c498da650751"
+      ]
+    },
+    {
+      "id": "curated/news/shippingport-pa-aligned-phoenix-320",
+      "name": "Aligned 'Project Phoenix' 2 GW campus — former Bruce Mansfield plant, Shippingport",
+      "operator": "Aligned Data Centers / Frontier Group of Companies",
+      "lat": 40.63201,
+      "lng": -80.41395,
+      "city": "Shippingport",
+      "state": "PA",
+      "status": "under_construction",
+      "capacity_mw": 2000,
+      "operator_type": "colocation",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "high",
+      "summary": "Aligned Data Centers' 'Project Phoenix' — a ~$10B, 2 GW hyperscale AI / high-performance-computing campus on the 660-acre former Bruce Mansfield coal plant site (2.49 GW, decommissioned 2019) in Shippingport, Beaver County, developed with site owner Frontier Group of Companies. Three data center buildings of 600,000+ sq ft each, co-located with a planned 3.6 GW natural-gas power station supplying behind-the-meter power. Groundbreaking was announced Sept 10, 2026, following a Sept 9 community event; ~3,000 construction jobs and ~640 permanent positions are projected. Distinct from the separate unnamed Midland Borough proposal a few miles west. Coordinates are the Shippingport centroid (approximate; the plant site is adjacent).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0pvdS1CdHpnanlnY0xKRkJfY0t2UUxpZmNZQUhqMUZpZ2xjTUY1azc3Y1lHZERUem1DLTh3ZGFmWURDeDV4T2tWcUhaQ2Z2SG5VYk9mY0JwcUtiMjRoakpTQlQ4VXJGZDhZbFZxeVNfVTEwUEVpVlIyU0ZudXJBdDdVdzlxR1lNNXByNjk2Y290TUJHajBHTzBrY3MzellZNUJ5WUhpOGZ4dVVPZWwxS0ZJcVVfcHlMTnh4MVhNa1pUV3BydFBR0gHbAUFVX3lxTE4yYjB0RFhLclh1OUEwR0FnWjU4b3dGbVU0dWdTbnFZQkU5c2l4Rm9jUmROQ1I5Szgtc05PQU8ycWFyY1hJVGN6ZFBQWTV5MHZOMGxRWVhMY3VhRkt1eTlQdzE0dmhnNl9iaDVST042TGM4bF92WXBqblpBbGlJSllJbmJSeGhOMmwycWN",
+        "https://www.globenewswire.com/news-release/2026/09/10/3359602/0/en/aligned-data-centers-and-shippingport-community-mark-revitalization-of-legacy-energy-site-with-groundbreaking-of-2-gw-project-phoenix-campus.html",
+        "https://www.datacenterdynamics.com/en/news/shippingport-industrial-park/",
+        "https://www.wpxi.com/news/local/why-beaver-countys-momentum-keeps-rolling/V4WCTPF5EBHE3M62LHCEDNHADA/"
+      ]
+    },
+    {
+      "id": "curated/news/laramie-county-wy-google-tembo-321",
+      "name": "Google 'Project Tembo' (formerly Project Jade) — Switchgrass Industrial Park, south of Cheyenne",
+      "operator": "Google",
+      "lat": 41.13998,
+      "lng": -104.82025,
+      "city": "Cheyenne",
+      "state": "WY",
+      "status": "planned",
+      "capacity_mw": 2700,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Google's $17B+ 'Project Tembo' — a 716-acre data center campus in the Switchgrass Industrial Park along U.S. Highway 85 about 8 miles south of Cheyenne in unincorporated Laramie County, on former seasonal cattle-grazing land. Originally 'Project Jade' led by Crusoe; Google was revealed as the owner/operator in July 2026 and has since taken the lead, renaming the project. Plans outlined to the county on Sept 9-10, 2026 call for four data center buildings, two core network buildings, a logistics center, evaporative wastewater lagoons and a two-story Google office building (approved by the county in Sept 2026), with 2.7 GW of compute capacity powered by an on-site natural-gas generation hub; full operation is targeted by the end of 2031. Some reports cite a $50B total investment. Coordinates are the Cheyenne centroid (approximate; the site is ~8 miles south).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQkxzTzJINEp5QzJ5VEM1VnRRU3l4X1NWSnhiN0piSnI5NHdDY2tqWHh0YUJON2FxU1U0bTUySUpoaHp5cHQwVnEyT0JCa19qUmJpb3R6eDJrSEI1N3ptdEVOOWVmdG1xMnkzdHl0TDlmLXBha3RKVVJCXzByQ2I4SXhsblhJNTVKc0dqejFiT0VkWEktVkZoRjlNYjBYRzZrSVZfOVJnUzBlaG5jU0VsTHpoQmNVMEw0U0MyYXFHdWVhVjJOTEs3OXEyX0VvS2ZuUVMxdXUyRUlJRnJQZkVUT2hxSVNrYXoyRmJ6MHJWQ1dKWGE4OTZqUVFrVWJYVlEwTzNZ?oc=5",
+        "https://cowboystatedaily.com/2026/07/08/google-revealed-as-owner-of-wyomings-largest-data-center-now-project-tembo/",
+        "https://capcity.news/community/county-community/2026/09/10/google-stepping-in-for-crusoe-pitches-700-acre-data-center-campus-to-laramie-county-on-wednesday/",
+        "https://capcity.news/community/business/2026/09/10/google-office-building-gets-laramie-county-ok-will-support-project-tembo-data-center/",
+        "https://www.laramiecountywy.gov/Public-Notices/Project-Tembo-Data-Center"
+      ]
+    },
+    {
+      "id": "curated/news/swatara-township-pa-dauphin-highlands-318",
+      "name": "Dauphin Highlands golf course data center (Harrisburg I LLC / Provident Realty) — Swatara Township & Steelton",
+      "operator": "Harrisburg I, LLC (Provident Realty)",
+      "lat": 40.23858,
+      "lng": -76.81275,
+      "city": "Swatara Township",
+      "state": "PA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "The Dauphin Highlands golf course, straddling Swatara Township and Steelton in Dauphin County, was sold for $45.6M (reported Sept 9, 2026) to Harrisburg I, LLC — an entity formed by Dallas-based Provident Realty — which plans to redevelop it as a data center; the sale lets the county golf authority retire ~$13M of debt. No design, capacity or tenant has been disclosed. A separate Corscale campus is proposed less than two miles away on Highland Street. Coordinates are the township centroid (approximate).",
+      "website": null,
+      "sources": [
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTRTOF9GYWJqZFFDVVZWb1FfaU5LVl9lcldleDlQMUFxcDR2M0FSY1dWc3MwSlI0ODBpRkxvelJZRDVjVmd3dHgwTlhCbGtfZ2NscE1hVWdzUGZBb1BfU3I5QktSWkFjMnVhMWItbTF1YllhWFJIZVMybVd3enBZQjJhYTktV2VyLUVQb3ZGT1pPM2YzM0FpaF8yZktfSnpqVVRrLXhuX1RsSzBoSkxsZFlHZ3NOaEplckRYNlJod05rQzVL?oc=5",
+        "https://local21news.com/news/local/dauphin-county-golf-course-will-turn-into-data-center-after-456m-sale-million-dollar-purchase-steelton-swatara-township-central-dauphin-school-district-dallas-texas-dauphin-highlands-school-districit-harrisburg-i-provident-reality-private-entity-pa-"
+      ]
+    },
+    {
+      "id": "curated/news/portland-or-menlo-union-bank-tower-322",
+      "name": "Menlo Digital MD-PDX2 — Union Bank Tower conversion, downtown Portland",
+      "operator": "Menlo Digital (Menlo Equities)",
+      "lat": 45.52117,
+      "lng": -122.67928,
+      "city": "Portland",
+      "state": "OR",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "colocation",
+      "purpose": "multi_tenant",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Menlo Digital acquired the 15-story, ~185,000 sq ft Union Bank Tower at 707 SW Washington St (June 12, 2026) — a long-standing carrier hotel one block from the Pittock Block internet exchange, with 10 fiber carriers and 18 data-center tenants in its meet-me room — to expand it into 'MD-PDX2', a downtown data center paired with its MD-PDX1 building in the Brewery Blocks. On Sept 10, 2026 OregonLive reported city records showing a data center planned inside five stories of a downtown high-rise; that report most likely refers to this conversion (unconfirmed). Capacity not disclosed.",
+      "website": "https://www.menloequities.com/news/menlo-digital-acquires-union-bank-tower-expanding-downtown-portland-digital-infrastructure-platform/",
+      "sources": [
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0s4NmQ5WDJUZDhWNmdpU2lYUVNKYjdfQ0xyaW1Ka3pFZVlDVFdTSHFiNmFzTzdGNnhaQ1BNeXFtTnloOWQxUk9KdmdENzFEU3NXNUxobU9iaVJYNG45WTlTOWhDRk5qX1F1dy1CblkyR1BveXhRdU5pNUxodGwtRDNHeU1oUUs4VnJGdDJnVTBuM3dBYXNqZXgxVjQ4R3licXVuLVZZenJXaWYtSk9NVE5QdjFZSFl5aW5ncTFsaTk2ZXFpQlh5NA?oc=5",
+        "https://www.menloequities.com/news/menlo-digital-acquires-union-bank-tower-expanding-downtown-portland-digital-infrastructure-platform/",
+        "https://www.datacenterdynamics.com/en/news/portlands-union-bank-tower-to-be-sold-for-conversion-to-a-data-center/"
       ]
     }
   ]
