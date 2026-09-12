@@ -4635,16 +4635,18 @@
       "lng": -93.27664,
       "city": "Minneapolis",
       "state": "MN",
-      "status": "planned",
+      "status": "unknown",
       "capacity_mw": 20,
       "area_sqft": 500000,
       "operator_type": "colocation",
       "purpose": "speculative",
       "workload": "general",
       "confidence": "medium",
-      "summary": "Arlington, VA-based Legacy Investing signed a purchase agreement in July 2026 to buy the Minnesota Star Tribune's shuttered Heritage printing plant at 800 N 1st St in the North Loop of downtown Minneapolis — a 1986-built, 500,000+ sq ft plant on 13 acres just west of the Mississippi — and convert it into a roughly 20 MW data center anchoring a larger mixed-use redevelopment that may also include housing and retail. The sale is expected to close in Q4 2026. No tenant announced.",
+      "summary": "WITHDRAWN (Sept 11, 2026): Arlington, VA-based Legacy Investing terminated its purchase agreement and withdrew its conditional-use-permit application for a roughly 20 MW data center in the Minnesota Star Tribune's shuttered Heritage printing plant at 800 N 1st St in the North Loop of downtown Minneapolis — a 1986-built, 500,000+ sq ft plant on 13 acres just west of the Mississippi. The July 2026 deal had envisioned the data center anchoring a larger mixed-use redevelopment; it collapsed after hundreds of North Loop residents opposed it at neighborhood forums and the city council passed a six-month moratorium on data centers over 350,000 sq ft. The Star Tribune still owns the plant and says it will pursue other uses. No tenant was ever announced.",
       "website": null,
       "sources": [
+        "https://www.mprnews.org/story/2026/09/11/developer-legacy-investing-withdraws-proposed-star-tribune-data-center",
+        "https://www.startribune.com/data-center-developer-legacy-investing-star-tribune-printing-plant-deal-backing-out/601888372",
         "https://www.datacenterdynamics.com/en/news/legacy-investing-buys-printing-press-in-minneapolis-minnesota-for-data-center-development/",
         "https://www.startribune.com/data-center-developer-signs-deal-to-buy-minnesota-star-tribunes-shuttered-north-loop-printing-plant/601872895",
         "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
@@ -5206,11 +5208,13 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "A ~300 MW AI data center campus in Vineland, New Jersey developed by DataOne for AI-cloud provider Nebius, supporting Nebius's ~$17B capacity deal with Microsoft. Phase 1 is under construction, and on Aug 17, 2026 the city Planning Board approved a ~600,000 sq ft Phase 2 expansion toward a planned ~2.6M sq ft total, after contentious hearings over noise, water use and emissions. The site plan relies on on-site Bloom Energy fuel cells fed by an existing gas pipeline, with a 1.5M-gallon LNG backup tank. Coordinates approximate (Vineland).",
+      "summary": "A ~300 MW AI data center campus in Vineland, New Jersey developed by DataOne for AI-cloud provider Nebius, supporting Nebius's ~$17B capacity deal with Microsoft. Phase 1 is under construction, and on Aug 17, 2026 the city Planning Board approved a ~600,000 sq ft Phase 2 expansion toward a planned ~2.6M sq ft total, after contentious hearings over noise, water use and emissions. The site plan relies on on-site Bloom Energy fuel cells fed by an existing gas pipeline, with a 1.5M-gallon LNG backup tank. In late Aug 2026 a Floodlight investigation using thermal drone footage found at least 45 of 62 tractor-trailer-sized gas generators running at the partly built site; NJ DEP confirmed no generator permits had been issued or applied for. DataOne withdrew its generator application and says it will rely on ~300 MW of Bloom fuel cells instead. Coordinates approximate (Vineland).",
       "website": null,
       "sources": [
         "https://whyy.org/articles/vineland-planning-board-approves-data-center-plan/",
-        "https://www.nbcphiladelphia.com/news/local/vineland-planning-board-votes-to-approve-phase-2-of-controversial-data-center/4449653/"
+        "https://www.nbcphiladelphia.com/news/local/vineland-planning-board-votes-to-approve-phase-2-of-controversial-data-center/4449653/",
+        "https://floodlightnews.org/new-jersey-data-center-federal-violation/",
+        "https://www.yahoo.com/news/us/articles/jerseys-largest-planned-ai-data-014900334.html"
       ]
     },
     {
@@ -6585,6 +6589,50 @@
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0s4NmQ5WDJUZDhWNmdpU2lYUVNKYjdfQ0xyaW1Ka3pFZVlDVFdTSHFiNmFzTzdGNnhaQ1BNeXFtTnloOWQxUk9KdmdENzFEU3NXNUxobU9iaVJYNG45WTlTOWhDRk5qX1F1dy1CblkyR1BveXhRdU5pNUxodGwtRDNHeU1oUUs4VnJGdDJnVTBuM3dBYXNqZXgxVjQ4R3licXVuLVZZenJXaWYtSk9NVE5QdjFZSFl5aW5ncTFsaTk2ZXFpQlh5NA?oc=5",
         "https://www.menloequities.com/news/menlo-digital-acquires-union-bank-tower-expanding-downtown-portland-digital-infrastructure-platform/",
         "https://www.datacenterdynamics.com/en/news/portlands-union-bank-tower-to-be-sold-for-conversion-to-a-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/harmony-mn-geronimo-323",
+      "name": "Proposed data center — Harmony (Fillmore County), Geronimo Power exploratory site",
+      "operator": "Geronimo Power (exploratory)",
+      "lat": 43.55519,
+      "lng": -92.01018,
+      "city": "Harmony",
+      "state": "MN",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "The city of Harmony (pop. ~1,000) in Fillmore County, southeastern Minnesota, annexed 60 acres north of town on County Road 22, next to the Dairyland Power service center, as a possible data center site, and in Aug-Sept 2026 is drafting a data-center ordinance (a 60,000 gal/month water cap, berms/sound barriers, no expansion without city approval) after 40+ written public comments. Minnesota-based Geronimo Power says it is working with Harmony Township stakeholders on a potential data center powered by new generation (renewables, storage and/or gas); no formal project, developer or size has been filed. Coordinates are the city center (approximate).",
+      "website": "https://harmonymn.gov/eda/ongoing-projects/harmony-eda-project-data-center/",
+      "sources": [
+        "https://www.kttc.com/2026/08/27/harmony-city-leaders-face-flood-feedback-over-proposed-data-center/",
+        "https://rootrivercurrent.org/harmony-minnesota-annexs-land-for-possible-data-center/",
+        "https://blandinonbroadband.org/2026/09/04/local-harmony-residents-want-the-city-to-slow-data-center-regulation-decisions/"
+      ]
+    },
+    {
+      "id": "curated/news/ascension-parish-la-one-nuclear-cayman-324",
+      "name": "ONE Nuclear 'Project Cayman' co-located data center campus — near RiverPlex MegaPark, Ascension Parish",
+      "operator": "ONE Nuclear Energy",
+      "lat": 30.10519,
+      "lng": -90.98759,
+      "city": "Donaldsonville",
+      "state": "LA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "On Aug 31, 2026 ONE Nuclear Energy (merging with SPAC Hennessy Capital Investment Corp. VII) signed a binding LOI with a Louisiana landowner group for site control of 'Project Cayman': a 2.88 GW natural-gas plant plus a 700 MW / 2.88 GWh battery system with a co-located 'high-capacity' data center campus near the 17,000-acre RiverPlex MegaPark on the west bank of the Mississippi in Ascension Parish. No data-center tenant, developer, IT capacity or timeline has been disclosed; parish public meetings are planned Sept-Dec 2026. Primarily a power project at this stage. Coordinates are Donaldsonville, the nearest town (approximate).",
+      "website": "https://www.businesswire.com/news/home/20260831090268/en/ONE-Nuclear-Executes-Binding-LOI-for-Project-Cayman-a-2.88-GW-Louisiana-Energy-Project-with-Co-Located-Data-Center-Campus",
+      "sources": [
+        "https://www.businesswire.com/news/home/20260831090268/en/ONE-Nuclear-Executes-Binding-LOI-for-Project-Cayman-a-2.88-GW-Louisiana-Energy-Project-with-Co-Located-Data-Center-Campus",
+        "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/",
+        "https://www.datacenterdynamics.com/en/news/one-nuclear-inks-binding-loi-to-develop-288gw-gas-plant-and-bess-to-power-data-center-in-louisiana/"
       ]
     }
   ]

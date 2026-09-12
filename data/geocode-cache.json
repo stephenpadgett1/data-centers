@@ -383,6 +383,10 @@
     "lat": 39.2201,
     "lng": -77.42415
   },
+  "donaldsonville, ascension parish, la": {
+    "lat": 30.10519,
+    "lng": -90.98759
+  },
   "dowagiac, mi": {
     "lat": 41.98247,
     "lng": -86.10888
@@ -546,6 +550,10 @@
   "hanford, ca": {
     "lat": 36.3278,
     "lng": -119.64616
+  },
+  "harmony, fillmore county, mn": {
+    "lat": 43.55519,
+    "lng": -92.01018
   },
   "haskell, tx": {
     "lat": 33.15422,
@@ -1059,6 +1067,7 @@
     "lat": 37.73604,
     "lng": -120.93549
   },
+  "riverplex megapark, ascension parish, la": null,
   "rochester hills, mi": {
     "lat": 42.65837,
     "lng": -83.14993
