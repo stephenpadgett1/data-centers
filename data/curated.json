@@ -6634,6 +6634,28 @@
         "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/",
         "https://www.datacenterdynamics.com/en/news/one-nuclear-inks-binding-loi-to-develop-288gw-gas-plant-and-bess-to-power-data-center-in-louisiana/"
       ]
+    },
+    {
+      "id": "curated/news/kingston-ga-thor-equities-325",
+      "name": "Thor Equities 'Kingston Technology Hub' — Kingston (Bartow County)",
+      "operator": "Thor Equities",
+      "lat": 34.23672,
+      "lng": -84.94503,
+      "city": "Kingston",
+      "state": "GA",
+      "status": "planned",
+      "capacity_mw": 150,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "Thor Equities filed a Development of Regional Impact application with the Georgia Department of Community Affairs on Sept 4, 2026 for the 'Kingston Technology Hub': a ~350,000 sq ft data center on roughly 560 acres near Kingston in Bartow County, ~60 miles north of Atlanta. Estimated at $1B with 150 MW served by the Municipal Electric Authority of Georgia, ~50,000 gallons/day of water and 50 full-time jobs, targeting completion in 2030. Still requires a Bartow County rezoning of 559 acres; no tenant announced. A separate Bartow County project from DataBank's Cartersville 'Project Indo'.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/thor-equities-submits-plans-for-150mw-data-center-in-georgia-us/",
+        "https://www.bisnow.com/news/atlanta/deal-sheet/thor-equities-targeting-north-georgia-for-1b-data-center-the-atlanta-deal-sheet",
+        "https://www.thecentersquare.com/georgia/article_dfc0c447-8a39-4c6a-b3c4-3c11fe20e2e6.html"
+      ]
     }
   ]
 }
