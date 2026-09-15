@@ -407,6 +407,10 @@
     "lat": 35.99665,
     "lng": -78.90181
   },
+  "eagle mountain, utah county, ut": {
+    "lat": 40.30935,
+    "lng": -112.01198
+  },
   "eastern iowa airport, cedar rapids, ia": {
     "lat": 41.8853,
     "lng": -91.71472
@@ -527,6 +531,10 @@
     "lat": 42.96324,
     "lng": -85.66786
   },
+  "grant county, nm": {
+    "lat": 32.75488,
+    "lng": -108.36341
+  },
   "grayslake, il": {
     "lat": 42.34335,
     "lng": -88.04122
@@ -538,6 +546,10 @@
   "greenfield, in": {
     "lat": 39.78551,
     "lng": -85.7682
+  },
+  "hachita, grant county, nm": {
+    "lat": 31.91686,
+    "lng": -108.32296
   },
   "hallam, ne": {
     "lat": 40.53778,
@@ -639,6 +651,10 @@
     "lat": 38.35269,
     "lng": -120.93272
   },
+  "jacinto city, harris county, tx": {
+    "lat": 29.76734,
+    "lng": -95.23367
+  },
   "jenkins, ky": {
     "lat": 37.17344,
     "lng": -82.63099
@@ -674,6 +690,10 @@
   "kiowa, pittsburg county, ok": {
     "lat": 34.72065,
     "lng": -95.89916
+  },
+  "kuna, ada county, id": {
+    "lat": 43.49183,
+    "lng": -116.42012
   },
   "la porte, in": {
     "lat": 41.6106,
@@ -1245,6 +1265,10 @@
     "lat": 39.54875,
     "lng": -89.29415
   },
+  "temple, bell county, tx": {
+    "lat": 31.09837,
+    "lng": -97.34296
+  },
   "temple, tx": {
     "lat": 31.09837,
     "lng": -97.34296
@@ -1324,6 +1348,10 @@
   "walla walla county, wa": {
     "lat": 46.20552,
     "lng": -118.51743
+  },
+  "walnut cove, stokes county, nc": {
+    "lat": 36.29541,
+    "lng": -80.14171
   },
   "west columbia, mason county, wv": {
     "lat": 38.98313,

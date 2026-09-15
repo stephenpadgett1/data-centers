@@ -42,7 +42,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish, powered by Meta-funded gas plants plus committed renewables, transmission and storage, supported by a ~7.5 GW Entergy Louisiana utility expansion. On July 13, 2026 Meta confirmed the full 5 GW build-out and lifted planned investment above $50B (up from an original ~$10B); it expects ~2 GW by 2030 and the full 5 GW around 2032. Construction began in earnest in early 2026 with more than $1.6B in contracts to Louisiana businesses so far; in May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment. In August 2026 Meta was before the Louisiana PSC seeking to keep project records confidential, as environmental and consumer groups pressed for firmer figures ahead of approval of Entergy's supporting power build-out. Mid-August 2026 reporting (Bloomberg-sourced) put Hyperion's eventual all-in cost at as much as ~$250B, though Meta has publicly confirmed only the >$50B figure; the ~10M sq ft campus is expected to support ~1,000 permanent on-site jobs at full build-out versus 5,000+ trade workers at peak construction, with first capacity online in 2028 and build-out continuing into the 2030s.",
+      "summary": "Meta's largest data center ever — a ~4,000-acre AI campus in rural Richland Parish, powered by Meta-funded gas plants plus committed renewables, transmission and storage, supported by a ~7.5 GW Entergy Louisiana utility expansion. On July 13, 2026 Meta confirmed the full 5 GW build-out and lifted planned investment above $50B (up from an original ~$10B); it expects ~2 GW by 2030 and the full 5 GW around 2032. Construction began in earnest in early 2026 with more than $1.6B in contracts to Louisiana businesses so far; in May 2026 Louisiana granted ~$3.3B in 20-year sales-tax exemptions on data center equipment. In August 2026 Meta was before the Louisiana PSC seeking to keep project records confidential, as environmental and consumer groups pressed for firmer figures ahead of approval of Entergy's supporting power build-out. Mid-August 2026 reporting (Bloomberg-sourced) put Hyperion's eventual all-in cost at as much as ~$250B, though Meta has publicly confirmed only the >$50B figure; the ~10M sq ft campus is expected to support ~1,000 permanent on-site jobs at full build-out versus 5,000+ trade workers at peak construction, with first capacity online in 2028 and build-out continuing into the 2030s. As of mid-September 2026 Phase I of Entergy's supporting power build-out is approved while the Phase II package remains under review at the Louisiana PSC; the financing arrangement also drew a request from Earthjustice that regulators investigate whether households could end up subsidizing the campus's electricity.",
       "website": "https://datacenters.atmeta.com/richland-parish-data-center/",
       "sources": [
         "https://en.wikipedia.org/wiki/Hyperion_(data_center)",
@@ -1819,8 +1819,8 @@
     },
     {
       "id": "curated/news/prichard-al-105",
-      "name": "Proposed data center — Prichard",
-      "operator": null,
+      "name": "Edged Energy data center — Prichard (Telegraph Road)",
+      "operator": "Edged Energy",
       "lat": 30.7388,
       "lng": -88.07889,
       "city": "Prichard",
@@ -1831,10 +1831,12 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A data center proposed in Prichard, Alabama (near Mobile), drawing mixed reactions from residents in mid-2026. Operator and scale not yet confirmed. Coordinates approximate.",
+      "summary": "A data center proposed by Edged Energy on Telegraph Road in Prichard, Alabama (near Mobile), which drew mixed reactions from residents in mid-2026 and has since stalled. Prichard issued a building permit, then the city council passed a moratorium on new data centers — acknowledged as not applying to this project, since the developer had already applied — and in September 2026 Edged's lawyer sent the council president a letter threatening litigation if the city tries to block the permit, disputing that Planning Commission site-plan review was required and noting the city code is not published online. On Sept 10, 2026 the council met for more than two hours in closed session and voted unanimously to refer the matter to its council attorney. Permitted but contested and unbuilt; scale and capacity unconfirmed. Coordinates approximate.",
       "website": null,
       "sources": [
-        "https://www.fox10tv.com/"
+        "https://www.fox10tv.com/2026/09/11/developer-proposed-data-center-threatens-prichard-with-litigation/",
+        "https://www.fox10tv.com/2026/06/01/proposed-data-center-prichard-draws-mixed-reactions/",
+        "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/"
       ]
     },
     {
@@ -3852,7 +3854,7 @@
       "purpose": "purpose_built",
       "workload": "ai",
       "confidence": "high",
-      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center. The Effingham County IDA finalized a 50%, 15-year property-tax abatement on July 21, 2026 (reported publicly in late July); the project next enters the state evaluation process. On Aug 27, 2026 the Georgia PSC let Georgia Power's contract with OpenAI take effect without a public vote after commission staff declined to object: up to 3,200 MW delivered in phases 2028–2032, OpenAI paying the full cost of the new infrastructure, up to 1,000 MW of curtailable demand response, and safeguards Georgia Power calls the 'strictest contract in data center history' (critics note the contract itself remains confidential). County public meetings on Aug 26 and 29 drew packed crowds, and on Aug 28 Sen. Raphael Warnock called for a statewide data center moratorium in response to the approval.",
+      "summary": "OpenAI's privately funded $20B 'Project Camellia' — a four-building, ~1,400-acre AI data center campus at the Savannah Gateway Industrial Hub just outside Rincon in Effingham County, near Savannah. Announced July 22, 2026 as the first data center OpenAI will design and build itself (outside the Stargate partnerships); Georgia Power will deliver ~3.2 GW in phases from 2028 to 2032. Permanent employment is expected to start around 400 and grow toward 1,000. Potentially Georgia's largest data center. The Effingham County IDA finalized a 50%, 15-year property-tax abatement on July 21, 2026 (reported publicly in late July); the project next enters the state evaluation process. On Aug 27, 2026 the Georgia PSC let Georgia Power's contract with OpenAI take effect without a public vote after commission staff declined to object: up to 3,200 MW delivered in phases 2028–2032, OpenAI paying the full cost of the new infrastructure, up to 1,000 MW of curtailable demand response, and safeguards Georgia Power calls the 'strictest contract in data center history' (critics note the contract itself remains confidential). County public meetings on Aug 26 and 29 drew packed crowds, and on Aug 28 Sen. Raphael Warnock called for a statewide data center moratorium in response to the approval. In early September 2026 Effingham County residents sued over the zoning change tied to the project; the litigation was pending as of mid-September and has not halted the project.",
       "website": null,
       "sources": [
         "https://www.gpb.org/news/2026/07/22/openai-plans-build-20b-data-center-campus-in-effingham-county-it-could-be-georgias",
@@ -3860,6 +3862,7 @@
         "https://www.effinghamherald.net/local/openai-plans-20b-data-center-in-effingham-county-rincon-georgia/",
         "https://www.wtoc.com/2026/07/30/records-show-effingham-county-leaders-finalized-massive-tax-break-20b-openai-data-center-day-before-public-announcement/",
         "https://www.ajc.com/business/2026/08/georgia-power-deal-to-power-openai-data-center-near-savannah-is-approved/",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTQtNHJRUW9BNW85WUFjUWJKTjYwTno3VG95ZG1zSDVreGhRZGxrMWRuc2YwYXhGVkxDeXFpU1RpSS0tbWQxYUxPWVpWcEVXaTd3d05sMHY4WDRCREpXc3pJZ3ZzNkxxRG9RWm05R2RxMHI3S1NVa0NVRmkzQ1JOQXNUcHh6TWVYUE1EVjlRMWR6YXpBZ0NVUHI0TE9aMmczZFdnM0dMeHdHMzNUS2g0ZVJqaVVfQm4wVzFFOFRoWk4zZDg?oc=5",
         "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFpkTjdrdV9KMGVYU191Y093ZzRzY3p4X1Z2YW1IVmxzdFB6Q3ZnZUV4NjRXQW93S19xc2RtZmp1RldHbzdHRUtHYkc2TXVxUUFqYXJUNW5UVkZqdmdBaVhwajROWDBFNDhRQVBmQWNvZll3dnhYUHZxNHdHZDNJRHAxV293bDBUSWdQdzNjLUhuckdSY3h6U2NjQ25XMm56ZnU2ZldiWXE1M3ItUktxTVFPVVRBN015bFBmaXBJdnBvQWhiaFZQMy13ODVCc290Z3d4bm16aFZtUQ?oc=5",
         "https://thecurrentga.org/2026/08/27/psc-boosts-safeguards-in-georgia-powers-massive-contract-with-openai/"
       ]
@@ -6655,6 +6658,139 @@
         "https://www.datacenterdynamics.com/en/news/thor-equities-submits-plans-for-150mw-data-center-in-georgia-us/",
         "https://www.bisnow.com/news/atlanta/deal-sheet/thor-equities-targeting-north-georgia-for-1b-data-center-the-atlanta-deal-sheet",
         "https://www.thecentersquare.com/georgia/article_dfc0c447-8a39-4c6a-b3c4-3c11fe20e2e6.html"
+      ]
+    },
+    {
+      "id": "curated/news/jacinto-city-tx-raeden-326",
+      "name": "Raeden inference data center — Jacinto City (former Budweiser bottling plant)",
+      "operator": "Raeden",
+      "lat": 29.76734,
+      "lng": -95.23367,
+      "city": "Jacinto City",
+      "state": "TX",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Raeden proposes redeveloping the former glass bottling plant at 4202 Fidelity St in Jacinto City, TX (east Houston, Harris County) — one of the city's largest employers from the 1960s until it closed in July 2024, latterly supplying Budweiser — into what the company calls an 'inference' data center, with work potentially starting in October 2026. City leaders came out against the project in September 2026 while conceding they may have limited authority to block it, and are weighing a bond requirement in the ~$1M range; City Hall logged more than 150 calls and emails, reportedly none in support. Raeden says the site would draw about 200,000 gallons of water once and then recirculate it. Scale, capacity and timeline are otherwise undisclosed. Distinct from Raeden's Project Taurus in Colorado Springs. Coordinates are the city center (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.khou.com/article/news/community/jacinto-city-data-center-water-concerns/285-a845a2c7-7ef6-45fb-a0e1-de9bf743efb7",
+        "https://www.click2houston.com/news/local/2026/09/11/jacinto-city-leaders-oppose-proposed-ai-data-center-as-company-eyes-october-redevelopment/",
+        "https://www.chron.com/texas/article/texas-data-center-fight-22359255.php"
+      ]
+    },
+    {
+      "id": "curated/news/grant-county-nm-site-layer-1-327",
+      "name": "Site Layer 1 gas-powered data center — southern Grant County (near Hachita/Playas)",
+      "operator": "Site Layer 1, LLC",
+      "lat": 32.75488,
+      "lng": -108.36341,
+      "city": "Grant County",
+      "state": "NM",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Grant County, NM residents learned of this proposal only from a public notice published in the Silver City Daily Press on Sept 5, 2026: Site Layer 1, LLC plans a natural-gas-powered data center on the rural southern edge of the county, near Hachita and Playas, reportedly consuming up to ~2.3 million cubic feet of gas per hour. Almost nothing beyond the notice is public, which is itself the main local complaint; the volume of public response drew the attention of the state Environment Department cabinet secretary, and Commissioner Nancy Stephens proposed a one-year county data center moratorium modeled on Socorro County's ordinance, set for consideration Sept 24, 2026. Very early-stage and contested. Appears related to the 'Site Layer 4' entity behind a proposed Platte County, WY campus. Coordinates are the Grant County centroid (approximate) — the exact parcel has not been disclosed.",
+      "website": null,
+      "sources": [
+        "https://www.santafenewmexican.com/las_cruces/grant-county-residents-raise-alarm-over-secretive-proposed-data-center/article_753c961a-f4fd-4950-86ca-88c3b082b770.html",
+        "https://truthout.org/articles/secretive-new-mexico-data-center-plan-races-forward-despite-community-pushback/",
+        "https://www.abqjournal.com/news/in-silver-city-rapid-community-response-to-local-data-center-proposal/3115188"
+      ]
+    },
+    {
+      "id": "curated/news/walnut-cove-nc-project-delta-328",
+      "name": "Project Delta data center campus — Walnut Cove (Stokes County)",
+      "operator": "Engineered Land Solutions",
+      "lat": 36.29541,
+      "lng": -80.14171,
+      "city": "Walnut Cove",
+      "state": "NC",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "Stokes County commissioners voted 3-2 on Sept 14, 2026 to rezone roughly 1,800 acres of farmland near Walnut Cove, along the Dan River, for developer Engineered Land Solutions' 'Project Delta' data center campus. It repeats an identical 3-2 approval from Jan 12, 2026 that was voided after a legal challenge over a notice-timing violation in North Carolina's rezoning procedure; the current application was submitted July 20, 2026. Months of contested hearings focused on water consumption, noise and the area's rural character, while commissioners voting in favor cited projected tax revenue; the board had separately rejected a data center moratorium. No tenant, IT capacity or investment figure has been announced. Coordinates are Walnut Cove (approximate).",
+      "website": null,
+      "sources": [
+        "https://www.wfmynews2.com/article/news/community/data-centers/stokes-county-commissioners-vote-on-massive-data-center-project/83-9a99d9e8-9acb-4f2f-842c-72f88561e555",
+        "https://www.wfdd.org/politics-government/2026-09-14/stokes-county-votes-clear-the-way-for-massive-controversial-data-center-in-walnut-cove",
+        "https://www.co.stokes.nc.us/departments/data_center.php"
+      ]
+    },
+    {
+      "id": "curated/news/kuna-id-meta-329",
+      "name": "Meta Kuna Data Center",
+      "operator": "Meta",
+      "lat": 43.49183,
+      "lng": -116.42012,
+      "city": "Kuna",
+      "state": "ID",
+      "status": "operational",
+      "capacity_mw": null,
+      "area_sqft": 960000,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Meta's Kuna, Idaho data center began operating in September 2026 — a ~960,000 sq ft facility built on an ~$800M capital investment (some coverage cites ~$1.2B), joining Meta's global fleet of roughly 19 data centers. Meta contracted three Idaho solar projects adding ~645 MW of new renewable generation to offset the site's consumption, and has emphasized water-efficient cooling in response to local scrutiny. IT capacity is not disclosed. Coordinates are Kuna (approximate).",
+      "website": "https://datacenters.atmeta.com/asset/kuna-data-center-info-sheet/",
+      "sources": [
+        "https://www.eastidahonews.com/2026/09/meta-turns-on-its-1-2b-idaho-data-center-with-promise-of-water-efficiency/",
+        "https://www.datacenterfrontier.com/virtual-reality/article/11427590/meta-is-building-a-giant-800-million-data-center-in-idaho",
+        "https://www.spokesman.com/stories/2026/jul/22/idaho-just-turned-on-a-massive-new-solar-farm-meta/"
+      ]
+    },
+    {
+      "id": "curated/news/eagle-mountain-ut-meta-330",
+      "name": "Meta Eagle Mountain Data Center",
+      "operator": "Meta",
+      "lat": 40.30935,
+      "lng": -112.01198,
+      "city": "Eagle Mountain",
+      "state": "UT",
+      "status": "operational",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Meta's Eagle Mountain, Utah campus — ground broken in 2018, operational since 2021, with earlier expansions in 2019, 2021 and 2022 bringing investment there to ~$1.5B. On Sept 14, 2026 Meta announced a further expansion that lifts its total Utah investment above $3B, adding buildings that use closed-loop liquid cooling with dry coolers, and supporting more than 1,200 jobs at peak construction and 300+ permanent roles once complete. Meta paired the announcement with more than $2.5M in community commitments, including funds for the Lake Mountain School District, the Lake Mountain Education Foundation and Walden Park Astronomy Park. Added IT capacity is not disclosed. Coordinates are Eagle Mountain (approximate).",
+      "website": null,
+      "sources": [
+        "https://kutv.com/news/local/meta-plans-eagle-mountain-data-center-expansion-25m-community-investment",
+        "https://www.datacenterdynamics.com/en/news/meta-to-expand-eagle-mountain-data-center-campus-in-utah/",
+        "https://www.utahbusiness.com/industry/2026/09/14/meta-boosts-eagle-mountain-investment-3-billion-utah-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/temple-tx-rowan-331",
+      "name": "Rowan Digital Infrastructure campus — Temple (Project Temple / Stampede / Ranger)",
+      "operator": "Rowan Digital Infrastructure",
+      "lat": 31.09837,
+      "lng": -97.34296,
+      "city": "Temple",
+      "state": "TX",
+      "status": "under_construction",
+      "capacity_mw": 300,
+      "operator_type": "unknown",
+      "purpose": "purpose_built",
+      "workload": "ai",
+      "confidence": "medium",
+      "summary": "Colorado-based developer Rowan Digital Infrastructure is building a six-building, three-phase hyperscale campus in and around the Synergy Southeast Industrial Park in Temple, TX (Bell County, ~70 miles north of Austin), grouped as Project Temple, Project Stampede and Project Ranger and representing at least $4.2B in combined investment and at least 120 permanent jobs. Construction is under way on a 300 MW first phase (Project Temple, ~$1.4B, 500+ construction jobs during 2026) with power secured through Oncor and operations expected in 2027; five of the six buildings are approved or under construction, while the sixth — the 'Lasso' building — was still working through Temple's public approval process as of Aug-Sept 2026 amid local scrutiny of electricity and water demand. Rowan says all its Temple buildings use fully closed-loop cooling that needs no continuous water supply. Some trade coverage names Meta as end tenant; unconfirmed. Distinct from Meta's own operational Temple data center on Industrial Blvd. capacity_mw is the announced first-phase figure; full build-out capacity has not been stated. Coordinates are Temple (approximate).",
+      "website": "https://www.rowantemple.com/",
+      "sources": [
+        "https://kdhnews.com/business/rowan-s-4-2-billion-temple-data-center-campus-advances-as-water-power-questions-persist/article_4f7053a3-e6d2-4770-bd09-ad2e4b6341d1.html",
+        "https://rowan.digital/rowan-powers-texas-growth-as-construction-begins-on-300-mw-temple-data-center/",
+        "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/rowan-digital-infrastructure-pursues-final-planned-data-center-in-temple-amid-community-opposition"
       ]
     }
   ]
