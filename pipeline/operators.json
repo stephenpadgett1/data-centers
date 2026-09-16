@@ -46,6 +46,7 @@
     { "name": "Vantage", "aliases": ["vantage data"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
     { "name": "Sungard", "aliases": ["sungard"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "Rackspace", "aliases": ["rackspace"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
+    { "name": "ScaleMatrix", "aliases": ["scalematrix", "scale matrix"], "operator_type": "colocation", "workload": "general", "purpose": "multi_tenant" },
     { "name": "True North Data", "aliases": ["true north data"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
     { "name": "Csquare", "aliases": ["csquare"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },
     { "name": "Rowan Green Data", "aliases": ["rowan green"], "operator_type": "colocation", "workload": "mixed", "purpose": "multi_tenant" },

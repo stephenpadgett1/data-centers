@@ -3376,10 +3376,13 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "low",
-      "summary": "New York firm Site Layer 4 has applied to rezone 5,344 acres of the Lazy V Six Ranch northeast of Wheatland (Platte County), WY for a proposed $26B data center campus with co-located utility-scale power generation. Rezoning hearings before Platte County boards are set for August 2026. Very early-stage; coordinates approximate (Wheatland).",
+      "summary": "New York firm Site Layer 4 has rezoned 5,344 acres of the Lazy V Six Ranch in Goshen Hole, northeast of Wheatland (Platte County), WY — about 13 miles east of I-25 near the Goshen County line — for a proposed $26B data center campus with co-located utility-scale power generation. The Platte County Planning and Zoning Commission recommended the agricultural-to-industrial rezone on Aug 26, 2026, and the county commissioners granted it conditional approval on Sept 2, 2026 over opposition citing infrastructure strain; the developer says the campus would use closed-loop cooling drawing under 15 acre-feet of water a year and would not connect to municipal water or the Wheatland Irrigation District. Zoning is now in place but no construction has been announced. Coordinates approximate (Wheatland).",
       "website": null,
       "sources": [
-        "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/"
+        "https://cowboystatedaily.com/2026/07/13/ranchlands-near-wheatland-eyed-for-26-billion-transformational-data-center/",
+        "https://cowboystatedaily.com/2026/08/27/platte-county-recommends-rezoning-private-ranchland-for-proposed-data-center/",
+        "https://cowboystatedaily.com/2026/09/02/platte-county-commissioners-push-back-then-ok-industrial-zoning-for-data-center/",
+        "https://www.plattecountywyoming.com/departments/planningandzoning/sitelayer4rezone"
       ]
     },
     {
@@ -6791,6 +6794,26 @@
         "https://kdhnews.com/business/rowan-s-4-2-billion-temple-data-center-campus-advances-as-water-power-questions-persist/article_4f7053a3-e6d2-4770-bd09-ad2e4b6341d1.html",
         "https://rowan.digital/rowan-powers-texas-growth-as-construction-begins-on-300-mw-temple-data-center/",
         "https://www.kxxv.com/news/local-news/in-your-neighborhood/bell-county/temple/rowan-digital-infrastructure-pursues-final-planned-data-center-in-temple-amid-community-opposition"
+      ]
+    },
+    {
+      "id": "curated/news/gainesville-va-microsoft-mnz07-332",
+      "name": "Microsoft MNZ07 Wellington data center — Gainesville (Prince William County)",
+      "operator": "Microsoft",
+      "lat": 38.7942,
+      "lng": -77.58908,
+      "city": "Gainesville",
+      "state": "VA",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Microsoft has filed with the US Army Corps of Engineers (Norfolk District) to build the MNZ07 Wellington data center at 13490 University Boulevard outside Gainesville in Prince William County, VA — two single-story data center buildings plus an on-site substation on roughly 123 acres east of University Boulevard, south of I-66 and north of Wellington Road. Microsoft bought the ~124-acre site from landowner Chuck Kuhn in 2024 for $465.5M, and filed with the Virginia DEQ in July 2026; the application cites expanding demand for cloud platform services in the region and discloses impacts to about 955 linear feet of stream channel and 1.95 acres of wetlands. Permitting stage; capacity not disclosed. Coordinates are the filed street address.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/microsoft-files-to-build-data-center-campus-in-prince-william-county-virginia/"
       ]
     }
   ]
