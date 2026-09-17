@@ -6815,6 +6815,94 @@
       "sources": [
         "https://www.datacenterdynamics.com/en/news/microsoft-files-to-build-data-center-campus-in-prince-william-county-virginia/"
       ]
+    },
+    {
+      "id": "curated/news/chillicothe-oh-us-paper-mill-333",
+      "name": "U.S. Paper Mill Company data center — former Pixelle mill, Chillicothe",
+      "operator": "U.S. Paper Mill Company LLC",
+      "lat": 39.33312,
+      "lng": -82.9824,
+      "city": "Chillicothe",
+      "state": "OH",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A data center proposed inside an existing industrial building at the former Pixelle Specialty Solutions paper mill in Chillicothe (Ross County), OH. The mill was sold in October 2025 to U.S. Paper Mill Company LLC, a Canton-based subsidiary of U.S. Medical Glove, which plans a mixed redevelopment spanning glove manufacturing, aerospace and data center component production, and the data center itself. The company says the facility would initially occupy about 6.5 acres — roughly 1.4% of the site — and eventually support 240 permanent jobs. Chillicothe City Council passed a 60-day data center moratorium on Aug 24, 2026 amid concerns over water intake, utility bills and property values, and held a review session in mid-September; the halt is temporary, so the project is recorded as planned. Reusing an existing building rather than greenfield land. Coordinates approximate (Chillicothe).",
+      "website": null,
+      "sources": [
+        "https://www.10tv.com/article/money/business/chillicothe-residents-data-center-former-paper-mill/530-88b4aae4-d071-4a7d-b688-c21ce73c4e0e",
+        "https://www.wosu.org/2026-07-06/data-center-and-more-new-tenants-expected-for-shuttered-chillicothe-paper-mill-site",
+        "https://www.nbc4i.com/news/local-news/chillicothe/plans-for-former-chillicothe-paper-mill-site-include-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/union-city-ga-microsoft-334",
+      "name": "Microsoft Union City campus — Stonewall Tell Road (Fulton County)",
+      "operator": "Microsoft",
+      "lat": 33.61205,
+      "lng": -84.55684,
+      "city": "Union City",
+      "state": "GA",
+      "status": "under_construction",
+      "capacity_mw": 324,
+      "operator_type": "hyperscaler",
+      "purpose": "purpose_built",
+      "workload": "mixed",
+      "confidence": "medium",
+      "summary": "Microsoft's data center campus at 5235 Stonewall Tell Road in Union City, southwest of Atlanta in Fulton County, GA, on 136 acres Microsoft bought in April 2024 for $53.5M. A Development of Regional Impact filing describes three buildings of roughly 612,000 sq ft each — over 2 million sq ft in total — for a $1.8B investment and 324 MW of capacity, developed with EdgeConneX and TA Realty, with all phases required to finish no later than 2032. In September 2026 Microsoft filed again to develop two further buildings at the site, expanding the campus program. Coordinates are the filed street address.",
+      "website": null,
+      "sources": [
+        "https://www.datacenterdynamics.com/en/news/microsoft-files-to-develop-two-building-campus-outside-atlanta-georgia/",
+        "https://www.ajc.com/news/business/new-details-revealed-about-microsofts-18b-data-center-near-atlanta/X7FTPDSJGNAZVNF34XSHTPXS2Y/",
+        "https://www.datacenterfrontier.com/hyperscale/article/55126626/details-emerge-on-microsofts-18-billion-investment-in-atlanta-data-centers-amid-tax-development-wrangles"
+      ]
+    },
+    {
+      "id": "curated/news/lea-county-nm-google-335",
+      "name": "Google data center (exploratory) — Lea County",
+      "operator": "Google",
+      "lat": 32.7027,
+      "lng": -103.13553,
+      "city": "Hobbs",
+      "state": "NM",
+      "status": "planned",
+      "capacity_mw": null,
+      "operator_type": "hyperscaler",
+      "purpose": "speculative",
+      "workload": "ai",
+      "confidence": "low",
+      "summary": "On Sept 14, 2026 Google announced it is 'exploring' a potential data center in Lea County, in the southeast corner of New Mexico on the Texas border, and launched a project website. It would be Google's first self-built facility in the state. Lea County officials say the land under consideration is county-owned and under an option-to-purchase agreement with Excelsior Hobbs Power LLC, which is partnering with Google. Exact site and facility specifications have not been disclosed, and Google describes many details as still outstanding — very early stage. Coordinates approximate (Hobbs, the county's largest city and the named power partner's locale).",
+      "website": null,
+      "sources": [
+        "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/",
+        "https://sourcenm.com/2026/09/15/google-announces-it-is-exploring-a-potential-data-center-in-rural-new-mexico-county/",
+        "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/"
+      ]
+    },
+    {
+      "id": "curated/news/concord-nh-locke-road-336",
+      "name": "Micro data center — 52 Locke Road, Concord",
+      "operator": null,
+      "lat": 43.23988,
+      "lng": -71.54229,
+      "city": "Concord",
+      "state": "NH",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 6660,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A small 'micro data center' proposed at 52 Locke Road, a blighted property in Concord, NH. Concord-based Northpoint Engineering LLC has applied for major site plan and architectural design review for a single-story 136' x 60' building containing a 6,660 sq ft data center, a 900 sq ft security office and a 600 sq ft caretaker apartment, plus pads for seven dry cooler units and four backup generators. The planning board scheduled an Oct 21, 2026 public hearing and city staff recommended finding that the project does not meet the development-of-regional-impact threshold; residents have objected. End operator not disclosed. Statewide context: Gov. Kelly Ayotte has said she would back a multiyear moratorium on new New Hampshire data centers from July 2027. Coordinates are the site address.",
+      "website": null,
+      "sources": [
+        "https://www.concordmonitor.com/2026/09/17/citizens-oppose-new-concord-datacenter/",
+        "https://www.concordmonitor.com/2026/09/14/concord-plans-micro-data-center/"
+      ]
     }
   ]
 }

@@ -1,4 +1,13 @@
 {
+  "osm/node/14189562575": {
+    "operator_type": "colocation",
+    "purpose": "multi_tenant",
+    "workload": "mixed",
+    "confidence": "medium",
+    "summary": "STACK Infrastructure's NVA04 campus at 22295 Lockridge Road in Sterling (Loudoun County), VA — an ~80-acre wholesale/colocation site planned for three buildings and nearly 1 million sq ft, delivering about 72 MW of critical capacity. The OSM node carries only an address and telecom=data_center tag; the address geocodes to 39.00181,-77.46092, exactly the node's coordinates, and directory listings place STACK NVA04 there. Note that QTS also operates Ashburn-Lockridge facilities on the same road, so the operator is recorded at medium confidence.",
+    "source": "claude",
+    "classified_on": "2026-09-17"
+  },
   "osm/node/14124835505": {
     "operator_type": "colocation",
     "purpose": "multi_tenant",

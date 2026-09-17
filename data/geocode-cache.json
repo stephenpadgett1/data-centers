@@ -12,6 +12,10 @@
     "lat": 32.80397,
     "lng": -96.83213
   },
+  "22295 lockridge road, sterling, va": {
+    "lat": 39.00181,
+    "lng": -77.46092
+  },
   "2401 innovation blvd, hutto, tx": {
     "lat": 30.5488,
     "lng": -97.5726
@@ -23,6 +27,15 @@
   "301 virginia street, seattle, wa": {
     "lat": 47.61235,
     "lng": -122.34043
+  },
+  "50 northwest point boulevard, elk grove village, il": null,
+  "52 locke road, concord, nh": {
+    "lat": 43.23988,
+    "lng": -71.54229
+  },
+  "5235 stonewall tell road, union city, ga": {
+    "lat": 33.61205,
+    "lng": -84.55684
   },
   "650 south harrisburg street, harrisburg, pa": {
     "lat": 40.25148,
@@ -293,6 +306,10 @@
   "childress, tx": {
     "lat": 34.51966,
     "lng": -100.20677
+  },
+  "chillicothe, ross county, oh": {
+    "lat": 39.33312,
+    "lng": -82.9824
   },
   "christian county, il": {
     "lat": 39.52126,
@@ -602,6 +619,10 @@
   "hillsboro, tx": {
     "lat": 32.01085,
     "lng": -97.13037
+  },
+  "hobbs, lea county, nm": {
+    "lat": 32.7027,
+    "lng": -103.13553
   },
   "holmdel, nj": {
     "lat": 40.34511,
