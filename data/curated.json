@@ -364,12 +364,14 @@
       "purpose": "speculative",
       "workload": "ai",
       "confidence": "medium",
-      "summary": "Tech and real-estate company Raeden's proposed AI data center — dubbed 'Project Taurus' — would repurpose the former Intel chip plant near Garden of the Gods Road and Centennial Boulevard, the city's first AI data center. City staff administratively approved it in June 2026; after a ~14-hour hearing on July 23–24 the Planning Commission voted 6–2 to deny neighborhood appeals while capping power draw at 50 MW, requiring Raeden to publicly report utility usage for its first 10 years, and broadening noise monitoring. In early August 2026 two new appeals sent the decision to City Council, the final local authority. Coordinates approximate (city centroid).",
+      "summary": "Tech and real-estate company Raeden's proposed AI data center — dubbed 'Project Taurus' — would repurpose the former Intel chip plant near Garden of the Gods Road and Centennial Boulevard, the city's first AI data center. City staff administratively approved it in June 2026; after a ~14-hour hearing on July 23–24 the Planning Commission voted 6–2 to deny neighborhood appeals while capping power draw at 50 MW, requiring Raeden to publicly report utility usage for its first 10 years, and broadening noise monitoring. In early August 2026 two new appeals sent the decision to City Council, the final local authority. Opponents staged a ~90 dB 'noise demonstration' in mid-September 2026 to dramatize feared sound levels, and on September 17, 2026, after a raucous day-long hearing, City Council voted 7–2 to postpone a final decision until April 13, 2027 — so the project is delayed rather than denied. Coordinates approximate (city centroid).",
       "website": null,
       "sources": [
         "https://www.kktv.com/2026/07/24/colorado-springs-planning-commission-denies-appeal-proposed-data-center-project-taurus/",
         "https://gazette.com/2026/08/03/appeals-filed-to-send-project-taurus-decision-to-the-colorado-springs-city-council/",
-        "https://www.koaa.com/news/local-news/project-taurus-data-center/city-of-colorado-springs-receives-two-appeals-regarding-project-taurus-decision"
+        "https://www.koaa.com/news/local-news/project-taurus-data-center/city-of-colorado-springs-receives-two-appeals-regarding-project-taurus-decision",
+        "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/",
+        "https://www.fox21news.com/news/data-center-noise-protest-ahead-of-hearing/"
       ]
     },
     {
@@ -925,7 +927,7 @@
     {
       "id": "curated/news/st-louis-mo-armory-62",
       "name": "Armory 'Innovation District' data center — St. Louis",
-      "operator": null,
+      "operator": "TerraWatt",
       "lat": 38.62541,
       "lng": -90.19001,
       "city": "St. Louis",
@@ -936,12 +938,14 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "low",
-      "summary": "A ~$3B, ~120 MW data center planned at 3728 Market St within the redeveloped Armory 'Innovation District' in midtown St. Louis, Missouri. The Board of Public Service approved a conditional use permit in April 2026; on July 30, 2026 the city Board of Adjustment denied a resident appeal after a nearly 11-hour hearing, upholding the permit while attaching additional conditions. Opponents can still appeal to Missouri Circuit Court.",
+      "summary": "A ~$3.1B, ~120 MW data center planned by TerraWatt (partner David Lambiaso) in the old Famous-Barr warehouse at 3728 Market St, within the redeveloped Armory 'Innovation District' in midtown St. Louis, Missouri. The Board of Public Service approved a conditional use permit in April 2026; on July 30, 2026 the city Board of Adjustment denied a resident appeal after a nearly 11-hour hearing, upholding the permit while attaching additional conditions. The project is now contested from both sides: in late August 2026 the Missouri Coalition for the Environment and co-plaintiffs sued the city and the developer arguing the use permit was granted illegally, and in mid-September 2026 TerraWatt itself sued the Board of Adjustment, alleging two of the conditions it imposed — an on-site renewable energy requirement and aldermanic sign-off on a community benefits agreement — exceed the board's authority and are 'practically impossible' to meet.",
       "website": null,
       "sources": [
         "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHk3UjNUVkhPSTRoLVNXVXRsWENwblJCbTVtcmRLR3V6enlaTXpfX2VhZW5nSWtZbUhJcjJ2WkJZMGNSdkR5NU5YXzVFaEhSMW1pbUZIODYyZ1lzelZVdGRpcW02ZW9uRlF6VUNIbDdzV2p4OENQMmxBTG45VzlWYnQ1YUZpdkU3YkZXZW9KZEtIZnA5QVQxMnVrdHJmQ21iZXpudVBtRTFvRVlKOXVwVXBPV3VXaGJoZVc4WWdSR01uUjRLb09aWkNRTURJWUw4R1l1d2JET0hMZw?oc=5",
         "https://fox2now.com/news/missouri/3b-midtown-data-center-permit-upheld-after-long-hearing/",
-        "https://www.stlpr.org/health-science-environment/2026-07-30/st-louis-board-allows-data-center-near-armory-to-move-forward-with-new-rules"
+        "https://www.stlpr.org/health-science-environment/2026-07-30/st-louis-board-allows-data-center-near-armory-to-move-forward-with-new-rules",
+        "https://www.stlpr.org/news-briefs/2026-09-17/developer-st-louis-data-center-armory-files-lawsuit-against-city",
+        "https://www.stlpr.org/government-politics-issues/2026-08-29/opponents-of-st-louis-data-center-take-their-fight-to-court"
       ]
     },
     {
@@ -2287,13 +2291,14 @@
       "purpose": "speculative",
       "workload": "general",
       "confidence": "medium",
-      "summary": "Blueprint Projects' three-phase, up-to-$1B data center on a 52-acre parcel at 1601 Martin Luther King Jr Drive in Taylor (Williamson County), reaching ~135,000 sq ft at buildout — land the city sold to the developer for $10M that was originally donated for use as parkland, fueling community opposition and a petition drive for siting restrictions. The city council nonetheless approved the campus unanimously on July 24, 2026. Blueprint says it holds letters of intent for full capacity and a 30 MW power agreement with Oncor, targeting ~60 MW ultimately, with 20–30 permanent jobs expected. Coordinates approximate (city center).",
+      "summary": "Blueprint Projects' three-phase, up-to-$1B data center on a 52-acre parcel at 1601 Martin Luther King Jr Drive in Taylor (Williamson County), reaching ~135,000 sq ft at buildout — land the city sold to the developer for $10M that was originally donated for use as parkland, fueling community opposition and a petition drive for siting restrictions. The city council nonetheless approved the campus unanimously on July 24, 2026. Blueprint says it holds letters of intent for full capacity and a 30 MW power agreement with Oncor, targeting ~60 MW ultimately, with 20–30 permanent jobs expected. On September 17, 2026 Texas Attorney General Ken Paxton announced an investigation into whether the sale breached a 1999 deed conveying the land to the Texas Parks and Recreation Foundation 'to be held in trust for future use as parkland'; the parcel passed to the city in 2004, to the Taylor Economic Development Corporation in 2009, and was sold in April 2025 to NCP Travis TPP Project LLC. Paxton said he may seek court intervention if the restriction was never modified or released, so the approval now carries real legal risk. Coordinates approximate (city center).",
       "website": null,
       "sources": [
         "https://www.fox7austin.com/news/proposed-data-center-taylor-draws-pushback-from-community",
         "https://www.kvue.com/article/news/local/taylor-texas-residents-push-data-center-restrictions/269-46b7210e-ad8a-41b3-9abc-bfb373fdd66a",
         "https://www.datacenterdynamics.com/en/news/blueprint-projects-gets-greenlight-for-data-center-in-taylor-texas/",
-        "https://taylortx.gov/1293/Blueprint-Projects-Data-Center"
+        "https://taylortx.gov/1293/Blueprint-Projects-Data-Center",
+        "https://www.kut.org/energy-environment/2026-09-17/attorney-general-data-center-taylor-tx"
       ]
     },
     {
@@ -5491,12 +5496,13 @@
       "purpose": "multi_tenant",
       "workload": "mixed",
       "confidence": "medium",
-      "summary": "Sabey's proposed ~$4.25B campus on about 130 acres near State Road 67 and Camby Road in Decatur Township — billed as Indianapolis's first hyperscale data center. Two buildings totaling ~900,000 sq ft (~250 MW), approved by the Indianapolis Metropolitan Development Commission; groundbreaking is expected in 2026 with go-lives targeted for 2028 and 2030. Sabey has pledged $5M for road improvements and ~$25M toward a new Decatur Township aquatic center; residents have sued to overturn the approval. Coordinates approximate (Camby).",
+      "summary": "Sabey's proposed ~$4.25B campus on about 130 acres near State Road 67 and Camby Road in Decatur Township — billed as Indianapolis's first hyperscale data center. Two buildings totaling ~900,000 sq ft (~250 MW), approved by the Indianapolis Metropolitan Development Commission; groundbreaking is expected in 2026 with go-lives targeted for 2028 and 2030. Sabey has pledged $5M for road improvements and ~$25M toward a new Decatur Township aquatic center; residents have sued to overturn the approval. On September 16, 2026 the city approved a ~$240M tax break for the project. Coordinates approximate (Camby).",
       "website": "https://sabeydecaturdatacenter.com/",
       "sources": [
         "https://datacenterpost.com/building-for-the-future-sabey-data-centers-outlines-community-commitments-for-proposed-indianapolis-campus/",
         "https://www.datacenterdynamics.com/en/news/sabey-targets-indianapolis-for-250mw-data-center-campus/",
-        "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
+        "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0M4a3l6aWVHVkgyN0NGMnpfdUlwNE5kSTZsTzRPWlpfS21Cd0xlVEM4UzBDN2k5TUI3T1VabzU0ZkRMTFNJcUI0Y1Nyb0pTSlJkSEp5ZWoxTFoxSUY3ZktRRUp6NGpVdVF1Rzh0SHotODNkaW5JQkU3bkZKbVdzMmVhbW1xVFlpWWpnczQwWEJ3eDdETHUxOXl6Mm1SYUl3WTJQaEFrcnpnaHlSdnpRVVY5S1NlcFlkM3hILS1iUG9UZExJd1ZTeg?oc=5"
       ]
     },
     {
@@ -6902,6 +6908,29 @@
       "sources": [
         "https://www.concordmonitor.com/2026/09/17/citizens-oppose-new-concord-datacenter/",
         "https://www.concordmonitor.com/2026/09/14/concord-plans-micro-data-center/"
+      ]
+    },
+    {
+      "id": "curated/news/central-city-ia-aurum-337",
+      "name": "Aurum Capital data center — Central City",
+      "operator": "Aurum Capital",
+      "lat": 42.20396,
+      "lng": -91.52436,
+      "city": "Central City",
+      "state": "IA",
+      "status": "planned",
+      "capacity_mw": null,
+      "area_sqft": 18500,
+      "operator_type": "unknown",
+      "purpose": "speculative",
+      "workload": "general",
+      "confidence": "low",
+      "summary": "A small-scale ~18,500 sq ft data center proposed by Aurum Capital on the south side of Central City, Iowa (Linn County), near the Linn County Fairgrounds — far below the scale of the Google and QTS campuses elsewhere in the county. The city council voiced support in September 2026 and is drafting a data center ordinance modeled on one recently adopted by nearby Palo. Council members say the facility would use closed-loop cooling, that backup generators would run only about 18 hours a year, and that a third party would test noise levels; residents have pressed for answers on water use and quality-of-life impacts at public meetings. Coordinates approximate (city centroid).",
+      "website": null,
+      "sources": [
+        "https://www.kcrg.com/2026/09/17/central-city-council-supports-proposed-data-center/",
+        "https://cbs2iowa.com/news/local/central-city-weighs-rules-for-proposed-small-scale-data-center",
+        "https://cbs2iowa.com/news/local/central-city-residents-seek-answers-on-proposed-south-side-data-center-at-meeting"
       ]
     }
   ]
